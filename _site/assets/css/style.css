@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Black Ground';
+  src: url('/assets/fonts/BlackGround.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2, h3 {
+  font-family: 'Black Ground', sans-serif;
+}
+/* Custom font Black Ground */
+@font-face {
+  font-family: 'Black Ground';
+  src: url('/assets/fonts/BlackGround.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Body text uses Apple Symbols if available, else fallback */
+body {
+  font-family: 'Apple Symbols', sans-serif;
+}
+
+/* Headers use Black Ground */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Black Ground', sans-serif;
+}
+
