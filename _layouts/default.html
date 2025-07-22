@@ -40,7 +40,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 20px; /* spacing between links */
+      gap: 20px;
       flex-wrap: nowrap;
       position: relative;
     }
@@ -55,13 +55,14 @@
       border: none;
       color: #a31232;
       cursor: pointer;
-      margin-left: auto; /* push to right */
+      margin-left: auto;
       display: flex;
       align-items: center;
       gap: 0.5rem;
     }
 
-    #nav-toggle .menu-label {
+    #nav-toggle .menu-label,
+    #nav-toggle .menu-icon {
       display: inline;
     }
 
@@ -118,7 +119,7 @@
         flex-direction: column;
         width: 100%;
         margin-top: 0.5rem;
-        gap: 0.25rem; /* smaller space between links */
+        gap: 0.25rem;
       }
 
       /* Show nav links when toggled */
@@ -163,7 +164,7 @@
       <a href="/talk-to-us/">Talk to Us</a>
     </div>
     <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-      <span class="menu-label">Menu</span> &#9776;
+      <span class="menu-label">Menu</span><span class="menu-icon">&#9776;</span>
     </button>
   </nav>
 
@@ -172,16 +173,30 @@
   <script>
     const navToggle = document.getElementById('nav-toggle');
     const navLinks = document.getElementById('nav-links');
+    const menuLabel = navToggle.querySelector('.menu-label');
+    const menuIcon = navToggle.querySelector('.menu-icon');
 
-    navToggle.querySelector('.menu-label').style.display = 'inline'; // show initially
+    // show both initially
+    menuLabel.style.display = 'inline';
+    menuIcon.style.display = 'inline';
 
     navToggle.addEventListener('click', () => {
       const expanded = navToggle.getAttribute('aria-expanded') === 'true' || false;
       navToggle.setAttribute('aria-expanded', !expanded);
       navLinks.classList.toggle('active');
-      navToggle.querySelector('.menu-label').style.display = expanded ? 'inline' : 'none';
+
+      if (expanded) {
+        // If menu was open, show label + icon again
+        menuLabel.style.display = 'inline';
+        menuIcon.style.display = 'inline';
+      } else {
+        // If menu just opened, hide label + icon
+        menuLabel.style.display = 'none';
+        menuIcon.style.display = 'none';
+      }
     });
   </script>
 </body>
 </html>
+
 
