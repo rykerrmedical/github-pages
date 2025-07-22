@@ -3,7 +3,7 @@ layout: default
 title: Cool Stuff for Clinicians
 ---
 <div class="logo-banner">
-  <img src="/github-pages/assets/images/logo.png" alt="Rykerr Logo" class="logo-img">
+  <img src="/github-pages/assets/images/rykerr-logo.png" alt="Rykerr Logo" class="logo-img">
 </div>
 ---
 
