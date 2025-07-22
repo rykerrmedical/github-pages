@@ -7,7 +7,7 @@ title: Cool Stuff for Clinicians
     <img src="/github-pages/assets/images/rykerr-logo.png" alt="Rykerr Logo" class="logo-img">
   </div>
 
-  <h2>About Rykerr Medical LLC</h2>
+  <h2>About Rykerr Medical</h2>
   <hr>
 
   <p>
