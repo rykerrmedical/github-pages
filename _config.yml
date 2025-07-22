@@ -2,3 +2,6 @@ theme: minima
 title: rykerr medical llc
 description: cool stuff for clinicians
 author: rykerr
+
+baseurl: "/github-pages"
+

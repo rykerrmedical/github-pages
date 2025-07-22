@@ -2,15 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>{{ page.title }}</title>
+  <title>{{ page.title | default: "Cool Stuff for Clinicians" }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="/github-pages/assets/css/style.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
   <style>
     @font-face {
       font-family: 'Black Ground';
-      src: url('/github-pages/assets/fonts/BlackGround.woff') format('woff'),
-           url('/github-pages/assets/fonts/BlackGround.ttf') format('truetype'),
-           url('/github-pages/assets/fonts/BlackGround.otf') format('opentype');
+      src: url('{{ site.baseurl }}/assets/fonts/BlackGround.woff') format('woff'),
+           url('{{ site.baseurl }}/assets/fonts/BlackGround.ttf') format('truetype'),
+           url('{{ site.baseurl }}/assets/fonts/BlackGround.otf') format('opentype');
       font-weight: normal;
       font-style: normal;
     }
@@ -38,16 +38,12 @@
       background-color: #060608;
       padding: 1rem 2rem;
       display: flex;
+      justify-content: flex-end;
       align-items: center;
-      justify-content: center;
-      gap: 20px;
-      flex-wrap: nowrap;
-      position: relative;
+      gap: 12px;
     }
 
-    /* Hamburger button styles */
     #nav-toggle {
-      display: none;
       font-family: 'Black Ground', sans-serif;
       font-weight: bold;
       font-size: 1.1rem;
@@ -55,18 +51,17 @@
       border: none;
       color: #a31232;
       cursor: pointer;
-      margin-left: auto;
       display: flex;
       align-items: center;
       gap: 0.5rem;
+      user-select: none;
     }
 
-    #nav-toggle .menu-label,
-    #nav-toggle .menu-icon {
-      display: inline;
+    #nav-toggle span.hamburger {
+      font-size: 1.5rem;
+      line-height: 1;
     }
 
-    /* Nav links container */
     .nav-links {
       display: flex;
       justify-content: center;
@@ -89,6 +84,42 @@
       color: #747373;
     }
 
+    /* Hide nav-links on mobile by default */
+    @media (max-width: 768px) {
+      nav {
+        justify-content: flex-end;
+      }
+
+      #nav-toggle {
+        display: flex;
+      }
+
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 0.5rem;
+      }
+
+      .nav-links.active {
+        display: flex;
+      }
+
+      .nav-links a {
+        padding: 0.3rem 0;
+        font-size: 1rem;
+        text-align: center;
+        margin: 0; /* remove extra margin to tighten spacing */
+      }
+    }
+
+    /* Desktop: hide nav toggle (menu button) if nav links fit */
+    @media (min-width: 769px) {
+      #nav-toggle {
+        display: none;
+      }
+    }
+
     .homepage {
       max-width: 800px;
       margin: 0 auto;
@@ -101,36 +132,6 @@
     @media (max-width: 768px) {
       body {
         padding: 1rem;
-      }
-
-      nav {
-        justify-content: flex-start;
-        padding: 1rem;
-        flex-wrap: nowrap;
-      }
-
-      #nav-toggle {
-        display: flex;
-      }
-
-      /* Hide nav links initially on mobile */
-      .nav-links {
-        display: none;
-        flex-direction: column;
-        width: 100%;
-        margin-top: 0.5rem;
-        gap: 0.25rem;
-      }
-
-      /* Show nav links when toggled */
-      .nav-links.active {
-        display: flex;
-      }
-
-      .nav-links a {
-        padding: 0.5rem 0;
-        font-size: 1rem;
-        text-align: center;
       }
 
       .homepage {
@@ -152,20 +153,22 @@
     }
   </style>
 </head>
+
 <body>
   <nav>
-    <div class="nav-links" id="nav-links">
-      <a href="/">Home</a>
-      <a href="/clinical-resources/">Clinical Resources</a>
-      <a href="/coned-ceus/">ConEd/ CEUs</a>
-      <a href="/blog/">Blog</a>
-      <a href="/podcast/">Podcast</a>
-      <a href="/the-tech-side/">The Tech Side</a>
-      <a href="/talk-to-us/">Talk to Us</a>
-    </div>
-    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-      <span class="menu-label">Menu</span><span class="menu-icon">&#9776;</span>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="nav-links">
+      <span class="hamburger">&#9776;</span><span class="menu-label">Menu</span>
     </button>
+
+    <div id="nav-links" class="nav-links">
+      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/clinical-resources/">Clinical Resources</a>
+      <a href="{{ site.baseurl }}/coned-ceus/">ConEd/ CEUs</a>
+      <a href="{{ site.baseurl }}/blog/">Blog</a>
+      <a href="{{ site.baseurl }}/podcast/">Podcast</a>
+      <a href="{{ site.baseurl }}/the-tech-side/">The Tech Side</a>
+      <a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a>
+    </div>
   </nav>
 
   {{ content }}
@@ -173,30 +176,24 @@
   <script>
     const navToggle = document.getElementById('nav-toggle');
     const navLinks = document.getElementById('nav-links');
+    const hamburger = navToggle.querySelector('.hamburger');
     const menuLabel = navToggle.querySelector('.menu-label');
-    const menuIcon = navToggle.querySelector('.menu-icon');
-
-    // show both initially
-    menuLabel.style.display = 'inline';
-    menuIcon.style.display = 'inline';
 
     navToggle.addEventListener('click', () => {
-      const expanded = navToggle.getAttribute('aria-expanded') === 'true' || false;
+      const expanded = navToggle.getAttribute('aria-expanded') === 'true';
       navToggle.setAttribute('aria-expanded', !expanded);
       navLinks.classList.toggle('active');
 
-      if (expanded) {
-        // If menu was open, show label + icon again
-        menuLabel.style.display = 'inline';
-        menuIcon.style.display = 'inline';
-      } else {
-        // If menu just opened, hide label + icon
+      if (navLinks.classList.contains('active')) {
+        // Hide menu label and hamburger when open
+        hamburger.style.display = 'none';
         menuLabel.style.display = 'none';
-        menuIcon.style.display = 'none';
+      } else {
+        // Show menu label and hamburger when closed
+        hamburger.style.display = 'inline';
+        menuLabel.style.display = 'inline';
       }
     });
   </script>
 </body>
 </html>
-
-
