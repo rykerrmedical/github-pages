@@ -5,199 +5,162 @@
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="/github-pages/assets/css/style.css">
-      <style>
-        @font-face {
-          font-family: 'Black Ground';
-          src: url('/github-pages/assets/fonts/BlackGround.woff') format('woff'),
-               url('/github-pages/assets/fonts/BlackGround.ttf') format('truetype'),
-               url('/github-pages/assets/fonts/BlackGround.otf') format('opentype');
-          font-weight: normal;
-          font-style: normal;
-        }
+  <style>
+    @font-face {
+      font-family: 'Black Ground';
+      src: url('/github-pages/assets/fonts/BlackGround.woff') format('woff'),
+           url('/github-pages/assets/fonts/BlackGround.ttf') format('truetype'),
+           url('/github-pages/assets/fonts/BlackGround.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
 
-        body {
-          font-family: "Apple Symbols", sans-serif;
-          background-color: #060608;
-          color: #747373;
-          padding: 2rem;
-          line-height: 1.6;
-          margin: 0;
-        }
+    body {
+      font-family: "Apple Symbols", sans-serif;
+      background-color: #060608;
+      color: #747373;
+      padding: 2rem;
+      line-height: 1.6;
+      margin: 0;
+    }
 
-        h1, h2, h3 {
-          font-family: 'Black Ground', sans-serif;
-          color: #a31232;
-        }
+    h1, h2, h3 {
+      font-family: 'Black Ground', sans-serif;
+      color: #a31232;
+    }
 
-        a {
-          color: #a31232;
-          text-decoration: underline;
-        }
+    a {
+      color: #a31232;
+      text-decoration: underline;
+    }
 
-          nav {
-            background-color: #060608;
-            padding: 1rem 2rem;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 20px; /* adds spacing between links */
-            flex-wrap: nowrap; /* keep in one row unless on mobile */
-          }
+    nav {
+      background-color: #060608;
+      padding: 1rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
 
-          nav a {
-            font-family: 'Black Ground', sans-serif;
-            color: #a31232;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.1rem;
-          }
+    #nav-toggle {
+      display: none;
+      font-size: 1.2rem;
+      background: none;
+      border: none;
+      color: #a31232;
+      cursor: pointer;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
 
-        nav a:hover {
-          color: #747373;
-        }
-          
-        .homepage {
-          max-width: 800px;
-          margin: 0 auto;
-          background: #1a1a1a;
-          padding: 2rem;
-          border-radius: 12px;
-          box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
-        }
+    #nav-toggle:hover {
+      color: #747373;
+    }
 
-        @media (max-width: 768px) {
-          body {
-            padding: 1rem;
-          }
+    .nav-links {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: nowrap;
+      max-width: 100%;
+      overflow-x: auto;
+    }
 
-          nav {
-            flex-direction: column;
-            padding: 1rem;
-          }
+    .nav-links a {
+      font-family: 'Black Ground', sans-serif;
+      color: #a31232;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.1rem;
+      white-space: nowrap;
+    }
 
-          nav a {
-            display: block;
-            margin: 0.5rem 0;
-            font-size: 1rem;
-            text-align: center;
-          }
+    .nav-links a:hover {
+      color: #747373;
+    }
 
-          .homepage {
-            padding: 1rem;
-            box-shadow: none;
-          }
+    .homepage {
+      max-width: 800px;
+      margin: 0 auto;
+      background: #1a1a1a;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+    }
 
-          h1 {
-            font-size: 1.75rem;
-          }
+    @media (max-width: 768px) {
+      body {
+        padding: 1rem;
+      }
 
-          h2 {
-            font-size: 1.5rem;
-          }
+      nav {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1rem;
+      }
 
-          h3 {
-            font-size: 1.25rem;
-          }
-        }
-          /* Hide the nav links by default on small screens */
-          .nav-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: nowrap;
-            max-width: 100%;
-            overflow-x: auto;
-          }
+      #nav-toggle {
+        display: flex;
+        margin-top: 0.5rem;
+      }
 
-          /* Hamburger button styles */
-          #nav-toggle {
-            display: none;
-            font-size: 2rem;
-            background: none;
-            border: none;
-            color: #a31232;
-            cursor: pointer;
-            margin-right: 1rem;
-          }
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 0.5rem;
+      }
 
-          /* Desktop nav */
-          nav {
-            background-color: #060608;
-            padding: 1rem 2rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-          }
+      .nav-links.active {
+        display: flex;
+      }
 
-          /* Desktop link styles */
-          .nav-links a {
-            font-family: 'Black Ground', sans-serif;
-            color: #a31232;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.1rem;
-            white-space: nowrap;
-          }
+      .nav-links a {
+        padding: 0.25rem 0;
+        margin: 0.1rem 0;
+        font-size: 1rem;
+        text-align: center;
+      }
 
-          /* Hover effect */
-          .nav-links a:hover {
-            color: #747373;
-          }
+      .homepage {
+        padding: 1rem;
+        box-shadow: none;
+      }
 
-          /* Responsive adjustments */
-          @media (max-width: 768px) {
-            #nav-toggle {
-              display: block;
-            }
+      h1 {
+        font-size: 1.75rem;
+      }
 
-            /* Hide nav links initially on mobile */
-            .nav-links {
-              display: none;
-              flex-direction: column;
-              width: 100%;
-              margin-top: 0.5rem;
-            }
+      h2 {
+        font-size: 1.5rem;
+      }
 
-            /* Show nav links when toggled */
-            .nav-links.active {
-              display: flex;
-            }
-
-            /* Mobile link styles */
-            .nav-links a {
-              padding: 0.5rem 0;
-              font-size: 1rem;
-              text-align: center;
-            }
-
-            nav {
-              justify-content: flex-start;
-            }
-          }
-
-      </style>
-
-
+      h3 {
+        font-size: 1.25rem;
+      }
+    }
+  </style>
 </head>
 <body>
-    <nav>
-      <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-        &#9776; <!-- Hamburger icon -->
-      </button>
-      <div id="nav-links" class="nav-links">
-        <a href="/">Home</a>
-        <a href="/clinical-resources/">Clinical Resources</a>
-        <a href="/coned-ceus/">ConEd/ CEUs</a>
-        <a href="/blog/">Blog</a>
-        <a href="/podcast/">Podcast</a>
-        <a href="/the-tech-side/">The Tech Side</a>
-        <a href="/talk-to-us/">Talk to Us</a>
-      </div>
-    </nav>
-
+  <nav>
+    <div id="nav-links" class="nav-links">
+      <a href="/">Home</a>
+      <a href="/clinical-resources/">Clinical Resources</a>
+      <a href="/coned-ceus/">ConEd/ CEUs</a>
+      <a href="/blog/">Blog</a>
+      <a href="/podcast/">Podcast</a>
+      <a href="/the-tech-side/">The Tech Side</a>
+      <a href="/talk-to-us/">Talk to Us</a>
+    </div>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      Menu &#9776;
+    </button>
+  </nav>
 
   {{ content }}
-  
+
   <script>
     const navToggle = document.getElementById('nav-toggle');
     const navLinks = document.getElementById('nav-links');
@@ -210,4 +173,3 @@
   </script>
 </body>
 </html>
-
