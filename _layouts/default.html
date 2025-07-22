@@ -50,6 +50,138 @@
       display: none;
       font-family: 'Black Ground', sans-serif;
       font-weight: bold;
-      font-
+      font-size: 1.1rem;
+      background: none;
+      border: none;
+      color: #a31232;
+      cursor: pointer;
+      margin-left: auto; /* push to right */
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
 
+    #nav-toggle .menu-label {
+      display: inline;
+    }
+
+    /* Nav links container */
+    .nav-links {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: nowrap;
+      max-width: 100%;
+      overflow-x: auto;
+    }
+
+    .nav-links a {
+      font-family: 'Black Ground', sans-serif;
+      color: #a31232;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.1rem;
+      white-space: nowrap;
+    }
+
+    .nav-links a:hover {
+      color: #747373;
+    }
+
+    .homepage {
+      max-width: 800px;
+      margin: 0 auto;
+      background: #1a1a1a;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+    }
+
+    @media (max-width: 768px) {
+      body {
+        padding: 1rem;
+      }
+
+      nav {
+        justify-content: flex-start;
+        padding: 1rem;
+        flex-wrap: nowrap;
+      }
+
+      #nav-toggle {
+        display: flex;
+      }
+
+      /* Hide nav links initially on mobile */
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 0.5rem;
+        gap: 0.25rem; /* smaller space between links */
+      }
+
+      /* Show nav links when toggled */
+      .nav-links.active {
+        display: flex;
+      }
+
+      .nav-links a {
+        padding: 0.5rem 0;
+        font-size: 1rem;
+        text-align: center;
+      }
+
+      .homepage {
+        padding: 1rem;
+        box-shadow: none;
+      }
+
+      h1 {
+        font-size: 1.75rem;
+      }
+
+      h2 {
+        font-size: 1.5rem;
+      }
+
+      h3 {
+        font-size: 1.25rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="nav-links" id="nav-links">
+      <a href="/">Home</a>
+      <a href="/clinical-resources/">Clinical Resources</a>
+      <a href="/coned-ceus/">ConEd/ CEUs</a>
+      <a href="/blog/">Blog</a>
+      <a href="/podcast/">Podcast</a>
+      <a href="/the-tech-side/">The Tech Side</a>
+      <a href="/talk-to-us/">Talk to Us</a>
+    </div>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="menu-label">Menu</span> &#9776;
+    </button>
+  </nav>
+
+  {{ content }}
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+
+    navToggle.querySelector('.menu-label').style.display = 'inline'; // show initially
+
+    navToggle.addEventListener('click', () => {
+      const expanded = navToggle.getAttribute('aria-expanded') === 'true' || false;
+      navToggle.setAttribute('aria-expanded', !expanded);
+      navLinks.classList.toggle('active');
+      navToggle.querySelector('.menu-label').style.display = expanded ? 'inline' : 'none';
+    });
+  </script>
+</body>
+</html>
 
