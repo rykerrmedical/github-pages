@@ -6,94 +6,99 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="/assets/css/style.css">
       <style>
-          @font-face {
-              font-family: 'Black Ground';
-              src: url('/github-pages/assets/fonts/BlackGround.woff') format('woff'),
-              url('/github-pages/assets/fonts/BlackGround.ttf') format('truetype'),
-              url('/github-pages/assets/fonts/BlackGround.otf') format('opentype');
-              font-weight: normal;
-              font-style: normal;
-          }
-          
+        @font-face {
+          font-family: 'Black Ground';
+          src: url('/github-pages/assets/fonts/BlackGround.woff') format('woff'),
+               url('/github-pages/assets/fonts/BlackGround.ttf') format('truetype'),
+               url('/github-pages/assets/fonts/BlackGround.otf') format('opentype');
+          font-weight: normal;
+          font-style: normal;
+        }
+
+        body {
+          font-family: "Apple Symbols", sans-serif;
+          background-color: #060608;
+          color: #747373;
+          padding: 2rem;
+          line-height: 1.6;
+          margin: 0;
+        }
+
+        h1, h2, h3 {
+          font-family: 'Black Ground', sans-serif;
+          color: #a31232;
+        }
+
+        a {
+          color: #a31232;
+          text-decoration: underline;
+        }
+
+        nav {
+          background-color: #060608;
+          padding: 1rem 2rem;
+          text-align: center;
+          display: flex;
+          justify-content: center;
+          flex-wrap: wrap;
+        }
+
+        nav a {
+          font-family: 'Black Ground', sans-serif;
+          color: #a31232;
+          text-decoration: none;
+          margin: 0 15px;
+          font-weight: bold;
+          font-size: 1.1rem;
+        }
+
+        nav a:hover {
+          color: #747373;
+        }
+
+        .homepage {
+          max-width: 800px;
+          margin: 0 auto;
+          background: #1a1a1a;
+          padding: 2rem;
+          border-radius: 12px;
+          box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+        }
+
+        @media (max-width: 768px) {
           body {
-              font-family: "Apple Symbols", sans-serif;
-              background-color: #060608;
-              color: #747373;
-              padding: 2rem;
-              line-height: 1.6;
-              margin: 0;
+            padding: 1rem;
           }
-          
-          h1, h2, h3 {
-              font-family: 'Black Ground', sans-serif;
-              color: #a31232;
-          }
-          
-          a {
-              color: #a31232;
-              text-decoration: underline;
-          }
-          
+
           nav {
-              background-color: #060608;
-              padding: 1rem 2rem;
-              text-align: center;
+            flex-direction: column;
+            padding: 1rem;
           }
-          
-          nav {
-            background-color: #060608;
-            padding: 1rem 2rem;
+
+          nav a {
+            display: block;
+            margin: 0.5rem 0;
+            font-size: 1rem;
             text-align: center;
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
           }
-          
-          nav a:hover {
-              color: #747373;
-          }
-          
+
           .homepage {
-              max-width: 800px;
-              margin: 0 auto;
-              background: #1a1a1a;
-              padding: 2rem;
-              border-radius: 12px;
-              box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+            padding: 1rem;
+            box-shadow: none;
           }
-          @media (max-width: 768px) {
-            body {
-              padding: 1rem;
-            }
 
-            nav {
-              flex-direction: column;
-              padding: 1rem;
-            }
-
-            nav a {
-              display: block;
-              margin: 0.5rem 0;
-              font-size: 1rem;
-            }
-
-            .homepage {
-              padding: 1rem;
-              box-shadow: none;
-            }
-
-            h1 {
-              font-size: 1.75rem;
-            }
-
-            h2 {
-              font-size: 1.5rem;
-            }
-
-            h3 {
-              font-size: 1.25rem;
-            }
+          h1 {
+            font-size: 1.75rem;
           }
+
+          h2 {
+            font-size: 1.5rem;
+          }
+
+          h3 {
+            font-size: 1.25rem;
+          }
+        }
       </style>
 
 </head>
