@@ -1,9 +1,10 @@
 ---
-title: Home
+layout: default
+title: Cool Stuff for Clinicians
 ---
-
-![Rykerr Medical Logo]({{ site.baseurl }}/assets/images/rykerr-logo.png)
-
+<div class="logo-banner">
+  <img src="/github-pages/assets/images/logo.png" alt="Rykerr Logo" class="logo-img">
+</div>
 ---
 
 ## About Rykerr Medical LLC
