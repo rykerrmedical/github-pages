@@ -55,25 +55,6 @@
         nav a:hover {
           color: #747373;
         }
-
-          body::before {
-            content: "Screen: desktop";
-            color: lime;
-            font-size: 1rem;
-            position: fixed;
-            top: 5px;
-            left: 5px;
-            background: black;
-            padding: 3px 6px;
-            z-index: 9999;
-          }
-
-          @media (max-width: 768px) {
-            body::before {
-              content: "Screen: mobile";
-              color: red;
-            }
-          }
           
         .homepage {
           max-width: 800px;
@@ -118,22 +99,115 @@
             font-size: 1.25rem;
           }
         }
+          /* Hide the nav links by default on small screens */
+          .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: nowrap;
+            max-width: 100%;
+            overflow-x: auto;
+          }
+
+          /* Hamburger button styles */
+          #nav-toggle {
+            display: none;
+            font-size: 2rem;
+            background: none;
+            border: none;
+            color: #a31232;
+            cursor: pointer;
+            margin-right: 1rem;
+          }
+
+          /* Desktop nav */
+          nav {
+            background-color: #060608;
+            padding: 1rem 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }
+
+          /* Desktop link styles */
+          .nav-links a {
+            font-family: 'Black Ground', sans-serif;
+            color: #a31232;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+            white-space: nowrap;
+          }
+
+          /* Hover effect */
+          .nav-links a:hover {
+            color: #747373;
+          }
+
+          /* Responsive adjustments */
+          @media (max-width: 768px) {
+            #nav-toggle {
+              display: block;
+            }
+
+            /* Hide nav links initially on mobile */
+            .nav-links {
+              display: none;
+              flex-direction: column;
+              width: 100%;
+              margin-top: 0.5rem;
+            }
+
+            /* Show nav links when toggled */
+            .nav-links.active {
+              display: flex;
+            }
+
+            /* Mobile link styles */
+            .nav-links a {
+              padding: 0.5rem 0;
+              font-size: 1rem;
+              text-align: center;
+            }
+
+            nav {
+              justify-content: flex-start;
+            }
+          }
+
       </style>
 
 
 </head>
 <body>
-  <nav>
-    <a href="/">Home</a>
-    <a href="/clinical-resources/">Clinical Resources</a>
-    <a href="/coned-ceus/">ConEd/ CEUs</a>
-    <a href="/blog/">Blog</a>
-    <a href="/podcast/">Podcast</a>
-    <a href="/the-tech-side/">The Tech Side</a>
-    <a href="/talk-to-us/">Talk to Us</a>
-  </nav>
+    <nav>
+      <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        &#9776; <!-- Hamburger icon -->
+      </button>
+      <div id="nav-links" class="nav-links">
+        <a href="/">Home</a>
+        <a href="/clinical-resources/">Clinical Resources</a>
+        <a href="/coned-ceus/">ConEd/ CEUs</a>
+        <a href="/blog/">Blog</a>
+        <a href="/podcast/">Podcast</a>
+        <a href="/the-tech-side/">The Tech Side</a>
+        <a href="/talk-to-us/">Talk to Us</a>
+      </div>
+    </nav>
+
 
   {{ content }}
+  
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+
+    navToggle.addEventListener('click', () => {
+      const expanded = navToggle.getAttribute('aria-expanded') === 'true' || false;
+      navToggle.setAttribute('aria-expanded', !expanded);
+      navLinks.classList.toggle('active');
+    });
+  </script>
 </body>
 </html>
 
