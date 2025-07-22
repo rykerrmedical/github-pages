@@ -56,6 +56,25 @@
           color: #747373;
         }
 
+          body::before {
+            content: "Screen: desktop";
+            color: lime;
+            font-size: 1rem;
+            position: fixed;
+            top: 5px;
+            left: 5px;
+            background: black;
+            padding: 3px 6px;
+            z-index: 9999;
+          }
+
+          @media (max-width: 768px) {
+            body::before {
+              content: "Screen: mobile";
+              color: red;
+            }
+          }
+          
         .homepage {
           max-width: 800px;
           margin: 0 auto;
