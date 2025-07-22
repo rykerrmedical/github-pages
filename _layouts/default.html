@@ -39,36 +39,21 @@
       padding: 1rem 2rem;
       display: flex;
       align-items: center;
-      justify-content: space-between;
+      justify-content: center;
+      gap: 20px;
     }
 
-    #nav-toggle {
-      display: none;
-      font-size: 1.2rem;
-      background: none;
-      border: none;
-      color: #a31232;
-      cursor: pointer;
-      font-weight: bold;
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-    }
-
-    #nav-toggle:hover {
-      color: #747373;
-    }
-
+    /* Nav links container */
     .nav-links {
       display: flex;
-      justify-content: center;
       gap: 20px;
       flex-wrap: nowrap;
       max-width: 100%;
       overflow-x: auto;
+      justify-content: center;
     }
 
-    .nav-links a {
+    nav a {
       font-family: 'Black Ground', sans-serif;
       color: #a31232;
       text-decoration: none;
@@ -77,8 +62,21 @@
       white-space: nowrap;
     }
 
-    .nav-links a:hover {
+    nav a:hover {
       color: #747373;
+    }
+
+    /* Hamburger button */
+    #nav-toggle {
+      display: none;
+      font-family: 'Black Ground', sans-serif;
+      font-weight: bold;
+      font-size: 1.1rem;
+      background: none;
+      border: none;
+      color: #a31232;
+      cursor: pointer;
+      margin-left: 1rem;
     }
 
     .homepage {
@@ -90,22 +88,33 @@
       box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
     }
 
+    /* Desktop: show links, hide hamburger */
+    @media (min-width: 769px) {
+      #nav-toggle {
+        display: none !important;
+      }
+      .nav-links {
+        display: flex !important;
+      }
+    }
+
+    /* Mobile styles */
     @media (max-width: 768px) {
       body {
         padding: 1rem;
       }
 
       nav {
-        flex-direction: column;
-        align-items: flex-start;
+        justify-content: flex-start;
         padding: 1rem;
       }
 
+      /* Show hamburger button */
       #nav-toggle {
-        display: flex;
-        margin-top: 0.5rem;
+        display: block;
       }
 
+      /* Hide nav links by default on mobile */
       .nav-links {
         display: none;
         flex-direction: column;
@@ -113,13 +122,14 @@
         margin-top: 0.5rem;
       }
 
+      /* Show nav links when toggled */
       .nav-links.active {
         display: flex;
       }
 
-      .nav-links a {
-        padding: 0.25rem 0;
-        margin: 0.1rem 0;
+      nav a {
+        padding: 0.15rem 0;
+        margin: 0.05rem 0;
         font-size: 1rem;
         text-align: center;
       }
@@ -143,8 +153,12 @@
     }
   </style>
 </head>
+
 <body>
   <nav>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      Menu &#9776;
+    </button>
     <div id="nav-links" class="nav-links">
       <a href="/">Home</a>
       <a href="/clinical-resources/">Clinical Resources</a>
@@ -154,9 +168,6 @@
       <a href="/the-tech-side/">The Tech Side</a>
       <a href="/talk-to-us/">Talk to Us</a>
     </div>
-    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-      Menu &#9776;
-    </button>
   </nav>
 
   {{ content }}
@@ -173,3 +184,4 @@
   </script>
 </body>
 </html>
+
