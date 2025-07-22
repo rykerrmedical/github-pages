@@ -40,148 +40,16 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 20px;
-    }
-
-    /* Nav links container */
-    .nav-links {
-      display: flex;
-      gap: 20px;
+      gap: 20px; /* spacing between links */
       flex-wrap: nowrap;
-      max-width: 100%;
-      overflow-x: auto;
-      justify-content: center;
+      position: relative;
     }
 
-    nav a {
-      font-family: 'Black Ground', sans-serif;
-      color: #a31232;
-      text-decoration: none;
-      font-weight: bold;
-      font-size: 1.1rem;
-      white-space: nowrap;
-    }
-
-    nav a:hover {
-      color: #747373;
-    }
-
-    /* Hamburger button */
+    /* Hamburger button styles */
     #nav-toggle {
       display: none;
       font-family: 'Black Ground', sans-serif;
       font-weight: bold;
-      font-size: 1.1rem;
-      background: none;
-      border: none;
-      color: #a31232;
-      cursor: pointer;
-      margin-left: 1rem;
-    }
+      font-
 
-    .homepage {
-      max-width: 800px;
-      margin: 0 auto;
-      background: #1a1a1a;
-      padding: 2rem;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
-    }
-
-    /* Desktop: show links, hide hamburger */
-    @media (min-width: 769px) {
-      #nav-toggle {
-        display: none !important;
-      }
-      .nav-links {
-        display: flex !important;
-      }
-    }
-
-    /* Mobile styles */
-    @media (max-width: 768px) {
-      body {
-        padding: 1rem;
-      }
-
-      nav {
-        justify-content: flex-start;
-        padding: 1rem;
-      }
-
-      /* Show hamburger button */
-      #nav-toggle {
-        display: block;
-      }
-
-      /* Hide nav links by default on mobile */
-      .nav-links {
-        display: none;
-        flex-direction: column;
-        width: 100%;
-        margin-top: 0.5rem;
-      }
-
-      /* Show nav links when toggled */
-      .nav-links.active {
-        display: flex;
-      }
-
-      nav a {
-        padding: 0.15rem 0;
-        margin: 0.05rem 0;
-        font-size: 1rem;
-        text-align: center;
-      }
-
-      .homepage {
-        padding: 1rem;
-        box-shadow: none;
-      }
-
-      h1 {
-        font-size: 1.75rem;
-      }
-
-      h2 {
-        font-size: 1.5rem;
-      }
-
-      h3 {
-        font-size: 1.25rem;
-      }
-    }
-  </style>
-</head>
-
-<body>
-  <nav>
-    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-      Menu &#9776;
-    </button>
-    <div id="nav-links" class="nav-links">
-      <a href="/">Home</a>
-      <a href="/clinical-resources/">Clinical Resources</a>
-      <a href="/coned-ceus/">ConEd/ CEUs</a>
-      <a href="/blog/">Blog</a>
-      <a href="/podcast/">Podcast</a>
-      <a href="/the-tech-side/">The Tech Side</a>
-      <a href="/talk-to-us/">Talk to Us</a>
-    </div>
-  </nav>
-
-  {{ content }}
-
-  <script>
-    const navToggle = document.getElementById('nav-toggle');
-    const navLinks = document.getElementById('nav-links');
-
-    navToggle.addEventListener('click', () => {
-      const expanded = navToggle.getAttribute('aria-expanded') === 'true' || false;
-      navToggle.setAttribute('aria-expanded', !expanded);
-      navLinks.classList.toggle('active');
-    });
-  </script>
-</body>
-</html>
 
