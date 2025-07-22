@@ -34,24 +34,23 @@
           text-decoration: underline;
         }
 
-        nav {
-          background-color: #060608;
-          padding: 1rem 2rem;
-          text-align: center;
-          display: flex;
-          justify-content: center;
-          flex-wrap: wrap;
-        }
+          nav {
+            background-color: #060608;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px; /* adds spacing between links */
+            flex-wrap: nowrap; /* keep in one row unless on mobile */
+          }
 
-        nav a {
-          font-family: 'Black Ground', sans-serif;
-          color: #a31232;
-          text-decoration: none;
-          margin: 0 15px;
-          font-weight: bold;
-          font-size: 1.1rem;
-          display: inline-block;
-        }
+          nav a {
+            font-family: 'Black Ground', sans-serif;
+            color: #a31232;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+          }
 
         nav a:hover {
           color: #747373;
