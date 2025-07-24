@@ -56,6 +56,8 @@
       display: flex;
       gap: 20px;
       flex-wrap: nowrap;
+      justify-content: flex-end; /* ✅ MODIFIED: align nav to the right */
+      flex: 1;
     }
 
     .nav-links a {
@@ -107,6 +109,7 @@
         display: none;
         flex-direction: column;
         width: 100%;
+        gap: 0.5rem; /* ✅ MODIFIED: tighter spacing */
       }
 
       .nav-links.active {
@@ -117,23 +120,32 @@
         padding: 0.25rem 0;
         font-size: 1rem;
       }
+
+      .nav-links .close-link {
+        margin-top: 1rem;
+        font-size: 0.9rem;
+        color: #888;
+        cursor: pointer;
+      }
     }
-      .logo-wrapper {
-        background-color: #e0e0e0; /* softer grey */
-        display: inline-block;
-        padding: 0.5rem; /* tighter padding */
-        border-radius: 8px;
-        margin-bottom: 1.5rem; /* adds space below image */
-        max-width: 100%;
-      }
 
-      .logo-img {
-        display: block;
-        width: 100%;
-        height: auto;
-        max-width: 400px; /* keeps it responsive but not huge */
-      }
+    .logo-wrapper {
+      background-color: #e0e0e0;
+      display: inline-block;
+      padding: 0.5rem;
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+      max-width: 100%;
+      text-align: center; /* ✅ ADDED: ensure it's centered */
+    }
 
+    .logo-img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-width: 400px;
+      margin: 0 auto; /* ✅ ADDED: centers image inside wrapper */
+    }
   </style>
 </head>
 <body>
@@ -147,6 +159,7 @@
         <a href="{{ site.baseurl }}/podcast/">Podcast</a>
         <a href="{{ site.baseurl }}/the-tech-side/">The Tech Side</a>
         <a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a>
+        <a href="#" class="close-link" id="close-menu">Close Menu</a> <!-- ✅ ADDED -->
     </div>
   </nav>
 
@@ -157,6 +170,7 @@
   <script>
     const navToggle = document.getElementById('nav-toggle');
     const navLinks = document.getElementById('nav-links');
+    const closeMenu = document.getElementById('close-menu'); // ✅ ADDED
 
     navToggle.addEventListener('click', () => {
       const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
@@ -164,6 +178,28 @@
       navLinks.classList.toggle('active');
       navToggle.textContent = isOpen ? 'Menu' : ''; // hide label when open
     });
+
+    if (closeMenu) {
+      closeMenu.addEventListener('click', (e) => {
+        e.preventDefault();
+        navLinks.classList.remove('active');
+        navToggle.setAttribute('aria-expanded', 'false');
+        navToggle.textContent = 'Menu';
+      });
+    }
   </script>
 </body>
 </html>
+
+
+    <!-- Main page content -->
+    <main class="page-content">
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>&copy; {{ site.time | date: "%Y" }} Rykerr Medical. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
+
