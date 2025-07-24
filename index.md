@@ -2,13 +2,13 @@
 layout: default
 title: Cool Stuff for Clinicians
 ---
-<div class="homepage">
-  <div class="logo-wrapper">
-    <img src="/github-pages/assets/images/rykerr-logo.png" alt="Rykerr Logo" class="logo-img">
-  </div>
 
-  <h2>About Rykerr Medical</h2>
-  <hr>
+<div class="logo-wrapper">
+  <img src="/github-pages/assets/images/rykerr-logo.png" alt="Rykerr Logo" class="logo-img">
+</div>
+
+<h2>About Rykerr Medical</h2>
+<hr>
 
   <p>
     Here at Rykerr Medical we believe in freely sharing experience and know-how so that others can thrive in the clinical setting. At the same time, however, this project is a way for us to learn through presentation — trying to explain concepts is one of the best ways to ensure understanding and identify gaps in knowledge.
