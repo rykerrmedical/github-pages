@@ -36,20 +36,26 @@
 
     nav {
       background-color: #060608;
-    }
-
-    .site-nav {
       display: flex;
       align-items: center;
       justify-content: space-between;
       padding: 1rem 2rem;
     }
 
+    #nav-toggle {
+      display: none;
+      font-size: 2rem;
+      background: none;
+      border: none;
+      color: #a31232;
+      cursor: pointer;
+      font-family: 'Black Ground', sans-serif;
+    }
+
     .nav-links {
       display: flex;
       gap: 20px;
       flex-wrap: nowrap;
-      justify-content: flex-end;
     }
 
     .nav-links a {
@@ -74,100 +80,90 @@
       box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
     }
 
-    .logo-wrapper {
-      display: block;
+    .logo-banner {
+      background-color: #f0f0f0;
       text-align: center;
-      margin-bottom: 1.5rem;
+      padding: 1rem;
     }
 
     .logo-img {
-      display: inline-block;
-      width: 100%;
+      max-width: 300px;
+      width: 80%;
       height: auto;
-      max-width: 400px;
-    }
-
-    /* Mobile Styles */
-    #nav-trigger {
-      display: none;
-    }
-
-    .menu-icon {
-      display: none;
-      cursor: pointer;
-    }
-
-    .trigger {
-      display: flex;
-      justify-content: flex-end;
-    }
-
-    .trigger ul {
-      display: flex;
-      list-style: none;
-      gap: 1rem;
-      padding: 0;
-      margin: 0;
-    }
-
-    .mobile-only {
-      display: none;
     }
 
     @media (max-width: 768px) {
-      .menu-icon {
-        display: block;
+      nav {
+        flex-direction: column;
+        align-items: flex-start;
       }
 
-      .trigger ul {
+      #nav-toggle {
+        display: block;
+        margin-bottom: 0.5rem;
+      }
+
+      .nav-links {
         display: none;
         flex-direction: column;
         width: 100%;
-        margin-top: 1rem;
       }
 
-      #nav-trigger:checked + label + .trigger ul {
+      .nav-links.active {
         display: flex;
       }
 
-      .trigger ul li {
-        margin: 0.25rem 0;
-      }
-
-      .mobile-only {
-        display: block;
-        font-size: 0.9rem;
-        color: #aaa;
-        margin-top: 1rem;
+      .nav-links a {
+        padding: 0.25rem 0;
+        font-size: 1rem;
       }
     }
+      .logo-wrapper {
+        background-color: #e0e0e0; /* softer grey */
+        display: inline-block;
+        padding: 0.5rem; /* tighter padding */
+        border-radius: 8px;
+        margin-bottom: 1.5rem; /* adds space below image */
+        max-width: 100%;
+      }
+
+      .logo-img {
+        display: block;
+        width: 100%;
+        height: auto;
+        max-width: 400px; /* keeps it responsive but not huge */
+      }
+
   </style>
 </head>
 <body>
-  <nav class="site-nav">
-    <!-- Hamburger toggle (uses checkbox) -->
-    <input type="checkbox" id="nav-trigger" />
-    <label for="nav-trigger" class="menu-icon">
-      <span style="font-family: 'Black Ground'; color: #a31232;">☰ Menu</span>
-    </label>
-
-    <!-- Navigation links -->
-    <div class="trigger">
-      <ul class="nav-links">
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/clinical-resources/">Clinical Resources</a></li>
-        <li><a href="{{ site.baseurl }}/coned-ceus/">ConEd/ CEUs</a></li>
-        <li><a href="{{ site.baseurl }}/blog/">Blog</a></li>
-        <li><a href="{{ site.baseurl }}/podcast/">Podcast</a></li>
-        <li><a href="{{ site.baseurl }}/the-tech-side/">The Tech Side</a></li>
-        <li><a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a></li>
-        <li class="mobile-only"><label for="nav-trigger">✕ Close Menu</label></li> <!-- only visible on mobile -->
-      </ul>
+  <nav>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+    <div id="nav-links" class="nav-links">
+        <a href="{{ site.baseurl }}/">Home</a>
+        <a href="{{ site.baseurl }}/clinical-resources/">Clinical Resources</a>
+        <a href="{{ site.baseurl }}/coned-ceus/">ConEd/ CEUs</a>
+        <a href="{{ site.baseurl }}/blog/">Blog</a>
+        <a href="{{ site.baseurl }}/podcast/">Podcast</a>
+        <a href="{{ site.baseurl }}/the-tech-side/">The Tech Side</a>
+        <a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a>
     </div>
   </nav>
 
   <main class="homepage">
     {{ content }}
   </main>
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !isOpen);
+      navLinks.classList.toggle('active');
+      navToggle.textContent = isOpen ? 'Menu' : ''; // hide label when open
+    });
+  </script>
 </body>
 </html>
