@@ -105,8 +105,9 @@ nav {
 main img,
 main video {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 1.5rem auto;
+  max-width: 100%;
+  height: auto;
 }
 
 /* === Format form buttons on Talk to Us page === */
