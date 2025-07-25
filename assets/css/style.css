@@ -1,3 +1,4 @@
+/* === Fonts === */
 @font-face {
   font-family: 'Black Ground';
   src: url('/github-pages/assets/fonts/BlackGround.woff') format('woff'),
@@ -7,14 +8,81 @@
   font-style: normal;
 }
 
-/* Body text uses Apple Symbols if available, else fallback */
+/* === Base Styles === */
 body {
-  font-family: 'Apple Symbols', sans-serif;
+  font-family: "Apple Symbols", sans-serif;
+  background-color: #060608;
+  color: #747373;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
 }
 
-/* Headers use Black Ground */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Black Ground', sans-serif;
+  color: #a31232;
+  text-align: left;
+}
+
+a {
+  color: #a31232;
+  text-decoration: underline;
+}
+
+/* === Navigation === */
+nav {
+  background-color: #060608;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* center nav items on desktop */
+  padding: 1rem 2rem;
+}
+
+#nav-toggle {
+  display: none;
+  font-size: 2rem;
+  background: none;
+  border: none;
+  color: #a31232;
+  cursor: pointer;
+  font-family: 'Black Ground', sans-serif;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+  flex-wrap: nowrap;
+}
+
+.nav-links a {
+  font-family: 'Black Ground', sans-serif;
+  color: #a31232;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  white-space: nowrap;
+}
+
+.nav-links a:hover {
+  color: #747373;
+}
+
+/* === Homepage Container === */
+.homepage {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #1a1a1a;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+  text-align: left;
+}
+
+/* === Logo Section === */
+.logo-banner {
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 1rem;
 }
 
 .logo-wrapper {
@@ -22,15 +90,23 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   padding: 0.5rem;
   border-radius: 8px;
-  margin: 0 auto 1.5rem auto; /* this centers the block */
+  margin: 0 auto 1.5rem auto;
   max-width: 100%;
-  width: fit-content; /* ensures the wrapper hugs the image */
+  width: fit-content;
 }
-
 
 .logo-img {
   width: 100%;
   height: auto;
   max-width: 400px;
 }
+
+/* === Center images/videos === */
+main img,
+main video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
