@@ -126,3 +126,14 @@ form button:hover {
   background-color: #741021; /* darker red on hover */
 }
 
+/* Podcast episode list */
+#episode-list h3 {
+  font-family: 'Black Ground', sans-serif;
+  color: #a31232;
+}
+
+#episode-list audio {
+  border: 1px solid #a31232;
+  border-radius: 4px;
+}
+
