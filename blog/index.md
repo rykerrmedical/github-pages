@@ -3,7 +3,7 @@ title: The Rykerr Medical Blog
 layout: default
 ---
 
-# The Rykerr Medical Blog
+# Rykerr Medical Blod
 
 <ul>
   {% for post in site.posts %}
