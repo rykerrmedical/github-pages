@@ -6,7 +6,7 @@ permalink: /talk-to-us/
 
 <h1>Talk to Us</h1>
 
-<p>Have a question? A thought? A good idea? A weird idea? We're all ears. Share below and we’ll be in touch!</p>
+<p>Send us a question or share your thoughts</p>
 
 <form
   id="contact-form"
@@ -17,8 +17,8 @@ permalink: /talk-to-us/
   <label for="name">Name (optional)</label><br>
   <input type="text" id="name" name="name" style="width: 100%; padding: 0.5rem;"><br><br>
 
-  <label for="email">Email (so we can reply)</label><br>
-  <input type="email" id="email" name="_replyto" required style="width: 100%; padding: 0.5rem;"><br><br>
+  <label for="email">Email (optional, but needed for a reply)</label><br>
+  <input type="email" id="email" name="_replyto" style="width: 100%; padding: 0.5rem;"><br><br>
 
   <label for="category">Category (Clinical, Tech, CEUs...)</label><br>
   <input type="text" id="category" name="category" style="width: 100%; padding: 0.5rem;"><br><br>

@@ -109,4 +109,20 @@ main video {
   margin-right: auto;
 }
 
+/* === Format form buttons on Talk to Us page === */
+form button {
+  background-color: #a31232;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  font-family: 'Black Ground', sans-serif;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #741021; /* darker red on hover */
+}
 
