@@ -117,31 +117,43 @@
         padding: 0.1rem 0;
         font-size: 1rem;
       }
+
+      .nav-links #close-menu {
+        display: none;
+      }
+
+      .nav-links.active #close-menu {
+        display: block !important;
+        padding: 0.1rem 0;
+        font-size: 1rem;
+        color: #a31232;
+        text-decoration: none;
+      }
     }
-      .logo-wrapper {
-        background-color: #e0e0e0;
-        display: block;
-        margin: 0 auto 1.5rem auto;
-        padding: 0.5rem;
-        border-radius: 8px;
-        max-width: 100%;
-        width: fit-content;
-      }
 
-      .logo-img {
-        display: block;
-        width: 100%;
-        height: auto;
-        max-width: 400px; /* keeps it responsive but not huge */
-      }
-      /* ✅ Center images and videos inside main content */
-      main img,
-      main video {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-      }
+    .logo-wrapper {
+      background-color: #e0e0e0;
+      display: block;
+      margin: 0 auto 1.5rem auto;
+      padding: 0.5rem;
+      border-radius: 8px;
+      max-width: 100%;
+      width: fit-content;
+    }
 
+    .logo-img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-width: 400px;
+    }
+
+    main img,
+    main video {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
   </style>
 </head>
 <body>
@@ -155,6 +167,7 @@
         <a href="{{ site.baseurl }}/podcast/">Podcast</a>
         <a href="{{ site.baseurl }}/the-tech-side/">The Tech Side</a>
         <a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a>
+        <a href="#" id="close-menu" style="display: none;">Close Menu</a>
     </div>
   </nav>
 
@@ -165,13 +178,22 @@
   <script>
     const navToggle = document.getElementById('nav-toggle');
     const navLinks = document.getElementById('nav-links');
+    const closeMenu = document.getElementById('close-menu');
 
     navToggle.addEventListener('click', () => {
       const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
       navToggle.setAttribute('aria-expanded', !isOpen);
       navLinks.classList.toggle('active');
-      navToggle.textContent = isOpen ? 'Menu' : ''; // hide label when open
+      navToggle.textContent = isOpen ? 'Menu' : '';
+    });
+
+    closeMenu.addEventListener('click', (e) => {
+      e.preventDefault();
+      navToggle.setAttribute('aria-expanded', 'false');
+      navLinks.classList.remove('active');
+      navToggle.textContent = 'Menu';
     });
   </script>
 </body>
 </html>
+
