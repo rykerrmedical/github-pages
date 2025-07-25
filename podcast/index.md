@@ -7,9 +7,13 @@ permalink: /podcast/
 <h1>The Rykerr Medical Podcast</h1>
 
 <!-- External platform links -->
-<div style="margin: 1rem 0; display: flex; gap: 1rem; flex-wrap: wrap;">
-  <a href="https://podcasts.apple.com/us/podcast/the-rykerr-medical-podcast/id1570765323" target="_blank" style="color: #a31232; font-weight: bold;">🎧 Listen on Apple Podcasts</a>
-  <a href="https://open.spotify.com/show/73oflsb0c9M5iHw07MxdP?" target="_blank" style="color: #1DB954; font-weight: bold;">🎧 Listen on Spotify</a>
+<div style="margin: 1rem 0; display: flex; gap: 1.5rem; flex-wrap: wrap;">
+  <a href="https://podcasts.apple.com/us/podcast/the-rykerr-medical-podcast/id1570765323" target="_blank" style="text-decoration: none; color: #a31232; font-family: 'Black Ground', sans-serif; font-weight: bold; display: flex; align-items: center; gap: 0.4rem;">
+    🎧 <span>Apple Podcasts</span>
+  </a>
+  <a href="https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP?" target="_blank" style="text-decoration: none; color: #1DB954; font-family: 'Black Ground', sans-serif; font-weight: bold; display: flex; align-items: center; gap: 0.4rem;">
+    🎧 <span>Spotify</span>
+  </a>
 </div>
 
 <div id="episode-list" style="max-width:800px; margin:2rem auto; text-align:left;">
@@ -44,14 +48,19 @@ async function loadFeed() {
       const div = document.createElement("div");
       div.style.marginBottom = "3rem";
 
-      // Recent episode with image & description
+      // Shorten long descriptions
+      const shortDescription = description && description.length > 400
+        ? description.substring(0, 400).split(" ").slice(0, -1).join(" ") + "..."
+        : description;
+
       if (i === 0) {
+        // Latest episode
         div.innerHTML = `
           <h2>${title}</h2>
           <small>${pubDate}</small><br>
           ${image ? `<img src="${image}" alt="Episode image" style="max-width:100%; height:auto; margin-top:0.5rem; border-radius:8px;">` : ""}
           ${audioUrl ? `<audio controls src="${audioUrl}" style="width:100%; margin:1rem 0;"></audio>` : ""}
-          ${description ? `<p>${description}</p>` : ""}
+          ${shortDescription ? `<p>${shortDescription}</p>` : ""}
           ${link ? `<p><a href="${link}" target="_blank">Full episode details</a></p>` : ""}
           <hr style="margin-top: 2rem;">
         `;
@@ -75,4 +84,3 @@ async function loadFeed() {
 
 document.addEventListener("DOMContentLoaded", loadFeed);
 </script>
-
