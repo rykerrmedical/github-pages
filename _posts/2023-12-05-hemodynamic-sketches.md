@@ -39,7 +39,8 @@ This sort of exercise is particularly useful in testing scenarios where hemodyna
 Just have the normal ranges memorized or, better yet, have a reference card of some sort readily accessible.  Here’s a quick video of working through these questions one by one:
 
 <iframe width="560" height="315"
-  src="https://youtu.be/_glVI0yvuAE"
+  src="src="https://www.youtube.com/embed/_glVI0yvuAE"
+"
   title="Hemodynamic Problem Work Process"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
