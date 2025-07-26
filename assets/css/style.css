@@ -102,13 +102,15 @@ nav {
 }
 
 /* === Center images/videos === */
-main img,
-main video {
+main img {
   display: block;
   margin: 1.5rem auto;
   max-width: 100%;
   height: auto;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
 }
+
 
 /* === Format form buttons on Talk to Us page === */
 form button {
