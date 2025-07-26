@@ -39,14 +39,12 @@ This sort of exercise is particularly useful in testing scenarios where hemodyna
 Just have the normal ranges memorized or, better yet, have a reference card of some sort readily accessible.  Here’s a quick video of working through these questions one by one:
 
 <iframe width="560" height="315"
-  src="src="https://www.youtube.com/embed/_glVI0yvuAE"
-"
+  src="https://www.youtube.com/embed/_glVI0yvuAE"
   title="Hemodynamic Problem Work Process"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
-
 
 Next point of conversation: what to do with all this academic nonsense in clinical practice.  We often have to work with incomplete batches of information and/ or verify that the numbers we have on hand are actually worth accepting as true (and therefore accurate descriptors of patient status).  Take, for example, this recent case we had.
 
