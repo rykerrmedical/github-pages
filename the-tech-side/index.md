@@ -6,10 +6,10 @@ layout: default
 
 # The Tech Side
 
-This page is where we link and discuss all the non-clinical nerdy things.  Part of the Rykerr Medical project is innovative use of technology, so that's what this lil bit is all about.
-
 <h5><a href="#resources">The QR Code Thing</a></h5>
 <h5><a href="#resources">RSS Feed Strategy</a></h5>
+
+This page is where we link and discuss all the non-clinical nerdy things.  Part of the Rykerr Medical project is innovative use of technology, so that's what this lil bit is all about.
 
 
 
