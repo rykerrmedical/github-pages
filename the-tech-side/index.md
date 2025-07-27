@@ -19,13 +19,14 @@ In the Vent Book we used QR codes to direct readers to all of the references and
 
 Now the process of putting that system together was a bit complicated, so we've put together a video to show you how to do the same for whatever project you might have in the works.  Take a look and let us know what you think.
 
-  <iframe width="560" height="315"
+<div class="video-wrapper">
+  <iframe 
     src="https://www.youtube.com/embed/NcUvnpnGFto"
     title="The QR Code Thing"
-    frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
+</div>
 
 
 
@@ -36,12 +37,12 @@ We finally figured out how to build and manage our own RSS feed for the podcast 
 ​Pros: doesn't cost any money, allows you to port your podcast project wherever you want, learn some cool nerdy tech stuff
 
 ​Cons: required reading, required video watching, sitting at a computer
-​
-  <iframe width="560" height="315"
+
+<div class="video-wrapper">
+  <iframe 
     src="https://www.youtube.com/embed/nNosYLXTu_A"
-    title="Rykerr Medical's Podcast Hosting Strategy'"
-    frameborder="0"
+    title="Rykerr Medical's Podcast Hosting Strategy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
-
+</div>
