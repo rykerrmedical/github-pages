@@ -8,13 +8,14 @@ permalink: /podcast/
 
 <!-- External platform links -->
 <div style="margin: 1rem 0; display: flex; gap: 1.5rem; flex-wrap: wrap;">
-  <a href="https://podcasts.apple.com/us/podcast/the-rykerr-medical-podcast/id1570765323" target="_blank" class="platform-link">
-  🎧 <span>Apple Podcasts</span>
+  <a href="https://podcasts.apple.com/us/podcast/the-rykerr-medical-podcast/id1570765323" target="_blank" style="text-decoration: none; color: #a31232; font-family: 'Black Ground', sans-serif; font-weight: bold; display: flex; align-items: center; gap: 0.4rem;">
+    🎧 <span>Apple Podcasts</span>
   </a>
-  <a href="https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP?" target="_blank" class="platform-link">
-  🎧 <span>Spotify</span>
+  <a href="https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP?" target="_blank" style="text-decoration: none; color: #a31232; font-family: 'Black Ground', sans-serif; font-weight: bold; display: flex; align-items: center; gap: 0.4rem;">
+    🎧 <span>Spotify</span>
   </a>
 </div>
+
 
 <div id="episode-list" style="max-width:800px; margin:2rem auto; text-align:left;">
   <p>Loading episodes…</p>
