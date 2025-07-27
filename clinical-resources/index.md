@@ -13,7 +13,7 @@ layout: default
 <h5><a href="#notecards">Notecards</a></h5>
 
 <h3 id="airway">
-  <a href="/clinical-resources/airway-stuff/">Airway Stuff</a>
+  <a href="{{ site.baseurl }}/clinical-resources/airway-stuff/">Airway Stuff</a>
 </h3>
 
 Just follow the link above for all of the fun things we've collected and built on the subject of airway management.  More to come and, as always, let us know if there's things missing in our offerings!
@@ -21,7 +21,7 @@ Just follow the link above for all of the fun things we've collected and built o
 
 
 <h3 id="vent">
-  <a href="{{ site.baseurl }}/clinical-resources/vent-management/">Vent Management Book</a>
+  <a href="{{ site.baseurl }}/clinical-resources/vent-management-book/">Vent Management Book</a>
 </h3>
 
 We built this resource for transport clinicians to learn more about vent management in the field, but it's also applicable to other clinicians who work with vents.  Take a look and let us know what you think! 

@@ -4,6 +4,8 @@ description: cool stuff for clinicians
 author: rykerr
 
 baseurl: "/github-pages"
+include:
+  - clinical-resources
 
 markdown: kramdown
 kramdown:
