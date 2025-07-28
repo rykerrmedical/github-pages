@@ -3,9 +3,7 @@ title: Cool Stuff for Clinicians
 layout: default
 ---
 
-<div class="logo-wrapper">
-  <img src="/github-pages/assets/images/logos/rykerr-logo.png" alt="Rykerr Logo" class="logo-img">
-</div>
+<img src="/github-pages/assets/images/logos/rykerr-logo.jpg" alt="Rykerr Logo" class="logo-img">
 
 # About Rykerr Medical
 

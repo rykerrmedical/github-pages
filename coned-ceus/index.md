@@ -13,12 +13,17 @@ CEU offerings are being hosted on EdApp (link below) - it's a free LMS that work
 Note that not all of the offering on EdApp are for credit, some are drafts/ just for your casual learning.
 
 [EdAPP Page](https://link.edapp.com/WpGuSzZfilb)
+
 [EMSI at SFCC](https://www.sfcc.edu/programs/paramedicine/)
+
+
 
 ### Summary of Offerings
 
 [Vent Book v1 Review Question - 8 hours](https://link.edapp.com/WpGuSzZfilb)
 ...more to come soon!
+
+
 
 ### Sample CEU Cert for Reference
 

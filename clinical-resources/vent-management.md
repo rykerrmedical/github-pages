@@ -27,13 +27,13 @@ And if you are interested in helping out with graphics in future editions or oth
 
 
 
-###The QR Code Thing
+### The QR Code Thing
 
 There's a video on this over in The Tech Side, but the idea was that we wanted anyone with a print version to have easy access to the references (articles, websites, videos, podcasts, etc.).  We decided to go with QR codes that link through our website and on to whatever content is referenced.  If you come across a broken link or if the system seems to have failed, just Talk to Us and we'll look into it.  And for those who are curious how we've set this whole thing up, just take a look at the QR Code Thing video we made explaining the whole idea.
 
 
 
-###The Future
+### The Future
 
 It is inevitable that the final version we have posted on this page could be made better in many ways, so the idea is that this is to be an ongoing project with future versions to come out over time.  Any and all feedback is both welcome and encouraged, so feel free to get in touch if you have feedback, critiques, or ideas on how we might communicate concepts differently. 
 

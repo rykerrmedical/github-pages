@@ -1,7 +1,7 @@
 ---
 title: The Rykerr Medical Blog
 layout: default
-permalink: /blog
+permalink: /blog/
 ---
 
 # Rykerr Medical Blog
