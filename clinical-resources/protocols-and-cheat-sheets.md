@@ -1,7 +1,7 @@
 ---
 title: Protocols and Cheat Sheets
-permalink: /clinical-resources/protocols-and-cheat-sheets/
 layout: default
+permalink: /clinical-resources/protocols-and-cheat-sheets/
 ---
 
 # Protocols & Cheat Sheets

@@ -1,10 +1,10 @@
 ---
 title: Medication Guidelines
-permalink: /clinical-resources/medication-guidelines/
 layout: default
+permalink: /clinical-resources/medication-guidelines/
 ---
 
 # Medication Guidelines
 
-Medication reference notes and quick-dosing charts.
+
 

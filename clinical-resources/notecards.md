@@ -1,7 +1,7 @@
 ---
 title: Notecards
-permalink: /clinical-resources/notecards/
 layout: default
+permalink: /clinical-resources/notecards/
 ---
 
 # Notecards

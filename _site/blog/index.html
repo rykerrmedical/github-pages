@@ -2,82 +2,114 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Blog</title>
+  <title>The Rykerr Medical Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/github-pages/assets/css/style.css" />
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Black+Ground&display=swap');
+    @media (max-width: 768px) {
+      nav {
+        align-items: flex-end; /* hamburger right on mobile */
+      }
 
-    body {
-      font-family: "Apple Symbols", sans-serif;
-      background-color: #060608;
-      color: #747373;
-      padding: 2rem;
-      line-height: 1.6;
-      margin: 0;
-    }
+      #nav-toggle {
+        display: block;
+        margin-bottom: 0.5rem;
+      }
 
-    h1, h2, h3 {
-      font-family: 'Black Ground', sans-serif;
-      color: #a31232;
-    }
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+      }
 
-    a {
-      color: #a31232;
-      text-decoration: underline;
-    }
+      .nav-links.active {
+        display: flex;
+      }
 
-    nav {
-      background-color: #060608;
-      padding: 1rem 2rem;
-      text-align: center;
-    }
+      .nav-links a {
+        padding: 0.1rem 0;
+        font-size: 1rem;
+      }
 
-    nav a {
-      font-family: 'Black Ground', sans-serif;
-      color: #a31232;
-      text-decoration: none;
-      margin: 0 15px;
-      font-weight: bold;
-      font-size: 1.1rem;
-    }
+      .nav-links #close-menu {
+        display: none;
+      }
 
-    nav a:hover {
-      color: #747373;
-    }
-
-    .homepage {
-      max-width: 800px;
-      margin: 0 auto;
-      background: #1a1a1a;
-      padding: 2rem;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+      .nav-links.active #close-menu {
+        display: block !important;
+        padding: 0.1rem 0;
+        font-size: 1rem;
+        color: #747373;
+        font-style: normal;
+      }
     }
   </style>
 </head>
 <body>
   <nav>
-    <a href="/">Home</a>
-    <a href="/clinical-resources/">Clinical Resources</a>
-    <a href="/coned-ceus/">ConEd/ CEUs</a>
-    <a href="/blog/">Blog</a>
-    <a href="/podcast/">Podcast</a>
-    <a href="/the-tech-side/">The Tech Side</a>
-    <a href="/talk-to-us/">Talk to Us</a>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+    <div id="nav-links" class="nav-links">
+        <a href="/github-pages/">Home</a>
+        <a href="/github-pages/clinical-resources/">Clinical Resources</a>
+        <a href="/github-pages/coned-ceus/">ConEd/ CEUs</a>
+        <a href="/github-pages/blog/">Blog</a>
+        <a href="/github-pages/podcast/">Podcast</a>
+        <a href="/github-pages/the-tech-side/">The Tech Side</a>
+        <a href="/github-pages/talk-to-us/">Talk to Us</a>
+        <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
+    </div>
   </nav>
 
-  <h1 id="blog">Blog</h1>
-
-<p>Stay updated with posts and reflections.</p>
+  <main class="homepage">
+    <h1 id="rykerr-medical-blog">Rykerr Medical Blog</h1>
 
 <ul>
   
-    <li><a href="/2025/06/03/test-post.html">test-post</a> — Jun 03, 2025</li>
+    <li><a href="/github-pages/2025/06/02/podcast-hosting.html">Rykerr Medical's Podcast Hosting Strategy</a>
+ — Jun 02, 2025</li>
+  
+    <li><a href="/github-pages/2025/01/07/chest-tubes.html">Chest Tube Management in Transport</a>
+ — Jan 07, 2025</li>
+  
+    <li><a href="/github-pages/2023/12/05/hemodynamic-sketches.html">Hemodynamic Sketches</a>
+ — Dec 05, 2023</li>
+  
+    <li><a href="/github-pages/2022/06/13/acute-deterioration-in-mechanical-ventilation.html">Acute Deterioration in Mechanical Ventilation</a>
+ — Jun 13, 2022</li>
+  
+    <li><a href="/github-pages/2021/11/03/international-opportunities-for-ems.html">International Opportunities for EMS People</a>
+ — Nov 03, 2021</li>
+  
+    <li><a href="/github-pages/2021/06/20/dead-space-illustrations.html">Dead Space Illustrations</a>
+ — Jun 20, 2021</li>
+  
+    <li><a href="/github-pages/2021/05/24/welcome-to-the-rykerr-medical-blog.html">Welcome to the Rykerr Medical Blog!</a>
+ — May 24, 2021</li>
   
 </ul>
 
 
+  </main>
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+    const closeMenu = document.getElementById('close-menu');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !isOpen);
+      navLinks.classList.toggle('active');
+      navToggle.textContent = isOpen ? 'Menu' : '';
+    });
+
+    closeMenu.addEventListener('click', (e) => {
+      e.preventDefault();
+      navToggle.setAttribute('aria-expanded', 'false');
+      navLinks.classList.remove('active');
+      navToggle.textContent = 'Menu';
+    });
+  </script>
 </body>
 </html>
 

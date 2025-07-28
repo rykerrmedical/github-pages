@@ -8,7 +8,7 @@ While not all prehospital folks place chest tubes, nearly all of us manage them 
 
 First, let’s just do a quick review of the thing. Chest tubes are placed into the pleural space when it is filled with stuff that shouldn’t be there. This might be air (pneumothorax), blood (hemothorax), a mix of both (hemo-pneumothorax), or other gunk entirely (pleural effusion or empyema). A chest tube is placed to help get whatever stuff is there and shouldn’t be out.
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/01-chest-tube-sketch.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/01-chest-tube-sketch.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 Stuff in the pleural space is problematic because it can impair breathing and exert pressure on the other things that live in the thoracic cavity. Both of which are problematic. Hopefully that’s a review, but if not the fine folks at Ninja Nerd have both a video and a podcast on the subjects of chest tubes and pneumothoraces, respectively:
 
@@ -26,7 +26,7 @@ Suction is generally applied after placement of a chest tube to facilitate re-in
 
 Now when we apply suction to a chest tube, we don’t typically do so by attaching the tube itself via suction tubing to a suction machine, rather we use a contraption that attenuates the suction to a specific goal (an atrium or similar device). If we look at the dial on our bedside or portable suction, the numbers are often in the range of 0-500mmHg with the optimal section notated in the neighborhood of 100-150mmHg.
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/02-suction.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/02-suction.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 But with a chest tube we often use 20cmH2O (which is about 15mmHg) and sometimes we go up to 40cmH2O (which is about 30mmHg). These pressures are much weaker than what we’d achieve with normal suction devices. This is important to note, because in the event that we don’t have an atrium on hand (which, as we mentioned, attenuates the pressure to a specific goal), we might be tempted to simply hook up the suction and let it suck all the bad stuff out. This is dangerous because we can injure lung tissue and cause further damage if we use excess suction. Also, it isn’t necessary because, as we already said, whatever fluid has accumulated in the pleural space will likely make its way out via the chest tube passively.
 
@@ -40,23 +40,23 @@ We need a one-way valve in the system because if we allow air to go back into th
 
 One-way valves in chest tube systems can take either of two forms. The first is a mechanical one-way valve that we add to the end of the chest tube:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/03-valve.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/03-valve.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 That photo is from an article titled [“Heimlich Valve and Pneumothorax”](https://atm.amegroups.org/article/view/5908/6685) that provides quite a bit of detail on the little device and how to use it.
 
 A one-way valve can also be improvised with a glove or a bag:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/04-improv-valve.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/04-improv-valve.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 For a text-based explanation and the above photo, read: [“Improvised Chest Tube Valve for Intra-Hospital Transport”](https://www.vpci.org.in/uploads/Correspondence%282%29.pdf)
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/05-improv-valve-two.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/05-improv-valve-two.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 And this second example which shows how we might do the thing with a glove and a rubber band is from the show notes of an episode of The Dustoff Medic podcast which, sadly, is no longer available: [“Tube Thoracostomy (Part 2)”](https://dustoffmedicpodcast.com/episode-33-chest-tube-2/)
 
 The other way to do this one-way valve thing is to use a water seal. To make this happen, we simply run tubing from the chest tube into a container of water or saline. As the patient exhales, air that might be in the pleural space escapes from the chest tube via the tubing and it travel up through the fluid into the atmosphere. Then as the patient inhales, the water prevents air from being sucked back into the tubing via the chest tube. A simple setup of this looks like so:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/06-atrium-passive.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/06-atrium-passive.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 It’s also worth noting that in both systems, either the mechanical valve or a water seal, fluid can also escape. This movement of fluid, however, is largely dependent on gravity, so be sure to keep the system below the level of where the chest tube enters the body. This also prevents whatever has drained into the collection chamber from accidentally making its way back into the pleural space if the container is too full and tips.
 
@@ -64,13 +64,13 @@ Recap number two. Chest tubes can either be placed to suction or be allowed to d
 
 In practice in the modern healthcare system, we pretty much always use an atrium system.  This was noted above when we explained that the atrium allows us, among other things, to dial down or attenuate the suction to a specific goal. The atrium serves as a collecting vessel (so we can measure output), a water seal, and a suction device - all in one! Here is a labeled example of one such device:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/07-atrium-legit.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/07-atrium-legit.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 The above image and the next one are borrowed from Deranged Physiology. For links to pages that have all you need to know about setting up these types of devices, look at the references section at the bottom of their writeup: [“Underwater Chest Drain System”](https://derangedphysiology.com/main/required-reading/intensive-care-procedures/Chapter-262/underwater-seal-chest-drain-system)
 
 We can also improvise this setup with buckets and tubing we likely have laying around:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/08-water-seal-sketch.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/08-water-seal-sketch.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 Note that the water level in which the tubing is submerged in the third (right-most) bottle correlates to suction applied, regardless of what the suction device or machine is set to. A 10cm column of water means we end up with 10cmH2O (8ish mmHg) of negative pressure in the system.
 
@@ -82,11 +82,11 @@ And then the transition to water seal step happens when we think the lung has re
 
 And here’s a one-page cheat sheet to summarize or review those things: [ICU One-Pager “Chest Tubes”](https://onepagericu.com/chest-tubes)
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/09-one-pager.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/09-one-pager.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 As a quick side note: there are many places around the world that don’t use suction at all and simply manage chest tubes by water seal alone. It’s just that the lung re-inflates slower without the extra assistance of applied suction. We showed one example already, but here’s another:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/10-glass-bottle.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/10-glass-bottle.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 Next let’s talk about problems that can happen along the way. Problems basically come in two flavors - either the system is broken open in some way or it inadvertently gets occluded. There are also issues related to increases and decreases in output, but that’s a bit beyond the scope of this discussion. Suffice it to say we should receive in our patient report or handoff what is to be expected, in terms of output, and what it might indicate if we are significantly above or below that goal.
 
@@ -96,11 +96,11 @@ In the mechanically ventilated patient, the situation is a bit different. Imagin
 
 That said, this situation rarely happens. More often a chest tube is placed in response to some sort of trauma that penetrates deeper than the pleural space and its linings and goes into the lung tissue itself. In these sorts of injuries air can get into the pleural space as we deliver positive-pressure breaths from the airways themselves - air simply escapes from the site of injury at the lung tissue and gets into the pleural space from the inside. A chest tube gives that air in the pleural space a place to escape to, so long as it is patent and open. Think of it as pneumothorax occurring from the inside out rather than the outside in:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/11-internal-air-leak.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/11-internal-air-leak.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 Versus how we often think of it (shown below). And this how we think of it situation may be specific to EMS because we seem to focus a lot on traumatic injuries and chest seals and the like.
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/12-external-air-leak.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/12-external-air-leak.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 This idea of a continuum between pneumothorax and bronchopleural fistula is mentioned here, along with a general overview of the ICU management of both issues: [IBCC Chapter on “Pneumothorax and Bronchopleural Fistula (BPF)”](https://emcrit.org/ibcc/pneumothorax/)
 
@@ -110,11 +110,11 @@ In other places, however, it is common practice to clamp the tube during transit
 
 One way to conceptualize this is by way of a matrix. Clamping and disconnection have different likelihoods of poor outcome (i.e., a pneumothorax, new or worsening) depending on whether the patient is breathing spontaneously or mechanically ventilated:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/13-risk-of-pneumo.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/13-risk-of-pneumo.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 There’s also a time component, as these risks of complication decrease with resolution of the pneumothorax:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/14-risk-pneumo-time.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/14-risk-pneumo-time.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 If we agree on these two matrices, which may actually be up for interpretation (and do reach out with thoughts on this!), the only risky scenario that is consistently risky would be spontaneously breathing patient with an accidental disconnect. So we could make the case to clamp the chest tube for spontaneously breathing patients and then either apply that rule across the board or have an alternate “leave unclamped” rule for vented patients.
 
@@ -124,7 +124,7 @@ This decision, however, could arguably vary depending on what sort of system we 
 
 In the scenario shown below, a patient has been packaged for transport with a water seal system placed between his legs. There is a risk that the bucket could spill or tip and that fluid could make its way back into the pleural space. Or even that the distal end of the suction tube gets released to air and therefore the water seal is broken. For this reason, some may advocate to clamp the tube during movement.
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/15-gaza-hemo-pic.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/15-gaza-hemo-pic.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 And then what about suction? Totally AOK to stop suction, transition to water seal, then reattach to suction later on. Suction is used to facilitate re-inflation, but stopping or pausing it doesn’t mean that the lung will automatically deflate again. The water seal is our one-way valve to keep things stable and maintain progress until we get suction up and running again.
 
@@ -138,7 +138,7 @@ Video demonstration of one technique that can be used to secure a chest tube wit
 
 And here’s a screenshot of the procedure halfway through that shows one of two clamps in place to give the gist of the thing:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/16-securing-the-tube.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/16-securing-the-tube.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 We could also use copious amount of whatever super-sticky tape happens to be on hand, so long as we keep the tube in place and don’t inhibit normal chest wall movement in the process.
 
@@ -154,7 +154,7 @@ If the tube dislodges only partly, we need to determine if it’s still useful o
 
 If we have a chest tube to an improvised water seal or to a one-way valve in which we can’t apply suction, we may be able to hear or feel a leak instead. We can also look at the thing directly, which will require taking the dressing down to visualize where the tube enters the skin, and see if it’s still where it should be - if we see holes (aka fenestrations), then we have a problem.
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/17-fenestrations.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/17-fenestrations.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 Image showing fenestrations in chest tubes borrowed from [“Managing Chest Tubes: Air Leaks and Unplanned Removal”](https://www.myamericannurse.com/managing-chest-tubes-air-leaks-unplanned-tube-removal/)
 
@@ -168,7 +168,7 @@ Reinsertion of the same tube is generally discouraged due to concerns for steril
 
 Alternatively, we could, theoretically, leave the thing as is and cover with a chest seal or air-tight tape or occlusive dressing - basically try to reseal the device and hope that the tip of the tube remains in the pleural space. We aren’t actually aware of any case studies or documentation of salvaging a chest tube in this way by using a chest seal or the like, but if anyone out there has anything on the idea [get in touch](https://www.rykerrmedical.com/talk-to-us) and we’ll look into it. It seems unlikely and would generally be discouraged, as we’d likely end up with lots of subcutaneous air - if we can see holes or fenestrations outside the body, there are more on the inside and they may track into the tissue of the chest wall. So resealing a partially dislodged tube is probably not a good idea. And this would matter more (as in be a more significant problem) with a mechanically ventilated patient.
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/18-patch-the-tube.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/18-patch-the-tube.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 And if we do decide to reinsert or salvage a partially dislodged chest tube that was previously to water seal, it may make sense to apply suction once we get the thing working again. Applying suction alone will not fix the problem of a dislodged tube with a leak but can help mitigate the development of a pneumothorax or the spread of subcutaneous emphysema after the primary fix is in place.
 
@@ -178,7 +178,7 @@ Video demonstration of a simulated chest tube removal: [HealthPartnersMedEd “C
 
 If the chest tube remains in place and has not dislodged, rather it is simply the case that the tubing extending from it has disconnected somehow, this too can also cause problems.
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/19-disconnect-sketch.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/19-disconnect-sketch.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 For the spontaneously breathing patient, this situation can cause the development of a pneumothorax. First step, then, is to clamp the tube to prevent that pneumothorax from developing, then get your system and one-way valve back in action. For the ventilated patient the need to clamp the thing right away may be less important, so just get the system set back up.
 
@@ -186,7 +186,7 @@ If there are time and resources, recall that this circuit of atrium, tubing, che
 
 Now it may have become apparent that there’s a bit of nuance to this discussion depending on whether the patient is ventilated or not. If we can remember those specifics, great. If not, fine. We can also manage chest tube issues with a systematic process that is the same regardless of what is going on with the patient. The reason we can do this, despite all the differences discussed, is that all of the bad outcome scenarios take time to develop. So if we have a system in place to correct an issue in a timely manner, it doesn’t really impact the patient in an adverse way overall.
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/20-emoji.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/20-emoji.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 Let’s play it out step by step to make this idea clear. Imagine we are loading a patient with a chest tube into our ambulance or aircraft. The chest tube snags on something, gets tugged, and the tubing to the atrium disconnects. Clamp the tube, reconnect to the atrium, and reassess. Specifically, reassess to make sure the chest tube is still in place and working as intended.
 
@@ -208,7 +208,7 @@ More on all of this and other fun things here: [“Thoracostomy Tubes: A Compreh
 
 And actual very last thing is what to use to clamp the tube. Whatever is on hand. Some atriums have little plastic slider clamps that can be used along the tubing itself:
 
-<img src="{{ '/assets/images/2025-01-07-chest-tubes/21-clamp-circled.jpeg' | relative_url }}" alt="chest tube sketches" />
+<img src="{{ '/assets/images/blog/2025-01-07-chest-tubes/21-clamp-circled.jpeg' | relative_url }}" alt="chest tube sketches" />
 
 You can also pinch the tube or tubing with fingers, fold it over on itself and tape it, use clamps, etc. Doesn’t much matter which type of clamp, but if we have access to big ones with no teeth, that’d be preferred. And if not, even the small ones with teeth work just fine. Chest tubes and suction tubing are thick and fairly difficult to chew apart. The more important thing is to work through troubleshooting systematically and remove the clamp once the system is working again as it should.
 

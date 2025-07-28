@@ -1,7 +1,7 @@
 ---
 title: Continuing Education
-permalink: /coned-ceus/
 layout: default
+permalink: /coned-ceus/
 ---
 
 # Continuing Education
@@ -15,3 +15,11 @@ Note that not all of the offering on EdApp are for credit, some are drafts/ just
 [EdAPP Page](https://link.edapp.com/WpGuSzZfilb)
 [EMSI at SFCC](https://www.sfcc.edu/programs/paramedicine/)
 
+### Summary of Offerings
+
+[Vent Book v1 Review Question - 8 hours](https://link.edapp.com/WpGuSzZfilb)
+...more to come soon!
+
+### Sample CEU Cert for Reference
+
+add image here

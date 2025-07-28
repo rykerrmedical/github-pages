@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Vent Management</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/github-pages/assets/css/style.css" />
+  <style>
+    @media (max-width: 768px) {
+      nav {
+        align-items: flex-end; /* hamburger right on mobile */
+      }
+
+      #nav-toggle {
+        display: block;
+        margin-bottom: 0.5rem;
+      }
+
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+      }
+
+      .nav-links.active {
+        display: flex;
+      }
+
+      .nav-links a {
+        padding: 0.1rem 0;
+        font-size: 1rem;
+      }
+
+      .nav-links #close-menu {
+        display: none;
+      }
+
+      .nav-links.active #close-menu {
+        display: block !important;
+        padding: 0.1rem 0;
+        font-size: 1rem;
+        color: #747373;
+        font-style: normal;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+    <div id="nav-links" class="nav-links">
+        <a href="/github-pages/">Home</a>
+        <a href="/github-pages/clinical-resources/">Clinical Resources</a>
+        <a href="/github-pages/coned-ceus/">ConEd/ CEUs</a>
+        <a href="/github-pages/blog/">Blog</a>
+        <a href="/github-pages/podcast/">Podcast</a>
+        <a href="/github-pages/the-tech-side/">The Tech Side</a>
+        <a href="/github-pages/talk-to-us/">Talk to Us</a>
+        <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
+    </div>
+  </nav>
+
+  <main class="homepage">
+    <h1 id="vent-management-book">Vent Management Book</h1>
+
+<p>View &amp; Download the Book for Free!
+Buy a Copy (but know the pdf is free)</p>
+
+<p>There’s a short story in the document about how this whole idea got kicked off, but suffice it to say that there was a bad experience that served as the catalyst to the whole thing.  That was back in NM a few years ago, hence a bit of overflow into the Rykerr Medical LLC logo. Anyways, the hope is that resources like this can help others avoid that sort of personal development experience.</p>
+
+<p>And to help contribute to Version 2 - add comments to the Google Doc and read about it below.</p>
+
+<h3 id="the-process">The Process</h3>
+
+<p>It would be a total lie to say that the Vent Book was written from an existing knowledge base in one person’s brain.  It resulted from a process that included lots of research and lots of drafts.  We believe that it’s totally OK not to know things and then to actively pursue explanations for those things along the way.  Just to demonstrate (and also as a practice in self-humiliation…), we’ve included prior drafts of this book with handwritten edits so that the curious can see how the final product came to be.</p>
+
+<h3 id="the-sharing-style">The Sharing Style</h3>
+
+<p>One of the things we’ve tried to do with this manual is to present material in a unique way that may make more sense to some people.  None of the content is new, per se, but the way it has been set out or demonstrated graphically may help some folks out.  We built the graphics in PowerPoint and hope that they help solidify some of the concepts a bit better than pure text.</p>
+
+<p>And if you are interested in helping out with graphics in future editions or other projects, navigate on over to Talk to Us and get in touch!</p>
+
+<p>###The QR Code Thing</p>
+
+<p>There’s a video on this over in The Tech Side, but the idea was that we wanted anyone with a print version to have easy access to the references (articles, websites, videos, podcasts, etc.).  We decided to go with QR codes that link through our website and on to whatever content is referenced.  If you come across a broken link or if the system seems to have failed, just Talk to Us and we’ll look into it.  And for those who are curious how we’ve set this whole thing up, just take a look at the QR Code Thing video we made explaining the whole idea.</p>
+
+<p>###The Future</p>
+
+<p>It is inevitable that the final version we have posted on this page could be made better in many ways, so the idea is that this is to be an ongoing project with future versions to come out over time.  Any and all feedback is both welcome and encouraged, so feel free to get in touch if you have feedback, critiques, or ideas on how we might communicate concepts differently.</p>
+
+<p>And if you’d like to pitch in on the next edition, feel free to contribute by adding comments here: Version 2 Draft</p>
+
+  </main>
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+    const closeMenu = document.getElementById('close-menu');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !isOpen);
+      navLinks.classList.toggle('active');
+      navToggle.textContent = isOpen ? 'Menu' : '';
+    });
+
+    closeMenu.addEventListener('click', (e) => {
+      e.preventDefault();
+      navToggle.setAttribute('aria-expanded', 'false');
+      navLinks.classList.remove('active');
+      navToggle.textContent = 'Menu';
+    });
+  </script>
+</body>
+</html>
+

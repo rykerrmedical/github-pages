@@ -1,28 +1,168 @@
+/* === Fonts === */
 @font-face {
   font-family: 'Black Ground';
-  src: url('/assets/fonts/BlackGround.ttf') format('truetype');
+  src: url('/github-pages/assets/fonts/BlackGround.woff') format('woff'),
+       url('/github-pages/assets/fonts/BlackGround.ttf') format('truetype'),
+       url('/github-pages/assets/fonts/BlackGround.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
-h1, h2, h3 {
-  font-family: 'Black Ground', sans-serif;
-}
-/* Custom font Black Ground */
-@font-face {
-  font-family: 'Black Ground';
-  src: url('/assets/fonts/BlackGround.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-/* Body text uses Apple Symbols if available, else fallback */
+/* === Base Styles === */
 body {
-  font-family: 'Apple Symbols', sans-serif;
+  font-family: "Apple Symbols", sans-serif;
+  background-color: #060608;
+  color: #747373;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
 }
 
-/* Headers use Black Ground */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Black Ground', sans-serif;
+  color: #a31232;
+  text-align: left;
+}
+
+a {
+  color: #a31232;
+  text-decoration: underline;
+}
+
+/* === Navigation === */
+nav {
+  background-color: #060608;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* center nav items on desktop */
+  padding: 1rem 2rem;
+}
+
+#nav-toggle {
+  display: none;
+  font-size: 2rem;
+  background: none;
+  border: none;
+  color: #a31232;
+  cursor: pointer;
+  font-family: 'Black Ground', sans-serif;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+  flex-wrap: nowrap;
+}
+
+.nav-links a {
+  font-family: 'Black Ground', sans-serif;
+  color: #a31232;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  white-space: nowrap;
+}
+
+.nav-links a:hover {
+  color: #747373;
+}
+
+/* === Homepage Container === */
+.homepage {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #1a1a1a;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+  text-align: left;
+}
+
+/* === Logo Section === */
+.logo-banner {
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 1rem;
+}
+
+.logo-wrapper {
+  background-color: #e0e0e0;
+  display: block;
+  padding: 2rem;
+  border-radius: 8px;
+  margin: 0 auto 1.5rem auto;
+  max-width: 100%;
+  width: fit-content;
+}
+
+.logo-img {
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+}
+
+/* === Center images/videos === */
+main img {
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+}
+
+
+/* === Format form buttons on Talk to Us page === */
+form button {
+  background-color: #a31232;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  font-family: 'Black Ground', sans-serif;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #741021; /* darker red on hover */
+}
+
+/* Podcast episode list */
+#episode-list h3 {
+  font-family: 'Black Ground', sans-serif;
+  color: #a31232;
+}
+
+#episode-list audio {
+  border: 1px solid #a31232;
+  border-radius: 4px;
+}
+
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin: 2rem auto;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+  background-color: #1a1a1a;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 

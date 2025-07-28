@@ -4,74 +4,113 @@
   <meta charset="UTF-8" />
   <title>The Tech Side</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/github-pages/assets/css/style.css" />
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Black+Ground&display=swap');
+    @media (max-width: 768px) {
+      nav {
+        align-items: flex-end; /* hamburger right on mobile */
+      }
 
-    body {
-      font-family: "Apple Symbols", sans-serif;
-      background-color: #060608;
-      color: #747373;
-      padding: 2rem;
-      line-height: 1.6;
-      margin: 0;
-    }
+      #nav-toggle {
+        display: block;
+        margin-bottom: 0.5rem;
+      }
 
-    h1, h2, h3 {
-      font-family: 'Black Ground', sans-serif;
-      color: #a31232;
-    }
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+      }
 
-    a {
-      color: #a31232;
-      text-decoration: underline;
-    }
+      .nav-links.active {
+        display: flex;
+      }
 
-    nav {
-      background-color: #060608;
-      padding: 1rem 2rem;
-      text-align: center;
-    }
+      .nav-links a {
+        padding: 0.1rem 0;
+        font-size: 1rem;
+      }
 
-    nav a {
-      font-family: 'Black Ground', sans-serif;
-      color: #a31232;
-      text-decoration: none;
-      margin: 0 15px;
-      font-weight: bold;
-      font-size: 1.1rem;
-    }
+      .nav-links #close-menu {
+        display: none;
+      }
 
-    nav a:hover {
-      color: #747373;
-    }
-
-    .homepage {
-      max-width: 800px;
-      margin: 0 auto;
-      background: #1a1a1a;
-      padding: 2rem;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+      .nav-links.active #close-menu {
+        display: block !important;
+        padding: 0.1rem 0;
+        font-size: 1rem;
+        color: #747373;
+        font-style: normal;
+      }
     }
   </style>
 </head>
 <body>
   <nav>
-    <a href="/">Home</a>
-    <a href="/clinical-resources/">Clinical Resources</a>
-    <a href="/coned-ceus/">ConEd/ CEUs</a>
-    <a href="/blog/">Blog</a>
-    <a href="/podcast/">Podcast</a>
-    <a href="/the-tech-side/">The Tech Side</a>
-    <a href="/talk-to-us/">Talk to Us</a>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+    <div id="nav-links" class="nav-links">
+        <a href="/github-pages/">Home</a>
+        <a href="/github-pages/clinical-resources/">Clinical Resources</a>
+        <a href="/github-pages/coned-ceus/">ConEd/ CEUs</a>
+        <a href="/github-pages/blog/">Blog</a>
+        <a href="/github-pages/podcast/">Podcast</a>
+        <a href="/github-pages/the-tech-side/">The Tech Side</a>
+        <a href="/github-pages/talk-to-us/">Talk to Us</a>
+        <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
+    </div>
   </nav>
 
-  <h1 id="the-tech-side">The Tech Side</h1>
+  <main class="homepage">
+    <h1 id="the-tech-side">The Tech Side</h1>
 
-<p>Writeups on how we built this site, our tech stack, and tools we use.</p>
+<h5><a href="#qrcode">The QR Code Thing</a></h5>
+<h5><a href="#feed">RSS Feed Strategy</a></h5>
 
+<p>This page is where we link and discuss all the non-clinical nerdy things.  Part of the Rykerr Medical project is innovative use of technology, so that’s what this lil bit is all about.</p>
 
+<h3 id="qrcode">The QR Code Thing</h3>
+
+<p>In the Vent Book we used QR codes to direct readers to all of the references and sources cited.  This is cool if you happen to print off a copy and can’t be bothered to type in URLs to double check the stuff we’ve come up with.  Now you can just smartphone the QR codes and get in on a whole ‘nuther level of study.</p>
+
+<p>Now the process of putting that system together was a bit complicated, so we’ve put together a video to show you how to do the same for whatever project you might have in the works.  Take a look and let us know what you think.</p>
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/NcUvnpnGFto" title="The QR Code Thing" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="feed">RSS Feed Strategy</h3>
+
+<p>We finally figured out how to build and manage our own RSS feed for the podcast and have made some resources so you can do the same with your own project if you’re up for it.  It’s a two-part deal: <a href="https://www.rykerrmedical.com/post/rykerr-medical-s-podcast-hosting-strategy">blog post</a> and <a href="https://youtu.be/nNosYLXTu_A?si=TuwtV_8AYpFcjGH8">youtube video</a>.  Check ‘em both out and let us know how it goes!</p>
+
+<p>​Pros: doesn’t cost any money, allows you to port your podcast project wherever you want, learn some cool nerdy tech stuff</p>
+
+<p>​Cons: required reading, required video watching, sitting at a computer</p>
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/nNosYLXTu_A" title="Rykerr Medical's Podcast Hosting Strategy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+  </main>
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+    const closeMenu = document.getElementById('close-menu');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !isOpen);
+      navLinks.classList.toggle('active');
+      navToggle.textContent = isOpen ? 'Menu' : '';
+    });
+
+    closeMenu.addEventListener('click', (e) => {
+      e.preventDefault();
+      navToggle.setAttribute('aria-expanded', 'false');
+      navLinks.classList.remove('active');
+      navToggle.textContent = 'Menu';
+    });
+  </script>
 </body>
 </html>
 

@@ -4,80 +4,127 @@
   <meta charset="UTF-8" />
   <title>Clinical Resources</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/github-pages/assets/css/style.css" />
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Black+Ground&display=swap');
+    @media (max-width: 768px) {
+      nav {
+        align-items: flex-end; /* hamburger right on mobile */
+      }
 
-    body {
-      font-family: "Apple Symbols", sans-serif;
-      background-color: #060608;
-      color: #747373;
-      padding: 2rem;
-      line-height: 1.6;
-      margin: 0;
-    }
+      #nav-toggle {
+        display: block;
+        margin-bottom: 0.5rem;
+      }
 
-    h1, h2, h3 {
-      font-family: 'Black Ground', sans-serif;
-      color: #a31232;
-    }
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+      }
 
-    a {
-      color: #a31232;
-      text-decoration: underline;
-    }
+      .nav-links.active {
+        display: flex;
+      }
 
-    nav {
-      background-color: #060608;
-      padding: 1rem 2rem;
-      text-align: center;
-    }
+      .nav-links a {
+        padding: 0.1rem 0;
+        font-size: 1rem;
+      }
 
-    nav a {
-      font-family: 'Black Ground', sans-serif;
-      color: #a31232;
-      text-decoration: none;
-      margin: 0 15px;
-      font-weight: bold;
-      font-size: 1.1rem;
-    }
+      .nav-links #close-menu {
+        display: none;
+      }
 
-    nav a:hover {
-      color: #747373;
-    }
-
-    .homepage {
-      max-width: 800px;
-      margin: 0 auto;
-      background: #1a1a1a;
-      padding: 2rem;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+      .nav-links.active #close-menu {
+        display: block !important;
+        padding: 0.1rem 0;
+        font-size: 1rem;
+        color: #747373;
+        font-style: normal;
+      }
     }
   </style>
 </head>
 <body>
   <nav>
-    <a href="/">Home</a>
-    <a href="/clinical-resources/">Clinical Resources</a>
-    <a href="/coned-ceus/">ConEd/ CEUs</a>
-    <a href="/blog/">Blog</a>
-    <a href="/podcast/">Podcast</a>
-    <a href="/the-tech-side/">The Tech Side</a>
-    <a href="/talk-to-us/">Talk to Us</a>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+    <div id="nav-links" class="nav-links">
+        <a href="/github-pages/">Home</a>
+        <a href="/github-pages/clinical-resources/">Clinical Resources</a>
+        <a href="/github-pages/coned-ceus/">ConEd/ CEUs</a>
+        <a href="/github-pages/blog/">Blog</a>
+        <a href="/github-pages/podcast/">Podcast</a>
+        <a href="/github-pages/the-tech-side/">The Tech Side</a>
+        <a href="/github-pages/talk-to-us/">Talk to Us</a>
+        <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
+    </div>
   </nav>
 
-  <h1 id="clinical-resources">Clinical Resources</h1>
+  <main class="homepage">
+    <h1 id="clinical-resources">Clinical Resources</h1>
 
-<ul>
-  <li><a href="/clinical-resources/airway-stuff/">Airway Stuff</a></li>
-  <li><a href="/clinical-resources/vent-management/">Vent Management Book</a></li>
-  <li><a href="/clinical-resources/protocols-and-cheat-sheets/">Protocols and Cheat Sheets</a></li>
-  <li><a href="/clinical-resources/medication-guidelines/">Medication Guidelines</a></li>
-  <li><a href="/clinical-resources/notecards/">Notecards</a></li>
-</ul>
+<h5><a href="#airway">Airway Stuff</a></h5>
+<h5><a href="#vent">Vent Management Book</a></h5>
+<h5><a href="#protocols">Protocols and Cheat Sheets</a></h5>
+<h5><a href="#medications">Medication Guidelines</a></h5>
+<h5><a href="#notecards">Notecards</a></h5>
+
+<h3 id="airway">
+  <a href="/github-pages/clinical-resources/airway-stuff/">Airway Stuff</a>
+</h3>
+
+<p>Just follow the link above for all of the fun things we’ve collected and built on the subject of airway management.  More to come and, as always, let us know if there’s things missing in our offerings!</p>
+
+<h3 id="vent">
+  <a href="/github-pages/clinical-resources/vent-management-book/">Vent Management Book</a>
+</h3>
+
+<p>We built this resource for transport clinicians to learn more about vent management in the field, but it’s also applicable to other clinicians who work with vents.  Take a look and let us know what you think!</p>
+
+<p><a href="https://www.rykerrmedical.com/_files/ugd/f294f6_a1a3373f752e4aacb65bf7d53dab0d42.pdf?index=true">Vent Management Guide</a></p>
+
+<p>(link goes to the free pdf version, to buy a print version on amazon just <a href="https://www.rykerrmedical.com/vent-management">visit the page</a>)</p>
+
+<p>And for the backstory, discussion of things moving forward, and other fun things, <a href="https://www.rykerrmedical.com/vent-management">continue to the full page</a>.</p>
+
+<h3 id="protocols">
+  <a href="/github-pages/clinical-resources/protocols-and-cheat-sheets/">Protocols and Cheat Sheets</a>
+</h3>
+
+<p>Protocols in EMS tend to read like books: lots of text, a few charts, maybe some clinical context/ further information.  We suggest a different approach to providing guidance to clinicians based on the idea that such direction should be formatted in a way that makes it easier to utilize in the field.  Take a look at a few of the concepts here and feel free to reach out with feedback and/ or additional examples.</p>
+
+<h3 id="medications">
+  <a href="/github-pages/clinical-resources/medication-guidelines/">Medication Guidelines</a>
+</h3>
+<p>Here’s a med formulary that may be helpful for those working in CCT.  The someday plan would be to expand this concept into a workable pdf or app where anyone could customize the specific doses for their agency.  But alas, that’s too much work for the moment…  Check it out anyways and let us know what you think.</p>
+
+<h3 id="notecards">
+  <a href="/github-pages/clinical-resources/notecards/">Notecards</a>
+</h3>
+<p>This page is and will be a collection of virtual note cards that we’ve put together for a few things.  As time allows, we’ll expand the stuff on offer.  And eventually we’ll get a video up over on <a href="https://www.rykerrmedical.com/non-clinical-things">The Tech Side</a> to talk about how to use apps like Brainscape and AnkiApp to facilitate this sort of self-study</p>
 
 
+  </main>
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+    const closeMenu = document.getElementById('close-menu');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !isOpen);
+      navLinks.classList.toggle('active');
+      navToggle.textContent = isOpen ? 'Menu' : '';
+    });
+
+    closeMenu.addEventListener('click', (e) => {
+      e.preventDefault();
+      navToggle.setAttribute('aria-expanded', 'false');
+      navLinks.classList.remove('active');
+      navToggle.textContent = 'Menu';
+    });
+  </script>
 </body>
 </html>
 

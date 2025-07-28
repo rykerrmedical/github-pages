@@ -2,108 +2,95 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Rykerr Medical LLC</title>
+  <title>Cool Stuff for Clinicians</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/github-pages/assets/css/style.css" />
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Black+Ground&display=swap');
+    @media (max-width: 768px) {
+      nav {
+        align-items: flex-end; /* hamburger right on mobile */
+      }
 
-    body {
-      font-family: "Apple Symbols", sans-serif;
-      background-color: #060608;
-      color: #747373;
-      padding: 2rem;
-      line-height: 1.6;
-      margin: 0;
-    }
+      #nav-toggle {
+        display: block;
+        margin-bottom: 0.5rem;
+      }
 
-    h1, h2, h3 {
-      font-family: 'Black Ground', sans-serif;
-      color: #a31232;
-    }
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+      }
 
-    a {
-      color: #a31232;
-      text-decoration: underline;
-    }
+      .nav-links.active {
+        display: flex;
+      }
 
-    nav {
-      background-color: #060608;
-      padding: 1rem 2rem;
-      text-align: center;
-    }
+      .nav-links a {
+        padding: 0.1rem 0;
+        font-size: 1rem;
+      }
 
-    nav a {
-      font-family: 'Black Ground', sans-serif;
-      color: #a31232;
-      text-decoration: none;
-      margin: 0 15px;
-      font-weight: bold;
-      font-size: 1.1rem;
-    }
+      .nav-links #close-menu {
+        display: none;
+      }
 
-    nav a:hover {
-      color: #747373;
-    }
-
-    .homepage {
-      max-width: 800px;
-      margin: 0 auto;
-      background: #1a1a1a;
-      padding: 2rem;
-      border-radius: 12px;
-      box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
+      .nav-links.active #close-menu {
+        display: block !important;
+        padding: 0.1rem 0;
+        font-size: 1rem;
+        color: #747373;
+        font-style: normal;
+      }
     }
   </style>
 </head>
 <body>
   <nav>
-    <a href="/">Home</a>
-    <a href="/clinical-resources/">Clinical Resources</a>
-    <a href="/coned-ceus/">ConEd/ CEUs</a>
-    <a href="/blog/">Blog</a>
-    <a href="/podcast/">Podcast</a>
-    <a href="/the-tech-side/">The Tech Side</a>
-    <a href="/talk-to-us/">Talk to Us</a>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+    <div id="nav-links" class="nav-links">
+        <a href="/github-pages/">Home</a>
+        <a href="/github-pages/clinical-resources/">Clinical Resources</a>
+        <a href="/github-pages/coned-ceus/">ConEd/ CEUs</a>
+        <a href="/github-pages/blog/">Blog</a>
+        <a href="/github-pages/podcast/">Podcast</a>
+        <a href="/github-pages/the-tech-side/">The Tech Side</a>
+        <a href="/github-pages/talk-to-us/">Talk to Us</a>
+        <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
+    </div>
   </nav>
 
-  <style>
-@import url('https://fonts.googleapis.com/css2?family=Black+Ground&display=swap');
-
-body {
-  font-family: "Apple Symbols", sans-serif;
-  background-color: #060608;
-  color: #747373;
-  padding: 2rem;
-  line-height: 1.6;
-}
-
-h1, h2, h3 {
-  font-family: 'Black Ground', sans-serif;
-  color: #a31232;
-}
-
-a {
-  color: #a31232;
-  text-decoration: underline;
-}
-
-.homepage {
-  max-width: 800px;
-  margin: 0 auto;
-  background: #1a1a1a;
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 0 10px rgba(163, 18, 50, 0.5);
-}
-</style>
-
-<div class="homepage">
-  <h1>Welcome to Rykerr Medical LLC</h1>
-  <p>We are in the process of moving <a href="https://www.rykerrmedical.com">www.rykerrmedical.com</a> over here to GitHub.</p>
-  <p>For now, continue to see all of our content at the original site. Once this page is fully live, all updates will be hosted here.</p>
+  <main class="homepage">
+    <div class="logo-wrapper">
+  <p><img src="/github-pages/assets/images/rykerr-logo.png" alt="Rykerr Logo" class="logo-img" /></p>
 </div>
 
+<h2 id="about-rykerr-medical">About Rykerr Medical</h2>
+
+<p>Here at Rykerr Medical we believe in freely sharing experience and know-how so that others can thrive in the clinical setting.  At the same time, however, this project is a way for us to learn through presentation — trying to explain concepts is one of the best ways to ensure understanding and identify gaps in knowledge.  While most of the content is and will be geared towards EMS folks and nurses in the transport setting, we hope that others will benefit from what we’ve got going on.  Last thing: Rykerr Medical is a collaborative platform and we welcome any and all feedback. Don’t ever hesitate to get in touch if you’d like to get involved or offer feedback.</p>
+
+
+  </main>
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+    const closeMenu = document.getElementById('close-menu');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !isOpen);
+      navLinks.classList.toggle('active');
+      navToggle.textContent = isOpen ? 'Menu' : '';
+    });
+
+    closeMenu.addEventListener('click', (e) => {
+      e.preventDefault();
+      navToggle.setAttribute('aria-expanded', 'false');
+      navLinks.classList.remove('active');
+      navToggle.textContent = 'Menu';
+    });
+  </script>
 </body>
 </html>
 

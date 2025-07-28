@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Welcome to the Rykerr Medical Blog!</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/github-pages/assets/css/style.css" />
+  <style>
+    @media (max-width: 768px) {
+      nav {
+        align-items: flex-end; /* hamburger right on mobile */
+      }
+
+      #nav-toggle {
+        display: block;
+        margin-bottom: 0.5rem;
+      }
+
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+      }
+
+      .nav-links.active {
+        display: flex;
+      }
+
+      .nav-links a {
+        padding: 0.1rem 0;
+        font-size: 1rem;
+      }
+
+      .nav-links #close-menu {
+        display: none;
+      }
+
+      .nav-links.active #close-menu {
+        display: block !important;
+        padding: 0.1rem 0;
+        font-size: 1rem;
+        color: #747373;
+        font-style: normal;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+    <div id="nav-links" class="nav-links">
+        <a href="/github-pages/">Home</a>
+        <a href="/github-pages/clinical-resources/">Clinical Resources</a>
+        <a href="/github-pages/coned-ceus/">ConEd/ CEUs</a>
+        <a href="/github-pages/blog/">Blog</a>
+        <a href="/github-pages/podcast/">Podcast</a>
+        <a href="/github-pages/the-tech-side/">The Tech Side</a>
+        <a href="/github-pages/talk-to-us/">Talk to Us</a>
+        <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
+    </div>
+  </nav>
+
+  <main class="homepage">
+    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Welcome to the Rykerr Medical Blog!</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2021-05-24T00:00:00+03:00" itemprop="datePublished">May 24, 2021
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Welcome to the Rykerr Medical Blog, a place where folks from around and across the medical industry can pitch in with ideas, thoughts, and expertise.  Here’s how it works: Rykerr Medical LLC hosts this blog and will occasionally contribute content, but it’s mainly a platform for content created by other providers out in the field.  And for the EMS folks, we are working to get accredited to award continuing education (CE) credits for contributions to both this project and a handful of others (for more on that, check out <a href="https://www.rykerrmedical.com/coned-ceus">www.rykerrmedical.com/coned-ceus</a>.  This CE exchange will be totally free and will someday (hopefully!) be expanded to include our nursing colleagues.  But to explain the whole idea in a bit more detail, we’re going to review how it all started and then outline how you can get in on it.</p>
+
+<p>The idea with this project is twofold. First is that many clinicians in the field have valuable insight to offer, but not everyone has access to a platform or a mechanism to share that insight.  Rykerr Medical is a way for these folks to contribute one-off content production with others in the field so that individuals who wish to give don’t have to mess with developing an entire project and/ or establishing a following to gain access to an audience.  Second idea behind it all is that building or producing content is an awesome way to learn and establish one’s own understanding of something - this blog and other projects within the overall Rykerr Medical project allow clinicians to explore that avenue.  The folks at Rykerr Medical and the community at large can offer feedback during and after, respectively, to help hone and refine ideas and specifics of a given presentation.</p>
+
+<p>As for the workflow: if you’ve got an idea you’d like to explore, whether it be for this blog, the podcast, our YouTube channel, etc., just head on over to website and fill out an activity application (again, that’s at <a href="https://www.rykerrmedical.com/coned-ceus">www.rykerrmedical.com/coned-ceus</a>). Fill that out to let us know what you want to work on. The hope is that eventually your labor will be awarded with CEs, but for now it’s just for those warm fuzzies and the satisfaction of taking part in something awesome. And also your effort will help us finalize our application to get accredited and move this idea forward. Once you get the green light from us, you are free to develop away.  Our volunteer committee will review your project once it gets submitted, compare against a rubric and either approve/ publish to the page or request revisions/ clarification as needed.  It’s as simple as that!</p>
+
+<p>It’s also worth mentioning that this program, even once we get accredited to award CEs, is entirely free to use.  Rykerr Medical LLC (which includes this blog and the other projects mentioned above) and the continuing education program we are working to build is and will be free to users and operates via a network of volunteers.  If you’d like to get involved on the back end of things as a content reviewer or in some other capacity, for sure reach out and we can have that conversation. And if you simply want to provide feedback in an informal capacity, you can leave comments here, drop us a note on the website, or get in touch via any of the social media things.  More on it all and other fun things at <a href="https://www.rykerrmedical.com">www.rykerrmedical.com</a>!</p>
+
+
+  </div><a class="u-url" href="/github-pages/2021/05/24/welcome-to-the-rykerr-medical-blog.html" hidden></a>
+</article>
+
+  </main>
+
+  <script>
+    const navToggle = document.getElementById('nav-toggle');
+    const navLinks = document.getElementById('nav-links');
+    const closeMenu = document.getElementById('close-menu');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !isOpen);
+      navLinks.classList.toggle('active');
+      navToggle.textContent = isOpen ? 'Menu' : '';
+    });
+
+    closeMenu.addEventListener('click', (e) => {
+      e.preventDefault();
+      navToggle.setAttribute('aria-expanded', 'false');
+      navLinks.classList.remove('active');
+      navToggle.textContent = 'Menu';
+    });
+  </script>
+</body>
+</html>
+

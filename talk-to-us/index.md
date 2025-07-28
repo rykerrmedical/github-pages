@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Talk to Us
+layout: default
 permalink: /talk-to-us/
 ---
 

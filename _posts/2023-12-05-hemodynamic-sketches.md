@@ -6,35 +6,35 @@ date: 2023-12-05
 
 Here’s a simple graphic that may help conceptualize what’s going on in the body when we discuss hemodynamics and different patterns associated with certain pathologies:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/overview-on-the-man.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/overview-on-the-man.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 In reality, its often a rough sketch in the margin of a piece of paper, but that’s the beauty of the thing – it’s a simple-to-draw framework for solving clinical problems:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/example-sketch.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/example-sketch.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 The basic idea is that we can visualize movement of blood through the heart, body and lungs.  We start with what is normal:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/flow-overview-gif.gif' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/flow-overview-gif.gif' | relative_url }}" alt="hemodynamic sketches" />
 
 From there, we can then add in complications or disruptions to this flow to represent different pathologic processes.  For example, let’s consider mitral valve stenosis.  First a review of the normal thing:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/heart-with-labels.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/heart-with-labels.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 And then we make that mitral valve stenotic (which decreases efficacy of movement across that valve) and adjust things as so:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/mitral-valve-stenosis.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/mitral-valve-stenosis.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 Early in the process we see blood flow back up into pulmonary circulation like so:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/early-mvs.gif' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/early-mvs.gif' | relative_url }}" alt="hemodynamic sketches" />
 
 And then with time we see issues on the right side of the heart also:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/late-mvs.gif' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/late-mvs.gif' | relative_url }}" alt="hemodynamic sketches" />
 
 This sort of exercise is particularly useful in testing scenarios where hemodynamic values or certain conditions are presented and we must decide what findings are most likely.  For example:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/tsi-sample.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/tsi-sample.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 Just have the normal ranges memorized or, better yet, have a reference card of some sort readily accessible.  Here’s a quick video of working through these questions one by one:
 
@@ -54,15 +54,15 @@ Adult male patient, myocardial infarction with Impella placement in cath lab aft
 
 Now here’s where troubleshooting and considering all these hemodynamic numbers comes in to play.  The only data point we have at the moment is a BP or a MAP, which roughly correlates to cardiac output so long as heart rate is reasonable and constant.  And that’s OK for now, but not a ton of information to be gleaned there.  We transduce the PAC for both a pulmonary artery pressure (PAP) and also to make sure we don’t inadvertently wedge en route – the PAP sheds a bit more light on the thing.  Consider whether it’s high or low and how that might look in our sketch:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/pap-sketch.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/pap-sketch.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 And then the next data point we could potentially get is a CVP.  We could do that either at the Cordis in the right IJ or and the proximal port on the PAC. While we’re at it, let’s review all of our access and what we can do at each of the various places:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/all-the-lines.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/all-the-lines.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 But assuming we do transduce one of the lines for a CVP and have that number available, here’s how the decision matrix of sketches might look:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/cvp-pap-chart-sketch.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/cvp-pap-chart-sketch.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 Now let’s say our PAP is high (which it was in the case presented).  Of that list of things on the high PAP side of the matrix there’s only so many things to do in transport, regardless of whether CVP is up or down.  We’re probably not going to diurese in flight or give inhaled nitro (but power to the people who do!), we can assess for tamponade and rule that out, we can optimize cardiac function with things like dobutamine or electrolyte replacement (i.e., calcium), and then we can give volume.  
 
@@ -78,11 +78,11 @@ Another framework for thinking about this would be to do a mental inventory of t
 
 Now that’s a complicated cardiac device case and we recognize that those are super rare and don’t come around all that often, so how about a more likely scenario.  Adult patient with pneumonia turned sepsis and ARDS being transferred for higher level of care.  Ventilation is trash, we’re acidotic, require high PEEP, are on multiple pressors, quite tachycardic, and the BP drops whenever we give sedation or analgesia.  Let’s see it all sketched out:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/final-example.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/final-example.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 And then working to fill in the gaps, here’s what we might see in terms of all those other hemodynamic parameters, plus actions to be taken:
 
-<img src="{{ '/assets/images/2023-12-05-hemodynamic-sketches/final-example-gif.gif' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/final-example-gif.gif' | relative_url }}" alt="hemodynamic sketches" />
 
 [alternate link to open that gif in another window, just in case it's tough to see](https://https://imgur.com/GMXr4AA)
 
