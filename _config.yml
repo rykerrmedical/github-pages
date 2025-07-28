@@ -2,8 +2,8 @@ theme: minima
 title: rykerr medical llc
 description: cool stuff for clinicians
 author: rykerr
-
-baseurl: "www.rykerrmedical.com"
+url: "https://www.rykerrmedical.com"
+baseurl: ""
 include:
   - clinical-resources
 
