@@ -1,9 +1,9 @@
 /* === Fonts === */
 @font-face {
   font-family: 'Black Ground';
-  src: url('/assets/fonts/BlackGround.woff') format('woff'),
-       url('/assets/fonts/BlackGround.ttf') format('truetype'),
-       url('/assets/fonts/BlackGround.otf') format('opentype');
+  src: url('{{ site.baseurl }}/assets/fonts/BlackGround.woff') format('woff'),
+       url('{{ site.baseurl }}/assets/fonts/BlackGround.ttf') format('truetype'),
+       url('{{ site.baseurl }}/assets/fonts/BlackGround.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
@@ -166,3 +166,37 @@ html {
   scroll-behavior: smooth;
 }
 
+<!-- Inline mobile nav CSS -->
+<style>
+  @media (max-width: 768px) {
+    nav {
+      align-items: flex-end;
+    }
+    #nav-toggle {
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+    }
+    .nav-links.active {
+      display: flex;
+    }
+    .nav-links a {
+      padding: 0.1rem 0;
+      font-size: 1rem;
+    }
+    .nav-links #close-menu {
+      display: none;
+    }
+    .nav-links.active #close-menu {
+      display: block !important;
+      padding: 0.1rem 0;
+      font-size: 1rem;
+      color: #747373;
+      font-style: normal;
+    }
+  }
+</style>
