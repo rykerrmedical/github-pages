@@ -1,9 +1,9 @@
 /* === Fonts === */
 @font-face {
   font-family: 'Black Ground';
-  src: url('/github-pages/assets/fonts/BlackGround.woff') format('woff'),
-       url('/github-pages/assets/fonts/BlackGround.ttf') format('truetype'),
-       url('/github-pages/assets/fonts/BlackGround.otf') format('opentype');
+  src: url('/assets/fonts/BlackGround.woff') format('woff'),
+       url('/assets/fonts/BlackGround.ttf') format('truetype'),
+       url('/assets/fonts/BlackGround.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
