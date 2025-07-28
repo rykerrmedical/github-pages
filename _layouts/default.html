@@ -4,42 +4,42 @@
   <meta charset="UTF-8" />
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <!-- Link to your stylesheet -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-      <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicons/favicon.ico' | relative_url }}">
-      <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicons/favicon-32x32.png' | relative_url }}">
-      <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicons/favicon-16x16.png' | relative_url }}">
-      <link rel="apple-touch-icon" href="{{ '/assets/images/favicons/apple-touch-icon.png' | relative_url }}">
-      <link rel="manifest" href="{{ '/assets/images/favicons/site.webmanifest' | relative_url }}">
+
+  <!-- Favicons -->
+  <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicons/favicon.ico' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicons/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicons/favicon-16x16.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/favicons/apple-touch-icon.png' | relative_url }}">
+  <link rel="manifest" href="{{ '/assets/images/favicons/site.webmanifest' | relative_url }}">
+
+  <!-- Inline mobile nav CSS -->
   <style>
     @media (max-width: 768px) {
       nav {
-        align-items: flex-end; /* hamburger right on mobile */
+        align-items: flex-end;
       }
-
       #nav-toggle {
         display: block;
         margin-bottom: 0.5rem;
       }
-
       .nav-links {
         display: none;
         flex-direction: column;
         width: 100%;
       }
-
       .nav-links.active {
         display: flex;
       }
-
       .nav-links a {
         padding: 0.1rem 0;
         font-size: 1rem;
       }
-
       .nav-links #close-menu {
         display: none;
       }
-
       .nav-links.active #close-menu {
         display: block !important;
         padding: 0.1rem 0;
@@ -50,18 +50,19 @@
     }
   </style>
 </head>
+
 <body>
   <nav>
     <button id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
     <div id="nav-links" class="nav-links">
-        <a href="{{ site.baseurl }}/">Home</a>
-        <a href="{{ site.baseurl }}/clinical-resources/">Clinical Resources</a>
-        <a href="{{ site.baseurl }}/coned-ceus/">ConEd/ CEUs</a>
-        <a href="{{ site.baseurl }}/blog/">Blog</a>
-        <a href="{{ site.baseurl }}/podcast/">Podcast</a>
-        <a href="{{ site.baseurl }}/the-tech-side/">The Tech Side</a>
-        <a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a>
-        <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
+      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/clinical-resources/">Clinical Resources</a>
+      <a href="{{ site.baseurl }}/coned-ceus/">ConEd/ CEUs</a>
+      <a href="{{ site.baseurl }}/blog/">Blog</a>
+      <a href="{{ site.baseurl }}/podcast/">Podcast</a>
+      <a href="{{ site.baseurl }}/the-tech-side/">The Tech Side</a>
+      <a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a>
+      <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
     </div>
   </nav>
 
@@ -90,4 +91,3 @@
   </script>
 </body>
 </html>
-
