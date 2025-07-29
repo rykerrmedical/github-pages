@@ -50,5 +50,17 @@
       navToggle.textContent = 'Menu';
     });
   </script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const links = document.querySelectorAll("a[href]");
+      links.forEach(link => {
+        const url = new URL(link.href, window.location.href);
+        if (url.origin !== window.location.origin) {
+          link.setAttribute("target", "_blank");
+          link.setAttribute("rel", "noopener noreferrer");
+        }
+      });
+    });
+  </script>
 </body>
 </html>

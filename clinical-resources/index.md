@@ -12,7 +12,7 @@ permalink: /clinical-resources/
 <h5><a href="#medications">Medication Guidelines</a></h5>
 <h5><a href="#notecards">Notecards</a></h5>
 
-This page is a repository for all of the clinical things we've built specifically for the site.  There's also some stuff on the [YouTube Channel](https://www.youtube.com/rykerrmedical) and over at [The Rykerr Medical Podcast]({{ site.baseurl }}/podcast) - check those out as well!
+This page is a repository for all of the clinical things we've built specifically for the site.  There's also some stuff on the [YouTube Channel](https://www.youtube.com/@rykerrmedical) and over at [The Rykerr Medical Podcast]({{ site.baseurl }}/podcast) - check those out as well!
 
 
 
