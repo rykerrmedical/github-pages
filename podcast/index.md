@@ -59,19 +59,29 @@ async function loadFeed() {
         const imgEl = document.createElement("img");
         imgEl.src = image;
         imgEl.alt = title;
-        imgEl.style.maxWidth = "100%";
+        imgEl.style.width = "250px";
+        imgEl.style.height = "250px";
+        imgEl.style.objectFit = "cover";
         imgEl.style.marginBottom = "1rem";
         imgEl.style.borderRadius = "12px";
         imgEl.style.boxShadow = "0 4px 12px rgba(0,0,0,0.1)";
         div.appendChild(imgEl);
       }
 
-      div.style.marginBottom = "3rem";
-
-      // Shorten long descriptions
       const shortDescription = description && description.length > 400
-        ? description.substring(0, 400).split(" ").slice(0, -1).join(" ") + "..."
+        ? description.slice(0, 400) + "..."
         : description;
+
+      if (shortDescription) {
+        const pEl = document.createElement("p");
+        pEl.textContent = shortDescription;
+        pEl.style.fontSize = "0.95rem";
+        pEl.style.lineHeight = "1.4";
+        pEl.style.marginTop = "0.5rem";
+        div.appendChild(pEl);
+      }
+
+      div.style.marginBottom = "3rem";
 
       if (i === 0) {
         // Latest episode
