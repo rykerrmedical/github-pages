@@ -43,10 +43,29 @@ async function loadFeed() {
       const pubDateRaw = item.querySelector("pubDate")?.textContent;
       const pubDate = pubDateRaw ? new Date(pubDateRaw).toDateString() : "";
       const description = item.querySelector("description")?.textContent;
-      const image = item.querySelector("itunes\\:image")?.getAttribute("href") ||
-                    item.querySelector("media\\:content")?.getAttribute("url");
+      let image = null;
+      const itunesImage = item.getElementsByTagName("itunes:image")[0];
+      if (itunesImage) {
+        image = itunesImage.getAttribute("href");
+      }
+      if (!image) {
+        const mediaContent = item.getElementsByTagName("media:content")[0];
+        image = mediaContent?.getAttribute("url") || null;
+      }
 
       const div = document.createElement("div");
+      
+      if (image) {
+        const imgEl = document.createElement("img");
+        imgEl.src = image;
+        imgEl.alt = title;
+        imgEl.style.maxWidth = "100%";
+        imgEl.style.marginBottom = "1rem";
+        imgEl.style.borderRadius = "12px";
+        imgEl.style.boxShadow = "0 4px 12px rgba(0,0,0,0.1)";
+        div.appendChild(imgEl);
+      }
+
       div.style.marginBottom = "3rem";
 
       // Shorten long descriptions
