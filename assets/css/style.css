@@ -17,8 +17,13 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  font-size: 17px;
+  font-size: 1rem; /* 1rem = browser default (usually 16px) */
 }
+
+p, li, span, div, main, section {
+  font-size: 1.0625rem; /* ≈ 17px, scalable */
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Black Ground', sans-serif;
