@@ -88,7 +88,7 @@ async function loadFeed() {
         div.innerHTML = `
           <h2>${title}</h2>
           <small>${pubDate}</small><br>
-          ${image ? `<img src="${image}" alt="Episode image" style="max-width:100%; height:auto; margin-top:0.5rem; border-radius:8px;">` : ""}
+          ${image ? `<img src="${image}" alt="Episode image" style="width:100%; max-width:220px; height:auto; margin:0.5rem auto 0 auto; border-radius:8px; display:block;">` : ""}
           ${audioUrl ? `<audio controls src="${audioUrl}" style="width:100%; margin:1rem 0;"></audio>` : ""}
           ${shortDescription ? `<p>${shortDescription}</p>` : ""}
           ${link ? `<p><a href="${link}" target="_blank">Full episode details</a></p>` : ""}
