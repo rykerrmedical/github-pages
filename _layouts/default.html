@@ -64,10 +64,12 @@
       });
     });
   </script>
+  
   <script>
     function checkNavCollapse() {
       const nav = document.querySelector("nav");
       const navLinks = document.getElementById("nav-links");
+      const toggle = document.querySelector(".nav-toggle");
       const links = navLinks.querySelectorAll("a");
 
       const first = links[0]?.getBoundingClientRect();
@@ -75,13 +77,16 @@
 
       if (first && last && last.top > first.top) {
         nav.classList.add("nav-collapsed");
+        toggle.style.display = "block"; // show hamburger
       } else {
         nav.classList.remove("nav-collapsed");
+        toggle.style.display = "none"; // hide hamburger
       }
     }
 
     window.addEventListener("load", checkNavCollapse);
     window.addEventListener("resize", checkNavCollapse);
   </script>
+
 </body>
 </html>
