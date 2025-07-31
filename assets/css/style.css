@@ -190,6 +190,12 @@ form button:hover {
   }
 }
 
+@media (min-width: 769px) {
+  #nav-toggle {
+    display: none;
+  }
+}
+
 .episode-card:hover {
   box-shadow: 0 0 12px rgba(163, 18, 50, 0.5);
   transform: translateY(-2px);
