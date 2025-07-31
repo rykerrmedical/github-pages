@@ -63,5 +63,24 @@
       });
     });
   </script>
+  <script>
+    function checkNavCollapse() {
+      const nav = document.querySelector("nav");
+      const navLinks = document.getElementById("nav-links");
+      const links = navLinks.querySelectorAll("a");
+
+      const first = links[0]?.getBoundingClientRect();
+      const last = links[links.length - 1]?.getBoundingClientRect();
+
+      if (first && last && last.top > first.top) {
+        nav.classList.add("nav-collapsed");
+      } else {
+        nav.classList.remove("nav-collapsed");
+      }
+    }
+
+    window.addEventListener("load", checkNavCollapse);
+    window.addEventListener("resize", checkNavCollapse);
+  </script>
 </body>
 </html>
