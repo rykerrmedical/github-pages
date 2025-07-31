@@ -65,7 +65,6 @@ async function loadFeed() {
           ${audioUrl ? `<audio controls src="${audioUrl}" style="width:100%; margin-bottom:1rem;"></audio>` : ""}
           <p style="line-height:1.5;">${description.length > 400 ? description.slice(0, 400) + '...' : description}</p>
           ${description.length > 400 ? `<button style="background:none;border:none;color:#a31232;cursor:pointer;" onclick="this.previousElementSibling.textContent='${description.replace(/'/g, "\\'")}'; this.remove();">Read More</button>` : ""}
-          ${link ? `<p><a href="${link}" target="_blank">Full episode details</a></p>` : ""}
           <hr style="margin-top: 2rem;">
         `;
         latestContainer.appendChild(div);
@@ -115,12 +114,6 @@ async function loadFeed() {
             };
             div.appendChild(btn);
           }
-        }
-
-        if (link) {
-          const details = document.createElement("p");
-          details.innerHTML = `<a href="${link}" target="_blank">Details</a>`;
-          div.appendChild(details);
         }
 
         gridContainer.appendChild(div);
