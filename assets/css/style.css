@@ -226,9 +226,16 @@ nav.open .nav-links {
   margin-top: 1rem;
 }
 
-nav.open #close-menu {
-  display: block;
+@media (max-width: 768px) {
+  nav.open #close-menu {
+    display: block;
+  }
+
+  #close-menu {
+    display: none;
+  }
 }
+
 
 /* === Responsive nav toggle === */
 @media (max-width: 768px) {
