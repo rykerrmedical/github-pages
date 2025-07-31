@@ -45,16 +45,6 @@ nav {
   padding: 1rem 2rem;
 }
 
-#nav-toggle {
-  display: none;
-  font-size: 2rem;
-  background: none;
-  border: none;
-  color: #a31232;
-  cursor: pointer;
-  font-family: 'Black Ground', sans-serif;
-}
-
 .nav-links {
   display: flex;
   gap: 20px;
@@ -252,6 +242,31 @@ html {
 #close-menu {
   display: none;
 }
+
+/* Hide toggle button by default */
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  color: #d42d4a; /* Match your nav color */
+  cursor: pointer;
+  position: absolute;
+  right: 1rem;
+  top: 0.75rem;
+  z-index: 1000;
+}
+
+/* Optionally hide links when collapsed, unless nav is open */
+nav.nav-collapsed #nav-links {
+  display: none;
+}
+nav.nav-collapsed.open #nav-links {
+  display: block;
+  text-align: center;
+  flex-direction: column;
+}
+
 
 /* Hide nav links and show hamburger when there's not enough space */
 .nav-collapsed #nav-toggle {
