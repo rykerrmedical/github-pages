@@ -136,7 +136,7 @@ form button:hover {
   padding: 0 1rem;
 }
 
-.episode-card > img { ... }
+.episode-card > img {
   display: block;
   margin: 0 auto 0.75rem auto;
   width: 100%;
@@ -180,12 +180,6 @@ form button:hover {
   }
 }
 
-@media (min-width: 769px) {
-  #nav-toggle {
-    display: none;
-  }
-}
-
 .episode-card:hover {
   box-shadow: 0 0 12px rgba(163, 18, 50, 0.5);
   transform: translateY(-2px);
@@ -222,16 +216,6 @@ html {
 
 
 /* === Hamburger Menu Styles (responsive to space) === */
-#nav-toggle {
-  display: none;
-  background: none;
-  border: none;
-  color: #c92045;
-  font-size: 1.25rem;
-  cursor: pointer;
-  margin: 1rem;
-}
-
 #nav-links {
   display: flex;
   flex-wrap: wrap;
@@ -260,30 +244,21 @@ html {
 /* Optionally hide links when collapsed, unless nav is open */
 nav.nav-collapsed #nav-links {
   display: none;
-}
-nav.nav-collapsed.open #nav-links {
-  display: block;
-  text-align: center;
-  flex-direction: column;
-}
-
-
-/* Hide nav links and show hamburger when there's not enough space */
-.nav-collapsed #nav-toggle {
-  display: block;
-}
-
-.nav-collapsed #nav-links {
-  display: none;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
-.nav-collapsed #nav-links.active {
+nav.nav-collapsed.open #nav-links {
   display: flex;
 }
 
-.nav-collapsed #close-menu {
-  display: block !important;
+/* close menu */
+nav.nav-collapsed #close-menu {
+  display: block;
+  margin-top: 1rem;
+  color: #a31232;
+  font-weight: bold;
+  font-size: 1rem;
 }
 
