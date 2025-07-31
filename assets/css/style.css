@@ -248,3 +248,42 @@ nav.nav-collapsed #close-menu {
   font-size: 1rem;
 }
 
+/* === Navigation Layout === */
+nav .nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+nav.nav-collapsed .nav-links {
+  display: none;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+nav.open .nav-links {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+nav.open #close-menu {
+  display: block;
+}
