@@ -273,3 +273,13 @@ nav.open .nav-links {
     align-items: stretch; /* Allows .nav-toggle to align right */
   }
 }
+
+#close-menu {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  nav.open #close-menu {
+    display: block;
+  }
+}
