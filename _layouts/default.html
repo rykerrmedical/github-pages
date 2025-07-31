@@ -35,25 +35,23 @@
   </main>
 
   <script>
-    const navToggle = document.getElementById('nav-toggle');
-    const navLinks = document.getElementById('nav-links');
-    const closeMenu = document.getElementById('close-menu');
+    document.addEventListener("DOMContentLoaded", function () {
+      const nav = document.querySelector("nav");
+      const navLinks = document.getElementById("nav-links");
+      const toggle = document.querySelector(".nav-toggle");
+      const close = document.getElementById("close-menu");
 
-    navToggle.addEventListener('click', () => {
-      const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
-      navToggle.setAttribute('aria-expanded', !isOpen);
-      navLinks.classList.toggle('active');
-      navToggle.textContent = isOpen ? 'Menu' : '';
+      toggle.addEventListener("click", () => {
+        nav.classList.toggle("open");
+      });
+
+      close.addEventListener("click", (e) => {
+        e.preventDefault();
+        nav.classList.remove("open");
+      });
     });
-
-    closeMenu.addEventListener('click', (e) => {
-      e.preventDefault();
-      navToggle.setAttribute('aria-expanded', 'false');
-      navLinks.classList.remove('active');
-      navToggle.textContent = 'Menu';
-    });
-
   </script>
+
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const links = document.querySelectorAll("a[href]");
