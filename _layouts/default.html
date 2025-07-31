@@ -35,41 +35,18 @@
   <script>
     const nav = document.getElementById('site-nav');
     const toggle = document.getElementById('nav-toggle');
-    const links = document.getElementById('nav-links');
     const closeMenu = document.getElementById('close-menu');
-
-    function checkOverflow() {
-      const available = nav.offsetWidth - toggle.offsetWidth - 20;
-      const needed = links.scrollWidth;
-
-      if (needed > available) {
-        toggle.style.display = 'block';
-        links.style.display = nav.classList.contains('open') ? 'flex' : 'none';
-      } else {
-        toggle.style.display = 'none';
-        links.style.display = 'flex';
-        nav.classList.remove('open');
-        closeMenu.style.display = 'none';
-      }
-    }
 
     toggle.addEventListener('click', () => {
       nav.classList.add('open');
-      links.style.display = 'flex';
-      closeMenu.style.display = 'block';
     });
 
     closeMenu.addEventListener('click', (e) => {
       e.preventDefault();
       nav.classList.remove('open');
-      links.style.display = 'none';
-      closeMenu.style.display = 'none';
     });
-
-    window.addEventListener('resize', checkOverflow);
-    window.addEventListener('DOMContentLoaded', checkOverflow);
-    window.addEventListener('load', checkOverflow);
   </script>
+
 
 </body>
 </html>
