@@ -13,81 +13,62 @@
 
 
 <body>
-  <nav>
-    <div class="nav-container">
-      <button class="nav-toggle" onclick="document.querySelector('nav').classList.toggle('open')">
-        <span class="hamburger-icon">☰</span>
-      </button>
-    
-      <div id="nav-links" class="nav-links">
-        <a href="{{ site.baseurl }}/">Home</a>
-        <a href="{{ site.baseurl }}/clinical-resources/">Clinical Resources</a>
-        <a href="{{ site.baseurl }}/coned-ceus/">ConEd/ CEUs</a>
-        <a href="{{ site.baseurl }}/blog/">Blog</a>
-        <a href="{{ site.baseurl }}/podcast/">Podcast</a>
-        <a href="{{ site.baseurl }}/the-tech-side/">The Tech Side</a>
-        <a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a>
-        <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
-      </div>
+  <nav id="site-nav">
+    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">☰</button>
+    <div class="nav-links" id="nav-links">
+      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/clinical-resources/">Clinical Resources</a>
+      <a href="{{ site.baseurl }}/coned-ceus/">ConEd/ CEUs</a>
+      <a href="{{ site.baseurl }}/blog/">Blog</a>
+      <a href="{{ site.baseurl }}/podcast/">Podcast</a>
+      <a href="{{ site.baseurl }}/the-tech-side/">The Tech Side</a>
+      <a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a>
+      <a href="#" id="close-menu" style="display: none;">(Close Menu)</a>
     </div>
   </nav>
 
+  
   <main class="homepage">
     {{ content }}
   </main>
 
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const nav = document.querySelector("nav");
-      const navLinks = document.getElementById("nav-links");
-      const toggle = document.querySelector(".nav-toggle");
-      const close = document.getElementById("close-menu");
+    const nav = document.getElementById('site-nav');
+    const toggle = document.getElementById('nav-toggle');
+    const links = document.getElementById('nav-links');
+    const closeMenu = document.getElementById('close-menu');
 
-      toggle.addEventListener("click", () => {
-        nav.classList.toggle("open");
-      });
+    function checkOverflow() {
+      const available = nav.offsetWidth - toggle.offsetWidth - 20;
+      const needed = links.scrollWidth;
 
-      close.addEventListener("click", (e) => {
-        e.preventDefault();
-        nav.classList.remove("open");
-      });
-    });
-  </script>
-
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const links = document.querySelectorAll("a[href]");
-      links.forEach(link => {
-        const url = new URL(link.href, window.location.href);
-        if (url.origin !== window.location.origin) {
-          link.setAttribute("target", "_blank");
-          link.setAttribute("rel", "noopener noreferrer");
-        }
-      });
-    });
-  </script>
-  
-  <script>
-    function checkNavCollapse() {
-      const nav = document.querySelector("nav");
-      const navLinks = document.getElementById("nav-links");
-      const toggle = document.querySelector(".nav-toggle");
-      const links = navLinks.querySelectorAll("a");
-
-      const first = links[0]?.getBoundingClientRect();
-      const last = links[links.length - 1]?.getBoundingClientRect();
-
-      if (first && last && last.top > first.top) {
-        nav.classList.add("nav-collapsed");
-        toggle.style.display = "block"; // show hamburger
+      if (needed > available) {
+        toggle.style.display = 'block';
+        links.style.display = nav.classList.contains('open') ? 'flex' : 'none';
       } else {
-        nav.classList.remove("nav-collapsed");
-        toggle.style.display = "none"; // hide hamburger
+        toggle.style.display = 'none';
+        links.style.display = 'flex';
+        nav.classList.remove('open');
+        closeMenu.style.display = 'none';
       }
     }
 
-    window.addEventListener("load", checkNavCollapse);
-    window.addEventListener("resize", checkNavCollapse);
+    toggle.addEventListener('click', () => {
+      nav.classList.add('open');
+      links.style.display = 'flex';
+      closeMenu.style.display = 'block';
+    });
+
+    closeMenu.addEventListener('click', (e) => {
+      e.preventDefault();
+      nav.classList.remove('open');
+      links.style.display = 'none';
+      closeMenu.style.display = 'none';
+    });
+
+    window.addEventListener('resize', checkOverflow);
+    window.addEventListener('DOMContentLoaded', checkOverflow);
+    window.addEventListener('load', checkOverflow);
   </script>
 
 </body>

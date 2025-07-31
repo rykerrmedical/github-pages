@@ -214,73 +214,15 @@ html {
   scroll-behavior: smooth;
 }
 
-
-/* === Hamburger Menu Styles (responsive to space) === */
-#nav-links {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
-}
-
-#close-menu {
-  display: none;
-}
-
-/* Optionally hide links when collapsed, unless nav is open */
-nav.nav-collapsed #nav-links {
-  display: none;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-
-nav.nav-collapsed.open #nav-links {
-  display: flex;
-}
-
-/* close menu */
-nav.nav-collapsed #close-menu {
-  display: block;
-  margin-top: 1rem;
-  color: #a31232;
-  font-weight: bold;
-  font-size: 1rem;
-}
-
-/* === Navigation Layout === */
-nav .nav-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
 .nav-toggle {
   display: none;
-  background: none;
-  border: none;
-  font-size: 1.5rem;
-  cursor: pointer;
-}
-
-.nav-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-nav.nav-collapsed .nav-links {
-  display: none;
-  flex-direction: column;
-  width: 100%;
-  margin-top: 1rem;
 }
 
 nav.open .nav-links {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  align-items: flex-start;
+  gap: 0.5rem;
   margin-top: 1rem;
 }
 
