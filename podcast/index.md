@@ -17,9 +17,9 @@ permalink: /podcast/
 </div>
 
 
-<div id="episode-list" style="max-width:800px; margin:2rem auto; text-align:left;">
-  <p>Loading episodes…</p>
-</div>
+<div id="latest-episode" style="max-width: 800px; margin: 2rem auto;"></div>
+<div id="episode-grid" class="episode-grid"></div>
+
 
 <script>
 async function loadFeed() {
@@ -32,8 +32,9 @@ async function loadFeed() {
     const parser = new DOMParser();
     const xml = parser.parseFromString(xmlText, "application/xml");
     const items = xml.querySelectorAll("item");
-    const container = document.getElementById("episode-list");
-    container.innerHTML = "";
+
+    const latestContainer = document.getElementById("latest-episode");
+    const gridContainer = document.getElementById("episode-grid");
 
     items.forEach((item, i) => {
       const title = item.querySelector("title")?.textContent || "Untitled";
@@ -42,69 +43,88 @@ async function loadFeed() {
       const audioUrl = enclosure?.getAttribute("url");
       const pubDateRaw = item.querySelector("pubDate")?.textContent;
       const pubDate = pubDateRaw ? new Date(pubDateRaw).toDateString() : "";
-      const description = item.querySelector("description")?.textContent;
+      const description = item.querySelector("description")?.textContent || "";
+
       let image = null;
       const itunesImage = item.getElementsByTagName("itunes:image")[0];
       if (itunesImage) {
         image = itunesImage.getAttribute("href");
-      }
-      if (!image) {
+      } else {
         const mediaContent = item.getElementsByTagName("media:content")[0];
         image = mediaContent?.getAttribute("url") || null;
       }
 
       const div = document.createElement("div");
-      
-      if (image) {
-        const imgEl = document.createElement("img");
-        imgEl.src = image;
-        imgEl.alt = title;
-        imgEl.style.width = "250px";
-        imgEl.style.height = "250px";
-        imgEl.style.objectFit = "cover";
-        imgEl.style.marginBottom = "1rem";
-        imgEl.style.borderRadius = "12px";
-        imgEl.style.boxShadow = "0 4px 12px rgba(0,0,0,0.1)";
-        div.appendChild(imgEl);
-      }
-
-      const shortDescription = description && description.length > 400
-        ? description.slice(0, 400) + "..."
-        : description;
-
-      if (shortDescription) {
-        const pEl = document.createElement("p");
-        pEl.textContent = shortDescription;
-        pEl.style.fontSize = "0.95rem";
-        pEl.style.lineHeight = "1.4";
-        pEl.style.marginTop = "0.5rem";
-        div.appendChild(pEl);
-      }
-
-      div.style.marginBottom = "3rem";
 
       if (i === 0) {
-        // Latest episode
+        // === Featured episode layout ===
         div.innerHTML = `
           <h2>${title}</h2>
           <small>${pubDate}</small><br>
-          ${image ? `<img src="${image}" alt="Episode image" style="width:100%; max-width:220px; height:auto; margin:0.5rem auto 0 auto; border-radius:8px; display:block;">` : ""}
-          ${audioUrl ? `<audio controls src="${audioUrl}" style="width:100%; margin:1rem 0;"></audio>` : ""}
-          ${shortDescription ? `<p>${shortDescription}</p>` : ""}
+          ${image ? `<img src="${image}" alt="${title}" style="width:100%; max-width:320px; height:auto; border-radius:12px; margin:1rem 0;" loading="lazy">` : ""}
+          ${audioUrl ? `<audio controls src="${audioUrl}" style="width:100%; margin-bottom:1rem;"></audio>` : ""}
+          <p style="line-height:1.5;">${description.length > 400 ? description.slice(0, 400) + '...' : description}</p>
+          ${description.length > 400 ? `<button style="background:none;border:none;color:#a31232;cursor:pointer;" onclick="this.previousElementSibling.textContent='${description.replace(/'/g, "\\'")}'; this.remove();">Read More</button>` : ""}
           ${link ? `<p><a href="${link}" target="_blank">Full episode details</a></p>` : ""}
           <hr style="margin-top: 2rem;">
         `;
+        latestContainer.appendChild(div);
       } else {
-        // Older episodes
-        div.innerHTML = `
-          <h3>${title}</h3>
-          <small>${pubDate}</small><br>
-          ${audioUrl ? `<audio controls src="${audioUrl}" style="width:100%; margin-top:0.5rem;"></audio>` : ""}
-          ${link ? `<p><a href="${link}" target="_blank">Details</a></p>` : ""}
-        `;
-      }
+        // === Older episode cards ===
+        div.classList.add("episode-card");
 
-      container.appendChild(div);
+        if (image) {
+          const img = document.createElement("img");
+          img.src = image;
+          img.alt = title;
+          img.loading = "lazy";
+          div.appendChild(img);
+        }
+
+        const titleEl = document.createElement("h4");
+        titleEl.textContent = title;
+        div.appendChild(titleEl);
+
+        const dateEl = document.createElement("small");
+        dateEl.textContent = pubDate;
+        div.appendChild(dateEl);
+
+        if (audioUrl) {
+          const audio = document.createElement("audio");
+          audio.controls = true;
+          audio.src = audioUrl;
+          div.appendChild(audio);
+        }
+
+        if (description) {
+          const short = description.length > 300 ? description.slice(0, 300) + "..." : description;
+          const descP = document.createElement("p");
+          descP.textContent = short;
+          div.appendChild(descP);
+
+          if (description.length > 300) {
+            const btn = document.createElement("button");
+            btn.textContent = "Read More";
+            btn.style.background = "none";
+            btn.style.border = "none";
+            btn.style.color = "#a31232";
+            btn.style.cursor = "pointer";
+            btn.onclick = () => {
+              descP.textContent = description;
+              btn.remove();
+            };
+            div.appendChild(btn);
+          }
+        }
+
+        if (link) {
+          const details = document.createElement("p");
+          details.innerHTML = `<a href="${link}" target="_blank">Details</a>`;
+          div.appendChild(details);
+        }
+
+        gridContainer.appendChild(div);
+      }
     });
   } catch (err) {
     document.getElementById("episode-list").textContent = "Error loading episodes.";
@@ -114,3 +134,4 @@ async function loadFeed() {
 
 document.addEventListener("DOMContentLoaded", loadFeed);
 </script>
+
