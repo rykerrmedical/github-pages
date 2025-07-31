@@ -230,7 +230,7 @@ nav.open #close-menu {
   display: block;
 }
 
-/* Responsive nav toggle */
+/* === Responsive nav toggle === */
 @media (max-width: 768px) {
   .nav-toggle {
     display: block;
@@ -240,6 +240,11 @@ nav.open #close-menu {
     color: #a31232;
     cursor: pointer;
     margin-bottom: 0.5rem;
+    align-self: flex-end; /* Align right */
+  }
+
+  .nav-toggle:hover {
+    color: #747373;
   }
 
   .nav-links {
@@ -255,5 +260,9 @@ nav.open #close-menu {
 
   nav.open #close-menu {
     display: block;
+  }
+
+  nav {
+    align-items: stretch; /* Allows .nav-toggle to align right */
   }
 }

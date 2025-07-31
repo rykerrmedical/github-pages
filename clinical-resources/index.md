@@ -30,9 +30,9 @@ Just follow the link above for all of the fun things we've collected and built o
 
 We built this resource for transport clinicians to learn more about vent management in the field, but it's also applicable to other clinicians who work with vents.  Take a look and let us know what you think! 
 
-[Vent Book Version 1, free pdf](https://www.rykerrmedical.com/_files/ugd/f294f6_a1a3373f752e4aacb65bf7d53dab0d42.pdf?index=true)
-[Vent Book Version 1, buy it on Amazon](https://amazon.com/rykerrmedicalventbook)
-[Vent Book Version 2, Google Doc Working Draft](https://google.com])
+[Vent Book Version 1, free pdf](https://archive.org/download/vent-book-draft-1/Rykerr%20Medical%27s%20Vent%20Management%20Guide%20-%20Version%201.pdf)
+[Vent Book Version 1, buy it on Amazon](https://www.amazon.com/Rykerr-Medicals-Vent-Management-Guide/dp/1734925205)
+[Vent Book Version 2, Google Doc Working Draft](https://docs.google.com/document/d/1qA-LlMUYYe3KMuRhMyAtLAy23NcNb236ZBnK8Irkp6k/edit?pli=1&tab=t.0])
 [Overview, Workflow, Old Drafts & More]({{ site.baseurl }}/clinical-resources/vent-management/)
 
 
