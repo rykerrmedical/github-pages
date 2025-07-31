@@ -33,7 +33,7 @@ Now the process of putting that system together was a bit complicated, so we've 
 
 <h3 id="feed">RSS Feed Strategy</h3>
 
-We finally figured out how to build and manage our own RSS feed for the podcast and have made some resources so you can do the same with your own project if you're up for it.  It's a two-part deal: [blog post](https://www.rykerrmedical.com/post/rykerr-medical-s-podcast-hosting-strategy) and [youtube video](https://youtu.be/nNosYLXTu_A?si=TuwtV_8AYpFcjGH8).  Check 'em both out and let us know how it goes!
+We finally figured out how to build and manage our own RSS feed for the podcast and have made some resources so you can do the same with your own project if you're up for it.  It's a two-part deal: [blog post](https://www.rykerrmedical.com/2025/06/02/podcast-hosting.html) and [youtube video](https://youtu.be/nNosYLXTu_A?si=TuwtV_8AYpFcjGH8).  Check 'em both out and let us know how it goes!
 
 ​Pros: doesn't cost any money, allows you to port your podcast project wherever you want, learn some cool nerdy tech stuff
 
