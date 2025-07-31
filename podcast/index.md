@@ -72,7 +72,7 @@ async function loadFeed() {
           ${image ? `<img src="${image}" alt="${title}" style="display:block; margin:1rem auto; width:100%; max-width:320px; height:auto; border-radius:12px;" loading="lazy">` : ""}
           ${audioUrl ? `<audio controls src="${audioUrl}" style="width:100%; margin-bottom:1rem;"></audio>` : ""}
           <p style="line-height:1.5;">${description.length > 400 ? description.slice(0, 400) + '...' : description}</p>
-          ${description.length > 400 ? `<button onclick="this.previousElementSibling.textContent='${description.replace(/\\/g, '\\\\').replace(/'/g, "\\'")}'; this.remove();">read more</button>` : ""}
+          ${description.length > 400 ? `<button class="read-more" data-full="${encodeURIComponent(description)}">Read More</button>` : ""}
           <hr style="margin-top: 2rem;">
         `;
         latestContainer.appendChild(div);
@@ -134,5 +134,17 @@ async function loadFeed() {
 }
 
 document.addEventListener("DOMContentLoaded", loadFeed);
+
+document.addEventListener("click", function (e) {
+  if (e.target.matches(".read-more")) {
+    const btn = e.target;
+    const fullText = decodeURIComponent(btn.getAttribute("data-full"));
+    const para = btn.previousElementSibling;
+    if (para) para.textContent = fullText;
+    btn.remove();
+  }
+});
+
+
 </script>
 
