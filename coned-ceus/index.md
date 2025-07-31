@@ -27,5 +27,5 @@ Note that not all of the offering on EdApp are for credit, some are drafts/ just
 
 ### Sample CEU Cert for Reference
 
-<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/my-photo.jpg" alt="Descriptive alt text" />
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/edapp-cert-example.jpg" alt="edapp cert example" />
 
