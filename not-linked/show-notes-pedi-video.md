@@ -83,7 +83,27 @@ Lepa, N. et al. (2021).  Comparison of hyperangulated and standard geometry vide
 
 Each of these thumbnails is a link to the original page where we found the thing.  All the other graphics are either linked above in the references mentioned in the video or ones that we made/ took.
 
-<div class="image-grid">
+<style>
+  .linked-thumbnails {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 1rem;
+    justify-items: center;
+  }
+
+  .linked-thumbnails a img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 4px;
+  }
+</style>
+
+
+<div class="linked-thumbnails">
 <a href="https://www.jems.com/patient-care/a-tale-of-two-tapes-broselow-luten-tapes-2011-vs-2017/" target="_blank">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/broselow-from-jems-article.jpeg" alt="edapp cert example" width="300"/>
 </a>
