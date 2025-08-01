@@ -13,12 +13,15 @@ There's a short story in the document about how this whole idea got kicked off, 
 
 And to help contribute to [Version 2](https://docs.google.com/document/d/1qA-LlMUYYe3KMuRhMyAtLAy23NcNb236ZBnK8Irkp6k/edit?pli=1&tab=t.0) - add comments to the Google Doc and read about it below.
 
+<br><br>
+
 ### The Process
 
 It would be a total lie to say that the Vent Book was written from an existing knowledge base in one person's brain.  It resulted from a process that included lots of research and lots of drafts.  We believe that it's totally OK not to know things and then to actively pursue explanations for those things along the way.  Just to demonstrate (and also as a practice in self-humiliation...), we've included prior drafts of this book with handwritten edits so that the curious can see how the final product came to be.  
 
 [Link to all the drafts & versions here!](https://archive.org/details/vent-book-draft-1)
 
+<br><br>
 
 ### The Sharing Style
 
@@ -30,7 +33,7 @@ And if you are interested in helping out with graphics in future editions or oth
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/vent-page-vent-sketch-two.jpeg" alt="vent-graphic" width="300"/>
 
-
+<br><br>
 
 ### The QR Code Thing
 
@@ -38,7 +41,7 @@ There's a video on this over in [The Tech Side](https://www.rykerrmedical.com/th
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/website-qr-code.jpeg" alt="qr-code" width="300"/>
 
-
+<br><br>
 
 ### The Future
 

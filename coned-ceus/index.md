@@ -16,14 +16,14 @@ Note that not all of the offering on EdApp are for credit, some are drafts/ just
 
 ### [EMSI at SFCC](https://www.sfcc.edu/programs/paramedicine/)
 
-
+<br><br>
 
 ### Summary of Offerings
 
 ##### [- Vent Book v1 Review Question - 8 hours](https://link.edapp.com/WpGuSzZfilb)
 ...more to come soon!
 
-
+<br><br>
 
 ### Sample CEU Cert for Reference
 

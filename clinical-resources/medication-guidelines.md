@@ -10,7 +10,7 @@ permalink: /clinical-resources/medication-guidelines/
 
 The document [linked here](https://archive.org/download/clinical-guides/%28H%29EMS%20Drug%20Guide%20-%20Redacted%20Original%20with%20Links.pdf) was a draft of a formulary to accompany the [Field Reference Guides](https://archive.org/download/clinical-guides/Field%20Reference%20Guides%20Draft%20with%20Links.pdf) we mentioned on the [Protocols and Cheat Sheets](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/) page. Just to be clear, it was both an unfinished draft and specific to one agency (a Helicopter EMS program outside of the US).  That said, there's still good info there and we've shared it here for all.  In addition, we welcome any and all input on the [Google Drive version linked here](https://drive.google.com/file/d/17Luv2U9WXuZIsrFN4--KZCttVw41A8Y1/view?usp=sharing) (see below for guidance).  Anyone can edit and comment, so feel free to contribute and we'll see where it takes us. 
 
-
+<br><br>
 
 ### Contribute to the Drug Guide
 
@@ -32,7 +32,7 @@ We will periodically archive working versions and share them here
 
 And feel free to share with your friends out there in the field
 
-
+<br><br>
 
 ### Next Steps
 

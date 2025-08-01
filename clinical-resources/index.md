@@ -14,7 +14,7 @@ permalink: /clinical-resources/
 
 This page is a repository for all of the clinical things we've built specifically for the site.  There's also some stuff on the [YouTube Channel](https://www.youtube.com/@rykerrmedical) and over at [The Rykerr Medical Podcast]({{ site.baseurl }}/podcast) - check those out as well!
 
-
+<br><br>
 
 <h3 id="airway">
   <a href="{{ site.baseurl }}/clinical-resources/airway-stuff/">Airway Stuff</a>
@@ -22,7 +22,7 @@ This page is a repository for all of the clinical things we've built specificall
 
 Just follow the link above for all of the fun things we've collected and built on the subject of airway management.  More to come and, as always, let us know if there's anything missing in our offerings!
 
-
+<br><br>
 
 <h3 id="vent">
   <a href="{{ site.baseurl }}/clinical-resources/vent-management/">Vent Management Book</a>
@@ -38,7 +38,7 @@ We built this resource for transport clinicians to learn more about vent managem
 
 [Overview, Workflow, Old Drafts & More]({{ site.baseurl }}/clinical-resources/vent-management/)
 
-
+<br><br>
 
 <h3 id="protocols">
   <a href="{{ site.baseurl }}/clinical-resources/protocols-and-cheat-sheets/">Protocols and Cheat Sheets</a>
@@ -46,7 +46,7 @@ We built this resource for transport clinicians to learn more about vent managem
 
 Protocols in EMS tend to read like books: lots of text, a few charts, maybe some clinical context/ further information.  We suggest a different approach to providing guidance to clinicians based on the idea that such direction should be formatted in a way that makes it easier to utilize in the field.  Take a look at a few of the concepts here and feel free to reach out with feedback and/ or additional examples.
 
-
+<br><br>
 
 <h3 id="medications">
   <a href="{{ site.baseurl }}/clinical-resources/medication-guidelines/">Medication Guidelines</a>
@@ -54,7 +54,7 @@ Protocols in EMS tend to read like books: lots of text, a few charts, maybe some
 
 Here's a med formulary that may be helpful for those working in CCT.  The someday plan would be to expand this concept into a workable pdf or app where anyone could customize the specific doses for their agency.  But alas, that's too much work for the moment...  Check it out anyways and let us know what you think.
 
-
+<br><br>
 
 <h3 id="notecards">
   <a href="{{ site.baseurl }}/clinical-resources/notecards/">Notecards</a>

@@ -12,7 +12,7 @@ layout: default
 
 This page is where we link and discuss all the non-clinical nerdy things.  Part of the Rykerr Medical project is innovative use of technology, so that's what this lil bit is all about.
 
-
+<br><br>
 
 <h3 id="qrcode">The QR Code Thing</h3>
 
@@ -29,7 +29,7 @@ Now the process of putting that system together was a bit complicated, so we've 
   </iframe>
 </div>
 
-
+<br><br>
 
 <h3 id="feed">RSS Feed Strategy</h3>
 
@@ -48,7 +48,7 @@ We finally figured out how to build and manage our own RSS feed for the podcast 
   </iframe>
 </div>
 
-
+<br><br>
 
 <h3 id="qrcode">Github & The Internet Archive</h3>
 
