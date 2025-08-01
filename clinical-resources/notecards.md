@@ -14,7 +14,7 @@ We've started to put together a collection of notecards for different areas in t
 
 Watch a Video on the Concept - Coming Someday!
 
-<br><br>
+<br>
 
 <id="notecards">
 ### Available Notecards

@@ -14,7 +14,7 @@ This page is just a repository of all the stuff we've put together on airway man
 <h5><a href="#stylets">Stylets and Bougies for Kiddos</a></h5>
 <h5><a href="#protocols">Other References</a></h5>
 
-<br><br>
+<br>
 
 <h3 id="one-human">One-Human Bougie Techniques</h3>
 
@@ -24,7 +24,7 @@ One of the reasons why folks aren't always super keen on bougie use is because t
 Detailed Video on YouTube - coming someday!
 Pro/Con Chart- coming someday!
 
-<br><br>
+<br>
 
 <h3 id="stylets">Stylets and Bougies for Kiddos</h3>
 
@@ -34,7 +34,7 @@ And then here's our deep dive into how the concepts discussed above apply to ped
 [Show Notes for "Stylets and Bougies for Kiddos"](https://www.rykerrmedical.com/show-notes-pedi-video)
 Story Map and Drafts for the Nerds - coming someday!
 
-<br><br>
+<br>
 
 <h3 id="protocols">Other References</h3>
 

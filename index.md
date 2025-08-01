@@ -9,7 +9,7 @@ layout: default
 
 As you can see, the website is undergoing a remodel.  The old site is still accessible [here](https://ryanjameskerr.wixsite.com/website), but we've moved the domain to this new page.  Some of the content hasn't yet been ported over, but we're working on it!  If there's any glaring issues, just let us know.
 
-<br><br>
+<br>
 
 # About Rykerr Medical
 

@@ -12,7 +12,7 @@ A while back we tried to put together a set of protocols for a HEMS program in t
 
 [Field Reference Guides Draft](https://archive.org/download/clinical-guides/Field%20Reference%20Guides%20Draft%20with%20Links.pdf)
 
-<br><br>
+<br>
 
 ### Management of the Sick Baby
 
@@ -35,7 +35,7 @@ Here's a excerpt from the full document above.  It's a short protocol to outline
 
 The idea isn't to be all-inclusive, but to provide quick reference to things that might be difficult to recall on scene or in transport.
 
-<br><br>
+<br>
 
 ### Airway Device Sizing Chart
 
@@ -43,7 +43,7 @@ Since many agencies use different devices for different size patients, it helps 
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/airway-device-sizing-chart.jpeg" alt="airway-device-sizing-chart" />
 
-<br><br>
+<br>
 
 ### More Thoughts on the Idea
 
