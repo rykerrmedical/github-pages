@@ -16,6 +16,8 @@ This here page includes links to all the things referenced in our video entitled
 
 
 
+
+
 <h3 id="papers">Papers Referenced</h3>
 
 (these are in chronological order as they appear in the video, fyi)
@@ -46,6 +48,8 @@ Lepa, N. et al. (2021).  Comparison of hyperangulated and standard geometry vide
 
 
 
+
+
 <h3 id="resources">Online Resources Mentioned</h3>
 
 [Rykerr Medical Instagram Post: One-Human Bougie Techniques](https://www.instagram.com/p/CRcbllKL4_g/)
@@ -70,6 +74,8 @@ Lepa, N. et al. (2021).  Comparison of hyperangulated and standard geometry vide
 
 
 
+
+
 <h3 id="funnies">Funny Things</h3>
 
 [Superior Device Meme](https://sinaiem.org/foam/to-b-or-not-to-b/)
@@ -77,6 +83,9 @@ Lepa, N. et al. (2021).  Comparison of hyperangulated and standard geometry vide
 [Caterpillars & Butterflies vs. Children & Adults Slide](https://www.deeperblue.com/children-scuba-diving-safe/)
 
 [3 Choice Meme Template](https://imgflip.com/memetemplate/156680074/Three-Buttons)
+
+
+
 
 
 <h3 id="fotos">Where We Got Photos/ Images</h3>
