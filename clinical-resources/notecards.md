@@ -16,8 +16,7 @@ Watch a Video on the Concept - Coming Someday!
 
 <br>
 
-<id="notecards">
-### Available Notecards
+<h3 id="notecards">Available Notecards</h3>
 
 These all link to collections on Brainscape, a card management tool that is free to use.  We also use AnkiApp and recommend that for building your own - more on that to come.
 

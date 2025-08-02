@@ -8,7 +8,7 @@ layout: default
 
 <h5><a href="#qrcode">The QR Code Thing</a></h5>
 <h5><a href="#feed">RSS Feed Strategy</a></h5>
-<h5><a href="#feed">Github & The Internet Archive</a></h5>
+<h5><a href="#git-archive">Github & The Internet Archive</a></h5>
 
 This page is where we link and discuss all the non-clinical nerdy things.  Part of the Rykerr Medical project is innovative use of technology, so that's what this lil bit is all about.
 
@@ -50,7 +50,7 @@ We finally figured out how to build and manage our own RSS feed for the podcast 
 
 <br>
 
-<h3 id="qrcode">Github & The Internet Archive</h3>
+<h3 id="git-archive">Github & The Internet Archive</h3>
 
 Part of the Rykerr Medical mission is to promote and utilize truly free resources to facilitate open sharing of information.  Two platforms we make use of are Github and The Internet Archive.
 

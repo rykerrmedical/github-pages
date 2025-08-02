@@ -18,13 +18,13 @@ A while back we tried to put together a set of protocols for a HEMS program in t
 
 Here's a excerpt from the full document above.  It's a short protocol to outline considerations when managing a sick child in the pre-hospital setting.  The content comes from the following sources:
 
-[The Neonatal Resuscitation Program](https://www.aap.org/en-us/continuing-medical-education/life-support/NRP/Pages/NRP.aspx)
+[The Neonatal Resuscitation Program](https://www.aap.org/en/pedialink/neonatal-resuscitation-program/)
 
 [Pediatric Advanced Life Support](https://cpr.heart.org/en/courses/pals-course-options)
 
 [The S.T.A.B.L.E. Course](https://stableprogram.org/)
 
-[EM Cases Podcast #84 - Congenital Heart Disease Emergencies](https://emergencymedicinecases.com/congenital-heart-disease-emergencies-2/])
+[EM Cases Podcast #84 - Congenital Heart Disease Emergencies](https://emergencymedicinecases.com/congenital-heart-disease-emergencies-2/)
 
 [And an image was taken from this article...](https://link.springer.com/chapter/10.1007/978-1-4614-8760-9_3)
 
