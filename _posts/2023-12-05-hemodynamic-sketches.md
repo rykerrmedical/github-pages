@@ -6,7 +6,7 @@ date: 2023-12-05
 
 Here’s a simple graphic that may help conceptualize what’s going on in the body when we discuss hemodynamics and different patterns associated with certain pathologies:
 
-<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/overview-on-the-man.jpeg' | relative_url }}" alt="hemodynamic sketches" />
+<img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/flow-overview.jpeg' | relative_url }}" alt="hemodynamic sketches" />
 
 In reality, its often a rough sketch in the margin of a piece of paper, but that’s the beauty of the thing – it’s a simple-to-draw framework for solving clinical problems:
 
@@ -84,7 +84,7 @@ And then working to fill in the gaps, here’s what we might see in terms of all
 
 <img src="{{ '/assets/images/blog/2023-12-05-hemodynamic-sketches/final-example-gif.gif' | relative_url }}" alt="hemodynamic sketches" />
 
-[alternate link to open that gif in another window, just in case it's tough to see](https://https://imgur.com/GMXr4AA)
+[alternate link to open that gif in another window, just in case it's tough to see](https://imgur.com/ards-full-resolution-GMXr4AA)
 
 Big takeaway from all of this: draw pictures, it helps.  Other less important lessons: knowing how different pathologic events affect the flow of blood through the body can help direct interventions, knowing how we can gather specific pieces of information in different ways can help with this process, and piecing together an overall clinical picture with an incomplete set of data points takes practice.
 

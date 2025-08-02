@@ -204,7 +204,7 @@ There are some other interventions that we can employ to make a clotted chest tu
 
 If there is a blockage that results in the worsening of a pneumothorax with signs of tension and we can’t get the chest tube or the system cleared, treat as any other pneumothorax with needle decompression, finger thoracostomy, or placement of a new tube. We don’t need to take the occluded chest tube out in the moment, as this can be deferred until later or it may even clear with time.
 
-More on all of this and other fun things here: [“Thoracostomy Tubes: A Comprehensive Review of Complications and Related Topics”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4093965/#ref38)
+More on all of this and other fun things here: [“Thoracostomy Tubes: A Comprehensive Review of Complications and Related Topics”](https://pmc.ncbi.nlm.nih.gov/articles/PMC4093965/)
 
 And actual very last thing is what to use to clamp the tube. Whatever is on hand. Some atriums have little plastic slider clamps that can be used along the tubing itself:
 
