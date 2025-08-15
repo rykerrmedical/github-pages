@@ -2,6 +2,7 @@
 layout: post
 title: "Hemodynamic Sketches"
 date: 2023-12-05
+tags: [hemodynamics, cardiology, pathophysiology]
 ---
 
 Here’s a simple graphic that may help conceptualize what’s going on in the body when we discuss hemodynamics and different patterns associated with certain pathologies:

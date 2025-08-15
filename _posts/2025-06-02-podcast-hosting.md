@@ -2,6 +2,7 @@
 layout: post
 title: "Rykerr Medical's Podcast Hosting Strategy"
 date: 2025-06-02
+tags: [general information, tech stuff]
 ---
 
 This here write-up is to accompany [the video we’ve posted](https://youtu.be/nNosYLXTu_A) about how our Rykerr Medical Podcast is hosted using free resources out there on the internet.  It is a bit complicated, since there are multiple components and some technical computer stuff, but we think it’s pretty cool and worth sharing.  Plus it lets anyone host a podcast without having to pay a third party to manage the thing.  There’s some stuff here that’s not directly covered in the video and vice versa, [so check the video](https://youtu.be/nNosYLXTu_A) out also.

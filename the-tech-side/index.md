@@ -54,10 +54,10 @@ We finally figured out how to build and manage our own RSS feed for the podcast 
 
 Part of the Rykerr Medical mission is to promote and utilize truly free resources to facilitate open sharing of information.  Two platforms we make use of are Github and The Internet Archive.
 
-[Github](https://www.github.org)
-This here site is built on github and is hosted for your viewing pleasure at absoultely no cost.  Which is rad.  Github has tons of resources for learning how to use the platform for your specific tech needs - check it out to learn more.
+
+This here site is built on [github](https://www.github.org) and is hosted for your viewing pleasure at absoultely no cost.  Which is rad.  Github has tons of resources for learning how to use the platform for your specific tech needs - check it out to learn more.
 
 As an example, we firured out how to build and host [The Rykerr Medical Podcast]({{ site.baseurl }}/podcast/) on github at absolutely no cost.  And we made a video & blog post combo (noted above) to show you how we did it.
 
-[The Internet Archive](https://www.archive.org)
-The Internet Acrhive is essentially a free online library that allows citizens and users to upload things and archive web pages so that data and information is not lost with time.  We use this service to host files for this site and the podcast, also to save references that we cite in our various posts and projects.
+
+[The Internet Archive](https://www.archive.org) is essentially a free online library that allows citizens and users to upload things and archive web pages so that data and information is not lost with time.  We use this service to host files for this site and the podcast, also to save references that we cite in our various posts and projects.

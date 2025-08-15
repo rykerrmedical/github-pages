@@ -16,7 +16,7 @@ This here page includes links to all the things referenced in our video entitled
 
 
 
-
+<br />
 
 <h3 id="papers">Papers Referenced</h3>
 
@@ -48,7 +48,7 @@ Lepa, N. et al. (2021).  Comparison of hyperangulated and standard geometry vide
 
 
 
-
+<br />
 
 <h3 id="resources">Online Resources Mentioned</h3>
 
@@ -74,7 +74,7 @@ Lepa, N. et al. (2021).  Comparison of hyperangulated and standard geometry vide
 
 
 
-
+<br />
 
 <h3 id="funnies">Funny Things</h3>
 
@@ -86,7 +86,7 @@ Lepa, N. et al. (2021).  Comparison of hyperangulated and standard geometry vide
 
 
 
-
+<br />
 
 <h3 id="fotos">Where We Got Photos/ Images</h3>
 
@@ -126,11 +126,11 @@ Each of these thumbnails is a link to the original page where we found the thing
 </a>
 
 <a href="https://shoplt.uytriuyhg.ru/content?c=elastic%20gum&id=3" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/various-bougie-tips.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/images/various-bougie-tips.jpeg" alt="image" width="300"/>
 </a>
 
 <a href="https://www.vygonusa.com/products/bougie-boussignac_1533_00557603" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/vygon-neo-bougie.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/images/vygon-neo-bougie.jpeg" alt="image" width="300"/>
 </a>
 
 <a href="https://www.jems.com/patient-care/airway-respiratory/an-overview-of-ems-pediatric-airway-management/" target="_blank">

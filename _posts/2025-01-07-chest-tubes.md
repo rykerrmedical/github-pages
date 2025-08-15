@@ -2,6 +2,7 @@
 layout: post
 title: "Chest Tube Management in Transport"
 date: 2025-01-07
+tags: [chest tubes, trauma, pathophsyiology]
 ---
 
 While not all prehospital folks place chest tubes, nearly all of us manage them after placement and in transport. There’s some variation in how these tubes are managed, especially when we consider austere settings, but only a handful of underlaying principles. The hope is that this quick primer will help clinicians feel a bit more at ease when transporting patients with chest tubes. Just know that some of the things we discuss here are contrary to how folks are typically taught. Be sure to practice per the rules and guidelines where you work and recognize that the following information is for educational purposes.

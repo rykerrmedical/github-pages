@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to the Rykerr Medical Blog!"
 date: 2021-05-24
+tags: [general information]
 ---
 Welcome to the Rykerr Medical Blog, a place where folks from around and across the medical industry can pitch in with ideas, thoughts, and expertise.  Here’s how it works: Rykerr Medical LLC hosts this blog and will occasionally contribute content, but it’s mainly a platform for content created by other providers out in the field.  And for the EMS folks, we are working to get accredited to award continuing education (CE) credits for contributions to both this project and a handful of others (for more on that, check out [www.rykerrmedical.com/coned-ceus](https://www.rykerrmedical.com/coned-ceus).  This CE exchange will be totally free and will someday (hopefully!) be expanded to include our nursing colleagues.  But to explain the whole idea in a bit more detail, we’re going to review how it all started and then outline how you can get in on it.
 

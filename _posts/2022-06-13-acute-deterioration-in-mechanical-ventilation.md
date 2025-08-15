@@ -2,6 +2,8 @@
 layout: post
 title: "Acute Deterioration in Mechanical Ventilation"
 date: 2022-06-13
+tags: [mechanical ventilation]
+
 ---
 
 This is a repost of one of the chapters in our free book on mechanical ventilation in transport.  Fore more on that or to read the whole thing, take a look at out website: [www.rykerrmedical.com/clinical-resources/vent-management](https://www.rykerrmedical.com/clinical-resources/vent-management/)
