@@ -305,3 +305,21 @@ label {
   font-weight: 600;
   margin-right: 0.5em;
 }
+
+.site-footer {
+  text-align: center;
+  padding: 1rem 0;
+  border-top: 1px solid #ccc;
+  margin-top: 2rem;
+}
+
+.site-footer .social-text a {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: #a31232; /* your brand color */
+  font-weight: bold;
+}
+
+.site-footer .social-text a:hover {
+  text-decoration: underline;
+}
