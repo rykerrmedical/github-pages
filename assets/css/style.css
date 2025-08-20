@@ -309,23 +309,21 @@ label {
 
 .site-footer {
   width: 100%;
-  text-align: center !important;   /* force centering */
+  text-align: center;
   padding: 1rem 0;
   border-top: 1px solid #ccc;
   margin-top: 2rem;
   clear: both;
 }
 
-.site-footer .footer-link {
-  display: inline-block !important;  /* force inline */
-  margin: 0 0.75rem !important;
-  text-decoration: none !important;  /* remove underline */
-  color: #a31232 !important;
-  font-weight: bold !important;
-  font-size: 1rem;
+.site-footer a {
+  display: inline-block;
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #a31232;
+  font-weight: bold;
 }
 
-.site-footer .footer-link:hover {
-  text-decoration: underline !important;  /* optional */
+.site-footer a:hover {
+  text-decoration: underline;
 }
-
