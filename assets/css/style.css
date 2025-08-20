@@ -306,24 +306,26 @@ label {
   margin-right: 0.5em;
 }
 
+
 .site-footer {
   width: 100%;
-  text-align: center;      /* Center horizontally */
+  text-align: center !important;   /* force centering */
   padding: 1rem 0;
   border-top: 1px solid #ccc;
-  position: relative;      /* keeps it at the bottom of content */
   margin-top: 2rem;
-  clear: both;             /* avoid float conflicts */
+  clear: both;
 }
 
-.site-footer .social-text a {
-  display: inline-block;   /* inline and side-by-side */
-  margin: 0 0.5rem;
-  text-decoration: none;   /* remove underline */
-  color: #a31232;          /* adjust color */
-  font-weight: bold;
+.site-footer .footer-link {
+  display: inline-block !important;  /* force inline */
+  margin: 0 0.75rem !important;
+  text-decoration: none !important;  /* remove underline */
+  color: #a31232 !important;
+  font-weight: bold !important;
+  font-size: 1rem;
 }
 
-.site-footer .social-text a:hover {
-  text-decoration: underline; /* optional hover effect */
+.site-footer .footer-link:hover {
+  text-decoration: underline !important;  /* optional */
 }
+
