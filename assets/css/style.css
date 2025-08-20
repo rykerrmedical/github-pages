@@ -283,3 +283,25 @@ nav.open .nav-links {
     display: block;
   }
 }
+
+/* === Global dropdown style === */
+select {
+  padding: 0.4em 0.6em;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #fff;
+  color: #333;
+  margin: 0.5em 0 1em 0;
+}
+
+select:focus {
+  outline: none;
+  border-color: #a31232; /* your theme color */
+  box-shadow: 0 0 3px rgba(163,18,50,0.5);
+}
+
+label {
+  font-weight: 600;
+  margin-right: 0.5em;
+}

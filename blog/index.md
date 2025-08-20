@@ -8,9 +8,9 @@ permalink: /blog/
 
 <!-- Tag filter (kept safe for Markdown with markdown="0") -->
 <div markdown="0">
-  <label for="tag-select">Filter by tag:&nbsp;</label>
+  <label for="tag-select">filter by tag:&nbsp;</label>
   <select id="tag-select">
-    <option value="">All Tags</option>
+    <option value="">all tags</option>
     {% assign all_tags = site.tags | sort %}
     {% for tag in all_tags %}
       <option value="{{ tag[0] }}">{{ tag[0] }}</option>
