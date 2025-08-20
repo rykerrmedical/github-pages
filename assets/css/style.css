@@ -306,12 +306,19 @@ label {
   margin-right: 0.5em;
 }
 
+#tag-select {
+  background-color: #f0f0f0; /* grey to match page */
+  color: #a31232;            /* red text to match your theme */
+  font-family: inherit;      /* use page font */
+  font-size: 1rem;           /* match existing font size */
+}
+
+
 
 .site-footer {
   width: 100%;
   text-align: center;
   padding: 1rem 0;
-  border-top: 1px solid #ccc;
   margin-top: 2rem;
   clear: both;
 }
