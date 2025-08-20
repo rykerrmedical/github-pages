@@ -6,53 +6,44 @@ permalink: /blog/
 
 # Rykerr Medical Blog
 
-Filter by tag:  
-
-<select id="tag-select">
-  <option value="">All Tags</option>
-  {% assign all_tags = site.tags | sort %}
-  {% for tag in all_tags %}
-  <option value="{{ tag[0] }}">{{ tag[0] | capitalize }}</option>
-  {% endfor %}
-</select>
-
-Search posts:  
-
-<input type="text" id="search-input" placeholder="Search blog posts..." style="width: 300px;">
-
----
-
-## Posts
-
-<div id="posts-container">
-
-{% for post in site.posts %}
-- ### [{{ post.title }}]({{ post.url }})
-  {{ post.excerpt | strip_html | truncatewords: 40 }}
-
-  *Tags:* {% for tag in post.tags %}[{{ tag }}](/tags/{{ tag | slugify }}/){% unless forloop.last %}, {% endunless %}{% endfor %}
-{% endfor %}
-
+<!-- Tag filter (kept safe for Markdown with markdown="0") -->
+<div markdown="0">
+  <label for="tag-select">Filter by tag:&nbsp;</label>
+  <select id="tag-select">
+    <option value="">All Tags</option>
+    {% assign all_tags = site.tags | sort %}
+    {% for tag in all_tags %}
+      <option value="{{ tag[0] }}">{{ tag[0] }}</option>
+    {% endfor %}
+  </select>
 </div>
 
+<ul id="posts-list">
+  {% for post in site.posts %}
+    <li data-tags="{{ post.tags | join: ',' }}">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%b %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
+
 <script>
-  const tagSelect = document.getElementById('tag-select');
-  const searchInput = document.getElementById('search-input');
-  const posts = document.querySelectorAll('#posts-container li');
+(function () {
+  const select = document.getElementById('tag-select');
+  const items = Array.from(document.querySelectorAll('#posts-list > li'));
 
-  function filterPosts() {
-    const selectedTag = tagSelect.value.toLowerCase();
-    const searchTerm = searchInput.value.toLowerCase();
-
-    posts.forEach(post => {
-      const text = post.innerText.toLowerCase();
-      const matchesTag = selectedTag === '' || text.includes(selectedTag);
-      const matchesSearch = searchTerm === '' || text.includes(searchTerm);
-
-      post.style.display = (matchesTag && matchesSearch) ? '' : 'none';
+  function apply() {
+    const tag = (select.value || '').toLowerCase();
+    items.forEach(li => {
+      if (!tag) { li.style.display = ''; return; }
+      const tags = (li.getAttribute('data-tags') || '')
+        .toLowerCase()
+        .split(',')
+        .map(s => s.trim());
+      li.style.display = tags.includes(tag) ? '' : 'none';
     });
   }
 
-  tagSelect.addEventListener('change', filterPosts);
-  searchInput.addEventListener('input', filterPosts);
+  if (select) select.addEventListener('change', apply);
+})();
 </script>
+
