@@ -50,11 +50,7 @@ permalink: /blog/
       const matchesTag = selectedTag === '' || tags.includes(selectedTag);
       const matchesSearch = searchTerm === '' || title.includes(searchTerm) || excerpt.includes(searchTerm);
 
-      if (matchesTag && matchesSearch) {
-        post.style.display = '';
-      } else {
-        post.style.display = 'none';
-      }
+      post.style.display = (matchesTag && matchesSearch) ? '' : 'none';
     });
   }
 
