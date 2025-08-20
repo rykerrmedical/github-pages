@@ -307,19 +307,23 @@ label {
 }
 
 .site-footer {
-  text-align: center;
+  width: 100%;
+  text-align: center;      /* Center horizontally */
   padding: 1rem 0;
   border-top: 1px solid #ccc;
+  position: relative;      /* keeps it at the bottom of content */
   margin-top: 2rem;
+  clear: both;             /* avoid float conflicts */
 }
 
 .site-footer .social-text a {
+  display: inline-block;   /* inline and side-by-side */
   margin: 0 0.5rem;
-  text-decoration: none;
-  color: #a31232; /* your brand color */
+  text-decoration: none;   /* remove underline */
+  color: #a31232;          /* adjust color */
   font-weight: bold;
 }
 
 .site-footer .social-text a:hover {
-  text-decoration: underline;
+  text-decoration: underline; /* optional hover effect */
 }
