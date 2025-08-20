@@ -307,11 +307,20 @@ label {
 }
 
 #tag-select {
-  background-color: #f0f0f0; /* grey to match page */
-  color: #a31232;            /* red text to match your theme */
-  font-family: inherit;      /* use page font */
-  font-size: 1rem;           /* match existing font size */
+  -webkit-appearance: none; /* remove default arrow in Chrome/Safari */
+  -moz-appearance: none;    /* remove default arrow in Firefox */
+  appearance: none;         /* fallback */
+  background-color: #f0f0f0 !important;
+  color: #060608 !important;
+  font-family: inherit !important;
+  font-size: 1rem !important;
+  padding-right: 1.5em; /* leave space for a custom arrow */
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 10 5' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0l5 5 5-5z' fill='%23a31232'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.5em center;
+  background-size: 0.65em auto;
 }
+
 
 
 
