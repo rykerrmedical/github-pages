@@ -8,7 +8,7 @@ permalink: /not-linked/show-notes-SFCEBM-tutor-ryan-and-austin-again/
 
 In chronological order.  If something is wrong, just let us know:
 
-Austin's Notes on Trauma Resuscitation
+[Austin's Notes on Trauma Resuscitation](https://archive.org/download/show-notes-sfcebm-tutor-ryan-and-austin-again/Trauma%20Resuscitation.pdf)
 
 [EmCrit Page](https://emcrit.org/about/)
 
@@ -37,15 +37,15 @@ Resuscitative Hyperkalemia in Noncrush Trauma [pdf](https://archive.org/download
 
 [Austin's Notes on Hypocalcemia](https://archive.org/download/show-notes-sfcebm-tutor-ryan-and-austin-again/Hypocalcemia%20in%20Hemorrhage.pdf)
 
-A review of transfusion- and trauma-induced hypocalcemia [pdf] [pdf link](https://emcrit.org/wp-content/uploads/2021/05/Official-JTACS-Lethal-Diamond.pdf) [journal link, not free](https://journals.lww.com/jtrauma/Citation/2020/03000/A_review_of_transfusion__and_trauma_induced.11.aspx)
+A review of transfusion- and trauma-induced hypocalcemia [pdf](https://archive.org/download/show-notes-sfcebm-tutor-ryan-and-austin-again/A%20review%20of%20transfusion-%20and%20trauma-induced%20hypocalcemia.%20Is%20it%20time%20to%20change%20the%20lethal%20triad%20to%20the%20lethal%20diamond_.pdf) [pdf link](https://emcrit.org/wp-content/uploads/2021/05/Official-JTACS-Lethal-Diamond.pdf) [journal link, not free](https://journals.lww.com/jtrauma/Citation/2020/03000/A_review_of_transfusion__and_trauma_induced.11.aspx)
 
-Elevated ICP: Hyperventilation [pdf] [link](https://www.openanesthesia.org/keywords/elevated-intracranial-pressures/)
+Elevated ICP: Hyperventilation [pdf](https://archive.org/download/show-notes-sfcebm-tutor-ryan-and-austin-again/Elevated%20Intracranial%20Pressures%20-%20OpenAnesthesia.pdf) [link](https://www.openanesthesia.org/keywords/elevated-intracranial-pressures/)
 
 Oxygen therapy for acute myocardial infarction [pdf](https://archive.org/download/show-notes-sfcebm-tutor-ryan-and-austin-again/Oxygen%20therapy%20for%20acute%20myocardial%20infarction.pdf) [link](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007160.pub4/full)
 
 Air Versus Oxygen in ST-Segment–Elevation Myocardial Infarction [pdf](https://archive.org/download/show-notes-sfcebm-tutor-ryan-and-austin-again/Air%20Versus%20Oxygen%20in%20ST-Segment%E2%80%93Elevation%20Myocardial%20Infarction.pdf) [link](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.114.014494?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
-Effects of oxygen on the development and severity of retinopathy of prematurity [pdf](https://archive.org/download/show-notes-sfcebm-tutor-ryan-and-austin-again/Effects%20of%20oxygen%20on%20the%20development%20and%20severity%20of%20retinopathy%20of%20prematurity.pdf) [link](https://www.jaapos.org/article/S1091-8531(13&#41;00133-X/fulltext)
+Effects of oxygen on the development and severity of retinopathy of prematurity [pdf](https://archive.org/download/show-notes-sfcebm-tutor-ryan-and-austin-again/Effects%20of%20oxygen%20on%20the%20development%20and%20severity%20of%20retinopathy%20of%20prematurity.pdf) [link](https://www.jaapos.org/article/S1091-8531(13%2900133-X/fulltext)
 
 [Question Tradition: Glucagon for Food Boluses](https://rebelem.com/question-tradition-glucagon-food-boluses/)
 

@@ -8,6 +8,8 @@ permalink: /not-linked/show-notes-SFCEBM-tutor-ryan-and-austin/
 
 We listed everything out in chronological order as it appears in the video.  If we missed anything just let us know.
 
+[Austin's Prep Notes](https://archive.org/download/show-notes-sfcebm-ryan-and-austin/Austin%27s%20Notes.pdf)
+
 Dépret, F., Peacock, W. F., Liu, K. D., Rafique, Z., Rossignol, P. & Legrand, M.  (2019).  Management of hyperkalemia in the acutely ill patient.  Annals of Intensive Care, 9(1), 32. doi: 10.1186/s13613-019-0509-8. [pdf](https://archive.org/download/show-notes-sfcebm-ryan-and-austin/Depret%2C%202019%20-%20HyperK.pdf) [web](https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-019-0509-8)
 
 Jagodzinski, N. A., Weerasinghe, C. & Porter, K.  Crush injuries and crush syndrome — a review. Part 1: the systemic injury.  Trauma, 12(2), 69-88.  doi: 10.1177/1460408610372440  [pdf](https://archive.org/download/show-notes-sfcebm-ryan-and-austin/Jagodzinski%2C%202010%20-%20Crush.pdf) [web](https://anaesthetics.ukzn.ac.za/Libraries/TRAUMA/Crush_syndrome_Trauma_2010.pdf)
@@ -72,9 +74,9 @@ Chou, Y. H., Chu, T. S. & Lin, S. L. Role of renin-angiotensin system in acute k
 
 Virani, S. A., Khosla, A. & Levin, A. Chronic kidney disease, heart failure and anemia.  Canadian Journal of Cardiology, 24(Suppl B), 22B-4B.  doi: 10.1016/s0828-282x(08)71026-2  [pdf](https://archive.org/download/show-notes-sfcebm-ryan-and-austin/Virani%2C%202008%20-%20CKD%2C%20HF%2C%20Anemia.pdf) [web](https://pmc.ncbi.nlm.nih.gov/articles/PMC2794442/)
 
-Hambright, P.  (2022).  A man in his 60s with dizziness, nausea, chest pain, and LBBB.  Dr. Smith’s ECG Blog.  Retrieved from https://hqmeded-ecg.blogspot.com/2022/08/a-man-in-his-60s-with-dizziness-nausea.html?hl=en  [web] (https://hqmeded-ecg.blogspot.com/2022/08/a-man-in-his-60s-with-dizziness-nausea.html?hl=en)
+Hambright, P.  (2022).  A man in his 60s with dizziness, nausea, chest pain, and LBBB.  Dr. Smith’s ECG Blog.  Retrieved from https://hqmeded-ecg.blogspot.com/2022/08/a-man-in-his-60s-with-dizziness-nausea.html?hl=en  [web](https://hqmeded-ecg.blogspot.com/2022/08/a-man-in-his-60s-with-dizziness-nausea.html?hl=en)
 
-Vihonen, H., Kuisma, M., Salo, A., Ångerman, S., Pietiläinen, K. & Nurmi. J. (2019).  Mechanisms of early glucose regulation disturbance after out-of-hospital cardiopulmonary resuscitation: An explorative prospective study. PLoS One, 14(3):e0214209.  doi: 10.1371/journal.pone.0214209  [pdf] [web](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214209)
+Vihonen, H., Kuisma, M., Salo, A., Ångerman, S., Pietiläinen, K. & Nurmi. J. (2019).  Mechanisms of early glucose regulation disturbance after out-of-hospital cardiopulmonary resuscitation: An explorative prospective study. PLoS One, 14(3):e0214209.  doi: 10.1371/journal.pone.0214209  [pdf](https://archive.org/download/show-notes-sfcebm-ryan-and-austin/Vihonen%2C%202019%20-%20Glucose%20in%20Arrest.pdf) [web](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214209)
 
 Johnston, L. & Kwon, S. H.  Moving from controversy to consensus: premedication for neonatal intubation.  Journal of Perinatology, 38(6), 611-613.  doi: 10.1038/s41372-018-0115-x  [pdf](https://archive.org/download/show-notes-sfcebm-ryan-and-austin/Johnston%2C%202018%20-%20Baby%20Intubation.pdf) [web](https://www.nature.com/articles/s41372-018-0115-x)
 
