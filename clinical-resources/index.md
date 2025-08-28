@@ -10,7 +10,6 @@ permalink: /clinical-resources/
 <h5><a href="#vent">Vent Management Book</a></h5>
 <h5><a href="#protocols">Protocols and Cheat Sheets</a></h5>
 <h5><a href="#medications">Medication Guidelines</a></h5>
-<h5><a href="#notecards">Notecards</a></h5>
 
 This page is a repository for all of the clinical things we've built specifically for the site.  There's also some stuff on the [YouTube Channel](https://www.youtube.com/@rykerrmedical) and over at [The Rykerr Medical Podcast]({{ site.baseurl }}/podcast) - check those out as well!
 
@@ -53,11 +52,3 @@ Protocols in EMS tend to read like books: lots of text, a few charts, maybe some
 </h3>
 
 Here's a med formulary that may be helpful for those working in CCT.  The someday plan would be to expand this concept into a workable pdf or app where anyone could customize the specific doses for their agency.  But alas, that's too much work for the moment...  Check it out anyways and let us know what you think.
-
-<br>
-
-<h3 id="notecards">
-  <a href="{{ site.baseurl }}/clinical-resources/notecards/">Notecards</a>
-</h3>
-This page is and will be a collection of virtual note cards that we've put together for a few things.  As time allows, we'll expand the stuff on offer.  And eventually we'll get a video up over on [The Tech Side]({{ site.baseurl }}/the-tech-side) to talk about how to use apps like Brainscape and AnkiApp to facilitate this sort of self-study
-
