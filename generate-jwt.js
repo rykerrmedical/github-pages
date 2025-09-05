@@ -26,6 +26,7 @@ const payload = {
       name: "ryan",
       email: "ryan@rykerrmedical.com",
       moderator: true
+      avatar: ""
     },
     features: {
       livestreaming: true,
