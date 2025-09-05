@@ -26,8 +26,12 @@ const payload = {
       name: "ryan",
       email: "ryan@rykerrmedical.com",
       moderator: true
+    },
+    features: {
+      livestreaming: true,
+      recording: true,
+      "outbound-call": true  // quotes fixed
     }
-    features: {}
   }
 };
 
