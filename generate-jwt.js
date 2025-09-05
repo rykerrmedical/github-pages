@@ -25,7 +25,7 @@ const payload = {
     user: {
       name: "ryan",
       email: "ryan@rykerrmedical.com",
-      moderator: true
+      moderator: true,
       avatar: ""
     },
     features: {
