@@ -27,6 +27,7 @@ const payload = {
       email: "ryan@rykerrmedical.com",
       moderator: true
     }
+    features: {}
   }
 };
 
