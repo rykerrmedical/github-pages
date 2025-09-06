@@ -2,6 +2,9 @@ document.addEventListener("DOMContentLoaded", () => {
   fetch("/assets/token.txt?ts=" + Date.now()) // cache-buster
     .then(res => res.text())
     .then(jwt => {
+      console.log("Raw JWT from server:", jwt);
+      console.log("JWT payload:", JSON.parse(atob(jwt.split('.')[1])));
+              
       const options = {
         roomName: "mymeeting123",      // must match JWT.room
         width: "100%",
@@ -11,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
       };
 
       // Explicitly set the domain
-        const domain = "8x8.vc/vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db";
+        const domain = "8x8.vc";
 
       const api = new JitsiMeetExternalAPI(domain, options);
 
