@@ -19,7 +19,7 @@ const payload = {
   aud: "jitsi",
   iss: "chat",
   sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/1e1dce",
-  room: room,
+  room: "*",
   iat: now,
   exp: exp,
   nbf: now,
