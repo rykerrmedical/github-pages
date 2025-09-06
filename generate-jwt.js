@@ -6,7 +6,7 @@ const { execSync } = require("child_process");
 const privateKey = fs.readFileSync("private.key", "utf8");
 
 // Get room name from CLI arg, default to "meeting"
-const room = process.argv[2] || "meeting";
+const room = process.argv[2] || "mymeeting123";
 
 // Set expiration (2 hours)
 const now = Math.floor(Date.now() / 1000);
@@ -16,7 +16,7 @@ const exp = now + 120 * 60;
 const payload = {
   aud: "jitsi",
   iss: "chat",
-  sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
+  sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/1e1dce",
   room: room,
   iat: now,
   exp: exp,
@@ -39,7 +39,7 @@ const payload = {
 // Sign token
 const token = jwt.sign(payload, privateKey, {
   algorithm: "RS256",
-  keyid: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/5758e1-SAMPLE_APP"
+  keyid: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db"
 });
 
 // Save token
