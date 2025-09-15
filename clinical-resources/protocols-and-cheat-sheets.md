@@ -29,7 +29,7 @@ Here's a excerpt from the full document above.  It's a short protocol to outline
 [And an image was taken from this article...](https://link.springer.com/chapter/10.1007/978-1-4614-8760-9_3)
 
 ​<a href="https://archive.org/download/clinical-guides/Management%20of%20the%20Sick%20Baby.pdf" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/sick-baby-screenshot.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/sick-baby-screenshot.jpeg" alt="image" width="300"/>
 </a>
 (^click the image to open the pdf file)
 
@@ -41,7 +41,7 @@ The idea isn't to be all-inclusive, but to provide quick reference to things tha
 
 Since many agencies use different devices for different size patients, it helps to have a custom-made sizing chart for this type of thing.  This one (also pulled from the full-length document at the top of this page) is also correlated with Broselow Tape colors.  Eventually it'd be cool to build this into template that could be used by other agencies, maybe even wrap it into an app that's already out there?  If you're interested in that sort of thing we could use some friends!
 
-<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/airway-device-sizing-chart.jpeg" alt="airway-device-sizing-chart" />
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/airway-device-sizing-chart.jpeg" alt="airway-device-sizing-chart" />
 
 <br>
 

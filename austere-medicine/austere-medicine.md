@@ -13,11 +13,11 @@ layout: default
 <h5><a href="#clinic-sick-call">Clinic/ Sick Call Skills</a></h5>
 <h5><a href="#general-refs">General/ Multi-Disciplinary References</a></h5>
 
-This page serves as a repository for all the austere medicine resources we've collected and created.  It is broken down by subject as noted above.  There is some overlap both within these subject areas and also between the stuff on this page and the general [https://www.rykerrmedical.com/clinical-resources/](https://www.rykerrmedical.com/clinical-resources/), so be sure to have a look around.
+This page serves as a repository for all the austere medicine resources we've collected and created.  It is broken down by subject as noted above.  There is some overlap both within these subject areas and also between the stuff on this page and the general [Clinical Resources Page](https://www.rykerrmedical.com/clinical-resources/), so be sure to have a look around.
 
 Each section (except for the last) is broken down as so:
 - Fundamental Knowledge - key words and terms to get you started on some self-directed learning in the space
-- Certs & Courses - where to go if you have the time and/ or money to put into both learning and gaining line items on your resume
+- Certs & Courses - where to go if you have the time and/ or money to put into both learning and making yourself more marketable
 - Learn More - links to resources on the general concept; might be videos, websites, articles social media pages, etc.
 - Potential Leads - groups and organizations that are currently working in this sector and may have opportunities to get involved
 
@@ -42,13 +42,13 @@ Learn More:
 - [Single Blog: International Opportunities for EMS People, Rykerr Medical](https://www.rykerrmedical.com/2021/11/03/international-opportunities-for-ems.html)
 - Podcast: Preparing for Humanitarian Work & Deployment, The Surge [youtube](https://www.youtube.com/watch?v=4u9AYuz3JpM) [apple podcasts](https://podcasts.apple.com/us/podcast/episode-64-preparing-for-humanitarian-work-and-deployment/id1211210327?i=1000554762017)
 - Podcast: Humanitarian Relief with Mark Lopshite, CORUM [apple podcasts](https://podcasts.apple.com/us/podcast/159-humanitarian-relief-with-mark-lopshire/id1691996344?i=1000725124755) [spotify](https://open.spotify.com/episode/1aiuEHJwWpAfG32FttTOmv?si=434f65bc38874955)
+- Book by Cadus***
 
 Potential Leads:
 - Team Rubicon
 - UK Med
 - International Medical Corps (IMC)
-- No Border Medic
-- Any of the WHO Emergency Medical Teams (EMTs)
+- Any of the other WHO Emergency Medical Teams (EMTs)
 
 <br>
 
@@ -65,17 +65,18 @@ Courses & Certs:
 - Advanced Wilderness Life Support ($$, many different agencies offer these courses)
 - [Remote Medical Training: Remote Medicine for the Advanced Provider](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) ($$$, hybrid)
 - [Diploma in Mountain Medicine] ($$$, hybrid; consider [IMMC at UNM](https://hsc.unm.edu/medicine/departments/emergency-medicine/programs/prehospital-care/immc/) or [Wild Med Society](https://wms.org/WMS/WMS/Get-Certified/DiMM/Overview.aspx))
-- Wilderness Paramedic (WP-C) (certifcation exam)
+- [Wilderness Paramedic (WP-C)](link this***) (certifcation exam)
 
 Learn More:
-- [Aerie Backcountry Medicine WFR Manual](https://www.aeriemedicine.com/textbook/) (free)
-- [Wilderness Medical Sociewty (WMS) Clinical Practice Guidelines (CPGs)](https://wms.org/WMS/WMS/Research/WEM/CPG.aspx) (free)
-- Rykerr Medical's Outdoor Medicine Notecards on Brainscape
+- [Aerie Backcountry Medicine WFR Manual](https://www.aeriemedicine.com/textbook/) (free, high utility for BLS-level stuff)
+- [Wilderness Medical Sociewty (WMS) Clinical Practice Guidelines (CPGs)](https://wms.org/WMS/WMS/Research/WEM/CPG.aspx) (free, high utility for all levels of clinicians)
+- Rykerr Medical's Outdoor Medicine Notecards on Brainscape (free; questionable utility, but take a look anyways...)
 
 Potential Leads:
 - Ski Patrol, specifically those with National Ski Patrol programs
 - Local Search & Rescue
 - Wildland Firefighting/ Fireline Medic (various agencies have opportunities)
+- Race Support (specifically ultra-marathons and stage races)
 
 <br>
 
@@ -90,6 +91,7 @@ Fundamental Knowledge:
 Courses & Certs:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
 - [FCCS: Crisis Management](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management) ($, tough to find)
+- [Upper Level ICS Courses](link***) ($-$$, varies a bit)
 
 Learn More:
 - [Disaster Medicine Collection on Archive.org](https://openlibrary.org/search?q=disaster+medicine&mode=ebooks&has_fulltext=true&language=eng) (all books listed are free to borrow)
@@ -110,14 +112,13 @@ Fundamental Knowledge:
 - Principles of Prolonged Field Care (PFC)
 - Movement in Personal Protective Equipment (PPE; but not the gloves and eyeglasses kind)
 
-
 Courses & Certs:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
-- Ragged Edge Solutions
-- European Medics Course
+- Austere Emergency Care ($$, various agencies offer the class but consider Ragged Edge Solutions)
+- European Medics Course ($$)
 
 Learn More:
-- FPC Working Group CPGs
+- FPC Working Group CPGs (free)
 - [Conflict & Health Journal](https://conflictandhealth.biomedcentral.com/about) (free/ open access)
 - [Medicine, Conflict & Survival Journal](https://www.tandfonline.com/journals/fmcs20) (free/ open access))
 
@@ -133,18 +134,22 @@ Potential Leads:
 Quick note: this section is a bit more generalized and geared towards the medic/ nurse who doesn't typically work in a clinic setting, but would like to be useful in that setting (since a lot of austere work is clinic-based)
 
 Fundamental Knowledge:
-- How to Facilitate Workflow in a Clinic Serttings
+- How to Facilitate Workflow in a Clinic Setting
 - Utilization & Maintenance of Point of Care (POC) Tests
 - Navigating Reference Materials
 - Managining a Remote Clinic
 
 Courses & Certs:
+- PA, NP or medical school :) ($$$$-$$$$$, also just kidding)
+- Minor Procedures?
 
 Learn More:
 - [Next Level Medic: ADTMC Resources](https://nextlevelmedic.com/algorithm-directed-troop-medical-care/)
+- Primary Care Manual (Dan mentioned it)
 
 Potential Leads:
-- 
+- many Humanitarian Medicine opportunities include exposure here (see above)
+- shadow in a clinic, urgent care, or low-acuity pod in an ER
 
 <br>
 
@@ -153,5 +158,9 @@ Potential Leads:
 And then this section is just a list of resources that span multiple disciplines discussed above.
 
 Book: Improvised Medicine by Kenneth V. Iserson
-Podcast: Dan Taylor, Rykerr Medical
+Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast
+Podcast: College of Remote and Offshor Medicine
+Podcast: Remote, Expedition & Disaster Medicine (RED MED)
+Podcast: World Extreme Medicine
+Job Board: Remote Medics Jobs
 

@@ -15,6 +15,10 @@ And to help contribute to [Version 2](https://docs.google.com/document/d/1qA-LlM
 
 <br>
 
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/vent-management/vent-book-cover.jpeg" alt="diltiazem-example" />
+
+<br>
+
 ### The Process
 
 It would be a total lie to say that the Vent Book was written from an existing knowledge base in one person's brain.  It resulted from a process that included lots of research and lots of drafts.  We believe that it's totally OK not to know things and then to actively pursue explanations for those things along the way.  Just to demonstrate (and also as a practice in self-humiliation...), we've included prior drafts of this book with handwritten edits so that the curious can see how the final product came to be.  
@@ -29,9 +33,9 @@ One of the things we've tried to do with this manual is to present material in a
 
 And if you are interested in helping out with graphics in future editions or other projects, navigate on over to Talk to Us and get in touch!
 
-<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/vent-page-vent-sketch-one.jpeg" alt="vent-graphic" width="300"/>
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/vent-management/vent-page-vent-sketch-one.jpeg" alt="vent-graphic" width="300"/>
 
-<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/vent-page-vent-sketch-two.jpeg" alt="vent-graphic" width="300"/>
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/vent-management/vent-page-vent-sketch-two.jpeg" alt="vent-graphic" width="300"/>
 
 <br>
 
@@ -39,7 +43,7 @@ And if you are interested in helping out with graphics in future editions or oth
 
 There's a video on this over in [The Tech Side](https://www.rykerrmedical.com/the-tech-side/), but the idea was that we wanted anyone with a print version to have easy access to the references (articles, websites, videos, podcasts, etc.).  We decided to go with QR codes that link through our website and on to whatever content is referenced.  If you come across a broken link or if the system seems to have failed, just [Talk to Us](https://www.rykerrmedical.com/talk-to-us/) and we'll look into it.  And for those who are curious how we've set this whole thing up, just take a look at the QR Code Thing video we made explaining the whole idea.
 
-<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/website-qr-code.jpeg" alt="qr-code" width="300"/>
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/vent-management/website-qr-code.jpeg" alt="qr-code" width="300"/>
 
 <br>
 

@@ -114,26 +114,26 @@ Each of these thumbnails is a link to the original page where we found the thing
 
 <div class="linked-thumbnails">
 <a href="https://www.jems.com/patient-care/a-tale-of-two-tapes-broselow-luten-tapes-2011-vs-2017/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/broselow-from-jems-article.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/show-notes-pedi-video/broselow-from-jems-article.jpeg" alt="image" width="300"/>
 </a>
 
 <a href="https://twitter.com/jamestooley/status/747741797561081856" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/straight-tip-neo-bougie-in-two-oh.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/show-notes-pedi-video/straight-tip-neo-bougie-in-two-oh.jpeg" alt="image" width="300"/>
 </a>
 
 <a href="https://www.annemergmed.com/article/S0196-0644(21)01465-7/fulltext#relatedArticles" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/coude-tip-neo-bougie-with-other-airways.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/show-notes-pedi-video/coude-tip-neo-bougie-with-other-airways.jpeg" alt="image" width="300"/>
 </a>
 
 <a href="https://shoplt.uytriuyhg.ru/content?c=elastic%20gum&id=3" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/images/various-bougie-tips.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/images/show-notes-pedi-video/various-bougie-tips.jpeg" alt="image" width="300"/>
 </a>
 
 <a href="https://www.vygonusa.com/products/bougie-boussignac_1533_00557603" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/images/vygon-neo-bougie.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/images/show-notes-pedi-video/vygon-neo-bougie.jpeg" alt="image" width="300"/>
 </a>
 
 <a href="https://www.jems.com/patient-care/airway-respiratory/an-overview-of-ems-pediatric-airway-management/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/anatomy-differences.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/show-notes-pedi-video/anatomy-differences.jpeg" alt="image" width="300"/>
 </a>
 </div>

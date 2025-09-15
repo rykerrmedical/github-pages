@@ -12,6 +12,8 @@ The document [linked here](https://archive.org/download/clinical-guides/%28H%29E
 
 <br>
 
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/medication-guidelines/drug-guide-screenshot.jpeg" alt="drug-guide-screenshot" />
+
 ### Contribute to the Drug Guide
 
 [Access the editable file here via Google Drive](https://drive.google.com/file/d/17Luv2U9WXuZIsrFN4--KZCttVw41A8Y1/view?usp=sharing)
@@ -33,6 +35,8 @@ We will periodically archive working versions and share them here
 And feel free to share with your friends out there in the field
 
 <br>
+
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/medication-guidelines/diltiazem-example.jpeg" alt="diltiazem-example" />
 
 ### Next Steps
 
