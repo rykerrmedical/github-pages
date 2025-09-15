@@ -2,7 +2,7 @@
 layout: post
 title: "Chest Tube Management in Transport"
 date: 2025-01-07
-tags: [chest tubes, trauma, pathophysiology]
+tags: [chest tubes, trauma, pathophysiology, ConEd/CEUs]
 blurb: all about chest tube management once they've been placed; when to use suction, when to let them drain passively; review of (patho)physiology and troubleshooting
 ---
 
