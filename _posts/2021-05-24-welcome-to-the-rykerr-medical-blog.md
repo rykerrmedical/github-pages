@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to the Rykerr Medical Blog!"
 date: 2021-05-24
 tags: [general information]
+blurb: overview of what the rykerr medical blog is all about and how it fits in to the project as a whole
 ---
 Update Aug 2025 - This post was written a few years ago now, so it's worth a quick update.  The nature of the Rykerr Medical project has changed slightly and we never did get it worked out to offer CEUs for content creation as outlined below.  That said, it is something we think about on occasion and we are definitely still open to the idea of others lending a hand with content creation.  So if that's something that seems like you'd be interested in, just [reach out](https://www.rykerrmedical.com/talk-to-us/) and we can diuscuss. Also we do have a CEU/ ConEd system worked out for other offerings, so [take a look there](https://www.rykerrmedical.com/coned-ceus) if you need some hours or just want to learn some things.  
 

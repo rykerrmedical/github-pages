@@ -3,6 +3,7 @@ layout: post
 title: "International Opportunities for EMS People"
 date: 2021-11-03
 tags: [general information, humanitarian medicine, international medicine]
+blurb: if you're an EMS person interested in overseas/ international work, this is a good place to start
 ---
 
 Helping out overseas as an EMS person is an idea that appeals to many of us.  The draw includes both a feeling of satisfaction with giving back and the excitement of something new.  The challenge, however, is finding opportunities that are relevant to the EMS clinician and that match well with what we are looking to get out of the experience.  So that’s what we’re going to discuss – how the EMS provider gets into this scene and how he or she finds opportunities that both offer value and that match our unique skill set.
