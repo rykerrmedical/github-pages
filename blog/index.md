@@ -23,9 +23,7 @@ permalink: /blog/
     <li data-tags="{{ post.tags   join: ',' }}">
       <article>
         <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}
-        </p>
-        <p class="post-blurb">{{ post.blurb }}</p>
+        <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}; {{ post.blurb }}</p>
       </article>
     </li>
   {% endfor %}
