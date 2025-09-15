@@ -24,12 +24,6 @@ permalink: /blog/
       <article>
         <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}
-          {% if post.tags.size > 0 %}
-            &nbsp;&nbsp;|&nbsp;&nbsp;
-            {% for tag in post.tags %}
-              <span class="tag">{{ tag }}</span>
-            {% endfor %}
-          {% endif %}
         </p>
         <p class="post-blurb">{{ post.blurb }}</p>
       </article>
