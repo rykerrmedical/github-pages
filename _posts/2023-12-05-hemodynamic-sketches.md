@@ -3,7 +3,7 @@ layout: post
 title: "Hemodynamic Sketches"
 date: 2023-12-05
 tags: [hemodynamics, cardiology, pathophysiology]
-blurb: a primer on hemopdyanmic monitoring with a simple sketch that mayt help work through these sorts of problems/ challenges; also reviews different types of access seen in complicated medical/ cardiac cases
+blurb: a primer on hemopdynamic monitoring with a simple sketch that mayt help work through these sorts of problems/ challenges; also reviews different types of access seen in complicated medical/ cardiac cases
 ---
 
 Here’s a simple graphic that may help conceptualize what’s going on in the body when we discuss hemodynamics and different patterns associated with certain pathologies:
