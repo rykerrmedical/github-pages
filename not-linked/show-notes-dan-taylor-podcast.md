@@ -9,7 +9,7 @@ permalink: /not-linked/show-notes-dan-taylor-podcast/
 This here page includes links to all the things referenced in our podcast with Dan Taylor.  We've tried to list everything in chronological order as they were mentioned on the recording.
 
 
-Podcast from CORUM that disambiguates some of the terminology discussed: CORUM cast, Ep. 143 with John Quinn [spotify](https://open.spotify.com/episode/5ybZ41uzmd45WnGj65T6Gz) [apple](https://podcasts.apple.com/us/podcast/143-mim25-john-quinn-damage-control-resus-ukraine/id1691996344?i=1000708707040)
+Podcast from COROM that disambiguates some of the terminology discussed: COROM cast, Ep. 143 with John Quinn [spotify](https://open.spotify.com/episode/5ybZ41uzmd45WnGj65T6Gz) [apple](https://podcasts.apple.com/us/podcast/143-mim25-john-quinn-damage-control-resus-ukraine/id1691996344?i=1000708707040)
 
 [EMMA Capnography Device, 3rd Gen](https://www.masimo.com/products/wearables/emma-capnograph/)
 
@@ -70,8 +70,7 @@ Rapid Extrication Module Support
 
 [Maxwell Quick Medical Reference](https://maxwellbook.com/)
 
-
-
+<br/>
 
 And if you like what Dan has to say, consisder checking all of these out as well:
 - we can add stuff here...
