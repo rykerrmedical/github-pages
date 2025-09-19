@@ -9,60 +9,66 @@ permalink: /not-linked/show-notes-dan-taylor-podcast/
 This here page includes links to all the things referenced in our podcast with Dan Taylor.  We've tried to list everything in chronological order as they were mentioned on the recording.
 
 
-Podcast from CORUM that disambiguates some of the terminology discussed***
+Podcast from CORUM that disambiguates some of the terminology discussed: CORUM cast, Ep. 143 with John Quinn [spotify](https://open.spotify.com/episode/5ybZ41uzmd45WnGj65T6Gz) [apple](https://podcasts.apple.com/us/podcast/143-mim25-john-quinn-damage-control-resus-ukraine/id1691996344?i=1000708707040)
 
-EMMA Capnography Device, 3rd Gen
+[EMMA Capnography Device, 3rd Gen](https://www.masimo.com/products/wearables/emma-capnograph/)
 
-Prolonged Field Care (FPC)
-- Clinical Practice Guidelines (CPGs)
-- PFC Collective Homepage
+Prolonged Field Care (PFC) resources:
+- Joint Trauma System Clinical Practice Guidelines (CPGs) [web, free](https://jts.health.mil/index.cfm/CPGs/cpgs) [pdfs on archive](https://archive.org/details/prolonged-casualty-care-guidelines-21-dec-2021-id-91)
+- Prolonged Casualty Care (PCC) Guidelines [web, requires free account](https://deployedmedicine.allogy.net/learner/collections/257/contents/2423) [pdf on archive](https://archive.org/details/prolonged-casualty-care-guidelines/Prolonged%20Casualty%20Care%20Guidelines)
+- Comittee in Tactical Combat Casualty Care (CoTCCC) [site](https://jts.health.mil/index.cfm/committees/cotccc) [guidelines, web, requires free account](https://jts.health.mil/index.cfm/committees/cotccc/guidelines) [pdf on archive](https://archive.org/details/prolonged-casualty-care-guidelines/TCCC%20Guidelines)
 
-Prolonged Casualty Care (PCC) CPGs
+[Urban Search & Rescue (USAR), Overview on FEMA Site (US Govt Agency)](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/urban-search-rescue)
 
-Urban Search & Rescue (USAR), Overview on APSR Site (US Govt Agency)
+[Disaster Medical Assistance Team (DMAT), Overview on APSR Site (US Govt Agency)](https://aspr.hhs.gov/NDMS/Pages/dmat.aspx)
 
-Disaster Medical Assistance Team (DMAT), Overview on APSR Site (US Govt Agency)
+Wilderness Medical Society [web](https://wms.org/) [CPGs, all free](https://journals.sagepub.com/topic/collections-wem/wem-1-wilderness_medicine_clinical_practice_guidelines?journalCode=wem)
 
-Wilderness Medical Society
+[National Ski Patrol](https://www.nsp.org/Web/NSPWebsite/Home.aspx)
 
-National Ski Patrol
+Austere Emergency Care, offered by these guys (among others):
+- [College of Remote & Offshore Medicine](https://corom.edu.mt/austere-emergency-care/)
+- [Ragged Edge](https://www.raggededgesolutions.com/#Courses)
+- [Anyone Not Ready](https://anyonenotready.com/aec/)
 
-Austere Emergency Care
-
-Anyone Not Ready
-
-Ragged Edge Solutions
-
-College of Remote & Offshore Medicine
-- Free Courses
-- Field Guide
+College of Remote & Offshore Medicine, other resources:
+- [Webpage](https://corom.edu.mt/)
+- [Courses Overview](https://corom.edu.mt/short-courses/)
+- [Field Guide](https://corom.edu.mt/field-guide/)
 
 SOA Rescue (SOAR)
-- Extended AEC?
-- TAME
+- [Webpage](https://www.soarescue.com/)
+- [Extended Austere Provider](https://www.soarescue.com/eap)
+- [Technical Austere Medical Evacuation](https://www.soarescue.com/tame)
 
 European Medics
-- TOCO?
+- [Webpage](https://www.europeanmedics.eu/)
+- [Tactical Clinical Operations](https://www.europeanmedics.eu/courses/tco-course)
 
-Hostiele/ Hazardouse Environment Awareness Training
+Hostile Environment Awareness Training (HEAT) & Hostile Environment Integrated Security Training (HEIST)
+- [CADUS](https://www.cadus.org/en/what-we-do/training/heat/) - have done an abbreviated HEAT course and deployed with them multiple times, but don't know about their class; based in Berlin 
+- [Centre for Safety & Devlopment](https://www.centreforsafety.org/what-is-heat-training/) - don't actually know anything about these guys, they just offer the courses in a number of locations (including the US)
 
-HEIST?
+HEAT for Journalists
+- [Free Online Course/ Artricle Series from Journalists With Borders (RSF)](https://safety.rsf.org/heat-for-journalists-part-1-preparing-for-civil-unrest/)
+- [HEAT for Journalists from Advanced Tactical Resources, paid course](https://atr-ltd.co.uk/personal-safety-heat/sector-specific-heat-training/journalist-heat-training/)
 
-Journalist Course?
+Fireline Medic Stuff
+- [National Wildfire Coordinating Gorup (NWCG) Overview](https://www.nwcg.gov/committee/incident-business-committee/ad-positions/paramedic-fireline)
+- [Blog from Medics en Route: Beginner's Guide to Workong on the Line](https://www.medicsenroute.com/becoming-a-wildland-fire-line-medic/)
 
-Fireline Medic overview?
+Rapid Extrication Module Support
+- NWCG Overview [web](https://www.nwcg.gov/publications/pms552) [pdf on archive](https://archive.org/details/prolonged-casualty-care-guidelines/NWCG%20REMS%20Standards)
 
-REMS Team Overview?
+[Khan Academy](https://www.khanacademy.org/)
 
-Kahn Academy
+[Larry Mellick YouTube Channel](https://www.youtube.com/@lmellick)
 
-Larry Mellick YouTube Channel
+[Family Practice Notebook](https://fpnotebook.com/)
 
-Family Practice Notebook
+[Centers for Disease Control (CDC) Guidelines for Travel](https://wwwnc.cdc.gov/travel)
 
-Centers for Disease COntrol (CDC) Vaccination Guidelines for Travel
-
-Maxwell's NP Reference
+[Maxwell Quick Medical Reference](https://maxwellbook.com/)
 
 
 
