@@ -7,9 +7,8 @@ layout: default
 <style>
 .austere-row img {
   height: auto;
-  max-width: 100%;
-  flex: 1; /* Allow images to grow/shrink equally */
-  min-width: 0; /* Prevent flex items from overflowing */
+  max-width: calc(33.333% - 0.67rem); /* Don't exceed 1/3 width minus gap */
+  object-fit: contain; /* Maintain aspect ratio without cropping */
 }
 
 .austere-row {
@@ -17,8 +16,8 @@ layout: default
   justify-content: center;
   gap: 1rem;
   flex-wrap: nowrap;
-  width: 100%; /* Ensure container takes full width */
-  box-sizing: border-box; /* Include padding/borders in width calculation */
+  width: 100%;
+  box-sizing: border-box;
 }
 </style>
 
