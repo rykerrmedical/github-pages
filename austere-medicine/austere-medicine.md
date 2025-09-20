@@ -5,19 +5,24 @@ layout: default
 ---
 
 <style>
-.austere-row img {
-  height: auto;
-  max-width: calc(33.333% - 0.67rem); /* Don't exceed 1/3 width minus gap */
-  object-fit: contain; /* Maintain aspect ratio without cropping */
-}
-
 .austere-row {
-  display: flex;
+  display: flex !important;
   justify-content: center;
+  align-items: flex-start;
   gap: 1rem;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap !important;
   width: 100%;
   box-sizing: border-box;
+  overflow: hidden; /* Prevent horizontal scroll */
+}
+
+.austere-row img {
+  height: auto;
+  max-width: calc(30% - 0.67rem); /* Slightly smaller to ensure they fit */
+  min-width: 100px; /* Minimum size to prevent them from getting too small */
+  flex-shrink: 1; /* Allow shrinking */
+  object-fit: contain;
+  display: block;
 }
 </style>
 
