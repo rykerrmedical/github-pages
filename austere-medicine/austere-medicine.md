@@ -23,10 +23,10 @@ Each section (except for the last) is broken down as so:
 
 <br>
 
-<div style="display:flex;justify-content:center;gap:1rem;margin:1.5rem 0;">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="Humanitarian 1" style="max-width:33%;height:auto;border-radius:12px;box-shadow:0 0 10px rgba(163,18,50,0.5);">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="Humanitarian 2" style="max-width:33%;height:auto;border-radius:12px;box-shadow:0 0 10px rgba(163,18,50,0.5);">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="Humanitarian 3" style="max-width:33%;height:auto;border-radius:12px;box-shadow:0 0 10px rgba(163,18,50,0.5);">
+<div style="display:flex;justify-content:center;gap:1rem;margin:1.5rem 0;flex-wrap:nowrap;">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="Humanitarian 1" style="flex:1 1 0;max-width:100%;height:auto;border-radius:12px;box-shadow:0 0 10px rgba(163,18,50,0.5);">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="Humanitarian 2" style="flex:1 1 0;max-width:100%;height:auto;border-radius:12px;box-shadow:0 0 10px rgba(163,18,50,0.5);">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="Humanitarian 3" style="flex:1 1 0;max-width:100%;height:auto;border-radius:12px;box-shadow:0 0 10px rgba(163,18,50,0.5);">
 </div>
 
 <h3 id="humanitarian-medicine">Humanitarian Medicine</h3>
