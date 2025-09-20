@@ -4,6 +4,19 @@ permalink: /austere-medicine/
 layout: default
 ---
 
+<style>
+.austere-row img {
+  height: auto;
+  max-width: 100%;
+}
+.austere-row {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: nowrap;
+}
+</style>
+
 # Austere Medicine
 
 <h5><a href="#humanitarian-medicine">Humanitarian Medicine</a></h5>
@@ -23,13 +36,10 @@ Each section (except for the last) is broken down as so:
 
 <br>
 
-<div style="display:flex; justify-content:center; gap:1rem; margin:1.5rem 0; flex-wrap:nowrap;">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="Humanitarian 1"
-       style="max-width:100%; height:auto; flex:1 1 0;">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="Humanitarian 2"
-       style="max-width:100%; height:auto; flex:1 1 0;">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="Humanitarian 3"
-       style="max-width:100%; height:auto; flex:1 1 0;">
+<div class="austere-row">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="Humanitarian 1">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="Humanitarian 2">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="Humanitarian 3">
 </div>
 
 <h3 id="humanitarian-medicine">Humanitarian Medicine</h3>
