@@ -36,7 +36,7 @@ layout: default
 <h5><a href="#wilderness-medicine">Wilderness Medicine</a></h5>
 <h5><a href="#disaster-medicine">Disaster Medicine</a></h5>
 <h5><a href="#conflict-medicine">Conflict Medicine</a></h5>
-<h5><a href="#clinic-sick-call">Clinic/ Sick Call Skills</a></h5>
+<h5><a href="#clinic-sick-call">Clinic/ Sick Call</a></h5>
 <h5><a href="#general-refs">General/ Multi-Disciplinary References</a></h5>
 
 This page serves as a repository for all the austere medicine resources we've collected and created.  It is broken down by subject as noted above.  There is some overlap both within these subject areas and also between the stuff on this page and the general [Clinical Resources Page](https://www.rykerrmedical.com/clinical-resources/), so be sure to have a look around.
@@ -177,6 +177,9 @@ Courses & Certs:
     - [Anyone Note Ready](https://anyonenotready.com/aec/)
     - [SOAR](https://www.soarescue.com/eap)
 - [European Medics, Tactical Clinical Operations](https://www.europeanmedics.eu/courses/tco-course) (4$)
+- Hostile Environment Awareness Training
+    - [CADUS](https://www.cadus.org/en/what-we-do/training/heat/) (4$)
+    - [Centre for Safety and Development](https://www.centreforsafety.org/what-is-heat-training/) (4$)
 
 Learn More:
 - [FPC Working Group CPGs](https://jts.health.mil/index.cfm/CPGs/cpgs) (free)
@@ -231,13 +234,20 @@ Potential Leads:
 
 <h3 id="general-refs">General/ Multi-Disciplinary References</h3>
 
+<div class="austere-row">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" alt="airway-kit">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" alt="ukr-mmrescue-medevac">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" alt="prcs-trucks">
+</div>
+
 And then this section is just a list of resources that span multiple disciplines discussed above.
 
 Book: Improvised Medicine by Kenneth V. Iserson [free on archve.org](https://archive.org/details/improvised-medicine-2nd-ed-by-kenneth-iserson-md-2016/mode/2up)
 
 [Document: WHO, Medical Evacuation in Emergencies](https://iris.who.int/bitstream/handle/10665/381815/9789240112513-eng.pdf)
 
-Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast 
+Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast [apple] [spotify] [archive](https://archive.org/details/dan-taylor-chats-non-traditional-paramedic-work)
+- [and Show Notes for the Dan Taylor Podcast](https://www.rykerrmedical.com/not-linked/show-notes-dan-taylor-podcast/)
 
 Podcast: College of Remote and Offshore Medicine [apple](https://podcasts.apple.com/us/podcast/corom-cast-wilderness-austere-remote-and-resource/id1639788062) [spotify](https://open.spotify.com/show/2PiN003QD8g1wSXxL6zIKL?si=2852e25c589647de)
 
