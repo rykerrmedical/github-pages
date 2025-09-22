@@ -7,22 +7,26 @@ layout: default
 <style>
 .austere-row {
   display: flex !important;
+  flex-direction: row !important;
   justify-content: center;
   align-items: flex-start;
   gap: 1rem;
   flex-wrap: nowrap !important;
-  width: 100%;
+  width: 100% !important;
   box-sizing: border-box;
-  overflow: hidden; /* Prevent horizontal scroll */
+  overflow: hidden;
+  clear: both;
 }
 
 .austere-row img {
-  height: auto;
-  max-width: calc(30% - 0.67rem); /* Slightly smaller to ensure they fit */
-  min-width: 100px; /* Minimum size to prevent them from getting too small */
-  flex-shrink: 1; /* Allow shrinking */
+  height: auto !important;
+  width: 30% !important;
+  max-width: 30% !important;
+  min-width: 150px !important;
+  flex: 0 0 30% !important;
   object-fit: contain;
-  display: block;
+  display: inline-block !important;
+  vertical-align: top;
 }
 </style>
 
