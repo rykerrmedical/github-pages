@@ -10,7 +10,7 @@ layout: default
   flex-direction: row !important;
   justify-content: center;
   align-items: flex-start;
-  gap: 0.5rem; /* Smaller gap on mobile */
+  gap: 1rem;
   flex-wrap: nowrap !important;
   width: 100% !important;
   box-sizing: border-box;
@@ -20,12 +20,12 @@ layout: default
 
 .austere-row img {
   height: auto !important;
-  width: 32% !important;
-  max-width: 32% !important;
-  min-width: 50px !important; /* Much smaller minimum for mobile */
-  flex: 1 1 32% !important; /* Allow shrinking and growing */
+  width: 30% !important;
+  max-width: 30% !important;
+  min-width: 50px !important;
+  flex: 0 0 30% !important;
   object-fit: contain;
-  display: block !important;
+  display: inline-block !important;
   vertical-align: top;
 }
 </style>
