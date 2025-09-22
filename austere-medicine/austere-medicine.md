@@ -47,7 +47,7 @@ Each section (except for the last) is broken down as so:
 - Learn More - links to resources on the general concept; might be videos, websites, articles social media pages, etc.
 - Potential Leads - groups and organizations that are currently working in this sector and may have opportunities to get involved
 
-(money legend: $ = under 100USD, $$ = 101-500USD, $$$ = 501-1500USD, $4x = >1500USD)
+(money legend: $ = under 100 USD, 2$ = 101-500 USD, 3$ = 501-1500 USD, 4$ = >1500 USD)
 
 <br>
 
@@ -68,14 +68,14 @@ Fundamental Knowledge:
 Courses & Certs:
 - [Disasterready.org: Humanitarian Essentials](https://www.disasterready.org/humanitarian-essentials) (free, online)
 - [Bulding a Better Response Course](https://buildingabetterresponse.org/) (free, online)
-- [FCCS: Resource Limited](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/Fundamental-Critical-Care-Support-Resource-Limited) ($ to $$, tough to find)
-- [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) ($$$, in-person)
+- [FCCS: Resource Limited](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/Fundamental-Critical-Care-Support-Resource-Limited) ($ - 2$, tough to find)
+- [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) (3$, in-person)
 
 Learn More:
 - [Blog Series: The Stethoscope & The Machete](https://humanitarianmedicjournals.com/)
 - [Single Blog: International Opportunities for EMS People, Rykerr Medical](https://www.rykerrmedical.com/2021/11/03/international-opportunities-for-ems.html)
-- Podcast: Preparing for Humanitarian Work & Deployment, The Surge [youtube](https://www.youtube.com/watch?v=4u9AYuz3JpM) [apple podcasts](https://podcasts.apple.com/us/podcast/episode-64-preparing-for-humanitarian-work-and-deployment/id1211210327?i=1000554762017)
-- Podcast: Humanitarian Relief with Mark Lopshite, CORUM [apple podcasts](https://podcasts.apple.com/us/podcast/159-humanitarian-relief-with-mark-lopshire/id1691996344?i=1000725124755) [spotify](https://open.spotify.com/episode/1aiuEHJwWpAfG32FttTOmv?si=434f65bc38874955)
+- Podcast: Preparing for Humanitarian Work & Deployment, The Surge [apple](https://podcasts.apple.com/us/podcast/episode-64-preparing-for-humanitarian-work-and-deployment/id1211210327?i=1000554762017) [youtube](https://www.youtube.com/watch?v=4u9AYuz3JpM)
+- Podcast: Humanitarian Relief with Mark Lopshite, CORUM [apple](https://podcasts.apple.com/us/podcast/159-humanitarian-relief-with-mark-lopshire/id1691996344?i=1000725124755) [spotify](https://open.spotify.com/episode/1aiuEHJwWpAfG32FttTOmv?si=434f65bc38874955)
 
 Potential Leads:
 - [CADUS](https://www.cadus.org/en/)
@@ -100,14 +100,14 @@ Fundamental Knowledge:
 - Sport/ Activity-Specific Competency (i.e., climbing, skiing, backpacking, etc.)
 
 Courses & Certs:
-- Wilderness/ Remote First Responder &/or Wilderness/ Remote EMT ($$, many different agencies offer these courses)
-- Advanced Wilderness Life Support ($$ to $$$, many different agencies offer these courses)
-- [Remote Medical Training: Remote Medicine for the Advanced Provider](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) ($$$, hybrid)
-- [Wilderness Medicine Special Operations (WMSO) Course by RedStar Medical](https://redstarmedical.org/wmso/) ($$$)
-- Diploma in Mountain Medicine ($4x, hybrid)
+- Wilderness/ Remote First Responder &/or Wilderness/ Remote EMT (2$, many different agencies offer these courses)
+- Advanced Wilderness Life Support (2$ - 3$, many different agencies offer these courses)
+- [Remote Medical Training: Remote Medicine for the Advanced Provider](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) (3$, hybrid)
+- [Wilderness Medicine Special Operations (WMSO) Course by RedStar Medical](https://redstarmedical.org/wmso/) (3$)
+- Diploma in Mountain Medicine (4$, hybrid)
     - [IMMC at University of New Mexico](https://hsc.unm.edu/medicine/departments/emergency-medicine/programs/prehospital-care/immc/) 
     - [Wild Med Society](https://wms.org/WMS/WMS/Get-Certified/DiMM/Overview.aspx)
-- [Wilderness Paramedic (WP-C)](https://www.ibscertifications.org/roles/wilderness-paramedic#gsc.tab=0) ($$, certifcation exam)
+- [Wilderness Paramedic (WP-C)](https://www.ibscertifications.org/roles/wilderness-paramedic#gsc.tab=0) (2$, certifcation exam)
 
 Learn More:
 - [Aerie Backcountry Medicine WFR Manual](https://www.aeriemedicine.com/textbook/) (free, high utility for BLS-level stuff)
@@ -138,8 +138,8 @@ Fundamental Knowledge:
 
 Courses & Certs:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
-- [FCCS: Crisis Management](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management) ($ to $$, tough to find)
-- [Upper-Level ICS Courses](https://training.fema.gov/emiweb/is/icsresource/trainingmaterials/) ($$ to $$$, varies a bit)
+- [FCCS: Crisis Management](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management) ($ - 2$, tough to find)
+- [Upper-Level ICS Courses](https://training.fema.gov/emiweb/is/icsresource/trainingmaterials/) (2$ - 3$, varies a bit)
 
 Learn More:
 - [Disaster Medicine Collection on Archive.org](https://openlibrary.org/search?q=disaster+medicine&mode=ebooks&has_fulltext=true&language=eng) (all books listed are free to borrow)
@@ -171,12 +171,12 @@ Fundamental Knowledge:
 
 Courses & Certs:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
-- Austere Emergency Care ($$$ to $4x, various agencies offer the class)
+- Austere Emergency Care (3$ - 4$, various agencies offer the class)
     - [COROM](https://corom.edu.mt/austere-emergency-care/)
     - [Ragged Edge](https://www.raggededgesolutions.com/#Courses)
     - [Anyone Note Ready](https://anyonenotready.com/aec/)
     - [SOAR](https://www.soarescue.com/eap)
-- [European Medics, Tactical Clinical Operations](https://www.europeanmedics.eu/courses/tco-course) ($4x)
+- [European Medics, Tactical Clinical Operations](https://www.europeanmedics.eu/courses/tco-course) (4$)
 
 Learn More:
 - [FPC Working Group CPGs](https://jts.health.mil/index.cfm/CPGs/cpgs) (free)
@@ -191,7 +191,7 @@ Potential Leads:
 
 <br>
 
-<h3 id="clinic-sick-call">Clinic/ Sick Call Skills</h3>
+<h3 id="clinic-sick-call">Clinic/ Sick Call</h3>
 
 <div class="austere-row">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-poc-tests.jpeg" alt="matamoros-poc-tests">
@@ -207,9 +207,9 @@ Fundamental Knowledge:
 - Navigating Reference Materials
 
 Courses & Certs:
-- PA, NP or medical school :) ($10x to $20x, also just kidding)
+- PA, NP or medical school :) (10$ - 20$, also just kidding)
 - Minor Procedures Course ($$, various, some online)
-- ConEd/CEU Offerings for the Urgent Care Setting ($-$$, various)
+- ConEd/CEU Offerings for the Urgent Care Setting ($ - 2$, various)
 
 Learn More:
 - [Blog: Next Level Medic, ADTMC Resources](https://nextlevelmedic.com/algorithm-directed-troop-medical-care/)
