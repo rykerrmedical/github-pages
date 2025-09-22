@@ -47,6 +47,8 @@ Each section (except for the last) is broken down as so:
 - Learn More - links to resources on the general concept; might be videos, websites, articles social media pages, etc.
 - Potential Leads - groups and organizations that are currently working in this sector and may have opportunities to get involved
 
+(money legend: $ <100 USD, $$ 101-500 USD, $$$ 501-1500USD, $$$$ >1500)
+
 <br>
 
 <h3 id="humanitarian-medicine">Humanitarian Medicine</h3>
@@ -66,7 +68,7 @@ Fundamental Knowledge:
 Courses & Certs:
 - [Disasterready.org: Humanitarian Essentials](https://www.disasterready.org/humanitarian-essentials) (free, online)
 - [Bulding a Better Response Course](https://buildingabetterresponse.org/) (free, online)
-- [FCCS: Resource Limited](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/Fundamental-Critical-Care-Support-Resource-Limited) ($, tough to find)
+- [FCCS: Resource Limited](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/Fundamental-Critical-Care-Support-Resource-Limited) ($-$$, tough to find)
 - [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) ($$$, in-person)
 
 Learn More:
@@ -74,11 +76,10 @@ Learn More:
 - [Single Blog: International Opportunities for EMS People, Rykerr Medical](https://www.rykerrmedical.com/2021/11/03/international-opportunities-for-ems.html)
 - Podcast: Preparing for Humanitarian Work & Deployment, The Surge [youtube](https://www.youtube.com/watch?v=4u9AYuz3JpM) [apple podcasts](https://podcasts.apple.com/us/podcast/episode-64-preparing-for-humanitarian-work-and-deployment/id1211210327?i=1000554762017)
 - Podcast: Humanitarian Relief with Mark Lopshite, CORUM [apple podcasts](https://podcasts.apple.com/us/podcast/159-humanitarian-relief-with-mark-lopshire/id1691996344?i=1000725124755) [spotify](https://open.spotify.com/episode/1aiuEHJwWpAfG32FttTOmv?si=434f65bc38874955)
-- Book by Cadus***
 
 Potential Leads:
+- CADUS
 - Team Rubicon
-- UK Med
 - International Medical Corps (IMC)
 - Any of the other WHO Emergency Medical Teams (EMTs)
 
@@ -95,23 +96,26 @@ Potential Leads:
 Fundamental Knowledge:
 - Backcountry Travel & Wilderness Survival
 - Leave No Trace Principles
-- When & How to Improvise vs. Carry Equipment
 - Navigation (Map & Compass, GPS Systems, etc.)
+- Sport/ Activity-Specific Competency (i.e., climbing, skiing, backpacking, etc.)
 
 Courses & Certs:
 - Wilderness/ Remote First Responder &/or Wilderness/ Remote EMT ($$, many different agencies offer these courses)
-- Advanced Wilderness Life Support ($$, many different agencies offer these courses)
+- Advanced Wilderness Life Support ($$-$$$, many different agencies offer these courses)
 - [Remote Medical Training: Remote Medicine for the Advanced Provider](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) ($$$, hybrid)
-- [Diploma in Mountain Medicine] ($$$, hybrid; consider [IMMC at UNM](https://hsc.unm.edu/medicine/departments/emergency-medicine/programs/prehospital-care/immc/) or [Wild Med Society](https://wms.org/WMS/WMS/Get-Certified/DiMM/Overview.aspx))
-- [Wilderness Paramedic (WP-C)](link this***) (certifcation exam)
+- [Wilderness Medicine Special Operations (WMSO) Course by RedStar Medical](https://redstarmedical.org/wmso/) ($$$)
+- [Diploma in Mountain Medicine] ($$$$, hybrid)
+    - [IMMC at University of New Mexico](https://hsc.unm.edu/medicine/departments/emergency-medicine/programs/prehospital-care/immc/) 
+    - [Wild Med Society](https://wms.org/WMS/WMS/Get-Certified/DiMM/Overview.aspx)))
+- [Wilderness Paramedic (WP-C)](https://www.ibscertifications.org/roles/wilderness-paramedic#gsc.tab=0) ($$, certifcation exam)
 
 Learn More:
 - [Aerie Backcountry Medicine WFR Manual](https://www.aeriemedicine.com/textbook/) (free, high utility for BLS-level stuff)
 - [Wilderness Medical Sociewty (WMS) Clinical Practice Guidelines (CPGs)](https://wms.org/WMS/WMS/Research/WEM/CPG.aspx) (free, high utility for all levels of clinicians)
-- Rykerr Medical's Outdoor Medicine Notecards on Brainscape (free; questionable utility, but take a look anyways...)
+- [Blog: Wildland Fire Medic, Beginners Guide by Medics en Route](https://www.medicsenroute.com/becoming-a-wildland-fire-line-medic/) (free, high utility if interested in fireline work)
 
 Potential Leads:
-- Ski Patrol, specifically those with National Ski Patrol programs
+- Ski Patrol, specifically those with National Ski Patrol/ Volunteer programs
 - Local Search & Rescue
 - Wildland Firefighting/ Fireline Medic (various agencies have opportunities)
 - Race Support (specifically ultra-marathons and stage races)
@@ -134,16 +138,19 @@ Fundamental Knowledge:
 
 Courses & Certs:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
-- [FCCS: Crisis Management](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management) ($, tough to find)
-- [Upper Level ICS Courses](link***) ($-$$, varies a bit)
+- [FCCS: Crisis Management](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management) ($-$$, tough to find)
+- [Upper-Level ICS Courses](https://training.fema.gov/emiweb/is/icsresource/trainingmaterials/) ($$-$$$, varies a bit)
 
 Learn More:
 - [Disaster Medicine Collection on Archive.org](https://openlibrary.org/search?q=disaster+medicine&mode=ebooks&has_fulltext=true&language=eng) (all books listed are free to borrow)
-- 
+- Book chapters on [InTech Open](https://www.intechopen.com/) (all free)
+    - ["Disasters and Disaster Medicine" in Essentials of Accident and Emergency Medicine, chapter by A. S. Alsheikhly](https://www.intechopen.com/chapters/58936)
+    - ["Considerations in Mass Casualty and Disaster Management" in Emergency Medicine - An International Prespective, chapter by P. Aitken & P. Leggat](https://www.intechopen.com/chapters/31947)
+- [Disaster Helath Core Curriculum from USU NCDMPH](https://ncdmph.usuhs.edu/education/core-curriculum) (free, online, approx. 7 hours)
 
 Potential Leads:
 - [Disaster Medical Assistance Teams (DMAT)](https://aspr.hhs.gov/NDMS/Pages/join-ndms.aspx) (US folks only)
-- Urban Search & Rescue (USAR) Teams
+- [Urban Search & Rescue (USAR) Teams] (https://www.fema.gov/emergency-managers/national-preparedness/frameworks/urban-search-rescue) (US folks only, but comparable resources around the world)
 - [Empact Northwest](https://www.empact.ngo/) (for folks in the Pacific Northwest, USA)
 
 <br>
@@ -164,13 +171,18 @@ Fundamental Knowledge:
 
 Courses & Certs:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
-- Austere Emergency Care ($$, various agencies offer the class but consider Ragged Edge Solutions)
-- European Medics Course ($$)
+- Austere Emergency Care ($$$-$$$$, various agencies offer the class)
+    - [COROM](https://corom.edu.mt/austere-emergency-care/)
+    - [Ragged Edge](https://www.raggededgesolutions.com/#Courses)
+    - [Anyone Note Ready](https://anyonenotready.com/aec/)
+    - [SOAR](https://www.soarescue.com/eap)
+- [European Medics, Tactical Clinical Operations](https://www.europeanmedics.eu/courses/tco-course) ($$$$)
 
 Learn More:
 - FPC Working Group CPGs (free)
 - [Conflict & Health Journal](https://conflictandhealth.biomedcentral.com/about) (free/ open access)
 - [Medicine, Conflict & Survival Journal](https://www.tandfonline.com/journals/fmcs20) (free/ open access))
+- [WHO Red Book](https://extranet.who.int/emt/sites/default/files/Red%20Book2021.pdf) (free)
 
 Potential Leads:
 - CADUS (Ukraine, Gaza)
@@ -190,22 +202,30 @@ Potential Leads:
 Quick note: this section is a bit more generalized and geared towards the medic/ nurse who doesn't typically work in a clinic setting, but would like to be useful in that setting (since a lot of austere work is clinic-based)
 
 Fundamental Knowledge:
-- How to Facilitate Workflow in a Clinic Setting
-- Utilization & Maintenance of Point of Care (POC) Tests
+- Workflow in a Clinic Setting
+- Utilization (& Maintenance) of Point of Care (POC) Tests
 - Navigating Reference Materials
-- Managining a Remote Clinic
 
 Courses & Certs:
 - PA, NP or medical school :) ($$$$-$$$$$, also just kidding)
-- Minor Procedures?
+- Minor Procedures Course ($$, various, some online)
+- ConEd/CEU Offerings for the Urgent Care Setting ($-$$, various)
 
 Learn More:
-- [Next Level Medic: ADTMC Resources](https://nextlevelmedic.com/algorithm-directed-troop-medical-care/)
-- Primary Care Manual (Dan mentioned it)
+- [Blog: Next Level Medic, ADTMC Resources](https://nextlevelmedic.com/algorithm-directed-troop-medical-care/)
+- Free Quick References Guide, such as:
+    - [Family Practice Notebook](https://fpnotebook.com/)
+    - [WikiEM](https://wikem.org/wiki/Main_Page) (also avialable on mobile & offline via the [Eolas Medical](https://www.eolasmedical.com/) app)
+- Develop Skills
+    - Suturing
+    - Otoscopy
+    - Opthalmoscopy
+    - Point of Care Ultrasound
+    - X-ray Interpretation
 
 Potential Leads:
-- many Humanitarian Medicine opportunities include exposure here (see above)
-- shadow in a clinic, urgent care, or low-acuity pod in an ER
+- many <a href="#humanitarian-medicine">Humanitarian Medicine</a> opportunities include exposure here (see above)
+- shadow in a clinic, urgent care, or a low-acuity pod in an ER
 
 <br>
 
@@ -213,10 +233,11 @@ Potential Leads:
 
 And then this section is just a list of resources that span multiple disciplines discussed above.
 
-Book: Improvised Medicine by Kenneth V. Iserson
-Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast
-Podcast: College of Remote and Offshor Medicine
-Podcast: Remote, Expedition & Disaster Medicine (RED MED)
-Podcast: World Extreme Medicine
-Job Board: Remote Medics Jobs
+Book: Improvised Medicine by Kenneth V. Iserson [free on archve.org](https://archive.org/details/improvised-medicine-2nd-ed-by-kenneth-iserson-md-2016/mode/2up)
+[Document: WHO, Medical Evacuation in Emergencies](https://iris.who.int/bitstream/handle/10665/381815/9789240112513-eng.pdf)
+Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast 
+Podcast: College of Remote and Offshore Medicine [apple](https://podcasts.apple.com/us/podcast/corom-cast-wilderness-austere-remote-and-resource/id1639788062) [spotify](https://open.spotify.com/show/2PiN003QD8g1wSXxL6zIKL?si=2852e25c589647de)
+Podcast: Remote, Expedition & Disaster Medicine (RED MED) [apple](https://podcasts.apple.com/us/podcast/red-med-podcast/id1384356836) [spotify](https://open.spotify.com/show/47nFs9Vr9oO01L1dNqxwxh?si=4e243dc0a2114712)
+Podcast: World Extreme Medicine [apple](https://podcasts.apple.com/us/podcast/world-extreme-medicine-podcast/id1335582586) [spotify](https://open.spotify.com/show/5xpqauiYbQHPwM7joUVv07?si=a0ff946ffeac430c)
+[Job Board: Remote Medics Jobs](https://internationalmedicjobs.blogspot.com/)
 
