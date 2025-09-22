@@ -47,12 +47,10 @@ Each section (except for the last) is broken down as so:
 - Learn More - links to resources on the general concept; might be videos, websites, articles social media pages, etc.
 - Potential Leads - groups and organizations that are currently working in this sector and may have opportunities to get involved
 
-<br>
-
 <div class="austere-row">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="Humanitarian 1">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="Humanitarian 2">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="Humanitarian 3">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="matamoros-covid-field-hospital">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="gaza-tsp-tal-sultan">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="reynosa-clinic">
 </div>
 
 <h3 id="humanitarian-medicine">Humanitarian Medicine</h3>
@@ -82,7 +80,11 @@ Potential Leads:
 - International Medical Corps (IMC)
 - Any of the other WHO Emergency Medical Teams (EMTs)
 
-<br>
+<div class="austere-row">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/hike-into-saline.jpeg" alt="hike-into-saline">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/micah-fixin-feet-tpu.jpeg" alt="micah-fixin-feet-tpu">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/rugged-peak.jpeg" alt="rugged-peak">
+</div>
 
 <h3 id="wilderness-medicine">Wilderness Medicine</h3>
 
@@ -110,7 +112,11 @@ Potential Leads:
 - Wildland Firefighting/ Fireline Medic (various agencies have opportunities)
 - Race Support (specifically ultra-marathons and stage races)
 
-<br>
+<div class="austere-row">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-american-samoa.jpeg" alt="dmat-american-samoa">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/covid-ppe-mom.jpeg" alt="covid-ppe-mom">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-helene.jpeg" alt="dmat-helene">
+</div>
 
 <h3 id="disaster-medicine">Disaster Medicine</h3>
 
@@ -134,7 +140,11 @@ Potential Leads:
 - Urban Search & Rescue (USAR) Teams
 - [Empact Northwest](https://www.empact.ngo/) (for folks in the Pacific Northwest, USA)
 
-<br>
+<div class="austere-row">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/al-aqsa-gaza.jpeg" alt="al-aqsa-gaza">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ppe-at-home.jpeg" alt="ppe-at-home">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/casevac-rendevous-ukraine.jpeg" alt="casevac-rendevous-ukraine">
+</div>
 
 <h3 id="conflict-medicine">Conflict Medicine</h3>
 
@@ -159,7 +169,11 @@ Potential Leads:
 - Frontline Medics (Ukraine)
 - UK Med (Ukraine, Gaza)
 
-<br>
+<div class="austere-row">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-poc-tests.jpeg" alt="matamoros-poc-tests">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/sutures-rmap.jpeg" alt="sutures-rmap">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/otoscope-opthalmoscope.jpeg" alt="otoscope-opthalmoscope">
+</div>
 
 <h3 id="clinic-sick-call">Clinic/ Sick Call Skills</h3>
 
