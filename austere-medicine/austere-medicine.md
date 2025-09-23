@@ -47,7 +47,7 @@ Each section (except for the last) is broken down as so:
 - Learn More - links to resources on the general concept; might be videos, websites, articles social media pages, etc.
 - Potential Leads - groups and organizations that are currently working in this sector and may have opportunities to get involved
 
-(money legend: $ = under 100 USD, 2$ = 101-500 USD, 3$ = 501-1500 USD, 4$ = >1500 USD)
+(money legend: $ = under 100 USD, 2$ = 101 to 500 USD, 3$ = 501 to 1500 USD, 4$ = >1500 USD)
 
 <br>
 
@@ -236,8 +236,8 @@ Potential Leads:
 
 <div class="austere-row">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" alt="airway-kit">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" alt="ukr-mmrescue-medevac">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" alt="prcs-trucks">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" alt="ukr-mmrescue-medevac">
 </div>
 
 And then this section is just a list of resources that span multiple disciplines discussed above.
