@@ -89,7 +89,7 @@ Potential Leads:
 
 <div class="austere-row">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/hike-into-saline.jpeg" alt="hike-into-saline">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/micah-fixin-feet-tpu.jpeg" alt="micah-fixin-feet-tpu">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/fixin-feet-tpu.jpeg" alt="fixin-feet-tpu">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/rugged-peak.jpeg" alt="rugged-peak">
 </div>
 
