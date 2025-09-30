@@ -44,8 +44,12 @@ async function loadFeed() {
       const pubDateRaw = item.querySelector("pubDate")?.textContent;
       const pubDate = pubDateRaw ? new Date(pubDateRaw).toDateString() : "";
       
-      // Get the raw HTML from CDATA
-      const rawDesc = item.querySelector("description")?.textContent || "";
+      // Get the raw HTML from CDATA - use firstChild.nodeValue for CDATA content
+      const descNode = item.querySelector("description");
+      let rawDesc = "";
+      if (descNode && descNode.firstChild) {
+        rawDesc = descNode.firstChild.nodeValue || descNode.textContent || "";
+      }
       
       // Parse the HTML string to make links clickable
       const tempDiv = document.createElement("div");
