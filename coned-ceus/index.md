@@ -16,17 +16,17 @@ Note that not all of the offering on EdApp are for credit, some are drafts/ just
 
 ### [EMSI at SFCC](https://www.sfcc.edu/programs/paramedicine/)
 
-<br><br>
+<br>
 
 ### Summary of Offerings
 
-##### [- Vent Book v1 Review - for Con Ed/ CEU - valid for 8 hours of continuing education in Airway, Respiration & Ventilation](https://link.edapp.com/WpGuSzZfilb)
-##### [- Blog: Dead Space Illustrations - for Con Ed/ CEU - valid for 1 hour of continuing education in Airway, Respiration & Ventilation](https://link.edapp.com/jmwV0fNz3Wb)
-##### [- Blog: Chest Tube Management in Transport - for Con Ed/ CEU - valid for 1 hour of continuing education in Trauma](https://link.edapp.com/TLlgRkyD3Wb)
-##### [- Podcast: Trauma Questions & More w/ Doc Fisher - for Con Ed/ CEU - valid for 1 hour of continuing education in Trauma](https://link.edapp.com/lCnNxWJD3Wb)
+##### [- Vent Book v1 Review - 8 hours - Airway, Respiration & Ventilation](https://link.edapp.com/WpGuSzZfilb)
+##### [- Blog: Dead Space Illustrations - 1 hour - Airway, Respiration & Ventilation](https://link.edapp.com/jmwV0fNz3Wb)
+##### [- Blog: Chest Tube Management in Transport - 1 hour - Trauma](https://link.edapp.com/TLlgRkyD3Wb)
+##### [- Podcast: Trauma Questions & More w/ Doc Fisher - 1 hour - Trauma](https://link.edapp.com/lCnNxWJD3Wb)
 ...more to come soon!
 
-<br><br>
+<br>
 
 ### Sample CEU Cert for Reference
 
