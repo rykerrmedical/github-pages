@@ -44,24 +44,21 @@ async function loadFeed() {
       const pubDateRaw = item.querySelector("pubDate")?.textContent;
       const pubDate = pubDateRaw ? new Date(pubDateRaw).toDateString() : "";
       
-      // Get the raw HTML from CDATA - use firstChild.nodeValue for CDATA content
-      const descNode = item.querySelector("description");
-      let rawDesc = "";
-      if (descNode && descNode.firstChild) {
-        rawDesc = descNode.firstChild.nodeValue || descNode.textContent || "";
+      function sanitizeHtml(input) {
+        const tmp = document.createElement("div");
+        tmp.innerHTML = input;
+        
+        // Ensure links open in new tab
+        tmp.querySelectorAll('a').forEach(a => {
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', 'noopener noreferrer');
+        });
+        
+        return tmp.innerHTML;
       }
-      
-      // Parse the HTML string to make links clickable
-      const tempDiv = document.createElement("div");
-      tempDiv.innerHTML = rawDesc;
-      
-      // Make sure links open in new tab
-      tempDiv.querySelectorAll('a').forEach(a => {
-        a.setAttribute('target', '_blank');
-        a.setAttribute('rel', 'noopener noreferrer');
-      });
-      
-      const description = tempDiv.innerHTML;
+
+      const rawDesc = item.querySelector("description")?.innerHTML || "";
+      const description = sanitizeHtml(rawDesc);
 
       let image = null;
       const itunesImage = item.getElementsByTagName("itunes:image")[0];
@@ -114,15 +111,9 @@ async function loadFeed() {
         }
 
         if (description) {
+          const short = description.length > 300 ? description.slice(0, 300) + "..." : description;
           const descDiv = document.createElement("div");
-          descDiv.innerHTML = description;
-          
-          // Make links clickable after adding to DOM
-          descDiv.querySelectorAll('a').forEach(a => {
-            a.setAttribute('target', '_blank');
-            a.setAttribute('rel', 'noopener noreferrer');
-          });
-          
+          descDiv.innerHTML = short;
           div.appendChild(descDiv);
 
           if (description.length > 300) {
@@ -132,18 +123,11 @@ async function loadFeed() {
             btn.style.border = "none";
             btn.style.color = "#a31232";
             btn.style.cursor = "pointer";
-            btn.style.display = "block";
-            btn.style.marginTop = "0.5rem";
             btn.onclick = () => {
-              descDiv.style.maxHeight = "none";
-              descDiv.style.overflow = "visible";
+              descDiv.innerHTML = description;
               btn.remove();
             };
             div.appendChild(btn);
-            
-            // Truncate visually with CSS instead of slicing HTML
-            descDiv.style.maxHeight = "6em";
-            descDiv.style.overflow = "hidden";
           }
         }
 
