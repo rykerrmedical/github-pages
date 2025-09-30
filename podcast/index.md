@@ -44,33 +44,20 @@ async function loadFeed() {
       const pubDateRaw = item.querySelector("pubDate")?.textContent;
       const pubDate = pubDateRaw ? new Date(pubDateRaw).toDateString() : "";
       
-      const descNode = item.querySelector("description");
-      let rawDesc = "";
-      if (descNode) {
-        // Get the CDATA content or text content
-        const cdataContent = descNode.childNodes[0];
-        if (cdataContent && cdataContent.nodeType === 4) {
-          // CDATA section
-          rawDesc = cdataContent.data;
-        } else {
-          rawDesc = descNode.textContent || "";
-        }
-      }
+      // Get the raw HTML from CDATA
+      const rawDesc = item.querySelector("description")?.textContent || "";
       
-      function sanitizeHtml(input) {
-        const tmp = document.createElement("div");
-        tmp.innerHTML = input;
-        
-        // Ensure links open in new tab
-        tmp.querySelectorAll('a').forEach(a => {
-          a.setAttribute('target', '_blank');
-          a.setAttribute('rel', 'noopener noreferrer');
-        });
-        
-        return tmp.innerHTML;
-      }
+      // Parse the HTML string to make links clickable
+      const tempDiv = document.createElement("div");
+      tempDiv.innerHTML = rawDesc;
       
-      const description = sanitizeHtml(rawDesc);
+      // Make sure links open in new tab
+      tempDiv.querySelectorAll('a').forEach(a => {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener noreferrer');
+      });
+      
+      const description = tempDiv.innerHTML;
 
       let image = null;
       const itunesImage = item.getElementsByTagName("itunes:image")[0];
