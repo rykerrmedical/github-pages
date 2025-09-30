@@ -47,8 +47,14 @@ async function loadFeed() {
       const descNode = item.querySelector("description");
       let rawDesc = "";
       if (descNode) {
-        // Get innerHTML to preserve HTML tags
-        rawDesc = descNode.innerHTML || descNode.textContent || "";
+        // Get the CDATA content or text content
+        const cdataContent = descNode.childNodes[0];
+        if (cdataContent && cdataContent.nodeType === 4) {
+          // CDATA section
+          rawDesc = cdataContent.data;
+        } else {
+          rawDesc = descNode.textContent || "";
+        }
       }
       
       function sanitizeHtml(input) {
