@@ -251,7 +251,7 @@ Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedic
 - [and Show Notes for the Dan Taylor Podcast](https://www.rykerrmedical.com/not-linked/show-notes-dan-taylor-podcast/)
 
 Also everything that Dan has on his website: [frozenmedical](https://www.frozenmedical.com), but specifically:
-- [Bears to Bombs Presentation}(https://frozenmedical.com/b2b/)
+- [Bears to Bombs Presentation](https://frozenmedical.com/b2b/)
 - [Blog: Finding Remote Medic Jobs](https://frozenmedical.com/finding-remote-medicine-jobs/)
 - [Blog: Getting in to Remote & Austere Medicine](https://frozenmedical.com/getting-in-to-remote-austere-medicine/)
 
