@@ -2,9 +2,11 @@
 layout: post
 title: "Dead Space Illustrations"
 date: 2021-06-20
-tags: [mechanical ventilation, pathophysiology]
+tags: [mechanical ventilation, pathophysiology, approved for coned/ceus]
 blurb: dead space is a concept in mechanical ventilation can give clinciains a bit of trouble, both in understanding how it works and in adjusting interventions to mitigate its effects; the series of illustrations in this post explain the different types of dead space and how to address them
 ---
+
+Update Sep 2025: [ConEd/ CEUs now available for this blog!](https://www.rykerrmedical.com/coned-ceus/)
 
 The series of illustrations in this post demonstrate the different types of dead space encountered in clinical practice and interventions to address them. Dead space is a concept that we generally discuss in the context of mechanical ventilation – this short series of graphics won’t get into too much detail on that, but we can point you towards our free book on the idea: [www.rykerrmedical.com/clinical-resources/vent-management](https://www.rykerrmedical.com/clinical-resources/vent-management/). The goal here is simply to review the different types of dead space, demonstrate them graphically, and point out specific interventions for each of the various types. And then real quick before we dive in: if you’re not familiar with the idea of dead space in general, it’s the concept that there is a difference between the quantity of air breathed in during a breath (tidal volume) and the volume of air that actually participates in gas exchange at the alveolar level (clinically relevant tidal volume). Hopefully the components of that volume of air will be clearer after reviewing the following illustrations.
 
