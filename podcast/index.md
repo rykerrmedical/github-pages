@@ -44,14 +44,21 @@ async function loadFeed() {
       const pubDateRaw = item.querySelector("pubDate")?.textContent;
       const pubDate = pubDateRaw ? new Date(pubDateRaw).toDateString() : "";
       
-      function stripHtml(input) {
+      function sanitizeHtml(input) {
         const tmp = document.createElement("div");
         tmp.innerHTML = input;
-        return tmp.textContent || tmp.innerText || "";
+        
+        // Ensure links open in new tab
+        tmp.querySelectorAll('a').forEach(a => {
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', 'noopener noreferrer');
+        });
+        
+        return tmp.innerHTML;
       }
 
       const rawDesc = item.querySelector("description")?.textContent || "";
-      const description = stripHtml(rawDesc);
+      const description = sanitizeHtml(rawDesc);
 
       let image = null;
       const itunesImage = item.getElementsByTagName("itunes:image")[0];
@@ -71,7 +78,7 @@ async function loadFeed() {
           <small>${pubDate}</small><br>
           ${image ? `<img src="${image}" alt="${title}" style="display:block; margin:1rem auto; width:100%; max-width:320px; height:auto; border-radius:12px;" loading="lazy">` : ""}
           ${audioUrl ? `<audio controls src="${audioUrl}" style="width:100%; margin-bottom:1rem;"></audio>` : ""}
-          <p style="line-height:1.5;">${description.length > 400 ? description.slice(0, 400) + '...' : description}</p>
+          <div style="line-height:1.5;">${description.length > 400 ? description.slice(0, 400) + '...' : description}</div>
           ${description.length > 400 ? `<button class="read-more" data-full="${encodeURIComponent(description)}" style="background: none; border: none; color: #a31232; cursor: pointer;">read more</button>` : ""}
           <hr style="margin-top: 2rem;">
         `;
@@ -105,9 +112,9 @@ async function loadFeed() {
 
         if (description) {
           const short = description.length > 300 ? description.slice(0, 300) + "..." : description;
-          const descP = document.createElement("p");
-          descP.textContent = short;
-          div.appendChild(descP);
+          const descDiv = document.createElement("div");
+          descDiv.innerHTML = short;
+          div.appendChild(descDiv);
 
           if (description.length > 300) {
             const btn = document.createElement("button");
@@ -117,7 +124,7 @@ async function loadFeed() {
             btn.style.color = "#a31232";
             btn.style.cursor = "pointer";
             btn.onclick = () => {
-              descP.textContent = description;
+              descDiv.innerHTML = description;
               btn.remove();
             };
             div.appendChild(btn);
@@ -139,12 +146,11 @@ document.addEventListener("click", function (e) {
   if (e.target.matches(".read-more")) {
     const btn = e.target;
     const fullText = decodeURIComponent(btn.getAttribute("data-full"));
-    const para = btn.previousElementSibling;
-    if (para) para.textContent = fullText;
+    const container = btn.previousElementSibling;
+    if (container) container.innerHTML = fullText;
     btn.remove();
   }
 });
 
 
 </script>
-
