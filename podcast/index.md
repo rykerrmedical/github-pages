@@ -57,7 +57,7 @@ async function loadFeed() {
         return tmp.innerHTML;
       }
 
-      const rawDesc = item.querySelector("description")?.innerHTML || "";
+      const rawDesc = item.querySelector("description")?.textContent || "";
       const description = sanitizeHtml(rawDesc);
 
       let image = null;
