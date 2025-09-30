@@ -110,9 +110,15 @@ async function loadFeed() {
         }
 
         if (description) {
-          const short = description.length > 300 ? description.slice(0, 300) + "..." : description;
           const descDiv = document.createElement("div");
-          descDiv.innerHTML = short;
+          descDiv.innerHTML = description;
+          
+          // Make links clickable after adding to DOM
+          descDiv.querySelectorAll('a').forEach(a => {
+            a.setAttribute('target', '_blank');
+            a.setAttribute('rel', 'noopener noreferrer');
+          });
+          
           div.appendChild(descDiv);
 
           if (description.length > 300) {
@@ -122,11 +128,18 @@ async function loadFeed() {
             btn.style.border = "none";
             btn.style.color = "#a31232";
             btn.style.cursor = "pointer";
+            btn.style.display = "block";
+            btn.style.marginTop = "0.5rem";
             btn.onclick = () => {
-              descDiv.innerHTML = description;
+              descDiv.style.maxHeight = "none";
+              descDiv.style.overflow = "visible";
               btn.remove();
             };
             div.appendChild(btn);
+            
+            // Truncate visually with CSS instead of slicing HTML
+            descDiv.style.maxHeight = "6em";
+            descDiv.style.overflow = "hidden";
           }
         }
 
