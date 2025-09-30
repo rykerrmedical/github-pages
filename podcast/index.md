@@ -44,6 +44,13 @@ async function loadFeed() {
       const pubDateRaw = item.querySelector("pubDate")?.textContent;
       const pubDate = pubDateRaw ? new Date(pubDateRaw).toDateString() : "";
       
+      const descNode = item.querySelector("description");
+      let rawDesc = "";
+      if (descNode) {
+        // Get innerHTML to preserve HTML tags
+        rawDesc = descNode.innerHTML || descNode.textContent || "";
+      }
+      
       function sanitizeHtml(input) {
         const tmp = document.createElement("div");
         tmp.innerHTML = input;
@@ -56,8 +63,7 @@ async function loadFeed() {
         
         return tmp.innerHTML;
       }
-
-      const rawDesc = item.querySelector("description")?.textContent || "";
+      
       const description = sanitizeHtml(rawDesc);
 
       let image = null;
