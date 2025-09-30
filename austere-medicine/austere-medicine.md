@@ -242,7 +242,7 @@ Potential Leads:
 
 And then this section is just a list of resources that span multiple disciplines discussed above.
 
-Book: Improvised Medicine by Kenneth V. Iserson [free on archve.org](https://archive.org/details/improvised-medicine-2nd-ed-by-kenneth-iserson-md-2016/mode/2up)
+Book: Improvised Medicine by Kenneth V. Iserson [free on archive.org](https://archive.org/details/improvised-medicine-2nd-ed-by-kenneth-iserson-md-2016/mode/2up)
 
 [Document: WHO, Medical Evacuation in Emergencies](https://iris.who.int/bitstream/handle/10665/381815/9789240112513-eng.pdf)
 

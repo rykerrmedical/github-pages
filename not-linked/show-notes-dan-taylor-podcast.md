@@ -72,5 +72,11 @@ Rapid Extrication Module Support
 
 <br/>
 
-And if you like what Dan has to say, consisder checking all of these out as well:
-- we can add stuff here...
+And if you like what Dan has to say, consisder checking all of this stuff out as well:
+- Dan's Webpage [frozenmedical.com](https://frozenmedical.com/)
+- Specifically, go look at [his blog](https://frozenmedical.com/blog/)
+- [Dan/ @frozenmedical on instagram](https://www.instagram.com/frozenmedical/)
+- Dan's Lecture ["From Bears to Bombs: Transitioning from Wilderness Meidcine to Conflict Area Medicinine](https://frozenmedical.com/b2b/) presented at a Wildewrness Medical Society Conference 
+- Dan on The COROM Podcast [apple](https://podcasts.apple.com/us/podcast/80-ukraine-experience-with-corom-graduate-dan-taylor/id1691996344?i=1000647644093) [spotify](https://open.spotify.com/episode/3OtKh1vaNak0eMCAB9XQzR?si=f19ad39b755a48f3) [youtube](https://www.youtube.com/watch?v=063snxeM6j0)
+- [Dan Discussing Ultrasound on the Disaster Podcast](https://disasterpodcast.com/2016/03/ultrasound-assessment-in-disaster-situations/) - he's also on a few other epidosdes over there
+- Dan's Blog: [Getting in to Remote & Austere Medicine](https://frozenmedical.com/getting-in-to-remote-austere-medicine/)
