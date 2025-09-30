@@ -167,7 +167,7 @@ Fundamental Knowledge:
 - Stop the Bleed & Wound Care
 - Principles of Tactical Combat Casualty Care (TCCC)
 - Principles of Prolonged Field Care (PFC)
-- Movement in Personal Protective Equipment (PPE; but not the gloves and eyeglasses kind)
+- Movement in/ Management of PPE (not the gloves and eyeglasses kind)
 
 Courses & Certs:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
@@ -188,9 +188,10 @@ Learn More:
 - [WHO Red Book](https://extranet.who.int/emt/sites/default/files/Red%20Book2021.pdf) (free)
 
 Potential Leads:
-- [CADUS](www.cadus.org/en/) (Ukraine, Gaza)
-- [Frontline Medics](https://frontlinemedics.org/) (Ukraine)
-- [UK Med](https://www.uk-med.org/) (Ukraine, Gaza)
+- [CADUS](www.cadus.org/en/) (Ukraine, Gaza; all ALS providers, rarely BLS opportunities)
+- [Frontline Medics](https://frontlinemedics.org/) (Ukraine; all ALS providers)
+- [UK Med](https://www.uk-med.org/) (Ukraine, Gaza; all ALS providers)
+- [MM Rescue](https://www.instagram.com/mmrescueua/) (Ukraine, mostly physicians and anesthetists)
 
 <br>
 
@@ -246,8 +247,13 @@ Book: Improvised Medicine by Kenneth V. Iserson [free on archive.org](https://ar
 
 [Document: WHO, Medical Evacuation in Emergencies](https://iris.who.int/bitstream/handle/10665/381815/9789240112513-eng.pdf)
 
-Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast [apple] [spotify] [archive](https://archive.org/details/dan-taylor-chats-non-traditional-paramedic-work)
+Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast [apple](https://podcasts.apple.com/us/podcast/dan-taylor-chats-non-traditional-paramedic-work/id1570765323?i=1000729244504) [spotify](https://open.spotify.com/episode/1OvOsHeIwt9iQgOuyWn3nw?si=8009becc33f440ef) [archive](https://archive.org/details/dan-taylor-chats-non-traditional-paramedic-work)
 - [and Show Notes for the Dan Taylor Podcast](https://www.rykerrmedical.com/not-linked/show-notes-dan-taylor-podcast/)
+
+Also everything that Dan has on his website: [frozenmedical](https://www.frozenmedical.com), but specifically:
+- [Bears to Bombs Presentation}(https://frozenmedical.com/b2b/)
+- [Blog: Finding Remote Medic Jobs](https://frozenmedical.com/finding-remote-medicine-jobs/)
+- [Blog: Getting in to Remote & Austere Medicine](https://frozenmedical.com/getting-in-to-remote-austere-medicine/)
 
 Podcast: College of Remote and Offshore Medicine [apple](https://podcasts.apple.com/us/podcast/corom-cast-wilderness-austere-remote-and-resource/id1639788062) [spotify](https://open.spotify.com/show/2PiN003QD8g1wSXxL6zIKL?si=2852e25c589647de)
 

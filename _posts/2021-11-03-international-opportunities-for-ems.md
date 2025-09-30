@@ -2,7 +2,7 @@
 layout: post
 title: "International Opportunities for EMS People"
 date: 2021-11-03
-tags: [general information, humanitarian medicine, international medicine]
+tags: [general information, austere medicine]
 blurb: if you're an EMS person interested in overseas/ international work, this is a good place to start
 ---
 
