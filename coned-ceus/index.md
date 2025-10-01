@@ -21,12 +21,12 @@ Note that not all of the offering on EdApp are for credit, some are drafts/ just
 ### Summary of Offerings
 [**Vent Book v1 Review - 8 hours - Airway, Respiration & Ventilation**](https://link.edapp.com/WpGuSzZfilb)
 <br>
-Review questions for the book: [Rykerr Medical's Vent Management Guide for Invasive Mechanical Ventilation in Transport](https://www.rykerrmedical.com/clinical-resources/vent-management/).  180 questions or to make sure that you dial in everything contained in that manual.
+Review questions for the book: [Rykerr Medical's Vent Management Guide for Invasive Mechanical Ventilation in Transport](https://www.rykerrmedical.com/clinical-resources/vent-management/).  180 questions or so to make sure that you dial in everything contained in that manual.
 <br>
 <br>
 [**Blog: Dead Space Illustrations - 1 hour - Airway, Respiration & Ventilation**](https://link.edapp.com/jmwV0fNz3Wb)
 <br>
-This activity included a re-presentation of the content from the [Blog: Dead Space Illustrations](https://www.rykerrmedical.com/2021/06/20/dead-space-illustrations.html) and associated review questions.
+This activity includes a re-presentation of the content from the [Blog: Dead Space Illustrations](https://www.rykerrmedical.com/2021/06/20/dead-space-illustrations.html) and associated review questions.
 <br>
 <br>
 [**Blog: Chest Tube Management in Transport - 1 hour - Trauma**](https://link.edapp.com/TLlgRkyD3Wb)
