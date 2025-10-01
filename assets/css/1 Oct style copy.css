@@ -350,36 +350,3 @@ label {
   height: 700px;
   min-height: 700px;
 }
-
-/* === Floating Contrast Toggle === */
-#contrast-toggle {
-  position: fixed;
-  bottom: 1.5rem;
-  right: 1.5rem;
-  z-index: 9999;
-  background-color: #a31232;
-  color: #fff;
-  border: none;
-  padding: 0.6rem 1.2rem;
-  font-family: 'Black Ground', sans-serif;
-  font-size: 1rem;
-  border-radius: 8px;
-  cursor: pointer;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-  transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-#contrast-toggle:hover {
-  background-color: #741021;
-}
-
-/* High contrast mode version */
-body.high-contrast #contrast-toggle {
-  background-color: #000;
-  color: #fff;
-  border: 2px solid #000;
-}
-
-body.high-contrast #contrast-toggle:hover {
-  background-color: #333;
-}
