@@ -48,7 +48,7 @@ Each section (except for the last) is broken down as so:
 - Learn More - links to resources on the general concept; might be videos, websites, articles social media pages, etc.
 - Potential Leads - groups and organizations that are currently working in this sector and may have opportunities to get involved
 
-<br>
+&nbsp;
 
 <h3 id="humanitarian-medicine">Humanitarian Medicine</h3>
 
