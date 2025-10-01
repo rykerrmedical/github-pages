@@ -88,17 +88,23 @@
   </script>
   
   <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const scrollTopBtn = document.getElementById("scroll-top");
-    if (!scrollTopBtn) return;
+      document.addEventListener("DOMContentLoaded", function () {
+        const scrollTopBtn = document.getElementById("scroll-top");
+        if (!scrollTopBtn) return;
 
-    scrollTopBtn.addEventListener("click", function () {
-      window.scrollTo({
-        top: 0,
-        behavior: "smooth"
+        // Show button only when scrolled down
+        window.addEventListener("scroll", () => {
+          if (window.scrollY > 200) {
+            scrollTopBtn.classList.add("show");
+          } else {
+            scrollTopBtn.classList.remove("show");
+          }
+        });
+
+        scrollTopBtn.addEventListener("click", function () {
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
       });
-    });
-  });
   </script>
   
 </body>

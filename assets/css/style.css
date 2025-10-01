@@ -429,7 +429,7 @@ body.high-contrast form button {
 #scroll-top {
   position: fixed;
   top: 4rem; /* adjust to sit just below the contrast toggle */
-  left: 1rem;
+  left: 1.5rem;
   z-index: 9999;
   background-color: #a31232;
   color: #fff;
@@ -445,6 +445,13 @@ body.high-contrast form button {
 
 #scroll-top:hover {
   background-color: #741021;
+}
+
+#scroll-top {
+  display: none;
+}
+#scroll-top.show {
+  display: block;
 }
 
 /* Match high-contrast mode */
