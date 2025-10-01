@@ -29,13 +29,6 @@ layout: default
   vertical-align: top;
 }
 
-.austere-row a {
-  display: inline-block;
-  margin: 0;
-  padding: 0;
-  line-height: 0;
-}
-
 </style>
 
 # Austere Medicine
@@ -54,8 +47,6 @@ Each section (except for the last) is broken down as so:
 - Certs & Courses - where to go if you have the time and/ or money to put into both learning and making yourself more marketable
 - Learn More - links to resources on the general concept; might be videos, websites, articles social media pages, etc.
 - Potential Leads - groups and organizations that are currently working in this sector and may have opportunities to get involved
-
-(money legend: $ = under 100 USD, 2$ = 101 to 500 USD, 3$ = 501 to 1500 USD, 4$ = >1500 USD)
 
 <br>
 
@@ -81,9 +72,6 @@ Each section (except for the last) is broken down as so:
   </a>
 </div>
 
-
-
-
 Fundamental Knowledge:
 - Humanitarian Principles
 - Agencies: WHO, UNHCR, UN, etc. & the Cluster Response/ Approach
@@ -93,8 +81,8 @@ Fundamental Knowledge:
 Courses & Certs:
 - [Disasterready.org: Humanitarian Essentials](https://www.disasterready.org/humanitarian-essentials) (free, online)
 - [Bulding a Better Response Course](https://buildingabetterresponse.org/) (free, online)
-- [FCCS: Resource Limited](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/Fundamental-Critical-Care-Support-Resource-Limited) ($ - 2$, tough to find)
-- [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) (3$, in-person)
+- [FCCS: Resource Limited](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/Fundamental-Critical-Care-Support-Resource-Limited) (costs money, tough to find)
+- [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) (mosts lots of money, in-person)
 
 Learn More:
 - [Blog Series: The Stethoscope & The Machete](https://humanitarianmedicjournals.com/)
@@ -126,13 +114,13 @@ Fundamental Knowledge:
 
 Courses & Certs:
 - Wilderness/ Remote First Responder &/or Wilderness/ Remote EMT (2$, many different agencies offer these courses)
-- Advanced Wilderness Life Support (2$ - 3$, many different agencies offer these courses)
-- [Remote Medical Training: Remote Medicine for the Advanced Provider](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) (3$, hybrid)
-- [Wilderness Medicine Special Operations (WMSO) Course by RedStar Medical](https://redstarmedical.org/wmso/) (3$)
-- Diploma in Mountain Medicine (4$, hybrid)
+- Advanced Wilderness Life Support (costs money, many different agencies offer these courses)
+- [Remote Medical Training: Remote Medicine for the Advanced Provider](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) (costs money, hybrid)
+- [Wilderness Medicine Special Operations (WMSO) Course by RedStar Medical](https://redstarmedical.org/wmso/) (costs money)
+- Diploma in Mountain Medicine (costs lots of money, hybrid)
     - [IMMC at University of New Mexico](https://hsc.unm.edu/medicine/departments/emergency-medicine/programs/prehospital-care/immc/) 
     - [Wild Med Society](https://wms.org/WMS/WMS/Get-Certified/DiMM/Overview.aspx)
-- [Wilderness Paramedic (WP-C)](https://www.ibscertifications.org/roles/wilderness-paramedic#gsc.tab=0) (2$, certifcation exam)
+- [Wilderness Paramedic (WP-C)](https://www.ibscertifications.org/roles/wilderness-paramedic#gsc.tab=0) (costs money, certifcation exam)
 
 Learn More:
 - [Aerie Backcountry Medicine WFR Manual](https://www.aeriemedicine.com/textbook/) (free, high utility for BLS-level stuff)
@@ -163,8 +151,10 @@ Fundamental Knowledge:
 
 Courses & Certs:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
-- [FCCS: Crisis Management](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management) ($ - 2$, tough to find)
-- [Upper-Level ICS Courses](https://training.fema.gov/emiweb/is/icsresource/trainingmaterials/) (2$ - 3$, varies a bit)
+- [FCCS: Crisis Management](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management) (costs money, tough to find)
+- [Upper-Level ICS Courses](https://training.fema.gov/emiweb/is/icsresource/trainingmaterials/) (cost money, varies a bit)
+    - ICS 300
+    - ICS 400
 
 Learn More:
 - [Disaster Medicine Collection on Archive.org](https://openlibrary.org/search?q=disaster+medicine&mode=ebooks&has_fulltext=true&language=eng) (all books listed are free to borrow)
@@ -196,15 +186,15 @@ Fundamental Knowledge:
 
 Courses & Certs:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
-- Austere Emergency Care (3$ - 4$, various agencies offer the class)
+- Austere Emergency Care (costs lots of money, various agencies offer the class)
     - [COROM](https://corom.edu.mt/austere-emergency-care/)
     - [Ragged Edge](https://www.raggededgesolutions.com/#Courses)
     - [Anyone Note Ready](https://anyonenotready.com/aec/)
     - [SOAR](https://www.soarescue.com/eap)
 - [European Medics, Tactical Clinical Operations](https://www.europeanmedics.eu/courses/tco-course) (4$)
 - Hostile Environment Awareness Training
-    - [CADUS](https://www.cadus.org/en/what-we-do/training/heat/) (4$)
-    - [Centre for Safety and Development](https://www.centreforsafety.org/what-is-heat-training/) (4$)
+    - [CADUS](https://www.cadus.org/en/what-we-do/training/heat/) (costs lots of money, but sometimes free for their people)
+    - [Centre for Safety and Development](https://www.centreforsafety.org/what-is-heat-training/) (costs lots of money)
 
 Learn More:
 - [FPC Working Group CPGs](https://jts.health.mil/index.cfm/CPGs/cpgs) (free)
@@ -236,9 +226,9 @@ Fundamental Knowledge:
 - Navigating Reference Materials
 
 Courses & Certs:
-- PA, NP or medical school :) (10$ - 20$, also just kidding)
-- Minor Procedures Course ($$, various, some online)
-- ConEd/CEU Offerings for the Urgent Care Setting ($ - 2$, various)
+- PA, NP or medical school :) (costs all the money, also just kidding)
+- Minor Procedures Course (costs money, various, some online)
+- ConEd/CEU Offerings for the Urgent Care Setting (costs money, various)
 
 Learn More:
 - [Blog: Next Level Medic, ADTMC Resources](https://nextlevelmedic.com/algorithm-directed-troop-medical-care/)
