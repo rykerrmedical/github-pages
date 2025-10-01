@@ -425,3 +425,35 @@ body.high-contrast form button {
   color: #fff !important;
 }
 
+/* === Back to Top Bit === */
+#scroll-top {
+  position: fixed;
+  top: 4rem; /* adjust to sit just below the contrast toggle */
+  left: 1rem;
+  z-index: 9999;
+  background-color: #a31232;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-family: 'Black Ground', sans-serif;
+  font-size: 0.9rem;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#scroll-top:hover {
+  background-color: #741021;
+}
+
+/* Match high-contrast mode */
+body.high-contrast #scroll-top {
+  background-color: #000;
+  color: #fff;
+  border: 2px solid #000;
+}
+
+body.high-contrast #scroll-top:hover {
+  background-color: #333;
+}

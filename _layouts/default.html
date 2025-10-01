@@ -17,6 +17,10 @@
     Toggle Contrast
   </button>
   
+  <button id="scroll-top" aria-label="Go to Top">
+    ↑ Top
+  </button>
+  
   <nav id="site-nav">
     <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">☰</button>
     <div class="nav-links" id="nav-links">
@@ -79,6 +83,20 @@
       // Save the current state to localStorage
       const isHighContrast = document.body.classList.contains("high-contrast");
       localStorage.setItem("highContrast", isHighContrast);
+    });
+  });
+  </script>
+  
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const scrollTopBtn = document.getElementById("scroll-top");
+    if (!scrollTopBtn) return;
+
+    scrollTopBtn.addEventListener("click", function () {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
     });
   });
   </script>
