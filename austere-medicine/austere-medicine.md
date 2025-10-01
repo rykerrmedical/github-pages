@@ -53,14 +53,6 @@ Each section (except for the last) is broken down as so:
 <h3 id="humanitarian-medicine">Humanitarian Medicine</h3>
 
 <div class="austere-row">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="matamoros-covid-field-hospital">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="gaza-tsp-tal-sultan">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="reynosa-clinic">
-</div>
-
-<br>
-
-<div class="austere-row">
   <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="matamoros-covid-field-hospital">
   </a>
@@ -82,7 +74,7 @@ Courses & Certs:
 - [Disasterready.org: Humanitarian Essentials](https://www.disasterready.org/humanitarian-essentials) (free, online)
 - [Bulding a Better Response Course](https://buildingabetterresponse.org/) (free, online)
 - [FCCS: Resource Limited](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/Fundamental-Critical-Care-Support-Resource-Limited) (costs money, tough to find)
-- [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) (mosts lots of money, in-person)
+- [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) (costs lots of money, in-person)
 
 Learn More:
 - [Blog Series: The Stethoscope & The Machete](https://humanitarianmedicjournals.com/)
@@ -113,7 +105,7 @@ Fundamental Knowledge:
 - Sport/ Activity-Specific Competency (i.e., climbing, skiing, backpacking, etc.)
 
 Courses & Certs:
-- Wilderness/ Remote First Responder &/or Wilderness/ Remote EMT (2$, many different agencies offer these courses)
+- Wilderness/ Remote First Responder &/or Wilderness/ Remote EMT (cost money, many different agencies offer these courses)
 - Advanced Wilderness Life Support (costs money, many different agencies offer these courses)
 - [Remote Medical Training: Remote Medicine for the Advanced Provider](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) (costs money, hybrid)
 - [Wilderness Medicine Special Operations (WMSO) Course by RedStar Medical](https://redstarmedical.org/wmso/) (costs money)
@@ -191,7 +183,7 @@ Courses & Certs:
     - [Ragged Edge](https://www.raggededgesolutions.com/#Courses)
     - [Anyone Note Ready](https://anyonenotready.com/aec/)
     - [SOAR](https://www.soarescue.com/eap)
-- [European Medics, Tactical Clinical Operations](https://www.europeanmedics.eu/courses/tco-course) (4$)
+- [European Medics, Tactical Clinical Operations](https://www.europeanmedics.eu/courses/tco-course) (costs lots of money)
 - Hostile Environment Awareness Training
     - [CADUS](https://www.cadus.org/en/what-we-do/training/heat/) (costs lots of money, but sometimes free for their people)
     - [Centre for Safety and Development](https://www.centreforsafety.org/what-is-heat-training/) (costs lots of money)
