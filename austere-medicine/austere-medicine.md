@@ -85,7 +85,7 @@ Each section (except for the last) is broken down as so:
 <h3 id="wilderness-medicine">Wilderness Medicine</h3>
 
 <div class="austere-row">
-  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/hike-into-saline.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/hike-into-saline.jpeg" alt="hike-into-saline"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/fixin-feet-tpu.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/fixin-feet-tpu.jpeg" alt="fixin-feet-tpu></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/rugged-peak.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/rugged-peak.jpeg" alt="rugged-peak></a>
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/hike-into-saline.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/hike-into-saline.jpeg" alt="hike-into-saline"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/fixin-feet-tpu.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/fixin-feet-tpu.jpeg" alt="fixin-feet-tpu"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/rugged-peak.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/rugged-peak.jpeg" alt="rugged-peak"></a>
 </div>
 
 **Fundamental Knowledge:**
@@ -95,11 +95,11 @@ Each section (except for the last) is broken down as so:
 - Sport/ Activity-Specific Competency (i.e., climbing, skiing, backpacking, etc.)
 
 **Courses & Certs:**
-- Wilderness/ Remote First Responder &/or Wilderness/ Remote EMT (cost money, many different agencies offer these courses)
-- Advanced Wilderness Life Support (costs money, many different agencies offer these courses)
-- [Remote Medical Training: Remote Medicine for the Advanced Provider](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) (costs money, hybrid)
+- Wilderness/ Remote First Responder (WFR/ RFR) &/or Wilderness/ Remote EMT (WEMT/ REMT) (cost money, many different agencies offer these courses)
+- Advanced Wilderness Life Support (AWLS) (costs money, many different agencies offer these courses)
+- [Remote Medical Training: Remote Medicine for the Advanced Provider (RMAP)](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) (costs money, hybrid)
 - [Wilderness Medicine Special Operations (WMSO) Course by RedStar Medical](https://redstarmedical.org/wmso/) (costs money)
-- Diploma in Mountain Medicine (costs lots of money, hybrid)
+- Diploma in Mountain Medicine (DiMM) (costs lots of money, hybrid)
     - [IMMC at University of New Mexico](https://hsc.unm.edu/medicine/departments/emergency-medicine/programs/prehospital-care/immc/) 
     - [Wild Med Society](https://wms.org/WMS/WMS/Get-Certified/DiMM/Overview.aspx)
 - [Wilderness Paramedic (WP-C)](https://www.ibscertifications.org/roles/wilderness-paramedic#gsc.tab=0) (costs money, certifcation exam)
@@ -120,7 +120,7 @@ Each section (except for the last) is broken down as so:
 <h3 id="disaster-medicine">Disaster Medicine</h3>
 
 <div class="austere-row">
-  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-american-samoa.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-american-samoa.jpeg" alt="dmat-american-samoa"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/covid-ppe-mom.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/covid-ppe-mom.jpeg" alt="covid-ppe-mom"</a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-helene.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-helene.jpeg" alt="dmat-helene"></a>
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-american-samoa.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-american-samoa.jpeg" alt="dmat-american-samoa"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/covid-ppe-mom.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/covid-ppe-mom.jpeg" alt="covid-ppe-mom"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-helene.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-helene.jpeg" alt="dmat-helene"></a>
 </div>
 
 **Fundamental Knowledge:**
@@ -153,7 +153,7 @@ Each section (except for the last) is broken down as so:
 <h3 id="conflict-medicine">Conflict Medicine</h3>
 
 <div class="austere-row">
-  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/al-aqsa-gaza.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/al-aqsa-gaza.jpeg" alt="al-aqsa-gaza"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ppe-at-home.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ppe-at-home.jpeg" alt="ppe-at-home"</a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/casevac-rendevous-ukraine.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/casevac-rendevous-ukraine.jpeg" alt="casevac-rendevous-ukraine"></a>
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/al-aqsa-gaza.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/al-aqsa-gaza.jpeg" alt="al-aqsa-gaza"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ppe-at-home.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ppe-at-home.jpeg" alt="ppe-at-home"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/casevac-rendevous-ukraine.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/casevac-rendevous-ukraine.jpeg" alt="casevac-rendevous-ukraine"></a>
 </div>
 
 **Fundamental Knowledge:**
@@ -191,7 +191,7 @@ Each section (except for the last) is broken down as so:
 <h3 id="clinic-sick-call">Clinic/ Sick Call</h3>
 
 <div class="austere-row">
-  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-poc-tests.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-poc-tests.jpeg" alt="matamoros-poc-tests"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/sutures-rmap.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/sutures-rmap.jpeg" alt="sutures-rmap"</a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/otoscope-opthalmoscope.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/otoscope-opthalmoscope.jpeg" alt="otoscope-opthalmoscope"></a>
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-poc-tests.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-poc-tests.jpeg" alt="matamoros-poc-tests"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/sutures-rmap.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/sutures-rmap.jpeg" alt="sutures-rmap"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/otoscope-opthalmoscope.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/otoscope-opthalmoscope.jpeg" alt="otoscope-opthalmoscope"></a>
 </div>
 
 Quick note: this section is a bit more generalized and geared towards the medic/ nurse who doesn't typically work in a clinic setting, but would like to be useful in that setting (since a lot of austere work is clinic-based)
@@ -227,7 +227,7 @@ Quick note: this section is a bit more generalized and geared towards the medic/
 <h3 id="general-refs">General/ Multi-Disciplinary References</h3>
 
 <div class="austere-row">
-  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" alt="airway-kit"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" alt="prcs-trucks""</a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" alt="ukr-mmrescue-medevac"></a>
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" alt="airway-kit"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" alt="prcs-trucks"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" alt="ukr-mmrescue-medevac"></a>
 </div>"
 
 And then this section is just a list of resources that span multiple disciplines discussed above.
