@@ -31,6 +31,7 @@ layout: default
   object-fit: contain;
   display: inline-block !important;
   vertical-align: top;
+  margin: 0 0.5rem;
 }
 
 </style>
