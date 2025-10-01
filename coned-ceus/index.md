@@ -19,7 +19,6 @@ Note that not all of the offering on EdApp are for credit, some are drafts/ just
 <br>
 
 ### Summary of Offerings
-<br>
 [**Vent Book v1 Review - 8 hours - Airway, Respiration & Ventilation**](https://link.edapp.com/WpGuSzZfilb)
 <br>
 Review questions for the book: [Rykerr Medical's Vent Management Guide for Invasive Mechanical Ventilation in Transport](https://www.rykerrmedical.com/clinical-resources/vent-management/).  180 questions or to make sure that you dial in everything contained in that manual.
