@@ -360,9 +360,9 @@ label {
   background-color: #a31232;
   color: #fff;
   border: none;
-  padding: 0.4rem 1rem;      /* slightly smaller */
+  padding: 0.2rem 0.5rem;      /* slightly smaller */
   font-family: 'Black Ground', sans-serif;
-  font-size: 0.9rem;         /* slightly smaller */
+  font-size: 0.6rem;         /* slightly smaller */
   border-radius: 8px;
   cursor: pointer;
   box-shadow: 0 2px 6px rgba(0,0,0,0.3);
