@@ -68,39 +68,34 @@
   {% include footer.html %}
   
   <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const toggle = document.getElementById("contrast-toggle");
-    if (!toggle) return;
-
-    // On page load, check if high-contrast was previously enabled
-    if (localStorage.getItem("highContrast") === "true") {
-      document.body.classList.add("high-contrast");
-    }
-
-    toggle.addEventListener("click", function () {
-      document.body.classList.toggle("high-contrast");
-
-      // Save the current state to localStorage
-      const isHighContrast = document.body.classList.contains("high-contrast");
-      localStorage.setItem("highContrast", isHighContrast);
-    });
-  });
-  </script>
-  
-  <script>
       document.addEventListener("DOMContentLoaded", function () {
+        const contrastBtn = document.getElementById("contrast-toggle");
         const scrollTopBtn = document.getElementById("scroll-top");
-        if (!scrollTopBtn) return;
 
-        // Show button only when scrolled down
+        if (!contrastBtn || !scrollTopBtn) return;
+
+        // Show/hide buttons on scroll
         window.addEventListener("scroll", () => {
-          if (window.scrollY > 200) {
+          if (window.scrollY > 200) { // fade in after 200px
+            contrastBtn.classList.add("show");
             scrollTopBtn.classList.add("show");
           } else {
+            contrastBtn.classList.remove("show");
             scrollTopBtn.classList.remove("show");
           }
         });
 
+        // Contrast toggle functionality
+        if (localStorage.getItem("highContrast") === "true") {
+          document.body.classList.add("high-contrast");
+        }
+        contrastBtn.addEventListener("click", function () {
+          document.body.classList.toggle("high-contrast");
+          const isHighContrast = document.body.classList.contains("high-contrast");
+          localStorage.setItem("highContrast", isHighContrast);
+        });
+
+        // Scroll to top
         scrollTopBtn.addEventListener("click", function () {
           window.scrollTo({ top: 0, behavior: "smooth" });
         });

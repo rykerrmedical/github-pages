@@ -351,27 +351,61 @@ label {
   min-height: 700px;
 }
 
-/* === Floating Contrast Toggle === */
-#contrast-toggle {
+/* === Floating Buttons: Contrast Toggle + Scroll Top === */
+#contrast-toggle,
+#scroll-top {
   position: fixed;
-  top: 1.5rem;
-  left: 1.5rem;
+  left: 1.5rem;             /* aligned left */
   z-index: 9999;
   background-color: #a31232;
   color: #fff;
   border: none;
-  padding: 0.6rem 1.2rem;
+  padding: 0.4rem 1rem;      /* slightly smaller */
   font-family: 'Black Ground', sans-serif;
-  font-size: 1rem;
+  font-size: 0.9rem;         /* slightly smaller */
   border-radius: 8px;
   cursor: pointer;
   box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition: background-color 0.3s ease, color 0.3s ease, opacity 0.4s ease;
+  
+  opacity: 0;                /* hidden initially */
+  pointer-events: none;      /* disable click when hidden */
 }
 
-#contrast-toggle:hover {
+/* Fade-in when showing */
+#contrast-toggle.show,
+#scroll-top.show {
+  opacity: 1;
+  pointer-events: auto;      /* enable click */
+}
+
+#contrast-toggle:hover,
+#scroll-top:hover {
   background-color: #741021;
 }
+
+/* High contrast styling */
+body.high-contrast #contrast-toggle,
+body.high-contrast #scroll-top {
+  background-color: #000;
+  color: #fff;
+  border: 2px solid #000;
+}
+
+body.high-contrast #contrast-toggle:hover,
+body.high-contrast #scroll-top:hover {
+  background-color: #333;
+}
+
+/* Vertical stack: contrast toggle on top, scroll top below */
+#contrast-toggle.show {
+  top: 1.5rem;
+}
+
+#scroll-top.show {
+  top: 3.5rem; /* 2rem below contrast toggle */
+}
+
 
 /* High contrast mode version */
 body.high-contrast #contrast-toggle {
@@ -423,35 +457,6 @@ body.high-contrast .nav-links a {
 body.high-contrast form button {
   background-color: #000 !important;
   color: #fff !important;
-}
-
-/* === Back to Top Bit === */
-#scroll-top {
-  position: fixed;
-  top: 4rem; /* adjust to sit just below the contrast toggle */
-  left: 1.5rem;
-  z-index: 9999;
-  background-color: #a31232;
-  color: #fff;
-  border: none;
-  padding: 0.5rem 1rem;
-  font-family: 'Black Ground', sans-serif;
-  font-size: 0.9rem;
-  border-radius: 8px;
-  cursor: pointer;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-  transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-#scroll-top:hover {
-  background-color: #741021;
-}
-
-#scroll-top {
-  display: none;
-}
-#scroll-top.show {
-  display: block;
 }
 
 /* Match high-contrast mode */
