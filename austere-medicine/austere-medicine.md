@@ -22,12 +22,12 @@ layout: default
   height: auto !important;
   width: 30% !important;
   max-width: 30% !important;
-  min-width: 50px !important;
+  min-width: 25px !important;
   flex: 0 0 30% !important;
   object-fit: contain;
   display: inline-block !important;
   vertical-align: top;
-  margin: 0 0.5rem;
+  margin: 0 0.2rem;
 }
 
 </style>
