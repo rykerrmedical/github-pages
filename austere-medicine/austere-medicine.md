@@ -48,15 +48,13 @@ Each section (except for the last) is broken down as so:
 - Learn More - links to resources on the general concept; might be videos, websites, articles social media pages, etc.
 - Potential Leads - groups and organizations that are currently working in this sector and may have opportunities to get involved
 
-&nbsp;
+<br>
 
 <h3 id="humanitarian-medicine">Humanitarian Medicine</h3>
 
 <div class="austere-row">
   <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="matamoros-covid-field-hospital"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="gaza-tsp-tal-sultan"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="reynosa-clinic"></a>
 </div>
-
-<div style="clear: both;"></div>
 
 **Fundamental Knowledge:**
 - Humanitarian Principles
@@ -87,18 +85,16 @@ Each section (except for the last) is broken down as so:
 <h3 id="wilderness-medicine">Wilderness Medicine</h3>
 
 <div class="austere-row">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/hike-into-saline.jpeg" alt="hike-into-saline">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/fixin-feet-tpu.jpeg" alt="fixin-feet-tpu">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/rugged-peak.jpeg" alt="rugged-peak">
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/hike-into-saline.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/hike-into-saline.jpeg" alt="hike-into-saline"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/fixin-feet-tpu.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/fixin-feet-tpu.jpeg" alt="fixin-feet-tpu></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/rugged-peak.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/rugged-peak.jpeg" alt="rugged-peak></a>
 </div>
 
-Fundamental Knowledge:
+**Fundamental Knowledge:**
 - Backcountry Travel & Wilderness Survival
 - Leave No Trace Principles
 - Navigation (Map & Compass, GPS Systems, etc.)
 - Sport/ Activity-Specific Competency (i.e., climbing, skiing, backpacking, etc.)
 
-Courses & Certs:
+**Courses & Certs:**
 - Wilderness/ Remote First Responder &/or Wilderness/ Remote EMT (cost money, many different agencies offer these courses)
 - Advanced Wilderness Life Support (costs money, many different agencies offer these courses)
 - [Remote Medical Training: Remote Medicine for the Advanced Provider](https://remotemedicaltraining.com/pages/rmap-nremt-paramedic-refresher-course) (costs money, hybrid)
@@ -108,12 +104,12 @@ Courses & Certs:
     - [Wild Med Society](https://wms.org/WMS/WMS/Get-Certified/DiMM/Overview.aspx)
 - [Wilderness Paramedic (WP-C)](https://www.ibscertifications.org/roles/wilderness-paramedic#gsc.tab=0) (costs money, certifcation exam)
 
-Learn More:
+**Learn More:**
 - [Aerie Backcountry Medicine WFR Manual](https://www.aeriemedicine.com/textbook/) (free, high utility for BLS-level stuff)
 - [Wilderness Medical Sociewty (WMS) Clinical Practice Guidelines (CPGs)](https://wms.org/WMS/WMS/Research/WEM/CPG.aspx) (free, high utility for all levels of clinicians)
 - [Blog: Wildland Fire Medic, Beginners Guide by Medics en Route](https://www.medicsenroute.com/becoming-a-wildland-fire-line-medic/) (free, high utility if interested in fireline work)
 
-Potential Leads:
+**Potential Leads:**
 - Ski Patrol, specifically those with [National Ski Patrol](https://www.nsp.org/Web/NSPWebsite/Home.aspx) or volunteer programs
 - Local Search & Rescue
 - Wildland Firefighting/ Fireline Medic (various agencies have opportunities)
@@ -124,32 +120,30 @@ Potential Leads:
 <h3 id="disaster-medicine">Disaster Medicine</h3>
 
 <div class="austere-row">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-american-samoa.jpeg" alt="dmat-american-samoa">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/covid-ppe-mom.jpeg" alt="covid-ppe-mom">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-helene.jpeg" alt="dmat-helene">
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-american-samoa.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-american-samoa.jpeg" alt="dmat-american-samoa"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/covid-ppe-mom.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/covid-ppe-mom.jpeg" alt="covid-ppe-mom"</a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-helene.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/dmat-helene.jpeg" alt="dmat-helene"></a>
 </div>
 
-Fundamental Knowledge:
+**Fundamental Knowledge:**
 - Disaster Management Cycle
 - Types and Nature of Disasters
 - Incident Command & Coordination
 - Austere Communication Strategies
 
-Courses & Certs:
+**Courses & Certs:**
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
 - [FCCS: Crisis Management](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management) (costs money, tough to find)
 - [Upper-Level ICS Courses](https://training.fema.gov/emiweb/is/icsresource/trainingmaterials/) (cost money, varies a bit)
     - ICS 300
     - ICS 400
 
-Learn More:
+**Learn More:**
 - [Disaster Medicine Collection on Archive.org](https://openlibrary.org/search?q=disaster+medicine&mode=ebooks&has_fulltext=true&language=eng) (all books listed are free to borrow)
 - Book chapters on [InTech Open](https://www.intechopen.com/) (all free)
     - ["Disasters and Disaster Medicine" in Essentials of Accident and Emergency Medicine, chapter by A. S. Alsheikhly](https://www.intechopen.com/chapters/58936)
     - ["Considerations in Mass Casualty and Disaster Management" in Emergency Medicine - An International Prespective, chapter by P. Aitken & P. Leggat](https://www.intechopen.com/chapters/31947)
 - [Disaster Helath Core Curriculum from USU NCDMPH](https://ncdmph.usuhs.edu/education/core-curriculum) (free, online, approx. 7 hours)
 
-Potential Leads:
+**Potential Leads:**
 - [Disaster Medical Assistance Teams (DMAT)](https://aspr.hhs.gov/NDMS/Pages/join-ndms.aspx) (US folks only)
 - [Urban Search & Rescue (USAR) Teams](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/urban-search-rescue) (US folks only, but comparable resources around the world)
 - [Empact Northwest](https://www.empact.ngo/) (for folks in the Pacific Northwest, USA)
@@ -159,18 +153,16 @@ Potential Leads:
 <h3 id="conflict-medicine">Conflict Medicine</h3>
 
 <div class="austere-row">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/al-aqsa-gaza.jpeg" alt="al-aqsa-gaza">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ppe-at-home.jpeg" alt="ppe-at-home">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/casevac-rendevous-ukraine.jpeg" alt="casevac-rendevous-ukraine">
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/al-aqsa-gaza.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/al-aqsa-gaza.jpeg" alt="al-aqsa-gaza"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ppe-at-home.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ppe-at-home.jpeg" alt="ppe-at-home"</a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/casevac-rendevous-ukraine.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/casevac-rendevous-ukraine.jpeg" alt="casevac-rendevous-ukraine"></a>
 </div>
 
-Fundamental Knowledge:
+**Fundamental Knowledge:**
 - Stop the Bleed & Wound Care
 - Principles of Tactical Combat Casualty Care (TCCC)
 - Principles of Prolonged Field Care (PFC)
 - Movement in/ Management of PPE (not the gloves and eyeglasses kind)
 
-Courses & Certs:
+**Courses & Certs:**
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
 - Austere Emergency Care (costs lots of money, various agencies offer the class)
     - [COROM](https://corom.edu.mt/austere-emergency-care/)
@@ -182,13 +174,13 @@ Courses & Certs:
     - [CADUS](https://www.cadus.org/en/what-we-do/training/heat/) (costs lots of money, but sometimes free for their people)
     - [Centre for Safety and Development](https://www.centreforsafety.org/what-is-heat-training/) (costs lots of money)
 
-Learn More:
+**Learn More:**
 - [FPC Working Group CPGs](https://jts.health.mil/index.cfm/CPGs/cpgs) (free)
 - [Conflict & Health Journal](https://conflictandhealth.biomedcentral.com/about) (free/ open access)
 - [Medicine, Conflict & Survival Journal](https://www.tandfonline.com/journals/fmcs20) (free/ open access))
 - [WHO Red Book](https://extranet.who.int/emt/sites/default/files/Red%20Book2021.pdf) (free)
 
-Potential Leads:
+**Potential Leads:**
 - [CADUS](www.cadus.org/en/) (Ukraine, Gaza; all ALS providers, rarely BLS opportunities)
 - [Frontline Medics](https://frontlinemedics.org/) (Ukraine; all ALS providers)
 - [UK Med](https://www.uk-med.org/) (Ukraine, Gaza; all ALS providers)
@@ -199,24 +191,22 @@ Potential Leads:
 <h3 id="clinic-sick-call">Clinic/ Sick Call</h3>
 
 <div class="austere-row">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-poc-tests.jpeg" alt="matamoros-poc-tests">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/sutures-rmap.jpeg" alt="sutures-rmap">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/otoscope-opthalmoscope.jpeg" alt="otoscope-opthalmoscope">
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-poc-tests.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-poc-tests.jpeg" alt="matamoros-poc-tests"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/sutures-rmap.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/sutures-rmap.jpeg" alt="sutures-rmap"</a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/otoscope-opthalmoscope.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/otoscope-opthalmoscope.jpeg" alt="otoscope-opthalmoscope"></a>
 </div>
 
 Quick note: this section is a bit more generalized and geared towards the medic/ nurse who doesn't typically work in a clinic setting, but would like to be useful in that setting (since a lot of austere work is clinic-based)
 
-Fundamental Knowledge:
+**undamental Knowledge:**
 - Workflow in a Clinic Setting
 - Utilization (& Maintenance) of Point of Care (POC) Tests
 - Navigating Reference Materials
 
-Courses & Certs:
+**Courses & Certs:**
 - PA, NP or medical school :) (costs all the money, also just kidding)
 - Minor Procedures Course (costs money, various, some online)
 - ConEd/CEU Offerings for the Urgent Care Setting (costs money, various)
 
-Learn More:
+**Learn More:**
 - [Blog: Next Level Medic, ADTMC Resources](https://nextlevelmedic.com/algorithm-directed-troop-medical-care/)
 - Free Quick References Guide, such as:
     - [Family Practice Notebook](https://fpnotebook.com/)
@@ -228,7 +218,7 @@ Learn More:
     - Point of Care Ultrasound
     - X-ray Interpretation
 
-Potential Leads:
+**Potential Leads:**
 - many <a href="#humanitarian-medicine">Humanitarian Medicine</a> opportunities include exposure here (see above)
 - shadow in a clinic, urgent care, or a low-acuity pod in an ER
 
@@ -237,10 +227,8 @@ Potential Leads:
 <h3 id="general-refs">General/ Multi-Disciplinary References</h3>
 
 <div class="austere-row">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" alt="airway-kit">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" alt="prcs-trucks">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" alt="ukr-mmrescue-medevac">
-</div>
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" alt="airway-kit"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" alt="prcs-trucks""</a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" alt="ukr-mmrescue-medevac"></a>
+</div>"
 
 And then this section is just a list of resources that span multiple disciplines discussed above.
 
