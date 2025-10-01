@@ -58,6 +58,20 @@ Each section (except for the last) is broken down as so:
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="gaza-tsp-tal-sultan">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="reynosa-clinic">
 </div>
+<br><br>
+<div class="austere-row">
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" target="_blank" rel="noopener">
+    <img src=src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/matamoros-covid-field-hospital.jpeg" alt="matamoros-covid-field-hospital">
+  </a>
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" target="_blank" rel="noopener">
+    <img src=https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/gaza-tsp-tal-sultan.jpeg" alt="gaza-tsp-tal-sultan">
+  </a>
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/reynosa-clinic.jpeg" alt="reynosa-clinic"">
+  </a>
+</div>
+
+
 
 Fundamental Knowledge:
 - Humanitarian Principles

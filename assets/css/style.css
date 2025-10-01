@@ -403,7 +403,7 @@ body.high-contrast #scroll-top:hover {
 }
 
 #scroll-top.show {
-  top: 3rem; 
+  top: 3rem;
 }
 
 
@@ -469,3 +469,4 @@ body.high-contrast #scroll-top {
 body.high-contrast #scroll-top:hover {
   background-color: #333;
 }
+
