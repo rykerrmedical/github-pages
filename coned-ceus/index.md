@@ -26,7 +26,7 @@ Review questions for the book: [Rykerr Medical's Vent Management Guide for Invas
 <br>
 [**Blog: Dead Space Illustrations - 1 hour - Airway, Respiration & Ventilation**](https://link.edapp.com/jmwV0fNz3Wb)
 <br>
-This activity includes a re-presentation of the content from the [Blog: Dead Space Illustrations](https://www.rykerrmedical.com/2021/06/20/dead-space-illustrations.html) and associated review questions.
+This activity includes a re-presentation of content from the [Blog: Dead Space Illustrations](https://www.rykerrmedical.com/2021/06/20/dead-space-illustrations.html) and associated review questions.
 <br>
 <br>
 [**Blog: Chest Tube Management in Transport - 1 hour - Trauma**](https://link.edapp.com/TLlgRkyD3Wb)
@@ -36,7 +36,8 @@ Brush up on your knowledge of chest tube management with this CEU activity based
 <br>
 [**Podcast: Trauma Questions & More w/ Doc Fisher - 1 hour - Trauma**](https://link.edapp.com/lCnNxWJD3Wb)
 <br>
-After listebning to out chat with Doc Fihser (over at [the podcast page](https://www.rykerrmedical.com/podcast/)), get credit for doing so by answering just a few questions on the stuff we chat about.
+After listening to out chat with Doc Fisher (over at [the podcast page](https://www.rykerrmedical.com/podcast/)), get credit for doing so by answering just a few questions on the stuff we chat about.
+<br>
 <br>
 ...more to come soon!
 
