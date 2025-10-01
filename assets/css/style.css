@@ -383,3 +383,45 @@ body.high-contrast #contrast-toggle {
 body.high-contrast #contrast-toggle:hover {
   background-color: #333;
 }
+
+/* === Minimal High Contrast Mode === */
+body.high-contrast {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+body.high-contrast h1,
+body.high-contrast h2,
+body.high-contrast h3,
+body.high-contrast h4,
+body.high-contrast h5,
+body.high-contrast h6 {
+  color: #000000 !important;
+}
+
+body.high-contrast a {
+  color: #0000EE !important;
+  text-decoration: underline;
+}
+
+body.high-contrast .homepage,
+body.high-contrast .video-wrapper,
+body.high-contrast .episode-card,
+body.high-contrast .featured-episode img {
+  background: #f9f9f9 !important;
+  box-shadow: none !important;
+}
+
+body.high-contrast nav {
+  background-color: #f0f0f0 !important;
+}
+
+body.high-contrast .nav-links a {
+  color: #000000 !important;
+}
+
+body.high-contrast form button {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
