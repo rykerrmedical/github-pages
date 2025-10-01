@@ -19,11 +19,23 @@ Note that not all of the offering on EdApp are for credit, some are drafts/ just
 <br>
 
 ### Summary of Offerings
-
-##### [- Vent Book v1 Review - 8 hours - Airway, Respiration & Ventilation](https://link.edapp.com/WpGuSzZfilb)
-##### [- Blog: Dead Space Illustrations - 1 hour - Airway, Respiration & Ventilation](https://link.edapp.com/jmwV0fNz3Wb)
-##### [- Blog: Chest Tube Management in Transport - 1 hour - Trauma](https://link.edapp.com/TLlgRkyD3Wb)
-##### [- Podcast: Trauma Questions & More w/ Doc Fisher - 1 hour - Trauma](https://link.edapp.com/lCnNxWJD3Wb)
+<br>
+**[Vent Book v1 Review - 8 hours - Airway, Respiration & Ventilation]**(https://link.edapp.com/WpGuSzZfilb)
+<br>
+Review questions for the book: [Rykerr Medical's Vent Management Guide for Invasive Mechanical Ventilation in Transport](https://www.rykerrmedical.com/clinical-resources/vent-management/).  180 questions or to make sure that you dial in everything contained in that manual.
+<br>
+**[Blog: Dead Space Illustrations - 1 hour - Airway, Respiration & Ventilation]**(https://link.edapp.com/jmwV0fNz3Wb)
+<br>
+This activity included a re-presentation of the content from the [Blog: Dead Space Illustrations](https://www.rykerrmedical.com/2021/06/20/dead-space-illustrations.html) and associated review questions.
+<br>
+**[Blog: Chest Tube Management in Transport - 1 hour - Trauma]**(https://link.edapp.com/TLlgRkyD3Wb)
+<br>
+Brush up on your knowledge of chest tube management with this CEU activity based on the [Blog: Chest Tube Management in Transport](https://www.rykerrmedical.com/2025/01/07/chest-tubes.html) that is full of awesome info and a few great illutrations :)
+<br>
+**[Podcast: Trauma Questions & More w/ Doc Fisher - 1 hour - Trauma]**(https://link.edapp.com/lCnNxWJD3Wb)
+<br>
+After listebning to out chat with Doc Fihser (over at [the podcast page](https://www.rykerrmedical.com/podcast/)), get credit for doing so by answering just a few questions on the stuff we chat about.
+<br>
 ...more to come soon!
 
 <br>
