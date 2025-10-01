@@ -66,25 +66,25 @@ Each section (except for the last) is broken down as so:
 
 <div style="clear: both;"></div>
 
-Fundamental Knowledge:
+**Fundamental Knowledge:**
 - Humanitarian Principles
 - Agencies: WHO, UNHCR, UN, etc. & the Cluster Response/ Approach
 - Sphere Guidelines/ Standards for Humanitarian Response
 - Water & Sanitation Hygeine (WASH)
 
-Courses & Certs:
+**Courses & Certs:**
 - [Disasterready.org: Humanitarian Essentials](https://www.disasterready.org/humanitarian-essentials) (free, online)
 - [Bulding a Better Response Course](https://buildingabetterresponse.org/) (free, online)
 - [FCCS: Resource Limited](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/Fundamental-Critical-Care-Support-Resource-Limited) (costs money, tough to find)
 - [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) (costs lots of money, in-person)
 
-Learn More:
+**Learn More:**
 - [Blog Series: The Stethoscope & The Machete](https://humanitarianmedicjournals.com/)
 - [Single Blog: International Opportunities for EMS People, Rykerr Medical](https://www.rykerrmedical.com/2021/11/03/international-opportunities-for-ems.html)
 - Podcast: Preparing for Humanitarian Work & Deployment, The Surge [apple](https://podcasts.apple.com/us/podcast/episode-64-preparing-for-humanitarian-work-and-deployment/id1211210327?i=1000554762017) [youtube](https://www.youtube.com/watch?v=4u9AYuz3JpM)
 - Podcast: Humanitarian Relief with Mark Lopshite, CORUM [apple](https://podcasts.apple.com/us/podcast/159-humanitarian-relief-with-mark-lopshire/id1691996344?i=1000725124755) [spotify](https://open.spotify.com/episode/1aiuEHJwWpAfG32FttTOmv?si=434f65bc38874955)
 
-Potential Leads:
+**Potential Leads:**
 - [CADUS](https://www.cadus.org/en/)
 - [Team Rubicon](https://teamrubiconusa.org/)
 - [International Medical Corps (IMC)](https://internationalmedicalcorps.org/)
