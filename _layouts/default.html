@@ -64,12 +64,14 @@
   {% include footer.html %}
   
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const toggle = document.getElementById("contrast-toggle");
-      toggle.addEventListener("click", function () {
-        document.body.classList.toggle("high-contrast");
+      document.addEventListener("DOMContentLoaded", function () {
+        const toggle = document.getElementById("contrast-toggle");
+        if (!toggle) return; // stop if not found
+        toggle.addEventListener("click", function () {
+          console.log("Toggle clicked"); // debug
+          document.body.classList.toggle("high-contrast");
+        });
       });
-    });
   </script>
   
 </body>
