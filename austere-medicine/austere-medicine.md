@@ -18,10 +18,6 @@ layout: default
   clear: both;
 }
 
-.austere-row a {
-  display: block;
-}
-
 .austere-row img {
   height: auto !important;
   width: 30% !important;
