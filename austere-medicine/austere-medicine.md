@@ -28,6 +28,14 @@ layout: default
   display: inline-block !important;
   vertical-align: top;
 }
+
+.austere-row a {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
 </style>
 
 # Austere Medicine
