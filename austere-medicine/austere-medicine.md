@@ -64,6 +64,8 @@ Each section (except for the last) is broken down as so:
   </a>
 </div>
 
+<div style="clear: both;"></div>
+
 Fundamental Knowledge:
 - Humanitarian Principles
 - Agencies: WHO, UNHCR, UN, etc. & the Cluster Response/ Approach
