@@ -67,9 +67,18 @@
   document.addEventListener("DOMContentLoaded", function () {
     const toggle = document.getElementById("contrast-toggle");
     if (!toggle) return;
+
+    // On page load, check if high-contrast was previously enabled
+    if (localStorage.getItem("highContrast") === "true") {
+      document.body.classList.add("high-contrast");
+    }
+
     toggle.addEventListener("click", function () {
-      console.log("Toggle clicked"); // debug to confirm click works
       document.body.classList.toggle("high-contrast");
+
+      // Save the current state to localStorage
+      const isHighContrast = document.body.classList.contains("high-contrast");
+      localStorage.setItem("highContrast", isHighContrast);
     });
   });
   </script>
