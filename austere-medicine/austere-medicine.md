@@ -234,7 +234,7 @@ Quick note: this section is a bit more generalized and geared towards the medic/
 
 <div class="austere-row">
   <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/airway-kit.jpeg" alt="airway-kit"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/prcs-trucks.jpeg" alt="prcs-trucks"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/austere-medicine/ukr-mmrescue-medevac.jpeg" alt="ukr-mmrescue-medevac"></a>
-</div>"
+</div>
 
 And then this section is just a list of resources that span multiple disciplines discussed above.
 
