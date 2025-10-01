@@ -18,6 +18,10 @@ layout: default
   clear: both;
 }
 
+.austere-row a {
+  display: block;
+}
+
 .austere-row img {
   height: auto !important;
   width: 30% !important;
@@ -103,6 +107,7 @@ Each section (except for the last) is broken down as so:
     - [IMMC at University of New Mexico](https://hsc.unm.edu/medicine/departments/emergency-medicine/programs/prehospital-care/immc/) 
     - [Wild Med Society](https://wms.org/WMS/WMS/Get-Certified/DiMM/Overview.aspx)
 - [Wilderness Paramedic (WP-C)](https://www.ibscertifications.org/roles/wilderness-paramedic#gsc.tab=0) (costs money, certifcation exam)
+- [National Outdoor Leadership School (NOLS)](https://www.nols.edu/) offers many, many different courses in this space, also a great place for networking (cost money, varies by course)
 
 **Learn More:**
 - [Aerie Backcountry Medicine WFR Manual](https://www.aeriemedicine.com/textbook/) (free, high utility for BLS-level stuff)
@@ -114,6 +119,7 @@ Each section (except for the last) is broken down as so:
 - Local Search & Rescue
 - Wildland Firefighting/ Fireline Medic (various agencies have opportunities)
 - Race Support (specifically ultra-marathons and stage races)
+- Guiding Services (climbing, skiing, etc.)
 
 <br>
 
@@ -133,8 +139,8 @@ Each section (except for the last) is broken down as so:
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
 - [FCCS: Crisis Management](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/FCCS-Crisis-Management) (costs money, tough to find)
 - [Upper-Level ICS Courses](https://training.fema.gov/emiweb/is/icsresource/trainingmaterials/) (cost money, varies a bit)
-    - ICS 300
-    - ICS 400
+    - ICS 300 Intermediate ICS for Expanding Incidents
+    - ICS 400 Advanced ICS for Command and General Staff
 
 **Learn More:**
 - [Disaster Medicine Collection on Archive.org](https://openlibrary.org/search?q=disaster+medicine&mode=ebooks&has_fulltext=true&language=eng) (all books listed are free to borrow)
@@ -158,9 +164,10 @@ Each section (except for the last) is broken down as so:
 
 **Fundamental Knowledge:**
 - Stop the Bleed & Wound Care
-- Principles of Tactical Combat Casualty Care (TCCC)
+- Principles of Tactical Emergency Casualty Care (TECC)
+- Crossover & Differences of TECC and Tactical Combat Casualty Care (TCCC)
 - Principles of Prolonged Field Care (PFC)
-- Movement in/ Management of PPE (not the gloves and eyeglasses kind)
+- Utilization and Types of PPE (not the gloves and eyeglasses kind)
 
 **Courses & Certs:**
 - [Humanitarian Academy at Harvard (via EdEx): Humanitarian Response to Conflict & Disaster](https://pll.harvard.edu/course/humanitarian-response-conflict-and-disaster) (free, online)
@@ -179,6 +186,8 @@ Each section (except for the last) is broken down as so:
 - [Conflict & Health Journal](https://conflictandhealth.biomedcentral.com/about) (free/ open access)
 - [Medicine, Conflict & Survival Journal](https://www.tandfonline.com/journals/fmcs20) (free/ open access))
 - [WHO Red Book](https://extranet.who.int/emt/sites/default/files/Red%20Book2021.pdf) (free)
+- [PPE Overview from Committee to Protect Journalists](https://cpj.org/wp-content/uploads/2020/11/ppe-glossary_cpj-final.pdf)
+- [Special Operations Medical Association (SOMA) Resource Library](https://specialoperationsmedicine.org/resource-library/)
 
 **Potential Leads:**
 - [CADUS](www.cadus.org/en/) (Ukraine, Gaza; all ALS providers, rarely BLS opportunities)
