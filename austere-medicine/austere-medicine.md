@@ -171,7 +171,7 @@ Each section (except for the last) is broken down as so:
 - Austere Emergency Care (costs lots of money, various agencies offer the class)
     - [COROM](https://corom.edu.mt/austere-emergency-care/)
     - [Ragged Edge](https://www.raggededgesolutions.com/#Courses)
-    - [Anyone Note Ready](https://anyonenotready.com/aec/)
+    - [Anyone Not Ready](https://anyonenotready.com/aec/)
     - [SOAR](https://www.soarescue.com/eap)
 - [European Medics, Tactical Clinical Operations](https://www.europeanmedics.eu/courses/tco-course) (costs lots of money)
 - Hostile Environment Awareness Training
