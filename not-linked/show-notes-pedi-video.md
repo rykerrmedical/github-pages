@@ -126,11 +126,11 @@ Each of these thumbnails is a link to the original page where we found the thing
 </a>
 
 <a href="https://shoplt.uytriuyhg.ru/content?c=elastic%20gum&id=3" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/images/show-notes-pedi-video/various-bougie-tips.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/show-notes-pedi-video/various-bougie-tips.jpeg" alt="image" width="300"/>
 </a>
 
 <a href="https://www.vygonusa.com/products/bougie-boussignac_1533_00557603" target="_blank">
-  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/images/show-notes-pedi-video/vygon-neo-bougie.jpeg" alt="image" width="300"/>
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/show-notes-pedi-video/vygon-neo-bougie.jpeg" alt="image" width="300"/>
 </a>
 
 <a href="https://www.jems.com/patient-care/airway-respiratory/an-overview-of-ems-pediatric-airway-management/" target="_blank">
