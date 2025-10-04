@@ -14,7 +14,7 @@ Here are links to the things shown and referenced in the video.  Let us know if 
  
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/show-notes-perfusion-index-video/1-sun-2024.jpeg" alt="edapp cert example" width="200"/>
 
-Peripheral perfusion index of pulse oximetry in adult patients: a narrative review - Sun & freinds, 2024 [web]https://eurjmedres.biomedcentral.com/articles/10.1186/s40001-024-02048-3 [archive](https://archive.org/details/perfusion-index-video/1-sun-2024)
+Peripheral perfusion index of pulse oximetry in adult patients: a narrative review - Sun & freinds, 2024 [web](https://eurjmedres.biomedcentral.com/articles/10.1186/s40001-024-02048-3) [archive](https://archive.org/details/perfusion-index-video/1-sun-2024)
 
 <br>
 
