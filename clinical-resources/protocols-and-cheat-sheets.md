@@ -37,6 +37,15 @@ The idea isn't to be all-inclusive, but to provide quick reference to things tha
 
 <br>
 
+### Fetal Monitoring - Draft for Review
+
+And here's a new one (as of Oct 2025) that we have been woorking on.  Take a look and [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) about it!
+
+​<a href="https://archive.org/details/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/fetal-monitoring-screenshot.jpeg" alt="image" width="300"/>
+</a>
+(^click the image to open the pdf file)
+
 ### Airway Device Sizing Chart
 
 Since many agencies use different devices for different size patients, it helps to have a custom-made sizing chart for this type of thing.  This one (also pulled from the full-length document at the top of this page) is also correlated with Broselow Tape colors.  Eventually it'd be cool to build this into template that could be used by other agencies, maybe even wrap it into an app that's already out there?  If you're interested in that sort of thing we could use some friends!
