@@ -41,7 +41,7 @@ The idea isn't to be all-inclusive, but to provide quick reference to things tha
 
 And here's a new one (as of Oct 2025) that we have been woorking on.  Take a look and [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) about it!
 
-​<a href="https://archive.org/details/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft.pdf" target="_blank">
+​<a href="https://archive.org/details/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft/" target="_blank">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/fetal-monitoring-screenshot.jpeg" alt="image" width="300"/>
 </a>
 (^click the image to open the pdf file)
