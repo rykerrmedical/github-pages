@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
       };
 
       // Explicitly set the domain
-        const domain = "8x8.vc";
+      const domain = "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db.8x8.vc";
 
       const api = new JitsiMeetExternalAPI(domain, options);
 

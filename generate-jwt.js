@@ -17,7 +17,7 @@ const exp = now + 120 * 60;
 // JWT payload
 const payload = {
   aud: "jitsi",
-  iss: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
+  iss: "chat",
   sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
   room: "rykerrmedicalmeeting",
   iat: now,
