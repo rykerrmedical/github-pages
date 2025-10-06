@@ -8,7 +8,7 @@ console.log("🔑 Private key loaded, length:", privateKey.length);
 console.log("🔑 Private key starts with:", privateKey.substring(0, 50) + "...");
 
 // Get room name from CLI arg, default to "mymeeting123"
-const room = process.argv[2] || "mymeeting123";
+const room = process.argv[2] || "rykerrmedicalmeeting";
 
 // Set expiration (2 hours)
 const now = Math.floor(Date.now() / 1000);
@@ -17,9 +17,9 @@ const exp = now + 120 * 60;
 // JWT payload
 const payload = {
   aud: "jitsi",
-  iss: "chat",
-  sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/1e1dce",
-  room: "*",
+  iss: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
+  sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
+  room: "rykerrmedicalmeeting",
   iat: now,
   exp: exp,
   nbf: now,

@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
       console.log("JWT payload:", JSON.parse(atob(jwt.split('.')[1])));
               
       const options = {
-        roomName: "mymeeting123",      // must match JWT.room
+        roomName: "rykerrmedicalmeeting",      // must match JWT.room
         width: "100%",
         height: 700,
         parentNode: document.querySelector('#jaas-container'),
