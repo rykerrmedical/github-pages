@@ -8,7 +8,7 @@ console.log("🔑 Private key loaded, length:", privateKey.length);
 console.log("🔑 Private key starts with:", privateKey.substring(0, 50) + "...");
 
 // Get room name from CLI arg
-const room = process.argv[2] || "Rykerr_Medical_Meeting";
+const room = process.argv[2] || "rykerrmedicalmeeting";
 
 // Set expiration (2 hours)
 const now = Math.floor(Date.now() / 1000);
@@ -19,7 +19,7 @@ const payload = {
   aud: "jitsi",
   iss: "chat",
   sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
-  room: "Rykerr_Medical_Meeting",
+  room: "rykerrmedicalmeeting",
   iat: now,
   exp: exp,
   nbf: now,
