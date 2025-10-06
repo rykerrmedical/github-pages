@@ -7,8 +7,8 @@ const privateKey = fs.readFileSync("private.key", "utf8");
 console.log("🔑 Private key loaded, length:", privateKey.length);
 console.log("🔑 Private key starts with:", privateKey.substring(0, 50) + "...");
 
-// Get room name from CLI arg, default to "mymeeting123"
-const room = process.argv[2] || "Rykerr Medical Meeting";
+// Get room name from CLI arg
+const room = process.argv[2] || "Rykerr_Medical_Meeting";
 
 // Set expiration (2 hours)
 const now = Math.floor(Date.now() / 1000);
@@ -19,7 +19,7 @@ const payload = {
   aud: "jitsi",
   iss: "chat",
   sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
-  room: "Rykerr Medical Meeting",
+  room: "Rykerr_Medical_Meeting",
   iat: now,
   exp: exp,
   nbf: now,

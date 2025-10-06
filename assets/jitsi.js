@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
       console.log("JWT payload:", JSON.parse(atob(jwt.split('.')[1])));
               
       const options = {
-        roomName: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/Rykerr Medical Meeting",
+        roomName: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/Rykerr_Medical_Meeting",
         width: "100%",
         height: 700,
         parentNode: document.querySelector('#jaas-container'),
