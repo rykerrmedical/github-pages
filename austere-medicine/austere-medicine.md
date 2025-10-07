@@ -74,6 +74,7 @@ Each section (except for the last) is broken down as so:
 - [Single Blog: International Opportunities for EMS People, Rykerr Medical](https://www.rykerrmedical.com/2021/11/03/international-opportunities-for-ems.html)
 - Podcast: Preparing for Humanitarian Work & Deployment, The Surge [apple](https://podcasts.apple.com/us/podcast/episode-64-preparing-for-humanitarian-work-and-deployment/id1211210327?i=1000554762017) [youtube](https://www.youtube.com/watch?v=4u9AYuz3JpM)
 - Podcast: Humanitarian Relief with Mark Lopshite, CORUM [apple](https://podcasts.apple.com/us/podcast/159-humanitarian-relief-with-mark-lopshire/id1691996344?i=1000725124755) [spotify](https://open.spotify.com/episode/1aiuEHJwWpAfG32FttTOmv?si=434f65bc38874955)
+- Humanitarian Action & Ethics [web](https://www.researchgate.net/profile/James-Smith-236/publication/325550268_Humanitarian_Action_Ethics/links/5b153c2eaca2723d9981f9bf/Humanitarian-Action-Ethics.pdf) [archive](https://archive.org/details/austere-medicine/Humanitarian_Action_Ethics.pdf)
 
 **Potential Leads:**
 - [CADUS](https://www.cadus.org/en/)
@@ -142,8 +143,8 @@ Each section (except for the last) is broken down as so:
 **Learn More:**
 - [Disaster Medicine Collection on Archive.org](https://openlibrary.org/search?q=disaster+medicine&mode=ebooks&has_fulltext=true&language=eng) (all books listed are free to borrow)
 - Book chapters on [InTech Open](https://www.intechopen.com/) (all free)
-    - ["Disasters and Disaster Medicine" in Essentials of Accident and Emergency Medicine, chapter by A. S. Alsheikhly](https://www.intechopen.com/chapters/58936)
-    - ["Considerations in Mass Casualty and Disaster Management" in Emergency Medicine - An International Prespective, chapter by P. Aitken & P. Leggat](https://www.intechopen.com/chapters/31947)
+    - "Disasters and Disaster Medicine" in Essentials of Accident and Emergency Medicine, chapter by A. S. Alsheikhly [web](https://www.intechopen.com/chapters/58936) [archive](https://archive.org/details/austere-medicine/Disasters%20and%20Disaster%20Medicine.pdf)
+    - "Considerations in Mass Casualty and Disaster Management" in Emergency Medicine - An International Prespective, chapter by P. Aitken & P. Leggat [web](https://www.intechopen.com/chapters/31947) [archive](https://archive.org/details/austere-medicine/Considerations%20in%20Mass%20Casualty%20and%20Disaster%20Management.pdf)
 - [Disaster Helath Core Curriculum from USU NCDMPH](https://ncdmph.usuhs.edu/education/core-curriculum) (free, online, approx. 7 hours)
 
 **Potential Leads:**
@@ -182,8 +183,8 @@ Each section (except for the last) is broken down as so:
 - [FPC Working Group CPGs](https://jts.health.mil/index.cfm/CPGs/cpgs) (free)
 - [Conflict & Health Journal](https://conflictandhealth.biomedcentral.com/about) (free/ open access)
 - [Medicine, Conflict & Survival Journal](https://www.tandfonline.com/journals/fmcs20) (free/ open access))
-- [WHO Red Book](https://extranet.who.int/emt/sites/default/files/Red%20Book2021.pdf) (free)
-- [PPE Overview from Committee to Protect Journalists](https://cpj.org/wp-content/uploads/2020/11/ppe-glossary_cpj-final.pdf)
+- WHO Red Book [web](https://extranet.who.int/emt/sites/default/files/Red%20Book2021.pdf) [archive](https://archive.org/details/austere-medicine/WHO%20Red%20Book.pdf) (free)
+- PPE Overview from Committee to Protect Journalists [web](https://cpj.org/wp-content/uploads/2020/11/ppe-glossary_cpj-final.pdf) [archive](https://archive.org/details/austere-medicine/A%20Guide%20to%20PPE.pdf)
 - [Special Operations Medical Association (SOMA) Resource Library](https://specialoperationsmedicine.org/resource-library/)
 
 **Potential Leads:**
@@ -240,7 +241,7 @@ And then this section is just a list of resources that span multiple disciplines
 
 Book: Improvised Medicine by Kenneth V. Iserson [free on archive.org](https://archive.org/details/improvised-medicine-2nd-ed-by-kenneth-iserson-md-2016/mode/2up)
 
-[Document: WHO, Medical Evacuation in Emergencies](https://iris.who.int/bitstream/handle/10665/381815/9789240112513-eng.pdf)
+Document: WHO, Medical Evacuation in Emergencies [web](https://iris.who.int/bitstream/handle/10665/381815/9789240112513-eng.pdf) [archive](https://archive.org/details/austere-medicine/WHO%20Medical%20Evacuation%20in%20Amergencies.pdf)
 
 Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast [apple](https://podcasts.apple.com/us/podcast/dan-taylor-chats-non-traditional-paramedic-work/id1570765323?i=1000729244504) [spotify](https://open.spotify.com/episode/1OvOsHeIwt9iQgOuyWn3nw?si=8009becc33f440ef) [archive](https://archive.org/details/dan-taylor-chats-non-traditional-paramedic-work)
 - [and Show Notes for the Dan Taylor Podcast](https://www.rykerrmedical.com/not-linked/show-notes-dan-taylor-podcast/)
