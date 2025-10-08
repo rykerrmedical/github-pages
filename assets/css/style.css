@@ -470,3 +470,16 @@ body.high-contrast #scroll-top:hover {
   background-color: #333;
 }
 
+/* === Fix red shadows + hamburger color in high contrast === */
+body.high-contrast .nav-toggle {
+  color: #000 !important; /* black hamburger icon */
+}
+
+body.high-contrast main img,
+body.high-contrast .video-wrapper,
+body.high-contrast .homepage,
+body.high-contrast .episode-card,
+body.high-contrast .featured-episode img {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) !important; /* black shadow */
+}
+
