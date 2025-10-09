@@ -203,7 +203,7 @@ Each section (except for the last) is broken down as so:
 
 Quick note: this section is a bit more generalized and geared towards the medic/ nurse who doesn't typically work in a clinic setting, but would like to be useful in that setting (since a lot of austere work is clinic-based)
 
-**undamental Knowledge:**
+**Fundamental Knowledge:**
 - Workflow in a Clinic Setting
 - Utilization (& Maintenance) of Point of Care (POC) Tests
 - Navigating Reference Materials
