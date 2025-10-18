@@ -70,6 +70,7 @@ Each section (except for the last) is broken down as so:
 - [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) (costs lots of money, in-person)
 
 **Learn More:**
+- In Control: A Practical Handbook for Professionals Working in Health Emergencies Internationally [free pdf download](https://www.incontrol-handbook.org)
 - [Blog Series: The Stethoscope & The Machete](https://humanitarianmedicjournals.com/)
 - [Single Blog: International Opportunities for EMS People, Rykerr Medical](https://www.rykerrmedical.com/2021/11/03/international-opportunities-for-ems.html)
 - Podcast: Preparing for Humanitarian Work & Deployment, The Surge [apple](https://podcasts.apple.com/us/podcast/episode-64-preparing-for-humanitarian-work-and-deployment/id1211210327?i=1000554762017) [youtube](https://www.youtube.com/watch?v=4u9AYuz3JpM)
@@ -257,5 +258,5 @@ Podcast: Remote, Expedition & Disaster Medicine (RED MED) [apple](https://podcas
 
 Podcast: World Extreme Medicine [apple](https://podcasts.apple.com/us/podcast/world-extreme-medicine-podcast/id1335582586) [spotify](https://open.spotify.com/show/5xpqauiYbQHPwM7joUVv07?si=a0ff946ffeac430c)
 
-[Job Board: Remote Medics Jobs](https://internationalmedicjobs.blogspot.com/)
+[Job Board: Remote Medic Jobs](https://internationalmedicjobs.blogspot.com/)
 
