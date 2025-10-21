@@ -1,28 +1,20 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const roomName = "rykerrmedicalmeeting"; // or make this dynamic
-
-  async function startMeeting(room) {
-    try {
-      const res = await fetch("/.netlify/functions/jitsi-token", {
-        method: "POST",
-        body: JSON.stringify({ room })
-      });
-
-      const data = await res.json();
-
-      if (!data.token) {
-        throw new Error("No JWT returned from function");
-      }
-
-      const domain = "8x8.vc";
-      const roomName = "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/rykerrmedicalmeeting";
+  fetch("/assets/token.txt?ts=" + Date.now()) // cache-buster
+    .then(res => res.text())
+    .then(jwt => {
+      console.log("Raw JWT from server:", jwt);
+      console.log("JWT payload:", JSON.parse(atob(jwt.split('.')[1])));
+              
       const options = {
-        roomName: room,
-        jwt: data.token,
-        parentNode: document.getElementById("jaas-container"),
+        roomName: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/rykerrmedicalmeeting",
         width: "100%",
-        height: 700
+        height: 700,
+        parentNode: document.querySelector('#jaas-container'),
+        jwt: jwt.trim()
       };
+
+      // Explicitly set the domain
+      const domain = "8x8.vc";
 
       const api = new JitsiMeetExternalAPI(domain, options);
 
@@ -33,12 +25,6 @@ document.addEventListener("DOMContentLoaded", () => {
       api.addEventListener("videoConferenceLeft", () => {
         console.log("🛑 Left the meeting");
       });
-
-    } catch (err) {
-      console.error("❌ Could not load JWT or start meeting:", err);
-    }
-  }
-
-  startMeeting(roomName);
+    })
+    .catch(err => console.error("❌ Could not load JWT:", err));
 });
-
