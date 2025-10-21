@@ -18,8 +18,8 @@ permalink: /podcast/
 
 <!-- Tag filter -->
 <div markdown="0">
-  <label for="podcast-tag-select">filter by tag:&nbsp;</label>
-  <select id="podcast-tag-select">
+  <label for="tag-select">filter by tag:&nbsp;</label>
+  <select id="tag-select">
     <option value="">all tags</option>
   </select>
 </div>
@@ -41,7 +41,7 @@ async function loadFeed() {
 
     const latestContainer = document.getElementById("latest-episode");
     const gridContainer = document.getElementById("episode-grid");
-    const tagSelect = document.getElementById("podcast-tag-select");
+    const tagSelect = document.getElementById("tag-select");
 
     // --- collect all tags for dropdown ---
     let allTagsSet = new Set();
