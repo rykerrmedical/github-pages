@@ -16,10 +16,16 @@ permalink: /podcast/
   </a>
 </div>
 
+<!-- Tag filter -->
+<div markdown="0" style="margin: 1rem 0;">
+  <label for="podcast-tag-select">filter by tag:&nbsp;</label>
+  <select id="podcast-tag-select">
+    <option value="">all tags</option>
+  </select>
+</div>
 
 <div id="latest-episode" style="max-width: 800px; margin: 2rem auto;"></div>
-<div id="episode-grid" class="episode-grid"></div>
-
+<div id="episode-grid" class="episode-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1rem;"></div>
 
 <script>
 async function loadFeed() {
@@ -31,92 +37,111 @@ async function loadFeed() {
     const xmlText = await resp.text();
     const parser = new DOMParser();
     const xml = parser.parseFromString(xmlText, "application/xml");
-    const items = xml.querySelectorAll("item");
+    const items = Array.from(xml.querySelectorAll("item"));
 
     const latestContainer = document.getElementById("latest-episode");
     const gridContainer = document.getElementById("episode-grid");
+    const tagSelect = document.getElementById("podcast-tag-select");
 
-    items.forEach((item, i) => {
+    // --- collect all tags for dropdown ---
+    let allTagsSet = new Set();
+
+    const episodes = items.map((item, i) => {
       const title = item.querySelector("title")?.textContent || "Untitled";
       const link = item.querySelector("link")?.textContent;
       const enclosure = item.querySelector("enclosure");
       const audioUrl = enclosure?.getAttribute("url");
       const pubDateRaw = item.querySelector("pubDate")?.textContent;
       const pubDate = pubDateRaw ? new Date(pubDateRaw).toDateString() : "";
-      
+
+      const rawDesc = item.querySelector("description")?.textContent || "";
       function sanitizeHtml(input) {
         const tmp = document.createElement("div");
         tmp.innerHTML = input;
-        
-        // Ensure links open in new tab
         tmp.querySelectorAll('a').forEach(a => {
           a.setAttribute('target', '_blank');
           a.setAttribute('rel', 'noopener noreferrer');
         });
-        
         return tmp.innerHTML;
       }
-
-      const rawDesc = item.querySelector("description")?.textContent || "";
       const description = sanitizeHtml(rawDesc);
 
       let image = null;
       const itunesImage = item.getElementsByTagName("itunes:image")[0];
-      if (itunesImage) {
-        image = itunesImage.getAttribute("href");
-      } else {
+      if (itunesImage) image = itunesImage.getAttribute("href");
+      else {
         const mediaContent = item.getElementsByTagName("media:content")[0];
         image = mediaContent?.getAttribute("url") || null;
       }
 
-      const div = document.createElement("div");
+      const categories = Array.from(item.querySelectorAll("category"))
+                              .map(c => c.textContent.trim().toLowerCase());
+      categories.forEach(tag => allTagsSet.add(tag));
 
-      if (i === 0) {
-        // === Featured episode layout ===
-        div.innerHTML = `
-          <h2>${title}</h2>
-          <small>${pubDate}</small><br>
-          ${image ? `<img src="${image}" alt="${title}" style="display:block; margin:1rem auto; width:100%; max-width:320px; height:auto; border-radius:12px;" loading="lazy">` : ""}
-          ${audioUrl ? `<audio controls src="${audioUrl}" style="width:100%; margin-bottom:1rem;"></audio>` : ""}
-          <div style="line-height:1.5;">${description.length > 400 ? description.slice(0, 400) + '...' : description}</div>
-          ${description.length > 400 ? `<button class="read-more" data-full="${encodeURIComponent(description)}" style="background: none; border: none; color: #a31232; cursor: pointer;">read more</button>` : ""}
-          <hr style="margin-top: 2rem;">
-        `;
-        latestContainer.appendChild(div);
-      } else {
-        // === Older episode cards ===
+      return { title, link, audioUrl, pubDate, description, image, categories, index: i };
+    });
+
+    // --- populate dropdown ---
+    Array.from(allTagsSet).sort().forEach(tag => {
+      const opt = document.createElement("option");
+      opt.value = tag;
+      opt.textContent = tag;
+      tagSelect.appendChild(opt);
+    });
+
+    // --- render function ---
+    function renderEpisodes(filterTag = "") {
+      latestContainer.innerHTML = "";
+      gridContainer.innerHTML = "";
+
+      episodes.forEach(ep => {
+        if (filterTag && !ep.categories.includes(filterTag)) return;
+
+        const div = document.createElement("div");
         div.classList.add("episode-card");
+        div.style.border = "1px solid #ccc";
+        div.style.borderRadius = "8px";
+        div.style.padding = "0.5rem";
+        div.style.background = "#fff";
+        div.style.display = "flex";
+        div.style.flexDirection = "column";
+        div.style.gap = "0.5rem";
 
-        if (image) {
+        if (ep.image) {
           const img = document.createElement("img");
-          img.src = image;
-          img.alt = title;
+          img.src = ep.image;
+          img.alt = ep.title;
           img.loading = "lazy";
+          img.style.width = "100%";
+          img.style.height = "auto";
+          img.style.borderRadius = "6px";
           div.appendChild(img);
         }
 
         const titleEl = document.createElement("h4");
-        titleEl.textContent = title;
+        titleEl.textContent = ep.title;
+        titleEl.style.margin = "0";
         div.appendChild(titleEl);
 
         const dateEl = document.createElement("small");
-        dateEl.textContent = pubDate;
+        dateEl.textContent = ep.pubDate;
         div.appendChild(dateEl);
 
-        if (audioUrl) {
+        if (ep.audioUrl) {
           const audio = document.createElement("audio");
           audio.controls = true;
-          audio.src = audioUrl;
+          audio.src = ep.audioUrl;
+          audio.style.width = "100%";
           div.appendChild(audio);
         }
 
-        if (description) {
-          const short = description.length > 300 ? description.slice(0, 300) + "..." : description;
+        if (ep.description) {
+          const short = ep.description.length > 200 ? ep.description.slice(0, 200) + "..." : ep.description;
           const descDiv = document.createElement("div");
           descDiv.innerHTML = short;
           div.appendChild(descDiv);
 
-          if (description.length > 300) {
+          if (ep.description.length > 200) {
             const btn = document.createElement("button");
             btn.textContent = "read more";
             btn.style.background = "none";
@@ -124,18 +149,29 @@ async function loadFeed() {
             btn.style.color = "#a31232";
             btn.style.cursor = "pointer";
             btn.onclick = () => {
-              descDiv.innerHTML = description;
+              descDiv.innerHTML = ep.description;
               btn.remove();
             };
             div.appendChild(btn);
           }
         }
 
-        gridContainer.appendChild(div);
-      }
+        // featured episode only if no filter and first episode
+        if (ep.index === 0 && !filterTag) latestContainer.appendChild(div);
+        else gridContainer.appendChild(div);
+      });
+    }
+
+    // --- initial render ---
+    renderEpisodes();
+
+    // --- filter on dropdown change ---
+    tagSelect.addEventListener("change", () => {
+      renderEpisodes(tagSelect.value.toLowerCase());
     });
+
   } catch (err) {
-    document.getElementById("episode-list").textContent = "Error loading episodes.";
+    gridContainer.textContent = "Error loading episodes.";
     console.error(err);
   }
 }
@@ -151,6 +187,4 @@ document.addEventListener("click", function (e) {
     btn.remove();
   }
 });
-
-
 </script>
