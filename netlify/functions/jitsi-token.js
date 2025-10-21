@@ -1,16 +1,13 @@
 // /.netlify/functions/jitsi-token.js
 import jwt from "jsonwebtoken";
 
-export async function handler(event, context) {
+export async function handler(event) {
   try {
-    const { room } = JSON.parse(event.body || '{}');
-    const roomName = room || "rykerrmedicalmeeting";
+    const room = event.queryStringParameters?.room || "rykerrmedicalmeeting";
 
     const privateKeyRaw = process.env.JITSI_PRIVATE_KEY;
     if (!privateKeyRaw) throw new Error("Missing JITSI_PRIVATE_KEY");
-
-    // convert \n to real line breaks
-    const privateKey = privateKeyRaw.replace(/\\n/g, '\n');
+    const privateKey = privateKeyRaw.replace(/\\n/g, "\n");
 
     const now = Math.floor(Date.now() / 1000);
     const exp = now + 2 * 60 * 60; // 2 hours
@@ -19,7 +16,7 @@ export async function handler(event, context) {
       aud: "jitsi",
       iss: "chat",
       sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
-      room: `vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/${roomName}`,
+      room: `vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/${room}`,
       iat: now,
       exp: exp,
       nbf: now,
