@@ -1,39 +1,34 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const roomName = "rykerrmedicalmeeting"; // you can make this dynamic if you want
+// /.netlify/functions/jitsi-token.js
+import jwt from "jsonwebtoken"; // make sure to install in your function
 
-  async function startMeeting(room) {
-    try {
-      const res = await fetch("/.netlify/functions/jitsi-token", {
-        method: "POST",
-        body: JSON.stringify({ room })
-      });
+export async function handler(event, context) {
+  try {
+    const { room } = JSON.parse(event.body);
 
-      const { token } = await res.json();
+    // Replace these with your Jitsi/JAAS credentials
+    const apiKey = process.env.JITSI_API_KEY;
+    const apiSecret = process.env.JITSI_API_SECRET;
 
-      const domain = "8x8.vc"; // your Jitsi domain
-      const options = {
-        roomName: room,
-        jwt: token,
-        parentNode: document.getElementById("jaas-container"),
-        width: "100%",
-        height: 700
-      };
+    const payload = {
+      aud: "jitsi",
+      iss: apiKey,
+      sub: "8x8.vc", // your Jitsi domain
+      room,
+      exp: Math.floor(Date.now() / 1000) + 60 * 60 // 1 hour expiry
+    };
 
-      const api = new JitsiMeetExternalAPI(domain, options);
+    const token = jwt.sign(payload, apiSecret);
 
-      api.addEventListener("videoConferenceJoined", () => {
-        console.log("✅ Jitsi meeting joined successfully");
-      });
-
-      api.addEventListener("videoConferenceLeft", () => {
-        console.log("🛑 Left the meeting");
-      });
-
-    } catch (err) {
-      console.error("❌ Could not load JWT:", err);
-    }
+    return {
+      statusCode: 200,
+      body: JSON.stringify({ token })
+    };
+  } catch (err) {
+    console.error(err);
+    return {
+      statusCode: 500,
+      body: JSON.stringify({ error: "Could not generate token" })
+    };
   }
-
-  startMeeting(roomName);
-});
+}
 
