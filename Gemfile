@@ -1,6 +1,4 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
-# add any other gems/plugins you use, e.g.
-# gem "jekyll-feed"
-
+gem "minima", "~> 2.5"  # match the version your _config.yml expects
