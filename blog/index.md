@@ -1,5 +1,5 @@
 ---
-title: The Rykerr Medical Blog
+title: Rykerr Medical Blog
 layout: default
 permalink: /blog/
 ---

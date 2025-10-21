@@ -1,10 +1,18 @@
 ---
-title: Podcast
+title: Rykerr Medical Podcast
 layout: default
 permalink: /podcast/
 ---
 
-<h1>The Rykerr Medical Podcast</h1>
+<h1>Rykerr Medical Podcast</h1>
+
+<!-- Tag filter -->
+<div markdown="0">
+  <label for="tag-select">filter by tag:&nbsp;</label>
+  <select id="tag-select">
+    <option value="">all tags</option>
+  </select>
+</div>
 
 <!-- External platform links -->
 <div style="margin: 1rem 0; display: flex; gap: 1.5rem; flex-wrap: wrap;">
@@ -14,14 +22,6 @@ permalink: /podcast/
   <a href="https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP?" target="_blank" style="text-decoration: none; color: #a31232; font-family: 'Black Ground', sans-serif; font-weight: bold; display: flex; align-items: center; gap: 0.4rem;">
     🎧 <span>Spotify</span>
   </a>
-</div>
-
-<!-- Tag filter -->
-<div markdown="0">
-  <label for="tag-select">filter by tag:&nbsp;</label>
-  <select id="tag-select">
-    <option value="">all tags</option>
-  </select>
 </div>
 
 <div id="latest-episode" style="max-width: 800px; margin: 2rem auto;"></div>
