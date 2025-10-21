@@ -6,8 +6,11 @@ export async function handler(event, context) {
     const { room } = JSON.parse(event.body || '{}');
     const roomName = room || "rykerrmedicalmeeting";
 
-    const privateKey = process.env.JITSI_PRIVATE_KEY;
-    if (!privateKey) throw new Error("Missing JITSI_PRIVATE_KEY");
+    const privateKeyRaw = process.env.JITSI_PRIVATE_KEY;
+    if (!privateKeyRaw) throw new Error("Missing JITSI_PRIVATE_KEY");
+
+    // convert \n to real line breaks
+    const privateKey = privateKeyRaw.replace(/\\n/g, '\n');
 
     const now = Math.floor(Date.now() / 1000);
     const exp = now + 2 * 60 * 60; // 2 hours
