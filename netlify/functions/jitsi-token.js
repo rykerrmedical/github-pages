@@ -9,13 +9,13 @@ export async function handler(event, context) {
     const apiKey = process.env.JITSI_API_KEY;
     const apiSecret = process.env.JITSI_API_SECRET;
 
-    const payload = {
-      aud: "jitsi",
-      iss: apiKey,
-      sub: "8x8.vc", // your Jitsi domain
-      room,
-      exp: Math.floor(Date.now() / 1000) + 60 * 60 // 1 hour expiry
-    };
+      const payload = {
+        aud: "jitsi",
+        iss: apiKey,
+        sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db", // ✅ your JAAS tenant
+        room: `vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/${room}`,
+        exp: Math.floor(Date.now() / 1000) + 60 * 60
+      };
 
     const token = jwt.sign(payload, apiSecret);
 

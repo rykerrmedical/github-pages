@@ -14,7 +14,8 @@ document.addEventListener("DOMContentLoaded", () => {
         throw new Error("No JWT returned from function");
       }
 
-      const domain = "8x8.vc"; // JAAS domain
+      const domain = "8x8.vc";
+      const roomName = "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/rykerrmedicalmeeting";
       const options = {
         roomName: room,
         jwt: data.token,
