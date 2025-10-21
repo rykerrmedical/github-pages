@@ -17,7 +17,7 @@ permalink: /podcast/
 </div>
 
 <!-- Tag filter -->
-<div markdown="0" style="margin: 1rem 0;">
+<div markdown="0">
   <label for="podcast-tag-select">filter by tag:&nbsp;</label>
   <select id="podcast-tag-select">
     <option value="">all tags</option>
