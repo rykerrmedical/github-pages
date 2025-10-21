@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     fetch("/.netlify/functions/jitsi-token", {
-      method: "POST",
+      method: "GET",
       body: JSON.stringify({ room: "rykerrmedicalmeeting" })
     })
       .then(res => res.json())
