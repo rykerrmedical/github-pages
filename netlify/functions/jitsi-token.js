@@ -16,7 +16,7 @@ export async function handler(event) {
       aud: "jitsi",
       iss: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
       sub: "8x8.vc",
-      room: `vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db/${room}`,
+      room: `*`,
       iat: now,
       exp: exp,
       nbf: now,
