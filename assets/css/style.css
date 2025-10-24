@@ -515,6 +515,9 @@ body.high-contrast .featured-episode img {
 
 /* Desktop submenu positioning */
 @media (min-width: 769px) {
+  .nav-links {
+    position: relative; /* reference for absolute submenu */
+  }
   .nav-links .submenu {
     position: absolute;
     top: 100%;      /* place below parent */
