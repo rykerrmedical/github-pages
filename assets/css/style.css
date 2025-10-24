@@ -567,3 +567,19 @@ body.high-contrast .nav-links .submenu a {
 body.high-contrast .nav-links .submenu a:hover {
   color: #444; /* slightly darker hover */
 }
+
+@media (min-width: 769px) {
+  nav {
+    align-items: flex-end; /* right-align nav container */
+  }
+
+  .nav-links {
+    justify-content: flex-end; /* push links right */
+    width: 100%;
+  }
+
+  .nav-links .submenu {
+    left: auto;
+    right: 0; /* align submenu to the right edge of its parent */
+  }
+}
