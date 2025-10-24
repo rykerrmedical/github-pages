@@ -62,6 +62,7 @@ nav {
 
 .nav-links a:hover {
   color: #747373;
+  text-decoration: none;
 }
 
 /* === Homepage Container === */
@@ -448,6 +449,11 @@ body.high-contrast .featured-episode img {
   box-shadow: none !important;
 }
 
+body.high-contrast .logo-banner,
+body.high-contrast .logo-wrapper {
+  background-color: #f0f0f0 !important;
+}
+
 body.high-contrast nav {
   background-color: #f0f0f0 !important;
 }
@@ -497,10 +503,12 @@ body.high-contrast .featured-episode img {
   font-size: 1rem;
   font-weight: normal;
   color: #a31232;
+  text-decoration: none;
 }
 
 .nav-links .submenu a:hover {
   color: #747373;
+  text-decoration: none;
 }
 
 .nav-links .submenu {
@@ -517,6 +525,7 @@ body.high-contrast .featured-episode img {
 @media (min-width: 769px) {
   .nav-links {
     position: relative; /* reference for absolute submenu */
+    text-decoration: none;
   }
 
   .nav-links .submenu {
