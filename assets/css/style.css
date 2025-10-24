@@ -553,3 +553,17 @@ body.high-contrast .featured-episode img {
     margin-left: 1rem;
   }
 }
+
+
+/* High-contrast desktop submenu */
+body.high-contrast .nav-links .submenu {
+  background-color: #fff; /* light background */
+}
+
+body.high-contrast .nav-links .submenu a {
+  color: #000; /* dark text */
+}
+
+body.high-contrast .nav-links .submenu a:hover {
+  color: #444; /* slightly darker hover */
+}
