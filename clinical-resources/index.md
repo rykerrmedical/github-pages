@@ -1,13 +1,13 @@
 ---
-title: Clinical Resources
+title: Overview of Clinical Resources
 layout: default
 permalink: /clinical-resources/
 ---
 
-# Clinical Resources
+# Overview of Clinical Resources
 
 <h5><a href="#airway">Airway Stuff</a></h5>
-<h5><a href="#vent">Vent Management Book</a></h5>
+<h5><a href="#vent">Vent Management</a></h5>
 <h5><a href="#protocols">Protocols and Cheat Sheets</a></h5>
 <h5><a href="#medications">Medication Guidelines</a></h5>
 
@@ -24,7 +24,7 @@ Just follow the link above for all of the fun things we've collected and built o
 <br>
 
 <h3 id="vent">
-  <a href="{{ site.baseurl }}/clinical-resources/vent-management/">Vent Management Book</a>
+  <a href="{{ site.baseurl }}/clinical-resources/vent-management/">Vent Management</a>
 </h3>
 
 We built this resource for transport clinicians to learn more about vent management in the field, but it's also applicable to other clinicians who work with vents.  Take a look and let us know what you think! 
