@@ -504,3 +504,13 @@ body.high-contrast .featured-episode img {
   color: #747373;
 }
 
+.nav-links .submenu {
+  display: none; /* hidden by default */
+  flex-direction: column;
+  margin-left: 1rem;
+  gap: 0.25rem;
+}
+.nav-links .submenu.open {
+  display: flex; /* show when active */
+}
+

@@ -25,7 +25,7 @@
     <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">☰</button>
     <div class="nav-links" id="nav-links">
       <a href="{{ site.baseurl }}/">Home</a>
-      <a href="{{ site.baseurl }}/clinical-resources/">Clinical Resources</a>
+      <a href="{{ site.baseurl }}/clinical-resources/" class="submenu-toggle">Clinical Resources</a>
       <div class="submenu">
           <a href="{{ site.baseurl }}/austere-medicine/">Austere Medicine</a>
       </div>
@@ -115,5 +115,15 @@
     });
   </script>
   
+  <script>
+  document.querySelectorAll('.submenu-toggle').forEach(toggle => {
+    toggle.addEventListener('click', e => {
+      e.preventDefault();
+      const submenu = toggle.nextElementSibling;
+      submenu.classList.toggle('open');
+    });
+  });
+  </script>
+
 </body>
 </html>
