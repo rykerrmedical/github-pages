@@ -513,19 +513,44 @@ body.high-contrast .featured-episode img {
   display: flex; /* show when active */
 }
 
-/* Desktop submenu positioning */
+/* Desktop submenu positioning as horizontal row */
 @media (min-width: 769px) {
   .nav-links {
     position: relative; /* reference for absolute submenu */
   }
+
   .nav-links .submenu {
     position: absolute;
-    top: 100%;      /* place below parent */
+    top: 100%;           /* below main menu */
     left: 0;
+    display: none;       /* hidden by default */
+    flex-direction: row; /* horizontal row */
+    gap: 1rem;           /* space between submenu items */
     background-color: #060608;
     padding: 0.5rem 1rem;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(163,18,50,0.3);
-    margin-left: 0; /* remove indent on desktop */
+  }
+
+  .nav-links .submenu.open {
+    display: flex;
+  }
+
+  .nav-links .submenu a {
+    font-size: 1rem;
+    font-weight: normal;
+    color: #a31232;
+  }
+
+  .nav-links .submenu a:hover {
+    color: #747373;
+  }
+}
+
+/* Mobile overrides remain unchanged */
+@media (max-width: 768px) {
+  .nav-links .submenu {
+    flex-direction: column;
+    margin-left: 1rem;
   }
 }
