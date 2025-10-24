@@ -35,7 +35,7 @@ Or better yet, follow the above links yourself and send something specific - you
 
 <h3 id="instagram">Instagram</h3>
 
-IG is the inly social media we really use, so follow us there and share our stuff as we post it.
+IG is the only social media we really use, so follow us there and share our stuff as we post it.
 
 [instagram page]
 
