@@ -485,3 +485,22 @@ body.high-contrast .featured-episode img {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) !important; /* black shadow */
 }
 
+
+/* === Submenu Deets === */
+.nav-links .submenu {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1rem; /* indent */
+  gap: 0.25rem;
+}
+
+.nav-links .submenu a {
+  font-size: 1rem;
+  font-weight: normal;
+  color: #a31232;
+}
+
+.nav-links .submenu a:hover {
+  color: #747373;
+}
+
