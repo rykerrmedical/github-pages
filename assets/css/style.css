@@ -486,31 +486,14 @@ body.high-contrast .featured-episode img {
 }
 
 
-/* Make nav-links relative to position submenu */
-.nav-links {
-  position: relative; /* allow absolute positioning for desktop submenus */
-}
-
-/* Desktop submenu positioning */
+/* === Submenu Deets === */
 .nav-links .submenu {
-  display: none; /* hidden by default */
-  position: absolute;
-  top: 100%;          /* below the main nav */
-  left: 0;
+  display: flex;
   flex-direction: column;
-  background-color: #060608;
-  padding: 0.5rem 1rem;
   gap: 0.25rem;
-  z-index: 999;
-  min-width: 200px;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(163,18,50,0.3);
-  margin-left: 0; /* remove desktop indent */
 }
 
-/* Submenu links */
 .nav-links .submenu a {
-  display: block;
   font-size: 1rem;
   font-weight: normal;
   color: #a31232;
@@ -520,18 +503,26 @@ body.high-contrast .featured-episode img {
   color: #747373;
 }
 
-/* Show submenu when toggled */
+.nav-links .submenu {
+  display: none; /* hidden by default */
+  flex-direction: column;
+  margin-left: 1rem;
+  gap: 0.25rem;
+}
 .nav-links .submenu.open {
-  display: flex;
+  display: flex; /* show when active */
 }
 
-/* Mobile override */
-@media (max-width: 768px) {
+/* Desktop submenu positioning */
+@media (min-width: 769px) {
   .nav-links .submenu {
-    position: static; /* stack under parent link */
-    display: none;
-    margin-left: 1rem; /* optional indent on mobile */
+    position: absolute;
+    top: 100%;      /* place below parent */
+    left: 0;
+    background-color: #060608;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(163,18,50,0.3);
+    margin-left: 0; /* remove indent on desktop */
   }
 }
-
-
