@@ -124,16 +124,23 @@
       });
     });
   </script>
-  
+
   <script>
   document.querySelectorAll('.submenu-toggle').forEach(toggle => {
     toggle.addEventListener('click', e => {
       e.preventDefault();
       const submenu = toggle.nextElementSibling;
+      
+      // Close other submenus
+      document.querySelectorAll('.nav-links .submenu').forEach(sm => {
+        if (sm !== submenu) sm.classList.remove('open');
+      });
+
+      // Toggle clicked submenu
       submenu.classList.toggle('open');
     });
   });
   </script>
-
+  
 </body>
 </html>
