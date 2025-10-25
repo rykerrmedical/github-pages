@@ -106,6 +106,10 @@ async function loadFeed() {
         div.style.display = "flex";
         div.style.flexDirection = "column";
         div.style.gap = "0.5rem";
+        
+        // Create a URL-friendly ID from the title
+        const episodeId = ep.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+        div.id = episodeId;
 
         if (ep.image) {
           const img = document.createElement("img");
