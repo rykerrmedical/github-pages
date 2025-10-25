@@ -143,7 +143,7 @@ async function loadFeed() {
 
           if (ep.description.length > 200) {
             const btn = document.createElement("button");
-            btn.textContent = "read more";
+            btn.textContent = "read more...";
             btn.style.background = "none";
             btn.style.border = "none";
             btn.style.color = "#a31232";
