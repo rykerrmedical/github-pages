@@ -20,13 +20,21 @@ All the ways you can support what we're up to here at Rykerr Medical.  In order 
 <h3 id="spread">Spread the Word</h3>
 
 Easy enough, just share any any of the following with friends and colleagues:
+
 [this website](https://www.rykerrmedical.com)
+
 [the podcast on apple](https://podcasts.apple.com/us/podcast/the-rykerr-medical-podcast/id1570765323)
+
 [the podcast on spotify](https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP?)
+
 [the youtube channel](https://youtube.com/@rykerrmedical)
+
 [the blog](https://www.rykerrmedical.com/blog/)
+
 [the vent book](https://www.rykerrmedical.com/clinical-resources/vent-management/)
+
 [the field reference guides](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/)
+
 etc.
 
 Or better yet, follow the above links yourself and send something specific - your favorite youtube video or blog post.
@@ -55,7 +63,9 @@ We are also looking for someone to lend a hand with managing the online store.  
 <h3 id="reviews">Leave us Reviews</h3>
 
 We kindly accept reviews and five-star scores at all of the following:
+
 [apple podcasts](https://podcasts.apple.com/us/podcast/the-rykerr-medical-podcast/id1570765323)
+
 [spotify](https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP?)
 
 <br>

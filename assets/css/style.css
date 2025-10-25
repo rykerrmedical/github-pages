@@ -54,7 +54,7 @@ nav {
 .nav-links a {
   font-family: 'Black Ground', sans-serif;
   color: #a31232;
-  text-decoration: none;
+  text-decoration: none !important;
   font-weight: bold;
   font-size: 1.1rem;
   white-space: nowrap;
@@ -62,7 +62,7 @@ nav {
 
 .nav-links a:hover {
   color: #747373;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 /* === Homepage Container === */
