@@ -192,6 +192,7 @@ form button:hover {
 /* === Podcast read more buttons === */
 .episode-card button {
   color: #747373 !important;
+  font-size: 0.85rem !important;
 }
 
 body.high-contrast .episode-card button {

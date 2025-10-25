@@ -154,7 +154,7 @@ async function loadFeed() {
         shareBtn.style.color = "#747373";
         shareBtn.style.border = "1px solid #747373";
         shareBtn.style.padding = "0.4rem 0.8rem";
-        shareBtn.style.fontSize = "0.85rem" !important;
+        shareBtn.style.fontSize = "0.85rem";
         shareBtn.style.borderRadius = "6px";
         shareBtn.style.cursor = "pointer";
         shareBtn.style.boxShadow = "0 0 6px rgba(163, 18, 50, 0.3)";
@@ -179,7 +179,7 @@ async function loadFeed() {
             appleBtn.style.color = "#747373";
             appleBtn.style.border = "1px solid #747373";
             appleBtn.style.padding = "0.4rem 0.8rem";
-            appleBtn.style.fontSize = "0.85rem" !important;
+            appleBtn.style.fontSize = "0.85rem";
             appleBtn.style.borderRadius = "6px";
             appleBtn.style.textDecoration = "none";
             appleBtn.style.display = "inline-block";
@@ -199,7 +199,7 @@ async function loadFeed() {
         spotifyBtn.style.color = "#747373";
         spotifyBtn.style.border = "1px solid #747373";
         spotifyBtn.style.padding = "0.4rem 0.8rem";
-        spotifyBtn.style.fontSize = "0.85rem" !important;
+        spotifyBtn.style.fontSize = "0.85rem";
         spotifyBtn.style.borderRadius = "6px";
         spotifyBtn.style.textDecoration = "none";
         spotifyBtn.style.display = "inline-block";
