@@ -299,7 +299,7 @@ select {
 select:focus {
   outline: none;
   border-color: #a31232; /* your theme color */
-  box-shadow: 0 0 3px rgba(163,18,50,0.5);
+  box-shadow: none;
 }
 
 label {
@@ -320,7 +320,7 @@ label {
   max-width: 100%; /* ensures it doesn't overflow on small screens */
   box-sizing: border-box;
   border: 1px solid #060608;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 10 5' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0l5 5 5-5z' fill='%23a31232'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 10 5' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0l5 5 5-5z' fill='%23000000'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: right 0.5em center;
   background-size: 0.65em auto;

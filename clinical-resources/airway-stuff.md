@@ -44,7 +44,11 @@ Story Map and Drafts for the Nerds - coming someday!
 
 This last bit here is just a collection of links to other places on this website/ to our stuff on the subject of airway management.  No need to repeat it all here, just follow the links and check it all out.
 
-[Airway Sizing Chart File Only](https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/airway-device-sizing-chart.jpeg) [Airway Sizing Chart on Protocols & Cheat Sheets Page](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/#airway-sizes) - know what devices to use for which patients; also would be cool to make this customizable someday, so that anyone could select from dropdown which devices they have and then create a simple tool like this for their own agency
+[Airway Sizing Chart File Only](https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/airway-device-sizing-chart.jpeg) 
+
+[Airway Sizing Chart on Protocols & Cheat Sheets Page](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/#airway-sizes)
+
+^ know what devices to use for which patients; also would be cool to make this customizable someday, so that anyone could select from dropdown which devices they have and then create a simple tool like this for their own agency
 
 [Vent Management Book](https://www.rykerrmedical.com/clinical-resources/vent-management/) - once you get the tube, we still gotta breath for them...
 
