@@ -181,10 +181,12 @@ form button:hover {
   }
 }
 
-.episode-card:hover {
+.episode-card {
   box-shadow: 0 0 12px rgba(163, 18, 50, 0.5);
-  transform: translateY(-2px);
-  transition: all 0.2s ease-in-out;
+}
+
+.episode-card:hover {
+  /* hover styles removed - shadow always visible now */
 }
 
 
