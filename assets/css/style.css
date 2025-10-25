@@ -189,6 +189,14 @@ form button:hover {
   /* hover styles removed - shadow always visible now */
 }
 
+/* === Podcast read more buttons === */
+.episode-card button {
+  color: #000 !important;
+}
+
+body.high-contrast .episode-card button {
+  color: #000 !important;
+}
 
 /* === Videos === */
 .video-wrapper {
