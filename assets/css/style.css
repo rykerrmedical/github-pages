@@ -202,6 +202,7 @@ body.high-contrast .episode-card button {
 body.high-contrast .episode-button {
   color: #000 !important;
   border-color: #000 !important;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3) !important;
 }
 
 /* === Videos === */

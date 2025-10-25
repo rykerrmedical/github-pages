@@ -148,7 +148,7 @@ async function loadFeed() {
 
         // Share this episode button
         const shareBtn = document.createElement("button");
-        shareBtn.textContent = "share this episode";
+        shareBtn.textContent = "share";
         shareBtn.classList.add("episode-button");
         shareBtn.style.background = "none";
         shareBtn.style.color = "#747373";
@@ -157,11 +157,12 @@ async function loadFeed() {
         shareBtn.style.fontSize = "0.85rem";
         shareBtn.style.borderRadius = "6px";
         shareBtn.style.cursor = "pointer";
+        shareBtn.style.boxShadow = "0 0 6px rgba(163, 18, 50, 0.3)";
         shareBtn.onclick = () => {
             const url = `${window.location.origin}${window.location.pathname}#${episodeId}`;
             navigator.clipboard.writeText(url).then(() => {
                 shareBtn.textContent = "link copied!";
-                setTimeout(() => shareBtn.textContent = "share this episode", 2000);
+                setTimeout(() => shareBtn.textContent = "share", 2000);
             });
         };
         buttonContainer.appendChild(shareBtn);
@@ -169,10 +170,10 @@ async function loadFeed() {
         // Listen on Apple Podcasts button
         if (ep.link) {
             const appleBtn = document.createElement("a");
-            appleBtn.href = ep.link;
+            appleBtn.href = "https://podcasts.apple.com/us/podcast/the-rykerr-medical-podcast/id1570765323";
             appleBtn.target = "_blank";
             appleBtn.rel = "noopener noreferrer";
-            appleBtn.textContent = "listen on apple";
+            appleBtn.textContent = "apple podcasts";
             appleBtn.classList.add("episode-button");
             appleBtn.style.background = "none";
             appleBtn.style.color = "#747373";
@@ -183,6 +184,7 @@ async function loadFeed() {
             appleBtn.style.textDecoration = "none";
             appleBtn.style.display = "inline-block";
             appleBtn.style.cursor = "pointer";
+            appleBtn.style.boxShadow = "0 0 6px rgba(163, 18, 50, 0.3)";
             buttonContainer.appendChild(appleBtn);
         }
 
@@ -191,7 +193,7 @@ async function loadFeed() {
         spotifyBtn.href = "https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP";
         spotifyBtn.target = "_blank";
         spotifyBtn.rel = "noopener noreferrer";
-        spotifyBtn.textContent = "listen on spotify";
+        spotifyBtn.textContent = "spotify";
         spotifyBtn.classList.add("episode-button");
         spotifyBtn.style.background = "none";
         spotifyBtn.style.color = "#747373";
@@ -202,6 +204,7 @@ async function loadFeed() {
         spotifyBtn.style.textDecoration = "none";
         spotifyBtn.style.display = "inline-block";
         spotifyBtn.style.cursor = "pointer";
+        spotifyBtn.style.boxShadow = "0 0 6px rgba(163, 18, 50, 0.3)";
         buttonContainer.appendChild(spotifyBtn);
 
         div.appendChild(buttonContainer);
