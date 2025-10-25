@@ -10,6 +10,8 @@ permalink: /clinical-resources/
 <h5><a href="#vent">Vent Management</a></h5>
 <h5><a href="#protocols">Protocols and Cheat Sheets</a></h5>
 <h5><a href="#medications">Medication Guidelines</a></h5>
+<h5><a href="#austeremed">Austere Medicine</a></h5>
+<h5><a href="#coned/ceus">ConEd/ CEUs</a></h5>
 
 This page is a repository for all of the clinical things we've built specifically for the site.  There's also some stuff on the [YouTube Channel](https://www.youtube.com/@rykerrmedical) and over at [The Rykerr Medical Podcast]({{ site.baseurl }}/podcast) - check those out as well!
 
@@ -52,3 +54,21 @@ Protocols in EMS tend to read like books: lots of text, a few charts, maybe some
 </h3>
 
 Here's a med formulary that may be helpful for those working in CCT.  The someday plan would be to expand this concept into a workable pdf or app where anyone could customize the specific doses for their agency.  But alas, that's too much work for the moment...  Check it out anyways and let us know what you think.
+
+<br>
+
+<h3 id="austeremed">
+  <a href="{{ site.baseurl }}/austere-medicine/">Austere Medicine</a>
+</h3>
+
+This page contains all the cool stuff on austere medicine and is broken down into the following categories: humanitarian medicine, wilderness medicine, disaster medicine, conflict medicine, clinic/ sick call and then a section on general/ multi-disciplinary references.
+
+<br>
+
+<h3 id="coned/ceus">
+  <a href="{{ site.baseurl }}/clinical-resources/coned-ceus/">ConEd/ CEUs</a>
+</h3>
+
+We finally have a system in place to offer ConEd/ CEUs to our EMS friends.  
+
+And we hope to sort something our for the nursing folks in the near future.

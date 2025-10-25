@@ -21,7 +21,9 @@ This page is just a repository of all the stuff we've put together on airway man
 One of the reasons why folks aren't always super keen on bougie use is because the traditional technique requires two people: one to place the bougie during laryngoscopy and another to feed the tube over the bougie.  There are many solutions to this problem and these videos demonstrate and discuss just a few of them.
 
 [Abridged Version on Instagram](https://www.instagram.com/p/CRcbllKL4_g/)
+
 Detailed Video on YouTube - coming someday!
+
 Pro/Con Chart- coming someday!
 
 <br>
@@ -31,7 +33,9 @@ Pro/Con Chart- coming someday!
 And then here's our deep dive into how the concepts discussed above apply to pediatric patients.  For now there's one video and all the associated back end stuff, there will be more later as we have time to make it happen.
 
 [​"Stylets and Bougies for Kiddos" YouTube Video](https://youtu.be/in8RQ8yzBU0)
+
 [Show Notes for "Stylets and Bougies for Kiddos"](https://www.rykerrmedical.com/show-notes-pedi-video)
+
 Story Map and Drafts for the Nerds - coming someday!
 
 <br>
@@ -40,9 +44,11 @@ Story Map and Drafts for the Nerds - coming someday!
 
 This last bit here is just a collection of links to other places on this website/ to our stuff on the subject of airway management.  No need to repeat it all here, just follow the links and check it all out.
 
-Airway Sizing Chart - know what devices to use for which patients
-Vent Management Book - once you get the tube, we still gotta breath for them...
-Podcast: Scripts Discussion with Richard - because checklists are important in airway management
+[Airway Sizing Chart](https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/airway-device-sizing-chart.jpeg) - know what devices to use for which patients; also would be cool to make this customizable someday, so that anyone could select from dropdown which devices they have and then create a simple tool like this for their own agency
+
+[Vent Management Book](https://www.rykerrmedical.com/clinical-resources/vent-management/) - once you get the tube, we still gotta breath for them...
+
+[Podcast: Scripts Discussion with Richard](https://www.rykerrmedical.com/podcast/) - because checklists are important in airway management
 
 
 

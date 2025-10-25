@@ -31,7 +31,7 @@ It would be a total lie to say that the Vent Book was written from an existing k
 
 One of the things we've tried to do with this manual is to present material in a unique way that may make more sense to some people.  None of the content is new, per se, but the way it has been set out or demonstrated graphically may help some folks out.  We built the graphics in PowerPoint and hope that they help solidify some of the concepts a bit better than pure text. 
 
-And if you are interested in helping out with graphics in future editions or other projects, navigate on over to Talk to Us and get in touch!
+And if you are interested in helping out with graphics in future editions or other projects, navigate on over to [talk to us](https://www.rykerrmedical.com/talk-to-us/) and get in touch!
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/vent-management/vent-page-vent-sketch-one.jpeg" alt="vent-graphic" width="300"/>
 
