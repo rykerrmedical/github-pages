@@ -206,6 +206,22 @@ body.high-contrast .episode-button {
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.3) !important;
 }
 
+.episode-button {
+  background: none;
+  color: #747373;
+  border: 1px solid #747373;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.85rem;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 0 6px rgba(163, 18, 50, 0.3);
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-family: "Apple Symbols", sans-serif; /* Use the same font as the main text */
+}
+
 /* === Videos === */
 .video-wrapper {
   position: relative;
