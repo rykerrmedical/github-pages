@@ -139,6 +139,73 @@ async function loadFeed() {
           div.appendChild(audio);
         }
 
+        // Create button container
+        const buttonContainer = document.createElement("div");
+        buttonContainer.style.display = "flex";
+        buttonContainer.style.gap = "0.5rem";
+        buttonContainer.style.flexWrap = "wrap";
+        buttonContainer.style.marginTop = "0.5rem";
+
+        // Share this episode button
+        const shareBtn = document.createElement("button");
+        shareBtn.textContent = "share this episode";
+        shareBtn.classList.add("episode-button");
+        shareBtn.style.background = "none";
+        shareBtn.style.color = "#747373";
+        shareBtn.style.border = "1px solid #747373";
+        shareBtn.style.padding = "0.4rem 0.8rem";
+        shareBtn.style.fontSize = "0.85rem";
+        shareBtn.style.borderRadius = "6px";
+        shareBtn.style.cursor = "pointer";
+        shareBtn.onclick = () => {
+            const url = `${window.location.origin}${window.location.pathname}#${episodeId}`;
+            navigator.clipboard.writeText(url).then(() => {
+                shareBtn.textContent = "link copied!";
+                setTimeout(() => shareBtn.textContent = "share this episode", 2000);
+            });
+        };
+        buttonContainer.appendChild(shareBtn);
+
+        // Listen on Apple Podcasts button
+        if (ep.link) {
+            const appleBtn = document.createElement("a");
+            appleBtn.href = ep.link;
+            appleBtn.target = "_blank";
+            appleBtn.rel = "noopener noreferrer";
+            appleBtn.textContent = "listen on apple";
+            appleBtn.classList.add("episode-button");
+            appleBtn.style.background = "none";
+            appleBtn.style.color = "#747373";
+            appleBtn.style.border = "1px solid #747373";
+            appleBtn.style.padding = "0.4rem 0.8rem";
+            appleBtn.style.fontSize = "0.85rem";
+            appleBtn.style.borderRadius = "6px";
+            appleBtn.style.textDecoration = "none";
+            appleBtn.style.display = "inline-block";
+            appleBtn.style.cursor = "pointer";
+            buttonContainer.appendChild(appleBtn);
+        }
+
+        // Listen on Spotify button
+        const spotifyBtn = document.createElement("a");
+        spotifyBtn.href = "https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP";
+        spotifyBtn.target = "_blank";
+        spotifyBtn.rel = "noopener noreferrer";
+        spotifyBtn.textContent = "listen on spotify";
+        spotifyBtn.classList.add("episode-button");
+        spotifyBtn.style.background = "none";
+        spotifyBtn.style.color = "#747373";
+        spotifyBtn.style.border = "1px solid #747373";
+        spotifyBtn.style.padding = "0.4rem 0.8rem";
+        spotifyBtn.style.fontSize = "0.85rem";
+        spotifyBtn.style.borderRadius = "6px";
+        spotifyBtn.style.textDecoration = "none";
+        spotifyBtn.style.display = "inline-block";
+        spotifyBtn.style.cursor = "pointer";
+        buttonContainer.appendChild(spotifyBtn);
+
+        div.appendChild(buttonContainer);
+
         if (ep.description) {
           const short = ep.description.length > 200 ? ep.description.slice(0, 200) + "..." : ep.description;
           const descDiv = document.createElement("div");

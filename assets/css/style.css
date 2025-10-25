@@ -198,6 +198,12 @@ body.high-contrast .episode-card button {
   color: #000 !important;
 }
 
+/* === Episode buttons === */
+body.high-contrast .episode-button {
+  color: #000 !important;
+  border-color: #000 !important;
+}
+
 /* === Videos === */
 .video-wrapper {
   position: relative;
