@@ -16,7 +16,7 @@ This page is where we link and discuss all the non-clinical nerdy things.  Part 
 
 <h3 id="qrcode">The QR Code Thing</h3>
 
-In the Vent Book we used QR codes to direct readers to all of the references and sources cited.  This is cool if you happen to print off a copy and can't be bothered to type in URLs to double check the stuff we've come up with.  Now you can just smartphone the QR codes and get in on a whole 'nuther level of study.
+In the [Vent Book](https://www.rykerrmedical.com/clinical-resources/vent-management/) we used QR codes to direct readers to all of the references and sources cited.  This is cool if you happen to print off a copy and can't be bothered to type in URLs to double check the stuff we've come up with.  Now you can just smartphone the QR codes and get in on a whole 'nuther level of study.
 
 Now the process of putting that system together was a bit complicated, so we've put together a video to show you how to do the same for whatever project you might have in the works.  Take a look and let us know what you think.
 

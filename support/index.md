@@ -62,7 +62,7 @@ We kindly accept positive reviews and five-star scores at the following:
 
 <h3 id="merch">Rep the Merch</h3>
 
-[Rykerr Medical Store](https://shop.rykerrmedical.com)
+Rykerr Medical Store - coming very soon, just waiting to proof a few items!
 
 Here's the deal with the store.  Items are expensive.  That's because we use a third party service to print on demand and do all the shipping.  We just don't have time to properly run the thing and manage an inventory.  Someday in the future that may change.  And if you've like to get involved by halping there - [let us know](https://www.rykerrmedical.com/talk-to-us/)!
 

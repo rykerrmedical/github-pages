@@ -78,7 +78,11 @@ async function loadFeed() {
                               .map(c => c.textContent.trim().toLowerCase());
       categories.forEach(tag => allTagsSet.add(tag));
 
-      return { title, link, audioUrl, pubDate, description, image, categories, index: i };
+      // Extract platform-specific URLs
+      const applePodcastsUrl = item.querySelector("apple")?.textContent?.trim() || null;
+      const spotifyUrl = item.querySelector("spotify")?.textContent?.trim() || null;
+
+      return { title, link, audioUrl, pubDate, description, image, categories, index: i, applePodcastsUrl, spotifyUrl };
     });
 
     // --- populate dropdown ---
@@ -170,7 +174,7 @@ async function loadFeed() {
         // Listen on Apple Podcasts button
         if (ep.link) {
             const appleBtn = document.createElement("a");
-            appleBtn.href = "https://podcasts.apple.com/us/podcast/the-rykerr-medical-podcast/id1570765323";
+            appleBtn.href = ep.applePodcastsUrl || "https://podcasts.apple.com/us/podcast/the-rykerr-medical-podcast/id1570765323";
             appleBtn.target = "_blank";
             appleBtn.rel = "noopener noreferrer";
             appleBtn.textContent = "apple podcasts";
@@ -190,7 +194,7 @@ async function loadFeed() {
 
         // Listen on Spotify button
         const spotifyBtn = document.createElement("a");
-        spotifyBtn.href = "https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP";
+        spotifyBtn.href = ep.spotifyUrl || "https://open.spotify.com/show/73oflsb0c9M5iwHw07MxdP";
         spotifyBtn.target = "_blank";
         spotifyBtn.rel = "noopener noreferrer";
         spotifyBtn.textContent = "spotify";
