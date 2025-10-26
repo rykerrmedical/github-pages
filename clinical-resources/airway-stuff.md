@@ -52,7 +52,7 @@ This last bit here is just a collection of links to other places on this website
 
 [Vent Management Book](https://www.rykerrmedical.com/clinical-resources/vent-management/) - once you get the tube, we still gotta breath for them...
 
-[Podcast: Scripts Discussion with Richard](https://www.rykerrmedical.com/podcast/) - because checklists are important in airway management
+[Podcast: Scripts Discussion with Richard](https://www.rykerrmedical.com/podcast/#scripts-discussion-with-richard) - because checklists are important in airway management
 
 
 

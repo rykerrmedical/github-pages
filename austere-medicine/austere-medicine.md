@@ -244,7 +244,8 @@ Book: Improvised Medicine by Kenneth V. Iserson [free on archive.org](https://ar
 
 Document: WHO, Medical Evacuation in Emergencies [web](https://iris.who.int/bitstream/handle/10665/381815/9789240112513-eng.pdf) [archive](https://archive.org/details/austere-medicine/WHO%20Medical%20Evacuation%20in%20Amergencies.pdf)
 
-Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast [apple](https://podcasts.apple.com/us/podcast/dan-taylor-chats-non-traditional-paramedic-work/id1570765323?i=1000729244504) [spotify](https://open.spotify.com/episode/1OvOsHeIwt9iQgOuyWn3nw?si=8009becc33f440ef) [archive](https://archive.org/details/dan-taylor-chats-non-traditional-paramedic-work)
+Single Podcast: Dan Taylor Discusses Non-traditional Opportunities for Paramedics, The Rykerr Medical Podcast
+- [Link to episode](https://www.rykerrmedical.com/podcast/#dan-taylor-chats-non-traditional-paramedic-work)
 - [and Show Notes for the Dan Taylor Podcast](https://www.rykerrmedical.com/not-linked/show-notes-dan-taylor-podcast/)
 
 Also everything that Dan has on his website: [frozenmedical](https://www.frozenmedical.com), but specifically:

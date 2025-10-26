@@ -36,7 +36,7 @@ Brush up on your knowledge of chest tube management with this CEU activity based
 <br>
 [**Podcast: Trauma Questions & More w/ Doc Fisher - 1 hour - Trauma**](https://link.edapp.com/lCnNxWJD3Wb)
 <br>
-After listening to out chat with Doc Fisher (over at [the podcast page](https://www.rykerrmedical.com/podcast/)), get credit for doing so by answering just a few questions on the stuff we chat about.
+After listening to out chat with Doc Fisher (over at [the podcast page](https://www.rykerrmedical.com/podcast/#trauma-questions-and-more-w-doc-fisher)), get credit for doing so by answering just a few questions on the stuff we chat about.
 <br>
 <br>
 [**Video: Stylets & Bougies for Kiddos - for Con Ed/ CEU - valid for 1 hour of continuing education in either: Special Considerations, Pediatrics -or- Airway, Respiration & Ventilation**](https://link.edapp.com/jR0jULsiKXb)
