@@ -20,10 +20,10 @@ permalink: /clinical-resources/protocols-and-cheat-sheets/
 
 .multi-row img {
   height: auto !important;
-  width: 30% !important;
-  max-width: 30% !important;
+  width: 23% !important;
+  max-width: 23% !important;
   min-width: 25px !important;
-  flex: 0 0 30% !important;
+  flex: 0 0 23% !important;
   object-fit: contain;
   display: inline-block !important;
   vertical-align: top;
@@ -76,12 +76,14 @@ And here's a new one (as of Oct 2025) that we have been woorking on.  Take a loo
 
 ### 12-lead Updated - Draft for Review
 
-Another new one (as of late Oct 2025).  Take a look, [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) and share with a friends!
+Another new one (as of late Oct 2025).  We've tried to compile all the miscellensoues EKG references and resources we've got bookmarked everywhere into one compreshesive guide.  The idea is that we can use it in real time to review EKGs or to adjust treatment decisions.
 
 [Link to it here](https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf)
 
+Take a look, [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) and share with a friends!
+
 <div class="multi-row">
-  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" alt="12-lead_Contents"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" alt="12-lead_Charts"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" alt="12-lead_Misc_Page"></a>
+  <a href="https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" alt="12-lead_Contents"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" alt="12-lead_Charts"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" alt="12-lead_Misc_Page"></a>
 </div>
 
 <br>
