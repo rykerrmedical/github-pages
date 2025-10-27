@@ -9,7 +9,7 @@ permalink: /clinical-resources/protocols-and-cheat-sheets/
   display: flex !important;
   flex-direction: row !important;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   gap: 1rem;
   flex-wrap: nowrap !important;
   width: 100% !important;
@@ -20,10 +20,10 @@ permalink: /clinical-resources/protocols-and-cheat-sheets/
 
 .multi-row img {
   height: auto !important;
-  width: 23% !important;
-  max-width: 23% !important;
+  width: 22% !important;
+  max-width: 22% !important;
   min-width: 25px !important;
-  flex: 0 0 23% !important;
+  flex: 0 0 22% !important;
   object-fit: contain;
   display: inline-block !important;
   vertical-align: top;
