@@ -20,10 +20,10 @@ permalink: /clinical-resources/protocols-and-cheat-sheets/
 
 .multi-row img {
   height: auto !important;
-  width: 23% !important;
-  max-width: 23% !important;
+  width: 25% !important;
+  max-width: 25% !important;
   min-width: 25px !important;
-  flex: 0 0 23% !important;
+  flex: 0 0 25% !important;
   object-fit: contain;
   display: inline-block !important;
   vertical-align: top;
@@ -83,7 +83,7 @@ Another new one (as of late Oct 2025).  We've tried to compile all the miscellen
 Take a look, [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) and share with a friends!
 
 <div class="multi-row">
-  <a href="https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" alt="12-lead_Contents"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" alt="12-lead_Charts"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" alt="12-lead_Misc_Page"></a>
+  <a href="https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" alt="12-lead_Contents"></a><a href="https://archive.org/download/12-lead_reference_files/STEMI_Paradigm_Chart.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/STEMI_Paradigm_Chart.jpeg" alt="STEMI_Paradigm_Chart"></a><a href="https://archive.org/details/clinical-guides/12%20Lead%20EKG%20Updated%20Draft/page/n3/mode/2up" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_STEMI_Mimics_Page.jpeg" alt="STEMI_Mimics_Page"></a><a href="https://archive.org/download/12-lead_reference_files/OMI_Paradigm_Chart_Right.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/OMI_Paradigm_Chart_Right.jpeg" alt="OMI_Paradigm_Chart_Right"></a>
 </div>
 
 <br>
