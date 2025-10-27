@@ -4,6 +4,34 @@ layout: default
 permalink: /clinical-resources/protocols-and-cheat-sheets/
 ---
 
+<style>
+.multi-row {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1rem;
+  flex-wrap: nowrap !important;
+  width: 100% !important;
+  box-sizing: border-box;
+  overflow: hidden;
+  clear: both;
+}
+
+.multi-row img {
+  height: auto !important;
+  width: 30% !important;
+  max-width: 30% !important;
+  min-width: 25px !important;
+  flex: 0 0 30% !important;
+  object-fit: contain;
+  display: inline-block !important;
+  vertical-align: top;
+  margin: 0 0.2rem;
+}
+
+</style>
+
 # Protocols & Cheat Sheets
 
 ### Background on the Idea
@@ -54,7 +82,7 @@ Another new one (as of late Oct 2025).  Take a look, [let us know what you think
 
 [Link to it here](https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf)
 
-<div class="austere-row">
+<div class="multi-row">
   <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" alt="12-lead_Contents"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" alt="12-lead_Charts"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" alt="12-lead_Misc_Page"></a>
 </div>
 
