@@ -48,6 +48,18 @@ And here's a new one (as of Oct 2025) that we have been woorking on.  Take a loo
 
 <br>
 
+### 12-lead Updated - Draft for Review
+
+Another new one (as of late Oct 2025).  Take a look, [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) and share with a friends!
+
+[Link to it here](https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf)
+
+<div class="austere-row">
+  <a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" alt="12-lead_Contents"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Charts.jpeg" alt="12-lead_Charts"></a><a href="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Misc_Page.jpeg" alt="12-lead_Misc_Page"></a>
+</div>
+
+<br>
+
 <h3 id="airway-sizes">Airway Device Sizing Chart</h3>
 
 Since many agencies use different devices for different size patients, it helps to have a custom-made sizing chart for this type of thing.  This one (also pulled from the full-length document at the top of this page) is also correlated with Broselow Tape colors.  Eventually it'd be cool to build this into template that could be used by other agencies, maybe even wrap it into an app that's already out there?  If you're interested in that sort of thing we could use some friends!
