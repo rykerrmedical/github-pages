@@ -20,10 +20,10 @@ permalink: /clinical-resources/protocols-and-cheat-sheets/
 
 .multi-row img {
   height: auto !important;
-  width: 24% !important;
-  max-width: 24% !important;
+  width: 23% !important;
+  max-width: 23% !important;
   min-width: 25px !important;
-  flex: 0 0 24% !important;
+  flex: 0 0 23% !important;
   object-fit: contain;
   display: inline-block !important;
   vertical-align: top;
