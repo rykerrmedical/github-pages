@@ -20,10 +20,10 @@ layout: default
 
 .austere-row img {
   height: auto !important;
-  width: 33% !important;
-  max-width: 33% !important;
+  width: 32% !important;
+  max-width: 32% !important;
   min-width: 25px !important;
-  flex: 0 0 33% !important;
+  flex: 0 0 32% !important;
   object-fit: contain;
   display: inline-block !important;
   vertical-align: top;
