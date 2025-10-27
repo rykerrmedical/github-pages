@@ -55,7 +55,6 @@ Here's a excerpt from the full document above.  It's a short protocol to outline
 [EM Cases Podcast #84 - Congenital Heart Disease Emergencies](https://emergencymedicinecases.com/congenital-heart-disease-emergencies-2/)
 
 [And an image was taken from this article...](https://link.springer.com/chapter/10.1007/978-1-4614-8760-9_3)
-
 ​<a href="https://archive.org/download/clinical-guides/Management%20of%20the%20Sick%20Baby.pdf" target="_blank">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/sick-baby-screenshot.jpeg" alt="image" width="300"/>
 </a>
@@ -68,7 +67,6 @@ The idea isn't to be all-inclusive, but to provide quick reference to things tha
 ### Fetal Monitoring - Draft for Review
 
 And here's a new one (as of Oct 2025) that we have been woorking on.  Take a look and [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) about it!
-
 ​<a href="https://archive.org/details/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft/" target="_blank">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/fetal-monitoring-screenshot.jpeg" alt="image" width="300"/>
 </a>
