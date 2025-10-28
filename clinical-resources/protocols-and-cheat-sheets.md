@@ -16,6 +16,7 @@ permalink: /clinical-resources/protocols-and-cheat-sheets/
   box-sizing: border-box;
   overflow: hidden;
   clear: both;
+  margin: 0 auto;
 }
 
 .multi-row img {
@@ -26,10 +27,10 @@ permalink: /clinical-resources/protocols-and-cheat-sheets/
   flex: 0 0 22% !important;
   object-fit: contain;
   display: inline-block !important;
-  vertical-align: top;
+  vertical-align: middle;
   margin: 0 0.2rem;
+  align-self: center;
 }
-
 </style>
 
 # Protocols & Cheat Sheets
@@ -76,11 +77,13 @@ And here's a new one (as of Oct 2025) that we have been woorking on.  Take a loo
 
 ### 12-lead Updated - Draft for Review
 
-Another new one (as of late Oct 2025).  We've tried to compile all the miscellensoues EKG references and resources we've got bookmarked everywhere into one compreshesive guide.  The idea is that we can use it in real time to review EKGs or to adjust treatment decisions.
+Another new one (as of late Oct 2025).  We've tried to compile all the miscellaneous EKG references and resources we've got bookmarked everywhere into one comprehensive guide.  The idea is that we can use it in real time to review EKGs or to adjust treatment decisions.
 
 [Link to it here](https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf)
 
-Take a look, [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) and share with a friends!
+Specifically, we tried to lay out a framework for how we should consider STEMI mimics and how to approach the OMI paradigm.  For example, how to know when ST-segment elevation does not indicate an OMI?  And on the other hand, let's say we identify an OMI pattern - what do we do with that information other than notify the cath lab?
+
+Take a look, [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) and share with a friend!
 
 <div class="multi-row">
   <a href="https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_Contents.jpeg" alt="12-lead_Contents"></a><a href="https://archive.org/download/12-lead_reference_files/STEMI_Paradigm_Chart.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/STEMI_Paradigm_Chart.jpeg" alt="STEMI_Paradigm_Chart"></a><a href="https://archive.org/details/clinical-guides/12%20Lead%20EKG%20Updated%20Draft/page/n3/mode/2up" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/12-lead_STEMI_Mimics_Page.jpeg" alt="STEMI_Mimics_Page"></a><a href="https://archive.org/download/12-lead_reference_files/OMI_Paradigm_Chart_Right.jpg" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/OMI_Paradigm_Chart_Right.jpeg" alt="OMI_Paradigm_Chart_Right"></a>
