@@ -10,7 +10,7 @@ It’s been quite a long time since I was a brand-new hire in a flight program a
 
 One of the toughest parts about starting out in the flight world is learning protocols.  This is true for folks who have never flown before, but also relevant when moving between programs.  In particular, it’s the drug doses that have always seemed the most important.  While it’s more or less acceptable these days to check doses on the phone as needed, I’ve always been of the mindset that its worth memorizing the important and commonly used ones.  To help with that, I put together notecards for my drug doses.  I have these notecards on an app on my phone called AlgoApp (formerly AnkiApp).  I’ve also copied them into a similar app called Brainscape.  If you’re interested, check them out here:
 
-[Download files for AlgoApp]([https://archive.org/download/misc-things_202511/Flight Program Medications.zip](https://archive.org/download/misc-things_202511/Flight%20Program%20Medications.zip) (requires a bit of work to upload into your own account; if that doesn’t work, just get in touch with an email and I can send a link directly)
+[Download files for AlgoApp](https://archive.org/download/misc-things_202511/Flight Program Medications.zip) (requires a bit of work to upload into your own account; if that doesn’t work, just get in touch with an email and I can send a link directly)
 
 [Download deck directly from Brainscape](https://www.brainscape.com/p/2ZDD6-LH-DYB5W)
 
@@ -24,15 +24,15 @@ Another potential strategy for learning protocols and the specifics beyond just 
 
 While I never did this with all my protocols as Richard describes, I did create a script for rapid sequence intubation (RSI):
 
-[Old RSI Procedure Narrative]([https://archive.org/download/scripts_202510/Old RSI Procedure Narrative.mp3](https://archive.org/download/scripts_202510/Old%20RSI%20Procedure%20Narrative.mp3)
+[Old RSI Procedure Narrative](https://archive.org/download/scripts_202510/Old RSI Procedure Narrative.mp3)
 
 I had every intention at that time (which was 2021 or so) to do something similar for other high-risk, low-frequency procedures, but I never did get around to it.  As a way to re-engage with this process, however, I’ve created a few more of them while writing this.  The difference being that these are more generalized and less specific to one job setting, as I now spend a lot of my time outside of the flight job, in settings where a specific kit or bag is not always guaranteed.
 
-[RSI Script]([https://archive.org/download/scripts_202510/RSI Script.mp3](https://archive.org/download/scripts_202510/RSI%20Script.mp3)
+[RSI Script](https://archive.org/download/scripts_202510/RSI Script.mp3)
 
-[Chest Tube Script]([https://archive.org/download/scripts_202510/Chest Tube Script.mp3](https://archive.org/download/scripts_202510/Chest%20Tube%20Script.mp3)
+[Chest Tube Script](https://archive.org/download/scripts_202510/Chest Tube Script.mp3)
 
-[Cric Script]([https://archive.org/download/scripts_202510/Cric Script.mp3](https://archive.org/download/scripts_202510/Cric%20Script.mp3)
+[Cric Script](https://archive.org/download/scripts_202510/Cric Script.mp3)
 
 The way I used to engage with the one RSI script that I did build back then was to listen to it occasionally on my drive to work.  That said, I think most of the value was in creating the thing and spelling out each and every step explicitly.  This is to say that just listening to my recordings likely doesn’t offer much benefit, rather they are just here as examples for what you can do yourself.
 
@@ -50,7 +50,7 @@ And the baby is delivered, but needs ventilatory support.  How deep down in that
 
 And then for creativity’s sake, let’s say we break down and an EMP takes out our EZ-IO and we live in a world where we won’t get fired for catheterizing an umbilical vein - where do I find the closest 6F feeding tube and an IV start kit?  Is there one in these bags I already have open or do I go to where I usually grab one of these things?  And what can I use to tie off the stump after the line has been placed to prevent bleeding?
 
-[Umbilical Vein Catheterization Reference]([https://archive.org/download/clinical-guides/Umbilical Vein Catheterization.pdf](https://archive.org/download/clinical-guides/Umbilical%20Vein%20Catheterization.pdf)
+[Umbilical Vein Catheterization Reference](https://archive.org/download/clinical-guides/Umbilical Vein Catheterization.pdf)
 
 And more on that idea on the website at the [Protocols & Cheat Sheets](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/) page.
 
@@ -70,7 +70,7 @@ I haven’t updated that for quite a while, but now it’s in the works.  I also
 
 [External Fetal Monitoring](https://1drv.ms/w/c/c38cf27dfc4f5a6b/EWtaT_x98owggMPJFQAAAAABAJ_2kO_xYRzXPI1r5CvAfQ)
 
-[12-lead EKG Interpretation]([https://archive.org/download/clinical-guides/12 Lead EKG Updated Draft.pdf](https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf)
+[12-lead EKG Interpretation](https://archive.org/download/clinical-guides/12 Lead EKG Updated Draft.pdf)
 
 So here’s what it looks like now:
 
