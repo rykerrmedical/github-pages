@@ -48,11 +48,11 @@ So for example: Let’s say we have an OB case with imminent delivery.  Which ba
 
 And the baby is delivered, but needs ventilatory support.  How deep down in that main bag is the infant BVM?  And where are all the miscellaneous pieces to set up the HFNC system if we want to go that route?
 
-And then for creativity’s sake, let’s say we break down and an EMP takes out our EZ-IO and we live in a world where we won’t get fired for catheterizing an umbilical vein - where do I find the closest 6F feeding tube and an IV start kit?  Is there one in these bags I already have open or do I go to where I usually grab one of these things?  And what can I use to tie off the stump after the line has been placed to prevent bleeding?
+Then for creativity’s sake, let’s say we break down and an EMP takes out our EZ-IO and we live in a world where we won’t get fired for catheterizing an umbilical vein - where do I find the closest 6F feeding tube and an IV start kit?  Is there one in these bags I already have open or do I go to where I usually grab one of these things?  And what can I use to tie off the stump after the line has been placed to prevent bleeding?
 
 [Umbilical Vein Catheterization Reference](https://archive.org/download/clinical-guides/Umbilical Vein Catheterization.pdf)
 
-And more on that idea on the website at the [Protocols & Cheat Sheets](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/) page.
+(More on that idea on the website at the [Protocols & Cheat Sheets](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/) page)
 
 And now!  Let’s say mom is bleeding real bad.  Which side flap of the med pouch has the TXA?  And in which row?  Because I want the helpful first responders on scene to both get the drug quickly for me and recognize that I know my gear.
 
@@ -68,7 +68,7 @@ Next thing: I linked above to a document I made for a totally different flight p
 
 I haven’t updated that for quite a while, but now it’s in the works.  I also have been sitting on a few updates to the collection and have finally made time to finish them:
 
-[External Fetal Monitoring](https://1drv.ms/w/c/c38cf27dfc4f5a6b/EWtaT_x98owggMPJFQAAAAABAJ_2kO_xYRzXPI1r5CvAfQ)
+[External Fetal Monitoring](https://archive.org/download/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft.pdf)
 
 [12-lead EKG Interpretation](https://archive.org/download/clinical-guides/12 Lead EKG Updated Draft.pdf)
 
