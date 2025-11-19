@@ -62,9 +62,9 @@ We kindly accept positive reviews and five-star scores at the following:
 
 <h3 id="merch">Rep the Merch</h3>
 
-Rykerr Medical Store - coming very soon, just waiting to proof a few items!
+[Rykerr Medical Store](https://shop.rykerrmedical.com/)
 
-Here's the deal with the store.  Items are expensive.  That's because we use a third party service to print on demand and do all the shipping.  We just don't have time to properly run the thing and manage an inventory.  Someday in the future that may change.  And if you've like to get involved by halping there - [let us know](https://www.rykerrmedical.com/talk-to-us/)!
+Here's the deal with the store.  Items are a smidge expensive.  That's because we use a third party service to print on demand and do all the shipping.  We just don't have time to properly run the thing and manage an inventory.  Someday in the future that may change.  And if you've like to get involved by helping there - [let us know](https://www.rykerrmedical.com/talk-to-us/)!
 
 And just as a sidenote on the pricing scheme: we make very little on each item.  The idea is more to get the word out there and share stuff with folks.  So buy things to spread the word, not so much to help us make money :)
 
@@ -72,6 +72,4 @@ And just as a sidenote on the pricing scheme: we make very little on each item. 
 
 <h3 id="donate">Donate</h3>
 
-If you abosultely cannot be bothered to support us in any of the ways listed above, but for some reason think that giving us money will help you get into heaven, that's fine and we accept.
-
-We'll get donate links set up one of these days...
+If you abosultely cannot be bothered to support us in any of the ways listed above, but for some reason think that giving us money will help you get into heaven -  [that's fine, donate here...](https://givebutter.com/i6OyxL)
