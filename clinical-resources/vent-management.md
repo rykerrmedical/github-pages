@@ -11,7 +11,7 @@ layout: default
 
 There's a short story in the document about how this whole idea got kicked off, but suffice it to say that there was a bad experience that served as the catalyst to the whole thing.  That was back in NM a few years ago, hence a bit of overflow into the Rykerr Medical LLC logo. Anyways, the hope is that resources like this can help others avoid that sort of personal development experience.
 
-And to help contribute to [Version 2](https://docs.google.com/document/d/1qA-LlMUYYe3KMuRhMyAtLAy23NcNb236ZBnK8Irkp6k/edit?pli=1&tab=t.0) - add comments to the Google Doc and read about it below.
+And to help contribute to [Version 2](https://docs.google.com/document/d/1qA-LlMUYYe3KMuRhMyAtLAy23NcNb236ZBnK8Irkp6k/edit?pli=1&tab=t.0) - add comments to the Google Doc and read about it below.  Or if you prefer a pdf, [download it here](https://archive.org/download/vent-book-draft-1/Rykerr%20Medical%27s%20Vent%20Management%20Guide%20-%20Version%202%20Draft.pdf) and just [get in touch](https://www.rykerrmedical.com/talk-to-us/) with any feedback.
 
 <br>
 
