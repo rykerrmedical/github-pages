@@ -2,6 +2,7 @@
 layout: post
 title: "Rykerr Medical's Podcast Hosting Strategy"
 date: 2025-06-02
+image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/llc_thumbnail.jpg
 tags: [general information, tech stuff]
 blurb: how to host a podcast for free (i.e., no cost at all) using github and the internet archive
 ---

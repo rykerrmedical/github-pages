@@ -2,6 +2,7 @@
 layout: post
 title: "Dead Space Illustrations"
 date: 2021-06-20
+image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2021-06-20-dead-space-illustrations/dead-space-summary.jpg
 tags: [mechanical ventilation, pathophysiology, approved for coned/ceus]
 blurb: dead space is a concept in mechanical ventilation can give clinciains a bit of trouble, both in understanding how it works and in adjusting interventions to mitigate its effects; the series of illustrations in this post explain the different types of dead space and how to address them
 ---

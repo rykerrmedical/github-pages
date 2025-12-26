@@ -2,6 +2,7 @@
 layout: post
 title: "International Opportunities for EMS People"
 date: 2021-11-03
+image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/llc_thumbnail.jpg
 tags: [general information, austere medicine]
 blurb: if you're an EMS person interested in overseas/ international work, this is a good place to start
 ---

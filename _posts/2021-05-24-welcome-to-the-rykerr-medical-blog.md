@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to the Rykerr Medical Blog!"
 date: 2021-05-24
+image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/llc_thumbnail.jpg
 tags: [general information]
 blurb: overview of what the rykerr medical blog is all about and how it fits in to the project as a whole
 ---

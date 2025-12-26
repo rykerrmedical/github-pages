@@ -2,6 +2,7 @@
 layout: post
 title: "Reflecting on the Air Medical New Hire Process"
 date: 2025-11-09
+image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/llc_thumbnail.jpg
 tags: [education/ teaching, general information, flight/ hems]
 blurb: a bit about how I worked my way through being a new hire in flight and some thoughts on re-engaging with those processes
 ---

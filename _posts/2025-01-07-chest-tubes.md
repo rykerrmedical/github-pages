@@ -2,6 +2,7 @@
 layout: post
 title: "Chest Tube Management in Transport"
 date: 2025-01-07
+image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2025-01-07-chest-tubes/20-emoji.jpeg
 tags: [chest tubes, trauma, pathophysiology, approved for coned/ceus]
 blurb: all about chest tube management once they've been placed; when to use suction, when to let them drain passively; review of (patho)physiology and troubleshooting
 ---

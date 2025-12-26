@@ -2,6 +2,7 @@
 layout: post
 title: "Hemodynamic Sketches"
 date: 2023-12-05
+image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2023-12-05-hemodynamic-sketches/flow-overview.jpeg
 tags: [hemodynamics, cardiology, pathophysiology]
 blurb: a primer on hemopdynamic monitoring with a simple sketch that mayt help work through these sorts of problems/ challenges; also reviews different types of access seen in complicated medical/ cardiac cases
 ---

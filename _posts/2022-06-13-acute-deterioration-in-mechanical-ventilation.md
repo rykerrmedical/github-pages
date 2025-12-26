@@ -2,6 +2,7 @@
 layout: post
 title: "Acute Deterioration in Mechanical Ventilation"
 date: 2022-06-13
+image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2022-06-13-acute-deterioration-in-mechanical-ventilation/what-to-do.jpg
 tags: [mechanical ventilation]
 blurb: some thoughts on how to organize troubleshooting for issues in mechanical ventilation
 ---
