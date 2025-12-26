@@ -11,3 +11,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   parse_block_html: true
+
+plugins:
+  - jekyll-feed
+feed:
+  path: blog-feed.xml
