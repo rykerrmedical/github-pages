@@ -7,6 +7,7 @@ layout: default
 # Vent Management Book
 
 [View & Download the Book for Free!](https://archive.org/download/vent-book-draft-1/Rykerr%20Medical%27s%20Vent%20Management%20Guide%20-%20Version%201.pdf)
+
 [Buy a Copy (but know the pdf is free)](https://www.amazon.com/Rykerr-Medicals-Vent-Management-Guide/dp/1734925205)
 
 There's a short story in the document about how this whole idea got kicked off, but suffice it to say that there was a bad experience that served as the catalyst to the whole thing.  That was back in NM a few years ago, hence a bit of overflow into the Rykerr Medical LLC logo. Anyways, the hope is that resources like this can help others avoid that sort of personal development experience.
