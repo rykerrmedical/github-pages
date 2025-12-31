@@ -6,7 +6,7 @@ layout: default
 
 # Vent Management Book
 
-Version 2 Draft is ready for feedback, so take a look and [get in touch](https://www.rykerrmedical.com/talk-to-us/) with any feedback.
+Version 2 Draft is ready for feedback, so take a look and [get in touch](https://www.rykerrmedical.com/talk-to-us/) with any thoughts.
 
 [Version 2 on Google Drive](https://docs.google.com/document/d/1qA-LlMUYYe3KMuRhMyAtLAy23NcNb236ZBnK8Irkp6k/edit?pli=1&tab=t.0) 
 
