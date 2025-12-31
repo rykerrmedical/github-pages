@@ -1,6 +1,9 @@
 ---
 title: Vent Management
-permalink: /clinical-resources/vent-management/
+redirect_from:
+  - /clinical-resources/vent-management
+  - /clinical-resources/vent-management/
+permalink: /vent-management/
 layout: default
 ---
 

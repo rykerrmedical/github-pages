@@ -14,5 +14,6 @@ kramdown:
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 feed:
   path: blog-feed.xml
