@@ -12,7 +12,8 @@ This page is just a repository of all the stuff we've put together on airway man
 
 <h5><a href="#one-human">One-Human Bougie Techniques</a></h5>
 <h5><a href="#stylets">Stylets and Bougies for Kiddos</a></h5>
-<h5><a href="#references">Other References</a></h5>
+<h5><a href="#other-stuff">Other Stuff by Rykerr Medical</a></h5>
+<h5><a href="#references">Outside References</a></h5>
 
 <br>
 
@@ -22,9 +23,7 @@ One of the reasons why folks aren't always super keen on bougie use is because t
 
 [Abridged Version on Instagram](https://www.instagram.com/p/CRcbllKL4_g/)
 
-Detailed Video on YouTube - coming someday!
-
-Pro/Con Chart- coming someday!
+Detailed Video on YouTube & Pro/Con Chart - coming someday!
 
 <br>
 
@@ -36,11 +35,9 @@ And then here's our deep dive into how the concepts discussed above apply to ped
 
 [Show Notes for "Stylets and Bougies for Kiddos"](https://www.rykerrmedical.com/show-notes-pedi-video)
 
-Story Map and Drafts for the Nerds - coming someday!
-
 <br>
 
-<h3 id="references">Other References</h3>
+<h3 id="other-stuff">Other Stuff by Rykerr Medical</h3>
 
 This last bit here is just a collection of links to other places on this website/ to our stuff on the subject of airway management.  No need to repeat it all here, just follow the links and check it all out.
 
@@ -53,6 +50,19 @@ This last bit here is just a collection of links to other places on this website
 [Vent Management Book](https://www.rykerrmedical.com/clinical-resources/vent-management/) - once you get the tube, we still gotta breath for them...
 
 [Podcast: Scripts Discussion with Richard](https://www.rykerrmedical.com/podcast/#scripts-discussion-with-richard) - because checklists are important in airway management
+
+<br>
+
+<h3 id="references">Outside References</h3>
+
+Street Level Airway Management - textbook on airway management techniques specific to the prehospital setting; there is a newer version available, [but you can borrow this older edition for free on archive.org](https://archive.org/details/slamstreetlevela0000jame/mode/1up)
+
+Wall's Airway Manual - the best resource out there, but does extend beyond the scope of most EMS providers; 6th edition (most current as of 2026) [available for download here](https://share.google/8uEFUUj4M8yhcbEqO); if that doesn't work, just get in touch and we can sort out access
+
+EmCrit Resources
+- [EMCrit 388 – Experts’ Guide to the Bougie with Barnicle and Driver](https://emcrit.org/emcrit/experts-guide-bougie/) - also see the list if additional resources/ content at the bottom of this page
+- [Paper: Managing Emergency Endotracheal Intubation
+Utilizing a Bougie](https://ia801703.us.archive.org/5/items/misc_things/Managing-Emergency-Endotracheal-Intubation-Utilizing-a-Bougie.pdf)
 
 
 

@@ -71,4 +71,4 @@ This page contains all the cool stuff on austere medicine and is broken down int
 
 We finally have a system in place to offer ConEd/ CEUs to our EMS friends.  
 
-And we hope to sort something our for the nursing folks in the near future.
+And we hope to sort something out for the nursing folks in the near future.

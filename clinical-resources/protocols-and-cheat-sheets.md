@@ -39,13 +39,21 @@ permalink: /clinical-resources/protocols-and-cheat-sheets/
 
 A while back we tried to put together a set of protocols for a HEMS program in the developing world and this is what we came up with.  A few things to mention on it all though.  First, this was a draft that never quite got finished or finalized.  Second, it was designed to be both a quick-reference tool to use in the field and also a framework for teaching new clinicians up to a standard.  Last thing, some of the identifying info is redacted just because we're no longer associated with the agency - happy to discuss that and any details with anyone who might be interested.  Check the whole thing out here and see a few of the specific examples below.
 
-[Field Reference Guides Draft](https://archive.org/download/clinical-guides/Field%20Reference%20Guides%20Draft%20with%20Links.pdf)
+[Field Reference Guides Draft - view in browser](https://archive.org/details/clinical-guides/Field%20Reference%20Guides%20Draft%20with%20Links/)
+
+[Field Reference Guides Draft - pdf download](https://archive.org/download/clinical-guides/Field%20Reference%20Guides%20Draft%20with%20Links.pdf)
 
 <br>
 
 ### Management of the Sick Baby
 
-Here's a excerpt from the full document above.  It's a short protocol to outline considerations when managing a sick child in the pre-hospital setting.  The content comes from the following sources:
+Here's a excerpt from the full document above.  It's a short protocol to outline considerations when managing a sick child in the pre-hospital setting.  
+
+[Management of the Sick Baby - view in browser](https://archive.org/details/clinical-guides/Management%20of%20the%20Sick%20Baby/)
+
+[Management of the Sick Baby - pdf download](https://archive.org/download/clinical-guides/Management%20of%20the%20Sick%20Baby.pdf)
+
+The content comes from the following sources:
 
 [The Neonatal Resuscitation Program](https://www.aap.org/en/pedialink/neonatal-resuscitation-program/)
 
@@ -59,27 +67,33 @@ Here's a excerpt from the full document above.  It's a short protocol to outline
 ​<a href="https://archive.org/download/clinical-guides/Management%20of%20the%20Sick%20Baby.pdf" target="_blank">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/sick-baby-screenshot.jpeg" alt="image" width="300"/>
 </a>
-(^click the image to open the pdf file)
 
 The idea isn't to be all-inclusive, but to provide quick reference to things that might be difficult to recall on scene or in transport.
 
 <br>
 
-### Fetal Monitoring - Draft for Review
+### Fetal Monitoring
 
-And here's a new one (as of Oct 2025) that we have been woorking on.  Take a look and [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) about it!
+And here's a new one (as of Oct 2025) that we have been woorking on.  
+
+[Fetal Monitoring - view in browser](https://archive.org/details/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft)
+
+[Fetal Monitoring - pdf download](https://archive.org/download/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft.pdf)
+
+Take a look and [let us know what you think](https://www.rykerrmedical.com/talk-to-us/) about it!
 ​<a href="https://archive.org/details/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft/" target="_blank">
   <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/protocols-and-cheat-sheets/fetal-monitoring-screenshot.jpeg" alt="image" width="300"/>
 </a>
-(^click the image to open the pdf file)
 
 <br>
 
-### 12-lead Updated - Draft for Review
+### 12-lead EKG
 
 Another new one (as of late Oct 2025).  We've tried to compile all the miscellaneous EKG references and resources we've got bookmarked everywhere into one comprehensive guide.  The idea is that we can use it in real time to review EKGs or to adjust treatment decisions.
 
-[Link to it here](https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf)
+[12-Lead EKG - view in browser](https://archive.org/details/clinical-guides/12%20Lead%20EKG%20Updated%20Draft)
+
+[12-Lead EKG - pdf download](https://archive.org/download/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf)
 
 Specifically, we tried to lay out a framework for how we should consider STEMI mimics and how to approach the OMI paradigm.  For example, how to know when ST-segment elevation does not indicate an OMI?  And on the other hand, let's say we identify an OMI pattern - what do we do with that information other than notify the cath lab?
 
