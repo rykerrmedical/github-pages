@@ -14,7 +14,7 @@ export async function handler(event) {
 
     const payload = {
       aud: "jitsi",
-      iss: "chat",
+      iss: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
       sub: "vpaas-magic-cookie-e515f4dfdbe24ae3a34c4247de2675db",
       room: `*`,
       iat: now,
