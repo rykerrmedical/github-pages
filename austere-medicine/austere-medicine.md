@@ -187,7 +187,7 @@ Each section (except for the last) is broken down as so:
 - WHO Red Book [web](https://extranet.who.int/emt/sites/default/files/Red%20Book2021.pdf) [archive](https://archive.org/details/austere-medicine/WHO%20Red%20Book.pdf) (free)
 - PPE Overview from Committee to Protect Journalists [web](https://cpj.org/wp-content/uploads/2020/11/ppe-glossary_cpj-final.pdf) [archive](https://archive.org/details/austere-medicine/A%20Guide%20to%20PPE.pdf)
 - [Special Operations Medical Association (SOMA) Resource Library](https://specialoperationsmedicine.org/resource-library/)
-- [Next Genb Combat Medic Google Drive o' Resources'](https://drive.google.com/drive/folders/1ajaSnAphf1GtyfmAcIEQuVYKavUlA82-) (free)
+- Next Gen Combat Medic's' [Google Drive o' Resources'](https://drive.google.com/drive/folders/1ajaSnAphf1GtyfmAcIEQuVYKavUlA82-) & [Webpage](https://nextgencombatmedic.com/) (both free)
 - [Hoof And Skull Aid Station References](https://hoofskull.com/pages/team-room) (free)
 
 **Potential Leads:**
