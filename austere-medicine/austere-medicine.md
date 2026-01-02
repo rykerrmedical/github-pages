@@ -183,7 +183,7 @@ Each section (except for the last) is broken down as so:
 **Learn More:**
 - [FPC Working Group CPGs](https://jts.health.mil/index.cfm/CPGs/cpgs) (free)
 - [Conflict & Health Journal](https://conflictandhealth.biomedcentral.com/about) (free/ open access)
-- [Medicine, Conflict & Survival Journal](https://www.tandfonline.com/journals/fmcs20) (free/ open access))
+- [Medicine, Conflict & Survival Journal](https://www.tandfonline.com/journals/fmcs20) (free/ open access)
 - WHO Red Book [web](https://extranet.who.int/emt/sites/default/files/Red%20Book2021.pdf) [archive](https://archive.org/details/austere-medicine/WHO%20Red%20Book.pdf) (free)
 - PPE Overview from Committee to Protect Journalists [web](https://cpj.org/wp-content/uploads/2020/11/ppe-glossary_cpj-final.pdf) [archive](https://archive.org/details/austere-medicine/A%20Guide%20to%20PPE.pdf)
 - [Special Operations Medical Association (SOMA) Resource Library](https://specialoperationsmedicine.org/resource-library/)
