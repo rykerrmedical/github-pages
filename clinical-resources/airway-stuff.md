@@ -62,7 +62,7 @@ Wall's Airway Manual - the best resource out there, but does extend beyond the s
 EmCrit Resources
 - [EMCrit 388 – Experts’ Guide to the Bougie with Barnicle and Driver](https://emcrit.org/emcrit/experts-guide-bougie/) - also see the list if additional resources/ content at the bottom of this page
 - [Paper: Managing Emergency Endotracheal Intubation
-Utilizing a Bougie](https://ia801703.us.archive.org/5/items/misc_things/Managing-Emergency-Endotracheal-Intubation-Utilizing-a-Bougie.pdf)
+Utilizing a Bougie](https://ia600108.us.archive.org/18/items/misc-things_202511/Managing-Emergency-Endotracheal-Intubation-Utilizing-a-Bougie.pdf)
 
 
 
