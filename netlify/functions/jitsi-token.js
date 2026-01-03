@@ -4,6 +4,10 @@ import jwt from "jsonwebtoken";
 export async function handler(event) {
   try {
     const room = event.queryStringParameters?.room || "rykerrmedicalmeeting";
+      
+    const password = event.queryStringParameters?.password || "";
+    const correctPassword = process.env.MODERATOR_PASSWORD || "your-secure-password-here";
+    const isModerator = password === correctPassword;
 
     const privateKeyRaw = process.env.JITSI_PRIVATE_KEY;
     if (!privateKeyRaw) throw new Error("Missing JITSI_PRIVATE_KEY");
@@ -21,7 +25,7 @@ export async function handler(event) {
       exp: exp,
       nbf: now,
       context: {
-        user: { name: "Ryan", email: "ryan@rykerrmedical.com", moderator: true, avatar: "" },
+        user: { name: "Ryan", email: "ryan@rykerrmedical.com", moderator: isModerator, avatar: "" },
         features: { livestreaming: true, recording: true, "outbound-call": true }
       }
     };
