@@ -8,7 +8,7 @@ fetch("https://jitsi-for-rykerr-medical.netlify.app/.netlify/functions/jitsi-tok
       parentNode: document.querySelector('#jaas-container'),
       width: "100%",
       height: 700,
-      jwt: cleanToken
+      jwt: cleanToken,
       configOverwrite: {
         startWithAudioMuted: true,
         startWithVideoMuted: false,
