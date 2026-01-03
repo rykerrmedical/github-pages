@@ -9,6 +9,15 @@ fetch("https://jitsi-for-rykerr-medical.netlify.app/.netlify/functions/jitsi-tok
       width: "100%",
       height: 700,
       jwt: cleanToken
+      configOverwrite: {
+        startWithAudioMuted: true,
+        startWithVideoMuted: false,
+        prejoinPageEnabled: true,
+        fileRecordingsEnabled: true,
+        enableWelcomePage: false,
+        enableLobbyChat: true,
+        hideLobbyButton: false
+      }
     };
 
     const domain = "8x8.vc";
