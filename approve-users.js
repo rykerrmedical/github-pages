@@ -48,28 +48,26 @@ async function approveEdAppUsers() {
     // Look for users without green checkmarks (pending users)
     console.log('Checking for pending users...');
     
-    // This will need to be adjusted based on actual HTML structure
-    // Strategy: Find all user rows, check if they have approval status
+    // Find all user rows with verified-false status (pending approval)
     const pendingUsers = await page.evaluate(() => {
       const users = [];
-      // Look for user rows - this selector may need adjustment
-      const userRows = document.querySelectorAll('[data-testid="user-row"], tr, .user-item');
+      // Find all rows in the table
+      const rows = document.querySelectorAll('tr[data-testid^="row-"]');
       
-      userRows.forEach((row, index) => {
-        // Check if row has a green checkmark or approved status
-        const hasCheckmark = row.querySelector('svg[data-testid="check-icon"], .approved-icon, [class*="check"]');
-        const hasApprovedText = row.textContent.toLowerCase().includes('approved');
+      rows.forEach((row) => {
+        // Check if this row has a verified-false icon (pending user)
+        const verifiedFalse = row.querySelector('svg[data-testid="verified-false"]');
         
-        if (!hasCheckmark && !hasApprovedText) {
-          // This might be a pending user
-          const nameElement = row.querySelector('[data-testid="user-name"], .user-name, td:first-child');
-          const threeDotsButton = row.querySelector('[data-testid="user-menu"], button[aria-label*="menu"], .menu-button');
+        if (verifiedFalse) {
+          // Get the user's name from the cell-Name column
+          const nameCell = row.querySelector('td[data-testid="cell-Name"]');
+          const name = nameCell ? nameCell.textContent.trim() : 'Unknown';
           
-          if (nameElement && threeDotsButton) {
-            users.push({
-              name: nameElement.textContent.trim(),
-              rowIndex: index
-            });
+          // Get the options button
+          const optionsButton = row.querySelector('button[data-testid="user-options-button"]');
+          
+          if (optionsButton) {
+            users.push({ name });
           }
         }
       });
@@ -87,24 +85,36 @@ async function approveEdAppUsers() {
         try {
           console.log(`Approving user: ${user.name}`);
           
-          // Click the three dots menu for this user
-          const menuButtons = await page.$$('[data-testid="user-menu"], button[aria-label*="menu"], .menu-button');
-          if (menuButtons[user.rowIndex]) {
-            await menuButtons[user.rowIndex].click();
+          // Find the row again and click its options button
+          const optionsButton = await page.evaluateHandle((userName) => {
+            const rows = document.querySelectorAll('tr[data-testid^="row-"]');
+            for (const row of rows) {
+              const nameCell = row.querySelector('td[data-testid="cell-Name"]');
+              if (nameCell && nameCell.textContent.trim() === userName) {
+                return row.querySelector('button[data-testid="user-options-button"]');
+              }
+            }
+            return null;
+          }, user.name);
+          
+          if (optionsButton) {
+            await optionsButton.click();
             await new Promise(resolve => setTimeout(resolve, 1000));
             
-            // Look for "Approve" button in the menu
-            const approveButton = await page.$('button:has-text("Approve"), [data-testid="approve-user"], button[aria-label*="approve"]');
+            // Look for and click the "Verify User" option
+            const verifyOption = await page.$('li[data-testid="verify-user-option"]');
             
-            if (approveButton) {
-              await approveButton.click();
+            if (verifyOption) {
+              await verifyOption.click();
               await new Promise(resolve => setTimeout(resolve, 2000));
               
               results.approved.push(user.name);
               console.log(`✓ Approved: ${user.name}`);
             } else {
-              results.errors.push(`Could not find approve button for ${user.name}`);
+              results.errors.push(`Could not find verify option for ${user.name}`);
             }
+          } else {
+            results.errors.push(`Could not find options button for ${user.name}`);
           }
         } catch (error) {
           results.errors.push(`Error approving ${user.name}: ${error.message}`);
