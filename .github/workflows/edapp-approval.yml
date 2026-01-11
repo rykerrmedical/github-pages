@@ -1,1 +1,33 @@
+name: EdApp User Auto-Approval
 
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  approve-users:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: |
+          npm install puppeteer nodemailer
+      
+      - name: Run approval script
+        env:
+          EDAPP_EMAIL: ${{ secrets.EDAPP_EMAIL }}
+          EDAPP_PASSWORD: ${{ secrets.EDAPP_PASSWORD }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
+        run: |
+          node approve-users.js
