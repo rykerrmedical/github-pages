@@ -43,7 +43,7 @@ async function approveEdAppUsers() {
     await page.goto('https://admin.edapp.com/users?pageSize=25&page=1', { waitUntil: 'networkidle2' });
     
     // Wait a bit for the page to fully load
-    await page.waitForTimeout(3000);
+    await new Promise(resolve => setTimeout(resolve, 3000));
     
     // Look for users without green checkmarks (pending users)
     console.log('Checking for pending users...');
@@ -91,14 +91,14 @@ async function approveEdAppUsers() {
           const menuButtons = await page.$$('[data-testid="user-menu"], button[aria-label*="menu"], .menu-button');
           if (menuButtons[user.rowIndex]) {
             await menuButtons[user.rowIndex].click();
-            await page.waitForTimeout(1000);
+            await new Promise(resolve => setTimeout(resolve, 1000));
             
             // Look for "Approve" button in the menu
             const approveButton = await page.$('button:has-text("Approve"), [data-testid="approve-user"], button[aria-label*="approve"]');
             
             if (approveButton) {
               await approveButton.click();
-              await page.waitForTimeout(2000);
+              await new Promise(resolve => setTimeout(resolve, 2000));
               
               results.approved.push(user.name);
               console.log(`✓ Approved: ${user.name}`);
@@ -122,11 +122,16 @@ async function approveEdAppUsers() {
     }
   }
   
-  // Send email notification only if users were approved or if there were errors
-  if (results.approved.length > 0 || results.errors.length > 0) {
+  // ONLY send email if users were actually approved
+  // Do NOT send email for "no pending users" or if only checking found nothing
+  if (results.approved.length > 0) {
     await sendEmailNotification(results);
   } else {
-    console.log('No users to approve and no errors - skipping email notification');
+    console.log('No users were approved - skipping email notification');
+    // Still log errors to console but don't email about them unless users were approved
+    if (results.errors.length > 0) {
+      console.log('Errors occurred:', results.errors);
+    }
   }
   
   return results;
