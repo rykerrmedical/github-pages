@@ -25,14 +25,14 @@ async function approveEdAppUsers() {
     await page.goto('https://admin.edapp.com/login', { waitUntil: 'networkidle2' });
     
     // Wait for email input and fill it
-    await page.waitForSelector('input[type="email"], input[name="email"]', { timeout: 10000 });
-    await page.type('input[type="email"], input[name="email"]', process.env.EDAPP_EMAIL);
+    await page.waitForSelector('input[name="nameOrEmail"]', { timeout: 10000 });
+    await page.type('input[name="nameOrEmail"]', process.env.EDAPP_EMAIL);
     
     // Find and fill password
-    await page.type('input[type="password"]', process.env.EDAPP_PASSWORD);
+    await page.type('input[name="password"]', process.env.EDAPP_PASSWORD);
     
     // Click login button
-    await page.click('button[type="submit"]');
+    await page.click('button#btn-login');
     console.log('Logging in...');
     
     // Wait for navigation after login
@@ -122,8 +122,12 @@ async function approveEdAppUsers() {
     }
   }
   
-  // Send email notification
-  await sendEmailNotification(results);
+  // Send email notification only if users were approved or if there were errors
+  if (results.approved.length > 0 || results.errors.length > 0) {
+    await sendEmailNotification(results);
+  } else {
+    console.log('No users to approve and no errors - skipping email notification');
+  }
   
   return results;
 }
