@@ -42,11 +42,26 @@ async function approveEdAppUsers() {
     console.log('Navigating to users page...');
     await page.goto('https://admin.edapp.com/users?pageSize=25&page=1', { waitUntil: 'networkidle2' });
     
-    // Wait a bit for the page to fully load
-    await new Promise(resolve => setTimeout(resolve, 3000));
+    // Wait for the table to load - look for the actual table element
+    console.log('Waiting for users table to load...');
+    await page.waitForSelector('table[data-testid="table"]', { timeout: 10000 });
+    
+    // Wait a bit longer for React to render all the rows
+    await new Promise(resolve => setTimeout(resolve, 5000));
     
     // Look for users without green checkmarks (pending users)
     console.log('Checking for pending users...');
+    
+    // First, let's see what we can find on the page for debugging
+    const pageDebug = await page.evaluate(() => {
+      return {
+        totalRows: document.querySelectorAll('tr[data-testid^="row-"]').length,
+        verifiedTrue: document.querySelectorAll('svg[data-testid="verified-true"]').length,
+        verifiedFalse: document.querySelectorAll('svg[data-testid="verified-false"]').length,
+        optionsButtons: document.querySelectorAll('button[data-testid="user-options-button"]').length
+      };
+    });
+    console.log('Page debug info:', pageDebug);
     
     // Find all user rows with verified-false status (pending approval)
     const pendingUsers = await page.evaluate(() => {
