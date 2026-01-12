@@ -38,9 +38,9 @@ async function approveEdAppUsers() {
     // Wait for navigation after login
     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 30000 });
     
-    // Navigate to users page
+    // Navigate to users page - start with a larger page size to see more users
     console.log('Navigating to users page...');
-    await page.goto('https://admin.edapp.com/users?pageSize=25&page=1', { waitUntil: 'networkidle2' });
+    await page.goto('https://admin.edapp.com/users?pageSize=100&page=1', { waitUntil: 'networkidle2' });
     
     // Wait for the table to load - look for the actual table element
     console.log('Waiting for users table to load...');
