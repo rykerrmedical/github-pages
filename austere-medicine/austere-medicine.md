@@ -41,7 +41,7 @@ layout: default
 <h5><a href="#clinic-sick-call">Clinic/ Sick Call</a></h5>
 <h5><a href="#general-refs">General/ Multi-Disciplinary References</a></h5>
 
-This page serves as a repository for all the austere medicine resources we've collected and created.  It is broken down by subject as noted above.  There is some overlap both within these subject areas and also between the stuff on this page and the general [Clinical Resources Page](https://www.rykerrmedical.com/clinical-resources/), so be sure to have a look around.
+This page serves as a repository for all the austere medicine resources we've collected and created.  It is broken down by subject as noted above.  There's some overlap both within these subject areas and also between the stuff on this page and the general [Clinical Resources Page](https://www.rykerrmedical.com/clinical-resources/), so be sure to have a look around.
 
 Each section (except for the last) is broken down as so:
 - Fundamental Knowledge - key words and terms to get you started on some self-directed learning in the space
