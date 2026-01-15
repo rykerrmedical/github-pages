@@ -141,33 +141,28 @@ async function approveEdAppUsers() {
             console.log('Clicked verify option, waiting for confirmation modal...');
             await new Promise(resolve => setTimeout(resolve, 2000));
             
-            // Wait for and click the confirmation "Verify" button in the modal
+            // Click the confirmation "Verify" button in the modal
             console.log('Looking for confirmation button...');
-            try {
-              await page.waitForSelector('button:has-text("Verify")', { timeout: 5000 });
-              
-              const confirmClicked = await page.evaluate(() => {
-                // Find the blue "Verify" button in the modal
-                const buttons = Array.from(document.querySelectorAll('button'));
-                const verifyButton = buttons.find(btn => btn.textContent.trim() === 'Verify');
-                if (verifyButton) {
-                  verifyButton.click();
-                  return true;
-                }
-                return false;
-              });
-              
-              if (confirmClicked) {
-                console.log('Clicked confirmation button, waiting...');
-                await new Promise(resolve => setTimeout(resolve, 3000));
-                
-                results.approved.push(user.name);
-                console.log(`✓ Approved: ${user.name}`);
-              } else {
-                results.errors.push(`Could not find confirmation button for ${user.name}`);
+            
+            const confirmClicked = await page.evaluate(() => {
+              // Find the blue "Verify" button in the modal
+              const buttons = Array.from(document.querySelectorAll('button'));
+              const verifyButton = buttons.find(btn => btn.textContent.trim() === 'Verify');
+              if (verifyButton) {
+                verifyButton.click();
+                return true;
               }
-            } catch (error) {
-              results.errors.push(`Confirmation modal error for ${user.name}: ${error.message}`);
+              return false;
+            });
+            
+            if (confirmClicked) {
+              console.log('Clicked confirmation button, waiting...');
+              await new Promise(resolve => setTimeout(resolve, 3000));
+              
+              results.approved.push(user.name);
+              console.log(`✓ Approved: ${user.name}`);
+            } else {
+              results.errors.push(`Could not find confirmation button for ${user.name}`);
             }
           } else {
             results.errors.push(`Could not find or click verify option for ${user.name}`);
