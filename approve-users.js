@@ -101,35 +101,50 @@ async function approveEdAppUsers() {
           console.log(`Approving user: ${user.name}`);
           
           // Find the row again and click its options button
-          const optionsButton = await page.evaluateHandle((userName) => {
+          const clicked = await page.evaluate((userName) => {
             const rows = document.querySelectorAll('tr[data-testid^="row-"]');
             for (const row of rows) {
               const nameCell = row.querySelector('td[data-testid="cell-Name"]');
               if (nameCell && nameCell.textContent.trim() === userName) {
-                return row.querySelector('button[data-testid="user-options-button"]');
+                const button = row.querySelector('button[data-testid="user-options-button"]');
+                if (button) {
+                  button.click();
+                  return true;
+                }
               }
             }
-            return null;
+            return false;
           }, user.name);
           
-          if (optionsButton) {
-            await optionsButton.click();
-            await new Promise(resolve => setTimeout(resolve, 1000));
-            
-            // Look for and click the "Verify User" option
-            const verifyOption = await page.$('li[data-testid="verify-user-option"]');
-            
-            if (verifyOption) {
-              await verifyOption.click();
-              await new Promise(resolve => setTimeout(resolve, 2000));
-              
-              results.approved.push(user.name);
-              console.log(`✓ Approved: ${user.name}`);
-            } else {
-              results.errors.push(`Could not find verify option for ${user.name}`);
+          if (!clicked) {
+            results.errors.push(`Could not find or click options button for ${user.name}`);
+            continue;
+          }
+          
+          // Wait for the menu to appear
+          await new Promise(resolve => setTimeout(resolve, 2000));
+          
+          // Look for and click the "Verify User" option
+          console.log('Looking for verify option...');
+          await page.waitForSelector('li[data-testid="verify-user-option"]', { timeout: 5000 });
+          
+          const verifyClicked = await page.evaluate(() => {
+            const option = document.querySelector('li[data-testid="verify-user-option"]');
+            if (option) {
+              option.click();
+              return true;
             }
+            return false;
+          });
+          
+          if (verifyClicked) {
+            console.log('Clicked verify option, waiting for confirmation...');
+            await new Promise(resolve => setTimeout(resolve, 3000));
+            
+            results.approved.push(user.name);
+            console.log(`✓ Approved: ${user.name}`);
           } else {
-            results.errors.push(`Could not find options button for ${user.name}`);
+            results.errors.push(`Could not find or click verify option for ${user.name}`);
           }
         } catch (error) {
           results.errors.push(`Error approving ${user.name}: ${error.message}`);
