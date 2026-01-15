@@ -25,8 +25,17 @@ export async function handler(event) {
       exp: exp,
       nbf: now,
       context: {
-        user: { name: "Ryan", email: "ryan@rykerrmedical.com", moderator: isModerator, avatar: "" },
-        features: { livestreaming: true, recording: true, "outbound-call": true }
+        user: {
+            name: isModerator ? "Ryan" : "Guest",
+            email: isModerator ? "ryan@rykerrmedical.com" : "",
+            moderator: isModerator ? "true" : "false",
+            avatar: ""
+        },
+        features: {
+            livestreaming: isModerator ? "true" : "false",
+            recording: isModerator ? "true" : "false",
+            "outbound-call": isModerator ? "true" : "false"
+        }
       }
     };
 
