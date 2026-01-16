@@ -1,7 +1,7 @@
 document.getElementById('join-btn').addEventListener('click', function() {
   const password = document.getElementById('meeting-password').value;
   
-  fetch(`https://jitsi-for-rykerr-medical.netlify.app/.netlify/functions/jitsi-token?room=rykerrmedicalmeeting&password=${encodeURIComponent(password)}`)
+  fetch(`https://github-pages-kappa-rust.vercel.app/api/jitsi-token?room=rykerrmedicalmeeting&password=${encodeURIComponent(password)}`)
     .then(res => res.json())
     .then(({ token }) => {
       // Hide password form, show meeting
