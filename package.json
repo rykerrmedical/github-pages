@@ -1,23 +1,6 @@
 {
-  "name": "github-pages",
-  "version": "1.0.0",
-  "description": "<img src=\"https://octodex.github.com/images/welcometocat.png\" align=\"right\" height=\"250px\" />",
-  "main": "generate-jwt.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rykerrmedical/github-pages.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rykerrmedical/github-pages/issues"
-  },
-  "homepage": "https://github.com/rykerrmedical/github-pages#readme",
+  "type": "module",
   "dependencies": {
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.0"
   }
 }
