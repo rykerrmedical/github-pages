@@ -19,7 +19,7 @@ export default async function handler(req, res) {
     const privateKeyRaw = process.env.JITSI_PRIVATE_KEY;
     if (!privateKeyRaw) throw new Error('Missing JITSI_PRIVATE_KEY');
     
-    const privateKey = privateKeyRaw.replace(/\\n/g, '\n');
+    const privateKey = privateKeyRaw; // Use as-is, already has real newlines
     const now = Math.floor(Date.now() / 1000);
     const exp = now + 2 * 60 * 60;
     
