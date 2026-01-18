@@ -1,7 +1,7 @@
 document.getElementById('join-btn').addEventListener('click', function() {
   const password = document.getElementById('meeting-password').value;
   
-  fetch(`https://github-pages-kappa-rust.vercel.app/api/jitsi-token?room=rykerrmedicalmeeting&password=${encodeURIComponent(password)}`)
+    fetch(`https://jitsi-token-api.vercel.app/api/jitsi-token?room=rykerrmedicalmeeting&password=${encodeURIComponent(password)}`)
     .then(res => {
         console.log("Response status:", res.status);
         if (!res.ok) {
