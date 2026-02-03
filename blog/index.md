@@ -62,4 +62,5 @@ permalink: /blog/
 })();
 </script>
 
+
 also, if you're the nerdy type and want the blog's RSS feed for whatever RSS app or feed tool you use, it is [https://www.rykerrmedical.com/blog-feed.xml](https://www.rykerrmedical.com/blog-feed.xml)
