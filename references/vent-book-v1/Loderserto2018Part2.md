@@ -4,9 +4,9 @@ layout: default
 ---
 
 <div class="ref-controls">
-  <a href="https://rebelem.com/simplifying-mechanical-ventilation-part-2-goals-of-mechanical-ventilation-factors-controlling-oxygenation-and-ventilation/" target="_blank" class="ref-link">Original Link</a>
-  <a href="https://web.archive.org/web/https://rebelem.com/simplifying-mechanical-ventilation-part-2-goals-of-mechanical-ventilation-factors-controlling-oxygenation-and-ventilation/" target="_blank" class="ref-link">Archive Link</a>
-  <button onclick="loadArchive()" class="ref-button">View Archive in Frame</button>
+  <a href="https://rebelem.com/simplifying-mechanical-ventilation-part-2-goals-of-mechanical-ventilation-factors-controlling-oxygenation-and-ventilation/" target="_blank" class="ref-link">Link to Original Website</a>
+  <a href="https://web.archive.org/web/https://rebelem.com/simplifying-mechanical-ventilation-part-2-goals-of-mechanical-ventilation-factors-controlling-oxygenation-and-ventilation/" target="_blank" class="ref-link">Link to Page on Archive.org</a>
+  <button onclick="loadArchive()" class="ref-button">View Archive Page in Frame</button>
 </div>
 
 <div class="ref-frame-container">
