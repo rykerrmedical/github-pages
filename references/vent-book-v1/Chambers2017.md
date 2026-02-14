@@ -6,7 +6,7 @@ layout: default
 <div class="ref-controls">
   <a href="https://www.onlinelibrary.wiley.com/doi/full/10.1111/anae.14113" target="_blank" class="ref-link">Link to Original Website</a>
   <a href="https://web.archive.org/web/https://www.onlinelibrary.wiley.com/doi/full/10.1111/anae.14113" target="_blank" class="ref-link">Link to Page on Archive.org</a>
-  <button onclick="loadArchive()" class="ref-button">View Archive Page in Frame</button>
+  <a href="#" onclick="loadArchive(); return false;" class="ref-link">View Archive Page in Frame</a>
 </div>
 
 <div class="ref-frame-container">
