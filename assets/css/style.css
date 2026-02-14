@@ -626,3 +626,17 @@ body.high-contrast .nav-links .submenu a:hover {
     right: 0; /* align submenu to the right edge of its parent */
   }
 }
+
+
+
+.ref-frame-container {
+  width: 100%;
+  height: 85vh;
+  min-height: 600px;
+}
+
+.ref-frame-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
