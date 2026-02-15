@@ -4,7 +4,7 @@ title: "Case: 4 y/o F with Tetralogy of Fallot"
 date: 2026-02-15
 image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/llc_thumbnail.jpg
 tags: [austere medicine, hemodynamics, pediatrics]
-blurb: brief review of tetralogy of fallot and implciations in transport
+blurb: brief review of tetralogy of fallot and implications in transport
 ---
 
 The patient was a 4-year-old female being transferred out of a conflict zone for care in another recipient country. Patient had known history of Tetralogy of Fallot (ToF), needing follow-up care with pediatric cardiology unavailable in host country.
