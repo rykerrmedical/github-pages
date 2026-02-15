@@ -56,17 +56,17 @@ And thatâ€™s it. One other thing worth reviewing for the treatment of ToF are â€
 
 References:
 
-[Wilson & friends, 2019](www.references.rykerrmedical.com/Wilson2019)
+[Wilson & friends, 2019](https://references.rykerrmedical.com/Wilson2019)
 
 ^overview & the pink-to-blue graphic
 
 
-[Vanderlaan & friends, 2023](www.references.rykerrmedical.com/Wanderlaan2023)
+[Vanderlaan & friends, 2023](https://references.rykerrmedical.com/Wanderlaan2023)
 
 ^normal tx for ToF
 
 
-[Bertanou & friends, 1978](www.references.rykerrmedical.com/Bertanou1978)
+[Bertanou & friends, 1978](https://references.rykerrmedical.com/Bertanou1978)
 
 ^old paper, life expectancy w/o sx
 
