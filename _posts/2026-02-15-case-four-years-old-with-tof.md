@@ -61,7 +61,7 @@ References:
 ^overview & the pink-to-blue graphic
 
 
-[Vanderlaan & friends, 2023](https://references.rykerrmedical.com/Wanderlaan2023)
+[Vanderlaan & friends, 2023](https://references.rykerrmedical.com/Vanderlaan2023)
 
 ^normal tx for ToF
 
