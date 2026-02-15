@@ -24,10 +24,10 @@ The decision was made to administer IV fluids in 100ml increments (which was jus
 Now the patient did just fine on ambient air and the blood pressure improved with fluid boluses (three in total). She was, in fact, able to cross and exit out of the region without issue.  SpO2 stayed in the 80s, did not cross below 80; it also did not get above 89.  Beyond that, there is no way of knowing more about her outcome.
 
 Questions during and after the case included the following:
-•    Does the concern for oxygen causing closure of the PDA still persist at 4 years?
-•    And when is it justified to give oxygen to a patient with ToF/ in a case like this?
-•    Is there a normal SpO2 range for this sort of thing? It is likely highly variable and based on patient’s specific history, but is there a ballpark for when this is not known?
-•    How much caution is needed with IV fluids in ToF?
+- Does the concern for oxygen causing closure of the PDA still persist at 4 years?
+- And when is it justified to give oxygen to a patient with ToF/ in a case like this?
+- Is there a normal SpO2 range for this sort of thing? It is likely highly variable and based on patient’s specific history, but is there a ballpark for when this is not known?
+- How much caution is needed with IV fluids in ToF?
 
 Now before diving in to all the details, a quick review of the pathophysiology:
 
