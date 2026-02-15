@@ -31,7 +31,7 @@ Questions during and after the case included the following:
 
 Now before diving in to all the details, a quick review of the pathophysiology:
 
-<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-02-15-case-four-years-old-with-tof/2_sketch_of_tof_bloodflow" alt="sketch_of_tof_bloodflow"/>
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-02-15-case-four-years-old-with-tof/2_sketch_of_tof_bloodflow.JPG" alt="sketch_of_tof_bloodflow"/>
 
 (these sorts of stick figure graphics to describe hemodynamic states are discussed in another blog post: [Hemodynamic Sketches](https://www.rykerrmedical.com/2023/12/05/hemodynamic-sketches.html))
 
@@ -41,7 +41,7 @@ Now the pulmonary stenosis part of this means that blood flow out of the right v
 
 Normally the ductus arteriosus closes at birth. It is designated a PDA when needed for survival (i.e., a “ductal-dependent lesion”) or when it persists into adulthood. Now in this case with a pink (well-perfused) 4-year-old and the benefit of hindsight, it is most likely that the PDA associated with her ToF has long-since closed. While it could be the case that she had surgery to keep it patent, that is unlikely in the absence of cyanosis, especially at this age.  It could be assumed that her case sits left-of-center on this graphic representing the spectrum of ToF:
 
-<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-02-15-case-four-years-old-with-tof/3_pink_vs_blue_baby" alt="pink_vs_blue_baby"/>
+<img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-02-15-case-four-years-old-with-tof/3_pink_vs_blue_baby.JPG" alt="pink_vs_blue_baby"/>
 
 So withholding oxygen to prevent the closure of a PDA in this case wasn’t necessarily the right move – it would have been totally fine to give oxygen if needed.  That said, SpO2 change with supplemental oxygen would be dependent on the severity of the disease and there may not have been much of a change with more oxygen. She was on 1lpm at the start and maintained those low sats on ambient air, but could have had a better SpO2 with more oxygen.
 
@@ -56,12 +56,17 @@ And that’s it. One other thing worth reviewing for the treatment of ToF are �
 
 References:
 
-[Wilson & friends, 2019](references.rykerrmedical.com/Wilson2019)
+[Wilson & friends, 2019](www.references.rykerrmedical.com/Wilson2019)
+
 ^overview & the pink-to-blue graphic
 
-[Vanderlaan & friends, 2023](references.rykerrmedical.com/Wanderlaan2023)
+
+[Vanderlaan & friends, 2023](www.references.rykerrmedical.com/Wanderlaan2023)
+
 ^normal tx for ToF
 
-[Bertanou & friends, 1978](references.rykerrmedical.com/Bertanou1978)
+
+[Bertanou & friends, 1978](www.references.rykerrmedical.com/Bertanou1978)
+
 ^old paper, life expectancy w/o sx
 
