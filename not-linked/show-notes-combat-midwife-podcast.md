@@ -29,16 +29,16 @@ Rykerr Medical's Field Reference Guides <br>
 [Protocols & Cheat Sheets Page on Website](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/) <br>
 [Field Reference Guides Draft - view in browser](https://archive.org/details/clinical-guides/Field%20Reference%20Guides%20Draft%20with%20Links/) <br>
 [Field Reference Guides Draft - pdf download](https://archive.org/download/clinical-guides/Field%20Reference%20Guides%20Draft%20with%20Links.pdf) <br>
-- see the general section OB/GYN
-- see the specific section on Abnormal Delivery
+see the general section OB/GYN  <br>
+see the specific section on Abnormal Delivery <br>
 <br>
 [WHO Page on Maternal Health](https://www.who.int/health-topics/maternal-health)<br>
 <br>
 [Shoulder Dystocia, article that covers the HELPERR Menmonic mentioned by Jessica](www.references.rykerrmedical.com/Baxley2004_Shoulder_Dystocia) <br>
 <br>
 Fetal Heart Monitoring stuff: <br>
-- VEAL CHOP Mnemonic for assessing FHTs, just google it <br>
-- Rykerr Medical's Fetal Monitoring Cheat Sheet [view in browser](https://archive.org/details/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft) [pdf download](https://archive.org/download/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft.pdf) <br>
+VEAL CHOP Mnemonic for assessing FHTs, just google it <br>
+Rykerr Medical's Fetal Monitoring Cheat Sheet [view in browser](https://archive.org/details/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft) [pdf download](https://archive.org/download/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft.pdf) <br>
 <br>
 [Bakri Balloon for Tamponade of Postpartum Hemmorhage](references.rykerrmedical.com/Darwish2017_Bakri_Balloon) <br>
 <br>
