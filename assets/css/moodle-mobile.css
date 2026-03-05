@@ -1,0 +1,159 @@
+/*
+ * Rykerr Medical LLC — Moodle Mobile App Remote Theme
+ * Palette: Crimson #a31232 | Black #060608 | Gray #747373
+ * 
+ * Host this file on GitHub Pages and point your Moodle
+ * Mobile appearance > CSS URL to it.
+ * Append ?v=1 to the URL and bump the number when you update.
+ */
+
+/* ===========================
+   LIGHT THEME (default)
+   =========================== */
+
+:root {
+
+  /* --- Header / Toolbar --- */
+  --core-header-toolbar-background: #a31232;
+  --core-header-toolbar-color: #ffffff;
+  --core-header-toolbar-border-width: 0;
+
+  /* --- Bottom Tab Bar --- */
+  --core-bottom-tabs-background: #060608;
+  --core-bottom-tabs-background-selected: transparent;
+  --core-bottom-tabs-color: #747373;
+  --core-bottom-tabs-color-selected: #a31232;
+  --core-bottom-tabs-badge-color: #a31232;
+  --core-bottom-tabs-badge-text-color: #ffffff;
+
+  /* --- Course Tabs / Inner Tabs --- */
+  --core-tabs-background: #060608;
+  --core-tab-background: #060608;
+  --core-tab-color: #747373;
+  --core-tab-color-active: #a31232;
+  --core-tab-border-color-active: #a31232;
+
+  /* --- Primary / Accent Colors --- */
+  --core-color: #a31232;
+
+  /* --- Login Page --- */
+  --core-login-background: #060608;
+  --core-login-text-color: #ffffff;
+  --core-login-input-background: #1a1a1a;
+  --core-login-input-color: #ffffff;
+
+  /* --- Links --- */
+  --core-link-color: #a31232;
+
+  /* --- Progress Bar --- */
+  --core-progressbar-color: #a31232;
+
+  /* --- Items / List Backgrounds --- */
+  --core-items-background: #ffffff;
+  --core-items-color: #060608;
+
+}
+
+/* Header toolbar — direct selector for stronger specificity */
+ion-header ion-toolbar {
+  --core-header-toolbar-background: #a31232;
+  --core-header-toolbar-color: #ffffff;
+  --core-header-toolbar-border-width: 0;
+}
+
+/* Bottom tab bar */
+ion-tab-bar.mainmenu-tabs {
+  --core-bottom-tabs-background: #060608;
+  --core-bottom-tabs-background-selected: transparent;
+  --core-bottom-tabs-color: #747373;
+  --core-bottom-tabs-color-selected: #a31232;
+  --core-bottom-tabs-badge-color: #a31232;
+  --core-bottom-tabs-badge-text-color: #ffffff;
+}
+
+/* Inner course / content tabs */
+core-tabs,
+core-tabs-outlet {
+  --core-tabs-background: #ffffff;
+  --core-tab-background: #ffffff;
+  --core-tab-color: #747373;
+  --core-tab-color-active: #a31232;
+  --core-tab-border-color-active: #a31232;
+}
+
+/* Buttons — primary actions */
+ion-button {
+  --background: #a31232;
+  --background-hover: #741021;
+  --background-activated: #741021;
+  --color: #ffffff;
+}
+
+/* Toggle / checkbox accent */
+ion-toggle {
+  --background-checked: #a31232;
+}
+
+/* FAB (floating action button) */
+ion-fab-button {
+  --background: #a31232;
+  --color: #ffffff;
+}
+
+
+/* ===========================
+   DARK THEME
+   =========================== */
+
+:root.dark {
+
+  /* --- Header / Toolbar --- */
+  --core-header-toolbar-background: #060608;
+  --core-header-toolbar-color: #ffffff;
+  --core-header-toolbar-border-width: 1px;
+  --core-header-toolbar-border-color: #a31232;
+
+  /* --- Bottom Tab Bar --- */
+  --core-bottom-tabs-background: #060608;
+  --core-bottom-tabs-background-selected: transparent;
+  --core-bottom-tabs-color: #747373;
+  --core-bottom-tabs-color-selected: #a31232;
+
+  /* --- Tabs --- */
+  --core-tabs-background: #0e0e10;
+  --core-tab-background: #0e0e10;
+  --core-tab-color: #747373;
+  --core-tab-color-active: #a31232;
+  --core-tab-border-color-active: #a31232;
+
+  /* --- General --- */
+  --core-link-color: #c93a5a;
+  --core-color: #a31232;
+
+  /* --- Items / List Backgrounds --- */
+  --core-items-background: #1a1a1a;
+  --core-items-color: #e0e0e0;
+}
+
+/* Dark mode header */
+:root.dark ion-header ion-toolbar {
+  --core-header-toolbar-background: #060608;
+  --core-header-toolbar-color: #ffffff;
+  --core-header-toolbar-border-width: 1px;
+  --core-header-toolbar-border-color: #a31232;
+}
+
+/* Dark mode bottom tabs */
+:root.dark ion-tab-bar.mainmenu-tabs {
+  --core-bottom-tabs-background: #060608;
+  --core-bottom-tabs-color: #747373;
+  --core-bottom-tabs-color-selected: #a31232;
+}
+
+/* Dark mode buttons */
+:root.dark ion-button {
+  --background: #a31232;
+  --background-hover: #741021;
+  --background-activated: #741021;
+  --color: #ffffff;
+}

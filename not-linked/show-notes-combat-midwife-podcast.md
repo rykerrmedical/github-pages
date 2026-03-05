@@ -32,7 +32,7 @@ Rykerr Medical's Field Reference Guides <br>
 see the general section OB/GYN  <br>
 see the specific section on Abnormal Delivery <br>
 <br>
-[WHO Page on Maternal Health](https://www.who.int/health-topics/maternal-health)<br>
+[WHO Page on Maternal Health](https://www.who.int/health-topics/maternal-health) <br>
 <br>
 [Shoulder Dystocia, article that covers the HELPERR Menmonic mentioned by Jessica](www.references.rykerrmedical.com/Baxley2004_Shoulder_Dystocia) <br>
 <br>
