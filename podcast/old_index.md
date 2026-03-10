@@ -29,20 +29,32 @@ permalink: /podcast/
 
 <script>
 async function loadFeed() {
-  const latestContainer = document.getElementById("latest-episode");
-  const gridContainer = document.getElementById("episode-grid");
-  const tagSelect = document.getElementById("tag-select");
+  const CORS_PROXY = "https://api.allorigins.win/raw?url=";
+  const feedUrl = "https://rykerrmedical.github.io/landing/feed.xml";
 
   try {
-    const resp = await fetch("{{ '/podcast/episodes.json' | relative_url }}");
-    if (!resp.ok) throw new Error(`Failed to load episodes: ${resp.status}`);
-    const data = await resp.json();
+    const resp = await fetch(CORS_PROXY + encodeURIComponent(feedUrl));
+    const xmlText = await resp.text();
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(xmlText, "application/xml");
+    const items = Array.from(xml.querySelectorAll("item"));
 
+    const latestContainer = document.getElementById("latest-episode");
+    const gridContainer = document.getElementById("episode-grid");
+    const tagSelect = document.getElementById("tag-select");
+
+    // --- collect all tags for dropdown ---
     let allTagsSet = new Set();
 
-    const episodes = data.map((ep, i) => {
-      const pubDate = ep.pubDate ? new Date(ep.pubDate).toDateString() : "";
+    const episodes = items.map((item, i) => {
+      const title = item.querySelector("title")?.textContent || "Untitled";
+      const link = item.querySelector("link")?.textContent;
+      const enclosure = item.querySelector("enclosure");
+      const audioUrl = enclosure?.getAttribute("url");
+      const pubDateRaw = item.querySelector("pubDate")?.textContent;
+      const pubDate = pubDateRaw ? new Date(pubDateRaw).toDateString() : "";
 
+      const rawDesc = item.querySelector("description")?.textContent || "";
       function sanitizeHtml(input) {
         const tmp = document.createElement("div");
         tmp.innerHTML = input;
@@ -52,23 +64,25 @@ async function loadFeed() {
         });
         return tmp.innerHTML;
       }
-      const description = sanitizeHtml(ep.description || "");
+      const description = sanitizeHtml(rawDesc);
 
-      const categories = (ep.categories || []);
+      let image = null;
+      const itunesImage = item.getElementsByTagName("itunes:image")[0];
+      if (itunesImage) image = itunesImage.getAttribute("href");
+      else {
+        const mediaContent = item.getElementsByTagName("media:content")[0];
+        image = mediaContent?.getAttribute("url") || null;
+      }
+
+      const categories = Array.from(item.querySelectorAll("category"))
+                              .map(c => c.textContent.trim().toLowerCase());
       categories.forEach(tag => allTagsSet.add(tag));
 
-      return {
-        title: ep.title || "Untitled",
-        link: ep.link,
-        audioUrl: ep.audioUrl,
-        pubDate,
-        description,
-        image: ep.image,
-        categories,
-        index: i,
-        applePodcastsUrl: ep.applePodcastsUrl,
-        spotifyUrl: ep.spotifyUrl,
-      };
+      // Extract platform-specific URLs
+      const applePodcastsUrl = item.querySelector("apple")?.textContent?.trim() || null;
+      const spotifyUrl = item.querySelector("spotify")?.textContent?.trim() || null;
+
+      return { title, link, audioUrl, pubDate, description, image, categories, index: i, applePodcastsUrl, spotifyUrl };
     });
 
     // --- populate dropdown ---
@@ -96,7 +110,8 @@ async function loadFeed() {
         div.style.display = "flex";
         div.style.flexDirection = "column";
         div.style.gap = "0.5rem";
-
+        
+        // Create a URL-friendly ID from the title
         const episodeId = ep.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
         div.id = episodeId;
 
@@ -219,6 +234,7 @@ async function loadFeed() {
           }
         }
 
+        // featured episode only if no filter and first episode
         if (ep.index === 0 && !filterTag) latestContainer.appendChild(div);
         else gridContainer.appendChild(div);
       });
@@ -232,12 +248,6 @@ async function loadFeed() {
       renderEpisodes(tagSelect.value.toLowerCase());
     });
 
-    // --- scroll to hash if present ---
-    if (window.location.hash) {
-      const target = document.getElementById(window.location.hash.slice(1));
-      if (target) target.scrollIntoView({ behavior: "smooth" });
-    }
-
   } catch (err) {
     gridContainer.textContent = "Error loading episodes.";
     console.error(err);
@@ -245,4 +255,14 @@ async function loadFeed() {
 }
 
 document.addEventListener("DOMContentLoaded", loadFeed);
+
+document.addEventListener("click", function (e) {
+  if (e.target.matches(".read-more")) {
+    const btn = e.target;
+    const fullText = decodeURIComponent(btn.getAttribute("data-full"));
+    const container = btn.previousElementSibling;
+    if (container) container.innerHTML = fullText;
+    btn.remove();
+  }
+});
 </script>
