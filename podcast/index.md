@@ -34,7 +34,7 @@ async function loadFeed() {
   const tagSelect = document.getElementById("tag-select");
 
   try {
-    const resp = await fetch("{{ '/podcast/episodes.json' | relative_url }}");
+    const resp = await fetch("/podcast/episodes.json");
     if (!resp.ok) throw new Error(`Failed to load episodes: ${resp.status}`);
     const data = await resp.json();
 
