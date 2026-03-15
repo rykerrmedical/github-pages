@@ -28,9 +28,12 @@ And then to wrap it all up, here’s one last graphic that combines the various 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2021-06-20-dead-space-illustrations/dead-space-summary.jpg" alt="dead space summary" />
 
 Further reading on the idea:
-· Vent management/ application of these ideas is covered in Rykerr Medical’s Vent Management Guide
-· Super-detailed content on dead space from Deranged Physiology
-· Anatomy review from a free online textbook by OpenStax
+
+· Vent management/ application of these ideas is covered in [Rykerr Medical’s Vent Management Guide](https://www.rykerrmedical.com/vent-management/)
+
+· [Super-detailed content on dead space from Deranged Physiology](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-074/dead-space-and-its-components)
+
+· Anatomy review from a [free online textbook by OpenStax](https://openstax.org/details/books/anatomy-and-physiology-2e)
 
 And one final closing thought: if you’re interested in creating content like this, we’d be happy to both help and share via our platform. The plan is that we’ll eventually be able to award continuing education to folks who contribute in this way. For more on all of that, check it out at [www.rykerrmedical.com/coned-ceus](http://www.rykerrmedical.com/coned-ceus). 
 
