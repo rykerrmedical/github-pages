@@ -22,7 +22,7 @@ CEU offerings are being hosted on Moodle at [lms.rykerrmedical.com](https://lms.
 2. Create a free account
 3. Click "site home" and then "available courses"
 4. Get after it :)
-5. Also considewr donwloading the app [apple](https://itunes.apple.com/app/moodle-mobile/id633359593?mt=8) [android](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile)
+5. Also consider donwloading the app: [apple](https://itunes.apple.com/app/moodle-mobile/id633359593?mt=8) [android](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile)
 
 <br>
 
