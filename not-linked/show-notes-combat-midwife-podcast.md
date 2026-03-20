@@ -18,7 +18,7 @@ Facebook: [Combat Midwife on Facebook](https://www.facebook.com/combatmidwife/) 
 X: [@CombatMidwife](https://twitter.com/Combatmidwife) <br>
 Discount Code: RYKERR <br>
 <br>
-[EMS and Midwives: Navigating the Out-of-Hospital Transfer, article by Jessica (aka The Combat Midwife)](https://.references.rykerrmedical.com/Arno2018_EMS_and_Midwives)<br>
+[EMS and Midwives: Navigating the Out-of-Hospital Transfer, article by Jessica (aka The Combat Midwife)](https://.references.rykerrmedical.com/Arno2018_EMS_and_Midwives.html)<br>
 <br>
 Prolonged Field Care Podcast 245: Postpartum Hemorrhage <br>
 [Apple](https://podcasts.apple.com/us/podcast/prolonged-field-care-podcast-245-postpartum-hemorrhage/id1570149639?i=1000724329202) <br>
@@ -34,13 +34,13 @@ see the specific section on Abnormal Delivery <br>
 <br>
 [WHO Page on Maternal Health](https://www.who.int/health-topics/maternal-health) <br>
 <br>
-[Shoulder Dystocia, article that covers the HELPERR Menmonic mentioned by Jessica](https://.references.rykerrmedical.com/Baxley2004_Shoulder_Dystocia) <br>
+[Shoulder Dystocia, article that covers the HELPERR Menmonic mentioned by Jessica](https://.references.rykerrmedical.com/Baxley2004_Shoulder_Dystocia.html) <br>
 <br>
 Fetal Heart Monitoring stuff: <br>
 VEAL CHOP Mnemonic for assessing FHTs, just google it <br>
 Rykerr Medical's Fetal Monitoring Cheat Sheet [view in browser](https://archive.org/details/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft) [pdf download](https://archive.org/download/clinical-guides/Fetal%20Monitoring%20Cheat%20Sheet%20Draft.pdf) <br>
 <br>
-[Bakri Balloon for Tamponade of Postpartum Hemmorhage](https://references.rykerrmedical.com/Darwish2017_Bakri_Balloon) <br>
+[Bakri Balloon for Tamponade of Postpartum Hemmorhage](https://references.rykerrmedical.com/Darwish2017_Bakri_Balloon.html) <br>
 <br>
 Maternal Newborn Nursing, free textbook <br>
 [View on OpenStax](https://openstax.org/details/books/maternal-newborn-nursing) <br>
