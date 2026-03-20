@@ -16,6 +16,16 @@ CEU offerings are being hosted on Moodle at [lms.rykerrmedical.com](https://lms.
 
 <br>
 
+### How It Works
+
+1. Navigate to [lms.rykerrmedical.com](https://lms.rykerrmedical.com)
+2. Create a free account
+3. Click "site home" and then "available courses"
+4. Get after it :)
+5. Also considewr donwloading the app [apple](https://itunes.apple.com/app/moodle-mobile/id633359593?mt=8) [android](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile)
+
+<br>
+
 ### Summary of Offerings
 [**Vent Book v1 Review - 8 hours - Airway, Respiration & Ventilation**](https://lms.rykerrmedical.com/course/view.php?id=8)
 <br>
