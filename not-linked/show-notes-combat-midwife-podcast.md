@@ -18,7 +18,7 @@ Facebook: [Combat Midwife on Facebook](https://www.facebook.com/combatmidwife/) 
 X: [@CombatMidwife](https://twitter.com/Combatmidwife) <br>
 Discount Code: RYKERR <br>
 <br>
-[EMS and Midwives: Navigating the Out-of-Hospital Transfer, article by Jessica (aka The Combat Midwife)](https://.references.rykerrmedical.com/Arno2018_EMS_and_Midwives.html)<br>
+[EMS and Midwives: Navigating the Out-of-Hospital Transfer, article by Jessica (aka The Combat Midwife)](https://references.rykerrmedical.com/Arno2018_EMS_and_Midwives.html)<br>
 <br>
 Prolonged Field Care Podcast 245: Postpartum Hemorrhage <br>
 [Apple](https://podcasts.apple.com/us/podcast/prolonged-field-care-podcast-245-postpartum-hemorrhage/id1570149639?i=1000724329202) <br>
@@ -34,7 +34,7 @@ see the specific section on Abnormal Delivery <br>
 <br>
 [WHO Page on Maternal Health](https://www.who.int/health-topics/maternal-health) <br>
 <br>
-[Shoulder Dystocia, article that covers the HELPERR Menmonic mentioned by Jessica](https://.references.rykerrmedical.com/Baxley2004_Shoulder_Dystocia.html) <br>
+[Shoulder Dystocia, article that covers the HELPERR Menmonic mentioned by Jessica](https://references.rykerrmedical.com/Baxley2004_Shoulder_Dystocia.html) <br>
 <br>
 Fetal Heart Monitoring stuff: <br>
 VEAL CHOP Mnemonic for assessing FHTs, just google it <br>
