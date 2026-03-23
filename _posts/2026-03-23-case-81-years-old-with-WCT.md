@@ -69,7 +69,7 @@ Specifically, this part on BBBs:
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-03-23-case-81-years-old-with-WCT/7_BBBs_from_Dubins.jpeg" alt="7_BBBs_from_Dubins"/>
 
-And just to be clear, that graphic that was included in the 12-lead reference is taken from Dubin’s EKG book.  But don’t buy a copy, just [borrow it off the internet…]([https://archive.org/details/full_textbooks/Rapid%20Interpretation%20of%20EKGs](https://archive.org/details/full_textbooks/Rapid%20Interpretation%20of%20EKGs)
+And just to be clear, that graphic that was included in the 12-lead reference is taken from Dubin’s EKG book.  But don’t buy a copy, just [borrow it off the internet…](https://archive.org/details/full_textbooks/Rapid%20Interpretation%20of%20EKGs)
 
 As for the hemiblock noted in the automated interpretation, this is something often overlooked in the prehospital setting and perhaps best left to references or after-the-fact analysis.  But the Q1S3 pattern for an anterior hemiblock or S1Q3 for posterior can be reviewed here:
 
@@ -77,7 +77,7 @@ As for the hemiblock noted in the automated interpretation, this is something of
 
 (As a sidenote: the plan is to include a graphic like this in the next version of that 12-lead EKG reference, as this case flushed out that it was missing…)
 
-And for a full discussion of all the ins and outs of fascicular blocks, take a look here: [Elzari, 2019](https://references.rykerrmedical.com/Elzari2019_Fascicular_Blocks.html)
+And for a full discussion of all the ins and outs of fascicular blocks, take a look here: [Elizari, 2019](https://references.rykerrmedical.com/Elzari2019_Fascicular_Blocks.html)
 
 The AI calls it a RBB with LPFB, but not all of the findings we would expect are seen in the tracing:
 
