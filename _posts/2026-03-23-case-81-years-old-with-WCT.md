@@ -75,7 +75,7 @@ As for the hemiblock noted in the automated interpretation, this is something of
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-03-23-case-81-years-old-with-WCT/8_hemiblocks_ecgwaves.jpeg" alt="8_hemiblocks_ecgwaves"/>
 
-(As a sidenote: the plan is to include a graphic like this in the next version of that 12-lead EKG reference, as this case flushed out that it was missing…)
+(As a sidenote: the plan is to include a graphic like this in the next version of that 12-lead EKG reference, as this case fleshed out that it was missing…)
 
 And for a full discussion of all the ins and outs of fascicular blocks, take a look here: [Elzari, 2019](https://references.rykerrmedical.com/Elzari2019_Fascicular_Blocks.html)
 
@@ -87,11 +87,11 @@ That said, the pattern for RBBB + LPFB isn’t simply the stuff for RBBB *plus* 
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-03-23-case-81-years-old-with-WCT/10_RBBB_and_LPFB_findings.jpeg" alt="10_RBBB_and_LPFB_findings"/>
 
-And then digging deeper into this, it does seem that a Q-wave in lead III is generally required for a diagnosis of LPFB.  See [Perez-Reira, 2018](https://references.rykerrmedical.com/Perez-Reira2018_LPFB) for more on that idea.  So either we have a very small Q-wave that we just can’t see or there is some other explanation for the rightward axis.  Most likely would be right ventricular hypertrophy (RVH) due to some sort of chronic lung condition.  Most often this is seen in V1 and V6:
+And then digging deeper into this, it does seem that a Q-wave in lead III is generally required for a diagnosis of LPFB.  See [Perez-Reira, 2018](https://references.rykerrmedical.com/Perez-Reira2018_LPFB.html) for more on that idea.  So either we have a very small Q-wave that we just can’t see or there is some other explanation for the rightward axis.  Most likely would be right ventricular hypertrophy (RVH) due to some sort of chronic lung condition.  Most often this is seen in V1 and V6:
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-03-23-case-81-years-old-with-WCT/11_RVH_on_ekg.jpeg" alt="11_RVH_on_ekg"/>
 
-Fairly convincing in this example.  Which would mean maybe not a bifascicular block, but rather RBBB + RVH.  But no history of lung stuff was reported and it is unlikely that an elderly male has an undiagnosed congenital condition that would predispose him to RVH.  He does, however, have both HTN & DMII (and is currently hyperglycemic, so likely not well-controlled) and there is quite a strong correlation between those things and RV dysfunction (as explained by [Zhang & friends, 2024](https://references.rykerrmedical.com/Zhang2024_DM_RV_Dysfunction).
+Fairly convincing in this example.  Which would mean maybe not a bifascicular block, but rather RBBB + RVH.  But no history of lung stuff was reported and it is unlikely that an elderly male has an undiagnosed congenital condition that would predispose him to RVH.  He does, however, have both HTN & DMII (and is currently hyperglycemic, so likely not well-controlled) and there is quite a strong correlation between those things and RV dysfunction (as explained by [Zhang & friends, 2024](https://references.rykerrmedical.com/Zhang2024_DM_RV_Dysfunction.html)).
 
 While at this point it is purely academic (since the patient was relatively stable and was being taken to a center with PCI for further testing by cardiology), let’s assume that the interpretation of RBBB + LPFB is true and discuss what that means.
 
@@ -101,13 +101,13 @@ There are three main conduction pathways through the ventricles: RBB, anterior f
 
 In this case it has been posited both the RBB *and* the LPF were blocked.  Which is quite rare.  And also pretty tenuous if it’s a new-onset thing.
 
-One other fact that was passed on in patient report was that this wide-complex rhythm was intermittent.  In hindsight, it may have been a good idea to request additional EKG tracings or press for more details.  Specifically, was the change from wide to narrow rate-dependent?  More on that idea of a rate-dependent BBB [here](https://references.rykerrmedical.com/Ecg_Book2026_Phase_3_Block).
+One other fact that was passed on in patient report was that this wide-complex rhythm was intermittent.  In hindsight, it may have been a good idea to request additional EKG tracings or press for more details.  Specifically, was the change from wide to narrow rate-dependent?  More on that idea of a rate-dependent BBB [here](https://references.rykerrmedical.com/Ecg_Book2026_Phase_3_Block.html).
 
 Next thing to consider are those ST changes.  In general, ST changes can be tough to interpret when there is a concurrent BBB.  With new-onset LBBB, there are the Sgarbossa criteria:
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-03-23-case-81-years-old-with-WCT/13_sgarbossa_criteria.jpeg" alt="13_sgarbossa_criteria"/>
 
-But for RBBB, with or without hemiblock, ST changes are typically assessed as they would be in any other EKG (i.e., same as in the absence of a BBB) with one major caveat: ST depression may be seen in V1-V3.  To expand just a bit, discordant ST depression and/ or T-wave inversion can be caused by changes in depolarization/ repolarization.  This idea is discussed both in [this article by LITFL](https://reference.rykerrmedical.com/Burns_and_Buttner2024_RBBB) and [this one by EMCases](https://references.rykerrmedical.com/McLaren2020_RBBB_and_MI)
+But for RBBB, with or without hemiblock, ST changes are typically assessed as they would be in any other EKG (i.e., same as in the absence of a BBB) with one major caveat: ST depression may be seen in V1-V3.  To expand just a bit, discordant ST depression and/ or T-wave inversion can be caused by changes in depolarization/ repolarization.  This idea is discussed both in [this article by LITFL](https://references.rykerrmedical.com/Burns_and_Buttner2024_RBBB.html) and [this one by EMCases](https://references.rykerrmedical.com/McLaren2020_RBBB_and_MI.html)
 
 So there’s a good chance that the ST depression seen in this example is not due to ischemia, but rather a consequence of the conduction abnormality.  That said, if there is malperfusion to part of the conduction system, there very well may be impaired perfusion to part to the muscle of the heart itself also.  This is why a high index of suspicion is warranted with new-onset BBBs in general.
 
@@ -115,13 +115,13 @@ Moving on and reviewing a bit of physiology, perfusion to the conduction system 
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-03-23-case-81-years-old-with-WCT/14_blood_supply_RCA_LAD.jpeg" alt="14_blood_supply_RCA_LAD"/>
 
-If the RBBB and the LPF were both blocked, it would correlate to the both the RCA and the LAD being affected.  At least in this rudimentary framework.  Even though there could be some variation to this pattern or collateral flow to accomodate for inadequate bloodflow, the potential for MI, abnormal cardiac function and acute heart failure (HF) here would be high.
+If the RBBB and the LPF were both blocked, it would correlate to the both the RCA and the LAD being affected.  At least in this rudimentary framework.  Even though there could be some variation to this pattern or collateral flow to accommodate for inadequate bloodflow, the potential for MI, abnormal cardiac function and acute heart failure (HF) here would be high.
 
-On that note - one cool thing noted on the PMCardio interpretation is this “LVSense” note: “reduced LVEF les than or equal to 40% detected.”  
+On that note - one cool thing noted on the PMCardio interpretation is this “LVSense” note: “reduced LVEF less than or equal to 40% detected.”  
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-03-23-case-81-years-old-with-WCT/15_LVSense.jpeg" alt="15_LVSense"/>
 
-While this is still a concept in process with ongoing research, the idea is that AI can extrapolate a left ventricular ejection fraction (LVEF) based on the EKG tracing.  There have been papers, such as this one from [Bhattarai & friends, 2024](reference.rykerrmedical.com/Bhattarai2024_Estimating_EF) that look at correlating EKG findings to an estimate of EF.  But newer studies, like this one by [Carter & friends, 2026](references.rykerrmedical.com/Carter2026_AI_for_LEF) look to outsource this analysis to AI models.  
+While this is still a concept in process with ongoing research, the idea is that AI can extrapolate a left ventricular ejection fraction (LVEF) based on the EKG tracing.  There have been papers, such as this one from [Bhattarai & friends, 2024](https://references.rykerrmedical.com/Bhattarai2024_Estimating_EF.html) that look at correlating EKG findings to an estimate of EF.  But newer studies, like this one by [Carter & friends, 2026](https://references.rykerrmedical.com/Carter2026_AI_for_LEF.html) look to outsource this analysis to AI models.  
 
 (This was the pre-print/ before-peer-review version of a 2025 paper, it’s just that [the newer version](https://doi.org/10.1016/j.jelectrocard.2025.153878) is not freely available, so we linked this one.  If anyone has access, let us know and we’ll update it here.  Also academic paper should be free…)
 
@@ -134,8 +134,8 @@ In terms of treatment for this patient, care provided in transport was supportiv
 For those interested in this sort of thing:
 
 - Rykerr Medical’s 12-lead EKG Cheat Sheet can be found here:
-    - [Download PDF]([https://dn720707.ca.archive.org/0/items/clinical-guides/12 Lead EKG Updated Draft.pdf](https://dn720707.ca.archive.org/0/items/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf))
-    - [View in-browser]([https://archive.org/details/clinical-guides/12 Lead EKG Updated Draft/](https://archive.org/details/clinical-guides/12%20Lead%20EKG%20Updated%20Draft/))
+    - [Download PDF](https://dn720707.ca.archive.org/0/items/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf)
+    - [View in-browser](https://archive.org/details/clinical-guides/12%20Lead%20EKG%20Updated%20Draft/)
     - [Protocols & Cheat Sheets page on the website](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/)
 - PMCardio App
     - [Website](https://www.powerfulmedical.com/)
