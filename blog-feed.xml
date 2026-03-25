@@ -29,7 +29,7 @@ layout: null
       <media:thumbnail url="{{ post.image }}" />
       <enclosure url="{{ post.image }}" type="image/jpeg" length="0" />
       {% endif %}
-      <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+      <content:encoded><![CDATA[{% if post.image %}<img src="{{ post.image }}" class="webfeedsFeaturedVisual" style="display:none;" />{% endif %}{{ post.content }}]]></content:encoded>
     </item>
     {% endfor %}
   </channel>
