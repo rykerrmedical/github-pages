@@ -8,7 +8,7 @@ permalink: /not-linked/show-notes-oxygen-haterz/
 
 Here are links to the things shown and referenced in the video.  Let us know if we've missed any along the way!
 
-general link where they all live: https://archive.org/details/oxygen-haterz-references
+general link where they all live: [archive page](https://archive.org/details/oxygen-haterz-references)
 
 and by time stamp as they show in the video:
 
