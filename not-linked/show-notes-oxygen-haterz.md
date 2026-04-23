@@ -34,6 +34,10 @@ and by time stamp as they show in the video:
 
 08:06 [Video on Both Bohr and Haldane Effects](https://references.rykerrmedical.com/Desai2013_Bohr_and_Haldane)
 
+09:30 [RebelEM Article on Oxygen for COPD Patients](https://references.rykerrmedical.com/Swaminathan2015.html)
+
+09:30 [Paper Mentiuoned in Above Article, Shows Some Hypoventilation (Not Apnea!) with O2 Admin](https://references.rykerrmedical.com/Robinson2000_Hypoventilation_and_VQ_Issues_in_COPD)
+
 10:03 [Discussion of Absorption Atelectasis](https://references.rykerrmedical.com/iKnowldege2026_Oxygen_Helium_NO_Therapy)
 
 10:55 [1985 Paper on the Thing](https://references.rykerrmedical.com/Brismar1985_Proposal_of_Atelectasis)
