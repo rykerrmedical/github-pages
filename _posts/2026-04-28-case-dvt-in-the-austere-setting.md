@@ -34,7 +34,7 @@ EKG showed SR 90s, pre-existing LBBB, negative Sgarbossa. POCUS not available at
 
 Failed to keep a copy of the full 12-lead…  Also see our [12-Lead EKG Reference](https://dn720707.ca.archive.org/0/items/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf) via the [Protocols & Cheat Sheets](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/) page on our site for a review of all that.
 
-
+<br>
 Day 2: Ultrasound showed non-compressible femoral vein with clot seen inside vessel. Extends from inguinal fold to mid-thigh.
 
 [Initial Scan - shows non-compressible femoral vein and clot within vessel lumen](https://archive.org/download/files-for-blogs/scan_1_of_DVT_femoral.mp4)
@@ -49,10 +49,12 @@ Decision made to treat now with 1/2 of the available Heparin SQ (12,500u) and at
 
 Patient’s family was able to acquire Lovenox 80mg/ 8000IE SQ prefill syringes. Treatment initiated that evening.
 
+<br>
 Day 3: Second dose of Lovenox given that morning. Family instructed in administration in order to continue with the regimen.  Plan was to proceed with Lovenox BID until PO meds could be acquired.
 
 Ongoing effort initiated to procure DOAC (either Rivaroxaban or Apixiban) for prolonged treatment.
 
+<br>
 Resolution: DOAC was eventually acquired and patient transitioned from SQ Lovenox to PO agent after about a week.  Repeat US showed clot decreasing in size and no complications reported. 
 
 <br>
