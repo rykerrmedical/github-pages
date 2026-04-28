@@ -9,7 +9,7 @@ blurb: case review of an elderly male patient with DVT in a setting which exclud
 
 Not too long ago we had an interesting case of an elderly male patient who developed a DVT after an injury to the leg with subsequent immobility.  The crux of the case was that access to medical care was severely limited by an ongoing conflict and availability of medications.  It all worked out in the end, but along the way there were a handful of interesting discussions and a number of learning points.  So let’s dive in.
 
-
+<br>
 **Case Summary:**
 
 Day 1: Summoned to see a 70-year-old male who presented with swelling in the right foot. Status post injury with likely fracture one month prior (says that no imaging was done at that time), however swelling was new for the past five days.  Stated he had been relatively immobile since the injury, but does walk as needed with a cane.  Right leg is tender to touch, slightly cooler than left, swollen but non-pitting, discolored/ bruised. Negative Homan’s sign.
@@ -32,13 +32,15 @@ EKG showed SR 90s, pre-existing LBBB, negative Sgarbossa. POCUS not available at
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-04-28-case-dvt-in-the-austere-setting/image_2_monitor.JPG" alt="image_2_monitor"/>
 
-Failed to keep a copy of the full 12-lead…  Also see our [12-Lead EKG Reference](https://dn720707.ca.archive.org/0/items/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf) or see the [Protocols & Cheat Sheets page](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/) on our site for a review of all that.
+Failed to keep a copy of the full 12-lead…  Also see our [12-Lead EKG Reference](https://dn720707.ca.archive.org/0/items/clinical-guides/12%20Lead%20EKG%20Updated%20Draft.pdf) via the [Protocols & Cheat Sheets](https://www.rykerrmedical.com/clinical-resources/protocols-and-cheat-sheets/) page on our site for a review of all that.
 
 
 Day 2: Ultrasound showed non-compressible femoral vein with clot seen inside vessel. Extends from inguinal fold to mid-thigh.
 
 [Initial Scan - shows non-compressible femoral vein and clot within vessel lumen](https://archive.org/download/files-for-blogs/scan_1_of_DVT_femoral.mp4)
+
 [Second Scan - same thing, just slightly better view and  a bit slower](https://archive.org/download/files-for-blogs/scan_2_of_DVT_femoral.mp4)
+
 [Scan of Popliteal area - just to show what the distal bit of the scan looked like](https://archive.org/download/files-for-blogs/scan_3_of_DVT_popliteal.mp4)
 
 Normally this patient would be referred to the hospital, but that was not possible due to the danger involved with travel. On hand was Heparin 25,000u x1 vial (med bag stock) and Clopidogrel 75mg x30 tabs (patient had acquired “blood thinner” just in case).
@@ -53,7 +55,7 @@ Ongoing effort initiated to procure DOAC (either Rivaroxaban or Apixiban) for pr
 
 Resolution: DOAC was eventually acquired and patient transitioned from SQ Lovenox to PO agent after about a week.  Repeat US showed clot decreasing in size and no complications reported. 
 
-
+<br>
 **Initial Questions:**
 
 Of the available options on Day 2, was treatment with Heparin the best decision?
@@ -91,7 +93,7 @@ Ambulation: move the body early; this can be ambulation or passive range of moti
 [Free floating thrombus](https://references.rykerrmedical.com/Baldridge1990_Free_Floating_Thrombus.html)
 (also note that this free-floating thing can be appreciated on ultrasound)
 
-
+<br>
 **Further Learning:**
 
 [Brief Overview of Homan’s Sign](https://references.rykerrmedical.com/Physiopedia2026_Homans_Sign.html)
@@ -102,7 +104,7 @@ Ambulation: move the body early; this can be ambulation or passive range of moti
 
 [Comprehensive Overview of Anticoagulation](https://references.rykerrmedical.com/Morgovan2026_Anticoagulants_Overview.html)
 
-
+<br>
 **Follow-Up Considerations:**
 
 How reasonable is it to carry Heparin in the prehospital/ out-of hospital setting?
@@ -131,7 +133,7 @@ On that note, there is some discussion of DVT prevention in [Nursing Interventio
 
 Basically take care to mitigate the risk of developing a DVT with physical movement when resources allow, saves the trouble of having to treat the thing later on.
 
-
+<br>
 **Summary:**
 
 DVT is one of those things that we don’t focus on much in the EMS setting where hospital-based definitive care is readily accessible, but in the austere setting it is more likely to come up.  Diagnosis can be narrowed in on via clinical history and physical exam, and then confirmed by ultrasound.  As for treatment: while anticoagulation is eventually needed, there are a few other things that can be done by medics in the field until that becomes available or concurrently.
