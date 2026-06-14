@@ -32,7 +32,7 @@ Or better yet, follow the above links yourself and send something specific - you
 
 If you've found something on this page to be helpful, there's a good chance other folks where you work may see some value in it as well.  Consider sharing any of the things we've put together at the organizational or institutional level where you work.
 
-Also know that if there's a specific need, we can sometimes create content (when time and resources allow) for specific things.  Just [get in touch](https://www.rykerrmedical.com/talk-to-us/) and we can discuss further.'
+Also know that if there's a specific need, we can sometimes create content (when time and resources allow) for specific things.  Just [get in touch](https://www.rykerrmedical.com/talk-to-us/) and we can discuss further.
 
 <br>
 
@@ -46,7 +46,7 @@ IG is the only social media we really use these days, so follow us there and sha
 
 <h3 id="getinvolved">Get Involved</h3>
 
-We are always looking for folks to help review and build out content.  So if that's you're thing, [talk to us](https://www.rykerrmedical.com/talk-to-us/) and we'll find work for you.  Specifically, we could use a hand with: video editing, proofreading &beta testing CEU/ ConEd stuff.
+We are always looking for folks to help review and build out content.  So if that's you're thing, [talk to us](https://www.rykerrmedical.com/talk-to-us/) and we'll find work for you.  Specifically, we could use a hand with: video editing, proofreading & beta testing CEU/ ConEd stuff.
 
 We are also looking for someone to lend a hand with managing the online store.  We are gone too much to manage an inventory, but could potentially get items priced way more reasonably if someone wanted to work out a deal on that front.
 
@@ -64,7 +64,7 @@ We kindly accept positive reviews and five-star scores at the following:
 
 [Rykerr Medical Store](http://rykerrmedical-shop.square.site/)
 
-Here's the deal with the store.  Items are a smidge expensive.  That's because we use a third party service to print on demand and do all the shipping.  We just don't have time to properly run the thing and manage an inventory.  Someday in the future that may change.  And if you've like to get involved by helping there - [let us know](https://www.rykerrmedical.com/talk-to-us/)!
+Here's the deal with the store.  Some items are a smidge expensive.  That's because we use a third party service to print on demand and do all the shipping.  We just don't have time to properly run the thing and manage an inventory.  Someday in the future that may change.  And if you've like to get involved by helping there - [let us know](https://www.rykerrmedical.com/talk-to-us/)!
 
 And just as a sidenote on the pricing scheme: we make very little on each item.  The idea is more to get the word out there and share stuff with folks.  So buy things to spread the word, not so much to help us make money :)
 
