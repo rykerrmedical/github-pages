@@ -14,7 +14,7 @@ redirect_from:
 
 EmCrit Ep 92: Intubation Checklist (v1) [view page](https://references.rykerrmedical.com/Weingart2013_RSI_Checklist_v1)
 
-EmCrit Ep 172: Updated EmCrit RSI Checklist (v2) [view page](https://references.rykerrmedical.com/Weingart2013_RSI_Checklist_v2) 
+EmCrit Ep 172: Updated EmCrit RSI Checklist (v2) [view page](https://references.rykerrmedical.com/Weingart2016_RSI_Checklist_v2) 
 
 [watch the associated video on youtube](https://www.youtube.com/watch?v=IldjdiR0vKc)
 
