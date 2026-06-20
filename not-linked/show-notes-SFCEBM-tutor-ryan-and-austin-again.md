@@ -1,7 +1,9 @@
 ---
 title: Show Notes for SFCEBM Tutoring Sesh - Ryan & Austin Again
 layout: default
-permalink: /not-linked/show-notes-SFCEBM-tutor-ryan-and-austin-again/
+permalink: /show-notes-SFCEBM-tutor-ryan-and-austin-again/
+redirect_from:
+  - /not-linked/show-notes-SFCEBM-tutor-ryan-and-austin-again/
 ---
 
 # Show Notes for SFCEBM Tutoring Sesh - Ryan & Austin Again

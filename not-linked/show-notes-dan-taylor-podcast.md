@@ -1,7 +1,9 @@
 ---
 title: Show Notes for Dan Taylor Podcast
 layout: default
-permalink: /not-linked/show-notes-dan-taylor-podcast/
+permalink: /show-notes-dan-taylor-podcast/
+redirect_from:
+  - /not-linked/show-notes-dan-taylor-podcast/
 ---
 
 # Show Notes for Dan Taylor Podcast

@@ -1,7 +1,9 @@
 ---
 title: Show Notes for SFCEBM Tutoring Sesh - Ryan & James
 layout: default
-permalink: /not-linked/show-notes-SFCEBM-tutor-ryan-and-james/
+permalink: /show-notes-SFCEBM-tutor-ryan-and-james/
+redirect_from:
+  - /not-linked/show-notes-SFCEBM-tutor-ryan-and-james/
 ---
 
 # Show Notes for SFCEBM Tutoring Sesh - Ryan & James

@@ -1,7 +1,10 @@
 ---
 title: Show Notes for Perfusion Index Video
 layout: default
-permalink: /not-linked/show-notes-perfusion-index-video/
+permalink: 
+permalink: /show-notes-perfusion-index-video/
+redirect_from:
+  - /not-linked/show-notes-perfusion-index-video/
 ---
 
 # Show Notes for Perfusion Index Video

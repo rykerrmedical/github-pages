@@ -1,7 +1,9 @@
 ---
 title: Show Notes for Oxygen Haterz Video
 layout: default
-permalink: /not-linked/show-notes-oxygen-haterz/
+permalink: /show-notes-oxygen-haterz/
+redirect_from:
+  - /not-linked/show-notes-oxygen-haterz/
 ---
 
 # Show Notes for Oxygen Haterz Video

@@ -1,7 +1,10 @@
 ---
 title: Show Notes for Stylets and Bougies for Kiddos
 layout: default
-permalink: /not-linked/show-notes-pedi-video/
+permalink: /show-notes-pedi-video/
+redirect_from:
+  - /not-linked/show-notes-pedi-video/
+
 ---
 
 # Show Notes for Stylets and Bougies for Kiddos

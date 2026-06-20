@@ -1,7 +1,9 @@
 ---
 title: Show Notes for Combat Midwife Podcast
 layout: default
-permalink: /not-linked/show-notes-combat-midwife-podcast/
+permalink: /show-notes-combat-midwife-podcast/
+redirect_from:
+  - /not-linked/show-notes-combat-midwife-podcast/
 ---
 
 # Show Notes for Combat Midwife Podcast
