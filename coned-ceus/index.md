@@ -22,7 +22,7 @@ CEU offerings are being hosted on Moodle at [lms.rykerrmedical.com](https://lms.
 2. Create a free account
 3. Click "site home" and then "available courses"
 4. Get after it :)
-5. Also consider donwloading the app: [apple](https://itunes.apple.com/app/moodle-mobile/id633359593?mt=8) [android](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile)
+5. Also consider downloading the app: [apple](https://itunes.apple.com/app/moodle-mobile/id633359593?mt=8) [android](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile)
 
 <br>
 
@@ -39,22 +39,22 @@ This activity includes a re-presentation of content from the [Blog: Dead Space I
 <br>
 [**Blog: Chest Tube Management in Transport - 1 hour - Trauma**](https://lms.rykerrmedical.com/course/view.php?id=12)
 <br>
-Brush up on your knowledge of chest tube management with this CEU activity based on the [Blog: Chest Tube Management in Transport](https://www.rykerrmedical.com/2025/01/07/chest-tubes.html) that is full of awesome info and a few great illutrations :)
+Brush up on your knowledge of chest tube management with this CEU activity based on the [Blog: Chest Tube Management in Transport](https://www.rykerrmedical.com/2025/01/07/chest-tubes.html) that is full of awesome info and a few great illustrations :)
 <br>
 <br>
 [**Podcast: Trauma Questions & More w/ Doc Fisher - 1 hour - Trauma**](https://lms.rykerrmedical.com/course/view.php?id=11)
 <br>
-After listening to out chat with Doc Fisher (over at [the podcast page](https://www.rykerrmedical.com/podcast/#trauma-questions-and-more-w-doc-fisher)), get credit for doing so by answering just a few questions on the stuff we chat about.
+After listening to our chat with Doc Fisher (over at [the podcast page](https://www.rykerrmedical.com/podcast/#trauma-questions-and-more-w-doc-fisher)), get credit for doing so by answering just a few questions on the stuff we chat about.
 <br>
 <br>
 [**Video: Stylets & Bougies for Kiddos - 1 hour - Special Considerations, Pediatrics**](https://lms.rykerrmedical.com/course/view.php?id=9)
 <br>
-Watch the video in the EdApp platform (versus [where it normally lives over on YouTube](https://youtu.be/in8RQ8yzBU0?si=2ERwD_MCAoQzVbAZ)) and then answer a few questons to make sure you've got all the key points handled.
+Watch the video in Moodle (versus [where it normally lives over on YouTube](https://youtu.be/in8RQ8yzBU0?si=2ERwD_MCAoQzVbAZ)) and then answer a few questons to make sure you've got all the key points handled.
 <br>
 <br>
 [**Video: Perfusion Index in EMS - 1 hour - Medical**](https://lms.rykerrmedical.com/course/view.php?id=7)
 <br>
-Watch the video in the EdApp platform (versus [where it normally lives over on YouTube](https://youtu.be/in8RQ8yzBU0?si=2ERwD_MCAoQzVbAZ)) and then answer a few questons to make sure you've got all the key points handled.
+Watch the video in Moodle (versus [where it normally lives over on YouTube](https://youtu.be/in8RQ8yzBU0?si=2ERwD_MCAoQzVbAZ)) and then work thru the questions that go along with it.
 <br>
 <br>
 ...more to come soon!

@@ -4,14 +4,14 @@ title: "Hemodynamic Sketches"
 date: 2023-12-05
 image: https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2023-12-05-hemodynamic-sketches/flow-overview.jpeg
 tags: [hemodynamics, cardiology, pathophysiology]
-blurb: a primer on hemopdynamic monitoring with a simple sketch that mayt help work through these sorts of problems/ challenges; also reviews different types of access seen in complicated medical/ cardiac cases
+blurb: a primer on hemodynamic monitoring with a simple sketch that may help work through these sorts of problems/ challenges; also reviews different types of access seen in complicated medical/ cardiac cases
 ---
 
 Here’s a simple graphic that may help conceptualize what’s going on in the body when we discuss hemodynamics and different patterns associated with certain pathologies:
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2023-12-05-hemodynamic-sketches/flow-overview.jpeg" alt="hemodynamic sketches" />
 
-In reality, its often a rough sketch in the margin of a piece of paper, but that’s the beauty of the thing – it’s a simple-to-draw framework for solving clinical problems:
+In reality, it's often a rough sketch in the margin of a piece of paper, but that’s the beauty of the thing – it’s a simple-to-draw framework for solving clinical problems:
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2023-12-05-hemodynamic-sketches/example-sketch.jpeg" alt="hemodynamic sketches" />
 
@@ -59,7 +59,7 @@ Now here’s where troubleshooting and considering all these hemodynamic numbers
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2023-12-05-hemodynamic-sketches/pap-sketch.jpeg" alt="hemodynamic sketches" />
 
-And then the next data point we could potentially get is a CVP.  We could do that either at the Cordis in the right IJ or and the proximal port on the PAC. While we’re at it, let’s review all of our access and what we can do at each of the various places:
+And then the next data point we could potentially get is a CVP.  We could do that either at the Cordis in the right IJ or at the proximal port on the PAC. While we’re at it, let’s review all of our access and what we can do at each of the various places:
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2023-12-05-hemodynamic-sketches/all-the-lines.jpeg" alt="hemodynamic sketches" />
 

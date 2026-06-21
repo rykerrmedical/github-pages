@@ -11,11 +11,11 @@ The patient was a 4-year-old female being transferred out of a conflict zone for
 
 She was being transported by another ambulance crew in a convoy of many ambulances, multiple patients were being transferred out of the region.  While holding the convoy’s position at a safe crossing point, med crew was summoned to check in on this patient.
 
-Patient was stable on assessment, no distress and no cyanosis, but hypotensive and with a low SpO2 at both right hand at the foot. The other crew that had transported the patient up to this point had already initiated oxygen at 1lpm.
+Patient was stable on assessment, no distress and no cyanosis, but hypotensive and with a low SpO2 at both right hand and the foot. The other crew that had transported the patient up to this point had already initiated oxygen at 1lpm.
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-02-15-case-four-years-old-with-tof/1_vitals_on_glove.JPG" alt="vitals_on_glove"/>
 
-Now the goal of treatment was to ensure that the patient was and would be stable enough to make it across the border and to a receiving ambulance on the other side. There was some concern that if care needed to be escalated (i.e., with pressors or any form a machine-assisted ventilatory support - anything beyond a nasal canula) she could lose her ability to be evacuated.
+Now the goal of treatment was to ensure that the patient was and would be stable enough to make it across the border and to a receiving ambulance on the other side. There was some concern that if care needed to be escalated (i.e., with pressors or any form of machine-assisted ventilatory support - anything beyond a nasal cannula) she could lose her ability to be evacuated.
 
 There wasn’t much available in terms of medical history.  ToF was a known diagnosis, but there was no information about surgeries or baseline oxygen saturation or known complications.
 
@@ -35,7 +35,7 @@ Now before diving in to all the details, a quick review of the pathophysiology:
 
 (these sorts of stick figure graphics to describe hemodynamic states are discussed in another blog post: [Hemodynamic Sketches](https://www.rykerrmedical.com/2023/12/05/hemodynamic-sketches.html))
 
-ToF is composed of the following four things, all present at birth: ventral septal defect (VSD), pulmonary stenosis, right ventricular hypertrophy, and overriding aorta (which means the aorta’s origin/ blood flow comes from overtop the VSD, not just from the left ventricle as is normal). The result is that blood going out to the body is mixed or not fully oxygenated, hence ToF is considered a cyanotic heart lesion or defect.
+ToF is composed of the following four things, all present at birth: ventricular septal defect (VSD), pulmonary stenosis, right ventricular hypertrophy, and overriding aorta (which means the aorta’s origin/ blood flow comes from overtop the VSD, not just from the left ventricle as is normal). The result is that blood going out to the body is mixed or not fully oxygenated, hence ToF is considered a cyanotic heart lesion or defect.
 
 Now the pulmonary stenosis part of this means that blood flow out of the right ventricle to the pulmonary artery is limited. There is some collateral flow from the aorta via the PDA to the pulmonary artery (left-to-right shunt). Classic teaching is that oxygen given to “ductal-dependent lesions” can cause premature closure of the PDA and worsen outcomes
 
@@ -66,7 +66,7 @@ References:
 ^normal tx for ToF
 
 
-[Bertanou & friends, 1978](https://references.rykerrmedical.com/Bertanou1978)
+[Bertranou & friends, 1978](https://references.rykerrmedical.com/Bertranoubert1978)
 
 ^old paper, life expectancy w/o sx
 

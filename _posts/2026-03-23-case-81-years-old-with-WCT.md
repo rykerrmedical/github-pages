@@ -77,7 +77,7 @@ As for the hemiblock noted in the automated interpretation, this is something of
 
 (As a sidenote: the plan is to include a graphic like this in the next version of that 12-lead EKG reference, as this case fleshed out that it was missing…)
 
-And for a full discussion of all the ins and outs of fascicular blocks, take a look here: [Elzari, 2019](https://references.rykerrmedical.com/Elzari2019_Fascicular_Blocks.html)
+And for a full discussion of all the ins and outs of fascicular blocks, take a look here: [Elizari, 2019](https://references.rykerrmedical.com/Elizari2019_Fascicular_Blocks.html)
 
 The AI calls it a RBB with LPFB, but not all of the findings we would expect are seen in the tracing:
 
@@ -87,7 +87,7 @@ That said, the pattern for RBBB + LPFB isn’t simply the stuff for RBBB *plus* 
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-03-23-case-81-years-old-with-WCT/10_RBBB_and_LPFB_findings.jpeg" alt="10_RBBB_and_LPFB_findings"/>
 
-And then digging deeper into this, it does seem that a Q-wave in lead III is generally required for a diagnosis of LPFB.  See [Perez-Reira, 2018](https://references.rykerrmedical.com/Perez-Reira2018_LPFB.html) for more on that idea.  So either we have a very small Q-wave that we just can’t see or there is some other explanation for the rightward axis.  Most likely would be right ventricular hypertrophy (RVH) due to some sort of chronic lung condition.  Most often this is seen in V1 and V6:
+And then digging deeper into this, it does seem that a Q-wave in lead III is generally required for a diagnosis of LPFB.  See [Perez-Riera, 2018](https://references.rykerrmedical.com/Perez-Riera2018_LPFB.html) for more on that idea.  So either we have a very small Q-wave that we just can’t see or there is some other explanation for the rightward axis.  Most likely would be right ventricular hypertrophy (RVH) due to some sort of chronic lung condition.  Most often this is seen in V1 and V6:
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-03-23-case-81-years-old-with-WCT/11_RVH_on_ekg.jpeg" alt="11_RVH_on_ekg"/>
 

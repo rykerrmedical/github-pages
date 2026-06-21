@@ -7,7 +7,7 @@ tags: [mechanical ventilation]
 blurb: some thoughts on how to organize troubleshooting for issues in mechanical ventilation
 ---
 
-This is a repost of one of the chapters in our free book on mechanical ventilation in transport.  Fore more on that or to read the whole thing, take a look at out website: [www.rykerrmedical.com/clinical-resources/vent-management](https://www.rykerrmedical.com/clinical-resources/vent-management/)
+This is a repost of one of the chapters in our free book on mechanical ventilation in transport.  For more on that or to read the whole thing, take a look at our website: [www.rykerrmedical.com/clinical-resources/vent-management](https://www.rykerrmedical.com/clinical-resources/vent-management/)
 
 Update July 2025: Also note that there is a newer version of the vent book in the works which will include a rewrite/ update of this chapter.  To view that in real time, take a look here: [Vent Book v2 on Google Docs](https://docs.google.com/document/d/1qA-LlMUYYe3KMuRhMyAtLAy23NcNb236ZBnK8Irkp6k/edit?pli=1&tab=t.0)
 
@@ -26,7 +26,7 @@ Because there are so many things to consider, building an algorithm to troublesh
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2022-06-13-acute-deterioration-in-mechanical-ventilation/which-kind-of-issue.jpg" alt="which kind of issue" />
 
-Now the reality is that it isn’t always so cut and dry.  There are times where we do both vents things and other things simultaneously.  An example of this would be a patient already on the vent who experiences an allergic reaction to something.  In this case we could simultaneously proceed with an Obstruction vent strategy and give drugs to fix the problem.  So while our little algorithm may be too simple, it often helps to take a moment to think about which sort of problem we have on hand and act accordingly.  
+Now the reality is that it isn’t always so cut and dry.  There are times where we do both vent things and other things simultaneously.  An example of this would be a patient already on the vent who experiences an allergic reaction to something.  In this case we could simultaneously proceed with an Obstruction vent strategy and give drugs to fix the problem.  So while our little algorithm may be too simple, it often helps to take a moment to think about which sort of problem we have on hand and act accordingly.  
 
 In light of the fact that there are so many variables involved, here’s the stepwise approach we suggest for troubleshooting acute deterioration of a ventilated patient.  This approach takes advantage of feedback that we may have available to us from vent alarms and assessment parameters:
 
@@ -40,7 +40,7 @@ By working through each of these steps systematically, we hit all of the DOPE th
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2022-06-13-acute-deterioration-in-mechanical-ventilation/what-to-do-expanded.jpg" alt="what to do expanded" />
 
-A few things to note about this algorithm: with a partially deflated cuff, remove air from the cuff and then re-inflate with an appropriate amount of air.  Simply adding volume can contribute to both injury from over-inflation and likelihood of tube displacement.  Also consider using a monometer to measure cuff pressure and establish a baseline moving forward if available.  And if the cuff is defective, consider utilizing a bougie to exchange it for a new one or take steps to fix the issue temporarily.
+A few things to note about this algorithm: with a partially deflated cuff, remove air from the cuff and then re-inflate with an appropriate amount of air.  Simply adding volume can contribute to both injury from over-inflation and likelihood of tube displacement.  Also consider using a manometer to measure cuff pressure and establish a baseline moving forward if available.  And if the cuff is defective, consider utilizing a bougie to exchange it for a new one or take steps to fix the issue temporarily.
 
 There’s no way to accommodate all possibilities in a single algorithm without getting too crazy on the details, but that’s the basic idea.  Before moving on, just a few things to note.  First is that a low minute volume alarm may also accompany acute deterioration, but it will likely be tied to either a high-pressure alarm (with breaths cycling off due to that alarm getting triggered) or some kind of disconnect (which would likely be indicated by a circuit disconnect or low peak-pressure alarm).  We also didn’t include a low-frequency or low-PEEP alarm anywhere in this flowchart, as those probably aren’t tied to an acute deterioration unless accompanied by one of these other trump cards.  And then we already showed this before (and recognize that not all of these are acute life threats), but just to clarify again the different lung and airway issues we might come across:
 

@@ -52,7 +52,7 @@ Patient’s family was able to acquire Lovenox 80mg/ 8000IE SQ prefill syringes.
 <br>
 Day 3: Second dose of Lovenox given that morning. Family instructed in administration in order to continue with the regimen.  Plan was to proceed with Lovenox BID until PO meds could be acquired.
 
-Ongoing effort initiated to procure DOAC (either Rivaroxaban or Apixiban) for prolonged treatment.
+Ongoing effort initiated to procure DOAC (either Rivaroxaban or Apixaban) for prolonged treatment.
 
 <br>
 Resolution: DOAC was eventually acquired and patient transitioned from SQ Lovenox to PO agent after about a week.  Repeat US showed clot decreasing in size and no complications reported. 
@@ -125,7 +125,7 @@ How likely is a DVT to develop in an austere setting, such as in prolonged field
 
 As above, I simply fed this question to OpenEvidence and [here’s what they had to say](https://references.rykerrmedical.com/OEChat_DVT_Austere_Settings.html).
 
-TL;DR is that dehydration, TXA use and the nature of injuries seen in these setting (multi-system trauma and lower extremity injuries) all contribute to DVT risk.
+TL;DR is that dehydration, TXA use and the nature of injuries seen in these settings (multi-system trauma and lower extremity injuries) all contribute to DVT risk.
 
 So definitely a concern and for sure something to think about.  
 
