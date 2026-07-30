@@ -10,7 +10,7 @@ permalink: /talk-to-us/
 
 <form
   id="contact-form"
-  action="https://formspree.io/f/mvgqakzo"
+  action="https://formspree.io/f/xpqvezwq"
   method="POST"
   style="max-width: 600px; margin: 2rem auto;"
 >
