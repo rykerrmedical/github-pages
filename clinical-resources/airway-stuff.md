@@ -47,7 +47,7 @@ This last bit here is just a collection of links to other places on this website
 
 ^ know what devices to use for which patients; also would be cool to make this customizable someday, so that anyone could select from dropdown which devices they have and then create a simple tool like this for their own agency
 
-[Vent Management Book](https://www.rykerrmedical.com/clinical-resources/vent-management/) - once you get the tube, we still gotta breath for them...
+[Vent Management Book](https://www.rykerrmedical.com/clinical-resources/vent-management/) - once you get the tube, we still gotta breathe for them...
 
 [Podcast: Scripts Discussion with Richard](https://www.rykerrmedical.com/podcast/#scripts-discussion-with-richard) - because checklists are important in airway management
 
