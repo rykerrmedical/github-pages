@@ -57,7 +57,7 @@ Part of the Rykerr Medical mission is to promote and utilize truly free resource
 
 This here site is built on [github](https://www.github.org) and is hosted for your viewing pleasure at absoultely no cost.  Which is rad.  Github has tons of resources for learning how to use the platform for your specific tech needs - check it out to learn more.
 
-As an example, we firured out how to build and host [The Rykerr Medical Podcast]({{ site.baseurl }}/podcast/) on github at absolutely no cost.  And we made a video & blog post combo (noted above) to show you how we did it.
+As an example, we figured out how to build and host [The Rykerr Medical Podcast]({{ site.baseurl }}/podcast/) on github at absolutely no cost.  And we made a video & blog post combo (noted above) to show you how we did it.
 
 
 [The Internet Archive](https://www.archive.org) is essentially a free online library that allows citizens and users to upload things and archive web pages so that data and information is not lost with time.  We use this service to host files for this site and the podcast, also to save references that we cite in our various posts and projects.

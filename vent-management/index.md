@@ -13,9 +13,9 @@ Version 2 Draft is ready for feedback, so take a look and [get in touch](https:/
 
 [Version 2 on Google Drive](https://docs.google.com/document/d/1qA-LlMUYYe3KMuRhMyAtLAy23NcNb236ZBnK8Irkp6k/edit?pli=1&tab=t.0) 
 
-[Version 2 PDF Download](https://archive.org/download/vent-book-draft-1/Rykerr%20Medical%27s%20Vent%20Management%20Guide%20-%20Version%202%20Draft.pdf)
+[Version 2 PDF Download](https://archive.org/download/vent-book-draft-1/Rykerr%20Medical%27s%20Vent%20Management%20Guide%20-%20Version%202%20Draft%20for%20Peer%20Review%20-%20Aug%202026.pdf)
 
-[Version 2 In-Browser View](https://archive.org/details/vent-book-draft-1/Rykerr%20Medical%27s%20Vent%20Management%20Guide%20-%20Version%202%20Draft/)
+[Version 2 In-Browser View](https://ia601001.us.archive.org/23/items/vent-book-draft-1/Rykerr%20Medical%27s%20Vent%20Management%20Guide%20-%20Version%202%20Draft%20for%20Peer%20Review%20-%20Aug%202026.pdf)
 
 <br>
 
