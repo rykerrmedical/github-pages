@@ -36,14 +36,15 @@ h1, h2, h3, h4, h5, h6 {
    section title, still shows the link's own color/underline instead of a box) */
 h1 {
   display: block;
-  background-color: #747373;
-  color: #060608;
+  background-color: #a31232;
+  color: #fff;
   padding: 0.6rem 1rem;
   border-radius: 8px;
 }
 
 a {
   color: #f2f2f2;
+  font-weight: bold;
   text-decoration: underline;
   text-decoration-color: #747373;
 }
@@ -489,14 +490,17 @@ body.high-contrast h6 {
   color: #000000 !important;
 }
 
-/* True page title gets the boxed treatment here too, same as the dark theme */
+/* True page title gets the boxed treatment here too, same as the dark theme —
+   swapped so the maroon banner is the primary (Normal) look and the gray box
+   is the alternate (High Contrast) look */
 body.high-contrast h1 {
-  background-color: #a31232 !important;
-  color: #fff !important;
+  background-color: #747373 !important;
+  color: #060608 !important;
 }
 
 body.high-contrast a {
   color: #a31232 !important;
+  font-weight: bold !important;
   text-decoration: underline;
   text-decoration-color: #a31232 !important;
 }
