@@ -13,7 +13,7 @@
 body {
   font-family: "Apple Symbols", sans-serif;
   background-color: #060608;
-  color: #f2f2f2;
+  color: #747373;
   margin: 0;
   padding: 0;
   line-height: 1.6;
@@ -27,14 +27,13 @@ p, li, span, div, main, section {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Black Ground', sans-serif;
-  color: #f2f2f2;
+  color: #a31232;
   text-align: left;
 }
 
 a {
-  color: #f2f2f2;
+  color: #a31232;
   text-decoration: underline;
-  text-decoration-color: #747373;
 }
 
 /* === Navigation === */
@@ -54,7 +53,7 @@ nav {
 
 .nav-links a {
   font-family: 'Black Ground', sans-serif;
-  color: #f2f2f2;
+  color: #a31232;
   text-decoration: none !important;
   font-weight: bold;
   font-size: 1.1rem;
@@ -192,7 +191,7 @@ form button:hover {
 
 /* === Podcast read more buttons === */
 .episode-card button {
-  color: #f2f2f2 !important;
+  color: #747373 !important;
   font-size: 0.85rem !important;
 }
 
@@ -209,7 +208,7 @@ body.high-contrast .episode-button {
 
 .episode-button {
   background: none;
-  color: #f2f2f2;
+  color: #747373;
   border: 1px solid #747373;
   padding: 0.4rem 0.8rem;
   font-size: 0.85rem;
@@ -374,7 +373,7 @@ label {
   display: inline-block;
   margin: 0 1rem;
   text-decoration: none;
-  color: #f2f2f2;
+  color: #a31232;
   font-weight: bold;
 }
 
@@ -472,7 +471,7 @@ body.high-contrast h6 {
 }
 
 body.high-contrast a {
-  color: #a31232 !important;
+  color: #0000EE !important;
   text-decoration: underline;
 }
 
@@ -537,7 +536,7 @@ body.high-contrast .featured-episode img {
 .nav-links .submenu a {
   font-size: 1rem;
   font-weight: normal;
-  color: #f2f2f2;
+  color: #a31232;
   text-decoration: none;
 }
 
@@ -582,7 +581,7 @@ body.high-contrast .featured-episode img {
   .nav-links .submenu a {
     font-size: 1rem;
     font-weight: normal;
-    color: #f2f2f2;
+    color: #a31232;
   }
 
   .nav-links .submenu a:hover {
