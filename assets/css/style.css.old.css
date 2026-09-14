@@ -13,7 +13,7 @@
 body {
   font-family: "Apple Symbols", sans-serif;
   background-color: #060608;
-  color: #f2f2f2;
+  color: #747373;
   margin: 0;
   padding: 0;
   line-height: 1.6;
@@ -27,25 +27,13 @@ p, li, span, div, main, section {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Black Ground', sans-serif;
-  color: #f2f2f2;
+  color: #a31232;
   text-align: left;
 }
 
-/* True page-level titles get the boxed treatment; h2-h6 stay plain text above
-   (so a heading that also happens to be a link, e.g. an "Airway Stuff"-style
-   section title, still shows the link's own color/underline instead of a box) */
-h1 {
-  display: block;
-  background-color: #747373;
-  color: #060608;
-  padding: 0.6rem 1rem;
-  border-radius: 8px;
-}
-
 a {
-  color: #f2f2f2;
+  color: #a31232;
   text-decoration: underline;
-  text-decoration-color: #747373;
 }
 
 /* === Navigation === */
@@ -65,7 +53,7 @@ nav {
 
 .nav-links a {
   font-family: 'Black Ground', sans-serif;
-  color: #f2f2f2;
+  color: #a31232;
   text-decoration: none !important;
   font-weight: bold;
   font-size: 1.1rem;
@@ -161,7 +149,7 @@ form button:hover {
 }
 
 .episode-card h4 {
-  color: #f2f2f2;
+  color: #a31232;
   font-family: 'Black Ground', sans-serif;
   font-size: 1.2rem;
   margin: 0 0 0.5rem;
@@ -203,32 +191,25 @@ form button:hover {
 
 /* === Podcast read more buttons === */
 .episode-card button {
-  background-color: #a31232 !important;
-  color: #fff !important;
-  border: none !important;
-  padding: 0.4rem 0.9rem !important;
-  border-radius: 6px !important;
+  color: #747373 !important;
   font-size: 0.85rem !important;
-  cursor: pointer;
 }
 
 body.high-contrast .episode-card button {
-  background-color: #000 !important;
-  color: #fff !important;
+  color: #000 !important;
 }
 
 /* === Episode buttons === */
 body.high-contrast .episode-button {
-  background-color: #000 !important;
-  color: #fff !important;
-  border: none !important;
+  color: #000 !important;
+  border-color: #000 !important;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.3) !important;
 }
 
 .episode-button {
-  background: #a31232;
-  color: #fff;
-  border: none;
+  background: none;
+  color: #747373;
+  border: 1px solid #747373;
   padding: 0.4rem 0.8rem;
   font-size: 0.85rem;
   border-radius: 6px;
@@ -298,7 +279,7 @@ nav.open .nav-links {
     font-size: 2rem;
     background: none;
     border: none;
-    color: #f2f2f2;
+    color: #a31232;
     cursor: pointer;
     margin-bottom: 0.5rem;
     align-self: flex-end; /* Align right */
@@ -392,7 +373,7 @@ label {
   display: inline-block;
   margin: 0 1rem;
   text-decoration: none;
-  color: #f2f2f2;
+  color: #a31232;
   font-weight: bold;
 }
 
@@ -489,16 +470,9 @@ body.high-contrast h6 {
   color: #000000 !important;
 }
 
-/* True page title gets the boxed treatment here too, same as the dark theme */
-body.high-contrast h1 {
-  background-color: #a31232 !important;
-  color: #fff !important;
-}
-
 body.high-contrast a {
-  color: #a31232 !important;
+  color: #0000EE !important;
   text-decoration: underline;
-  text-decoration-color: #a31232 !important;
 }
 
 body.high-contrast .homepage,
@@ -562,7 +536,7 @@ body.high-contrast .featured-episode img {
 .nav-links .submenu a {
   font-size: 1rem;
   font-weight: normal;
-  color: #f2f2f2;
+  color: #a31232;
   text-decoration: none;
 }
 
@@ -607,7 +581,7 @@ body.high-contrast .featured-episode img {
   .nav-links .submenu a {
     font-size: 1rem;
     font-weight: normal;
-    color: #f2f2f2;
+    color: #a31232;
   }
 
   .nav-links .submenu a:hover {
