@@ -498,11 +498,18 @@ body.high-contrast h1 {
   color: #060608 !important;
 }
 
+/* Links no longer get their own color here — they match whatever text
+   they're in (body or heading, both black in this theme) and rely on the
+   bold + underline alone to read as a link. This also fixes headings that
+   are also links (e.g. "Airway Stuff"): before, this rule's color would
+   win the tie against the h1-h6 black rule since it comes later in the
+   file at equal specificity — matching the surrounding color removes the
+   tie entirely. */
 body.high-contrast a {
-  color: #a31232 !important;
+  color: #060608 !important;
   font-weight: bold !important;
   text-decoration: underline;
-  text-decoration-color: #a31232 !important;
+  text-decoration-color: #747373 !important;
 }
 
 body.high-contrast .homepage,
