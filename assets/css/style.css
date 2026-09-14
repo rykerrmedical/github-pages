@@ -53,6 +53,16 @@ h1, h2, h3 {
   margin-left: 0;
 }
 
+/* Give each post entry more breathing room, and indent the blurb/date line
+   (post-meta) under its boxed title instead of flush against the left edge */
+#posts-list li {
+  margin-bottom: 2.5rem;
+}
+
+#posts-list .post-meta {
+  margin-left: 1rem;
+}
+
 a {
   color: #f2f2f2;
   font-weight: bold;
@@ -565,6 +575,17 @@ body.high-contrast a {
   font-weight: bold !important;
   text-decoration: underline;
   text-decoration-color: #747373 !important;
+}
+
+/* A link that's also a boxed H1-H3 (e.g. "Airway Stuff") sits on the gray
+   box background above — same gray as the underline color, so it was
+   invisible against its own box. Switch the underline to match the box's
+   text color there instead, same idea as the maroon box in Normal theme
+   just needing a different accent color to stay visible. */
+body.high-contrast h1 a,
+body.high-contrast h2 a,
+body.high-contrast h3 a {
+  text-decoration-color: #060608 !important;
 }
 
 body.high-contrast .homepage,
