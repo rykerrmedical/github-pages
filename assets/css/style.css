@@ -43,6 +43,16 @@ h1, h2, h3 {
   border-radius: 8px;
 }
 
+/* Blog index post list (index.md: <ul id="posts-list"><li><h3><a>...
+   Now that h3 renders as a block, the <li>'s default bullet marker sits
+   stranded to the left of the box instead of next to text. Scoped to this
+   one list so other bulleted lists on the site keep their markers. */
+#posts-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
 a {
   color: #f2f2f2;
   font-weight: bold;
@@ -206,7 +216,7 @@ form button:hover {
   color: #060608;
 }
 
-.featured-episode a {
+.featured-episode a:not(.episode-button) {
   color: #a31232;
   font-weight: bold;
   text-decoration: underline;
@@ -231,6 +241,18 @@ form button:hover {
 
 .episode-card:hover {
   /* hover styles removed - shadow always visible now */
+}
+
+/* Same gap as .featured-episode had: this card's own dark-text fix above
+   covers plain text via inheritance, but a plain <a> is more specific than
+   inherited color, so links inside a card were still picking up the
+   site-wide near-white link color and washing out on this light card.
+   Excludes .episode-button — that's a solid maroon-fill button that needs
+   to keep its white text, not the maroon-on-card link color. */
+.episode-card a:not(.episode-button) {
+  color: #a31232;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 /* === Podcast read more buttons === */
