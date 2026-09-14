@@ -31,10 +31,11 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
 }
 
-/* True page-level titles get the boxed treatment; h2-h6 stay plain text above
-   (so a heading that also happens to be a link, e.g. an "Airway Stuff"-style
-   section title, still shows the link's own color/underline instead of a box) */
-h1 {
+/* H1-H3 get the boxed treatment; h4-h6 stay plain text above. Links inside a
+   boxed heading (e.g. an "Airway Stuff"-style section title that's also a
+   link) still read fine because link color now always matches the
+   surrounding text color instead of carrying its own color. */
+h1, h2, h3 {
   display: block;
   background-color: #a31232;
   color: #fff;
@@ -162,7 +163,7 @@ form button:hover {
 }
 
 .episode-card h4 {
-  color: #f2f2f2;
+  color: #a31232;
   font-family: 'Black Ground', sans-serif;
   font-size: 1.2rem;
   margin: 0 0 0.5rem;
@@ -186,6 +187,31 @@ form button:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
+/* The featured-episode block is a light/white card regardless of theme, but
+   its text was inheriting the site-wide colors meant for the dark page
+   background (near-white), so the title/date/body copy/links were washing
+   out to invisible. Pin them to dark text here specifically. High Contrast
+   already forces black text globally via its own !important rules, so this
+   only changes anything in the Normal theme — exactly where it was broken. */
+.featured-episode {
+  color: #060608;
+}
+
+.featured-episode h1,
+.featured-episode h2,
+.featured-episode h3,
+.featured-episode h4,
+.featured-episode h5,
+.featured-episode h6 {
+  color: #060608;
+}
+
+.featured-episode a {
+  color: #a31232;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 
 @media (max-width: 768px) {
   .episode-grid {
@@ -196,6 +222,11 @@ form button:hover {
 
 .episode-card {
   box-shadow: 0 0 12px rgba(163, 18, 50, 0.5);
+  /* Same story as .featured-episode: this card is a light surface in both
+     themes (it was never actually dark in Normal mode), but its text had
+     been set to the near-white color meant for the dark page background —
+     invisible white-on-white for the title and any other plain text here. */
+  color: #060608;
 }
 
 .episode-card:hover {
@@ -490,10 +521,12 @@ body.high-contrast h6 {
   color: #000000 !important;
 }
 
-/* True page title gets the boxed treatment here too, same as the dark theme —
-   swapped so the maroon banner is the primary (Normal) look and the gray box
-   is the alternate (High Contrast) look */
-body.high-contrast h1 {
+/* Same H1-H3 boxed treatment here, same as the dark theme — swapped so the
+   maroon banner is the primary (Normal) look and the gray box is the
+   alternate (High Contrast) look */
+body.high-contrast h1,
+body.high-contrast h2,
+body.high-contrast h3 {
   background-color: #747373 !important;
   color: #060608 !important;
 }
