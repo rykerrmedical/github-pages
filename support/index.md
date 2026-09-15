@@ -46,7 +46,7 @@ IG is the only social media we really use these days, so follow us there and sha
 
 <h3 id="getinvolved">Get Involved</h3>
 
-We are always looking for folks to help review and build out content.  So if that's you're thing, [talk to us](https://www.rykerrmedical.com/talk-to-us/) and we'll find work for you.  Specifically, we could use a hand with: video editing, proofreading & beta testing CEU/ ConEd stuff.
+We are always looking for folks to help review and build out content.  So if that's your thing, [talk to us](https://www.rykerrmedical.com/talk-to-us/) and we'll find work for you.  Specifically, we could use a hand with: video editing, proofreading & beta testing CEU/ ConEd stuff.
 
 We are also looking for someone to lend a hand with managing the online store.  We are gone too much to manage an inventory, but could potentially get items priced way more reasonably if someone wanted to work out a deal on that front.
 
