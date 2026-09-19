@@ -1,0 +1,261 @@
+---
+title: Search (Beta)
+layout: default
+permalink: /search-beta/
+---
+
+<div class="search-beta">
+  <h1>Search <span class="search-beta-tag">beta</span></h1>
+  <p class="search-beta-note">
+    Testing our new site search. Ask a real question the way you'd ask a colleague —
+    it searches this site, our reference library, and a few trusted external sources
+    (WikEM, Deranged Physiology, IBCC, LITFL) when we don't have a direct answer.
+  </p>
+
+  <form id="search-form">
+    <input
+      type="text"
+      id="search-input"
+      name="q"
+      placeholder="e.g. how do I titrate PEEP for ARDS"
+      autocomplete="off"
+    />
+    <button type="submit">Search</button>
+  </form>
+
+  <div id="search-status" role="status"></div>
+  <div id="search-results"></div>
+</div>
+
+<style>
+  .search-beta {
+    max-width: 720px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+
+  .search-beta h1 {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .search-beta-tag {
+    font-size: 0.55em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    background-color: #a31232;
+    color: #f2f2f2;
+    padding: 0.15em 0.6em;
+    border-radius: 999px;
+    vertical-align: middle;
+  }
+
+  .search-beta-note {
+    color: #b8b8b8;
+    margin-bottom: 1.5rem;
+  }
+
+  #search-form {
+    display: flex;
+    gap: 0.6rem;
+    margin-bottom: 1rem;
+  }
+
+  #search-input {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border: 1px solid #3a3a3a;
+    border-radius: 6px;
+    background-color: #1a1a1a;
+    color: #f2f2f2;
+  }
+
+  #search-input:focus {
+    outline: none;
+    border-color: #a31232;
+  }
+
+  #search-form button {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 6px;
+    background-color: #a31232;
+    color: #f2f2f2;
+    cursor: pointer;
+  }
+
+  #search-form button:hover {
+    background-color: #741021;
+  }
+
+  #search-status {
+    min-height: 1.5rem;
+    color: #b8b8b8;
+    margin-bottom: 1rem;
+  }
+
+  #search-status.search-status-error {
+    color: #e0a0a0;
+  }
+
+  .search-answer {
+    background-color: #1a1a1a;
+    border-left: 3px solid #a31232;
+    padding: 1rem 1.2rem;
+    border-radius: 4px;
+    margin-bottom: 1.2rem;
+    line-height: 1.6;
+  }
+
+  .search-result-card {
+    display: block;
+    background-color: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    padding: 1rem 1.2rem;
+    margin-bottom: 0.9rem;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.15s ease;
+  }
+
+  .search-result-card:hover {
+    border-color: #a31232;
+  }
+
+  .search-result-source {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #a31232;
+    margin-bottom: 0.3rem;
+  }
+
+  .search-result-title {
+    font-size: 1.05rem;
+    font-weight: bold;
+    color: #f2f2f2;
+    margin-bottom: 0.35rem;
+  }
+
+  .search-result-snippet {
+    font-size: 0.9rem;
+    color: #c4c4c4;
+    line-height: 1.5;
+  }
+
+  body.high-contrast .search-result-card {
+    background-color: #000;
+    border-color: #fff;
+  }
+
+  body.high-contrast #search-input {
+    background-color: #000;
+    border-color: #fff;
+  }
+</style>
+
+<script>
+(function () {
+  var API_URL = "https://search.rykerrmedical.com/api/search";
+
+  var form = document.getElementById('search-form');
+  var input = document.getElementById('search-input');
+  var status = document.getElementById('search-status');
+  var results = document.getElementById('search-results');
+
+  var SITE_NAMES = {
+    wikem: 'WikEM',
+    deranged_physiology: 'Deranged Physiology',
+    ibcc: 'IBCC',
+    litfl: 'LITFL'
+  };
+
+  function escapeHtml(str) {
+    var div = document.createElement('div');
+    div.textContent = str == null ? '' : str;
+    return div.innerHTML;
+  }
+
+  function sourceLabel(source) {
+    if (source.source_type === 'external') {
+      var tag = (source.tags && source.tags[0]) || '';
+      return SITE_NAMES[tag] || 'External source';
+    }
+    if (source.source_type === 'pdf') {
+      return source.locator ? 'PDF — ' + source.locator : 'PDF';
+    }
+    if (source.source_type === 'citation') {
+      return source.locator || 'Citation';
+    }
+    return 'rykerrmedical.com';
+  }
+
+  function renderResults(data) {
+    results.innerHTML = '';
+
+    if (data.answer) {
+      var answerEl = document.createElement('p');
+      answerEl.className = 'search-answer';
+      answerEl.textContent = data.answer;
+      results.appendChild(answerEl);
+    }
+
+    if (data.sources && data.sources.length) {
+      data.sources.forEach(function (source) {
+        var card = document.createElement('a');
+        card.className = 'search-result-card';
+        card.href = source.locator_url || '#';
+        if (source.locator_url) {
+          card.target = '_blank';
+          card.rel = 'noopener noreferrer';
+        }
+        card.innerHTML =
+          '<div class="search-result-source">' + escapeHtml(sourceLabel(source)) + '</div>' +
+          '<div class="search-result-title">' + escapeHtml(source.source_title) + '</div>' +
+          '<div class="search-result-snippet">' + escapeHtml(source.snippet) + '</div>';
+        results.appendChild(card);
+      });
+    } else if (!data.answer) {
+      status.textContent = "No results — try rephrasing your question.";
+    }
+  }
+
+  function runSearch(query) {
+    results.innerHTML = '';
+    status.className = '';
+    status.textContent = 'Searching…';
+
+    fetch(API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ query: query })
+    })
+      .then(function (resp) {
+        if (!resp.ok) {
+          throw new Error('Search service returned ' + resp.status);
+        }
+        return resp.json();
+      })
+      .then(function (data) {
+        status.textContent = '';
+        renderResults(data);
+      })
+      .catch(function (err) {
+        status.className = 'search-status-error';
+        status.textContent = 'Something went wrong reaching search — try again in a moment.';
+        console.error('search-beta error:', err);
+      });
+  }
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var q = input.value.trim();
+    if (!q) return;
+    runSearch(q);
+  });
+})();
+</script>
