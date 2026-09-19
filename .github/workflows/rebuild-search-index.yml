@@ -1,3 +1,16 @@
+# Rebuilds the site search index and deploys it to the VPS.
+#
+# Copy this file to .github/workflows/rebuild-search-index.yml in your
+# rykerrmedical.com repo, and copy the indexer/ folder from rykerr-search
+# into that repo too (path below assumes it lands at ./search-indexer —
+# adjust `working-directory` if you put it somewhere else).
+#
+# Setup required before this will work — see ../DEPLOY.md:
+#   - Repo secret RYKERR_DEPLOY_SSH_KEY: private half of a dedicated
+#     deploy keypair, restricted server-side to only writing the index
+#     file (never a general-purpose key).
+#   - Repo secret RYKERR_VPS_HOST: the VPS's hostname or IP.
+
 name: Rebuild search index
 
 on:
@@ -6,6 +19,8 @@ on:
     paths-ignore:
       - '.github/workflows/rebuild-search-index.yml'
   schedule:
+    # Daily backstop (9am UTC) in case a push-triggered run missed
+    # something — e.g. content added outside this repo's own commits.
     - cron: '0 9 * * *'
   workflow_dispatch: {}
 
@@ -31,6 +46,17 @@ jobs:
         working-directory: search-indexer
         run: python build_index.py
 
+      # GitHub-hosted runners are fresh VMs with no state left over from
+      # the last run, and rykerr_index.db is gitignored, so build_index.py
+      # above always builds tier 1/2 from scratch — it never carries
+      # forward tier 3's local title index (WikEM / Deranged Physiology /
+      # IBCC), which lives in the SAME output db but comes from this
+      # separate script. Without this step, every deploy would silently
+      # overwrite the live index with one missing tier 3 entirely.
+      - name: Build tier-3 local index (WikEM / Deranged Physiology / IBCC)
+        working-directory: search-indexer
+        run: python build_tier3_index.py
+
       - name: Deploy index to VPS
         working-directory: search-indexer
         env:
@@ -41,5 +67,10 @@ jobs:
           echo "$SSH_KEY" > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -H "$VPS_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+
+          # The destination path here doesn't actually matter — the
+          # VPS-side forced command (see ../DEPLOY.md) ignores whatever
+          # path we pass and always writes to the one file it's locked
+          # to. It's included anyway for clarity.
           scp -O -v -i ~/.ssh/deploy_key -o StrictHostKeyChecking=yes \
               rykerr_index.db rykerr-deploy@"$VPS_HOST":rykerr_index.db
