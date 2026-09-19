@@ -1,0 +1,45 @@
+name: Rebuild search index
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '.github/workflows/rebuild-search-index.yml'
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  reindex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install indexer dependencies
+        working-directory: search-indexer
+        run: pip install -r requirements.txt
+
+      - name: Give GitHub Pages a moment to finish publishing
+        if: github.event_name == 'push'
+        run: sleep 90
+
+      - name: Build index
+        working-directory: search-indexer
+        run: python build_index.py
+
+      - name: Deploy index to VPS
+        working-directory: search-indexer
+        env:
+          SSH_KEY: ${{ secrets.RYKERR_DEPLOY_SSH_KEY }}
+          VPS_HOST: ${{ secrets.RYKERR_VPS_HOST }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -H "$VPS_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          scp -i ~/.ssh/deploy_key -o StrictHostKeyChecking=yes \
+              rykerr_index.db rykerr-deploy@"$VPS_HOST":rykerr_index.db

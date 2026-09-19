@@ -1,0 +1,33 @@
+# Rykerr Medical search — content exclusions
+#
+# One URL (or URL prefix) per line. Anything listed here is skipped
+# entirely during indexing — never crawled, never chunked, never
+# searchable — even though it's still live and linked on the site.
+#
+# Use this for superseded drafts, old versions of a document you've
+# since replaced, or anything else you don't want search surfacing.
+# There's no "prefer new over old" scoring here on purpose — this is a
+# hard exclude, which is the most reliable way to guarantee an old
+# version never gets cited by accident.
+#
+# Two forms:
+#   An exact URL        -- excludes just that one page or PDF.
+#   A URL ending in *    -- excludes everything under that prefix
+#                           (e.g. an entire folder of old drafts).
+#
+# Blank lines and lines starting with # are ignored. Edit this file any
+# time — it's picked up fresh on the next index rebuild, no code changes
+# needed.
+#
+# Examples (commented out — replace with your actual URLs):
+# https://rykerrmedical.com/downloads/vent-book-draft-v2.pdf
+# https://rykerrmedical.com/old-drafts/*
+
+# "Acute Deterioration in Mechanical Ventilation" blog post — this is a
+# repost of an old vent-book chapter (the post itself says so: "This is
+# a repost of one of the chapters in our free book on mechanical
+# ventilation in transport"). The current book has since superseded it
+# with an updated chapter, so exclude the stale repost from search
+# entirely rather than letting it compete with/outrank the current
+# version.
+https://rykerrmedical.com/2022/06/13/acute-deterioration-in-mechanical-ventilation.html

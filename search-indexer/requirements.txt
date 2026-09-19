@@ -1,0 +1,33 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+trafilatura>=1.8
+pymupdf>=1.24
+
+# Pinned BEFORE sentence-transformers on purpose — confirmed by an actual
+# real-machine install (not a guess): left unpinned, pip resolves the
+# newest torch, which declares a full CUDA stack (nvidia-cublas, cudnn,
+# cusparselt, triton, cuda-toolkit — 2GB+) as a hard dependency even on a
+# CPU-only machine, and hard-fails on `import torch` if any of it is
+# missing rather than skipping it gracefully. That's fine on GitHub
+# Actions' disk, wasteful but not fatal there — the real reason to pin
+# is that server/requirements.txt needs the exact same fix for the VPS,
+# and using two different torch versions between indexer and server
+# risks the two builds behaving differently for no reason.
+#
+# torch==2.5.1 is the sweet spot: predates the packaging change above
+# (confirmed working standalone, no nvidia-* packages needed, self-
+# contained CPU wheel), while still new enough that the current
+# transformers/sentence-transformers releases don't refuse to use it
+# (transformers currently requires torch>=2.5 and silently disables
+# itself — badly, with a confusing downstream NameError, not a clear
+# error — on anything older, which is what torch==2.3.1 hit here first).
+# If you ever bump this, re-verify both constraints on a real machine
+# before deploying: (1) no nvidia-* packages get pulled in / import
+# doesn't hard-fail without them, and (2) transformers doesn't disable
+# PyTorch support for being too old.
+torch==2.5.1
+sentence-transformers>=3.0
+numpy>=1.26
+tqdm>=4.66
+pyyaml>=6.0

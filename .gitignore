@@ -37,3 +37,8 @@ ehthumbs.db
 Thumbs.db
 
 node_modules/
+
+# Search indexer (rykerr-search project) — build artifacts, not source
+search-indexer/venv/
+search-indexer/__pycache__/
+search-indexer/*.db
