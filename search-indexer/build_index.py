@@ -501,7 +501,9 @@ def build(force_full=False, force_substr=None):
         )
 
     current_source_ids = page_source_ids | set(discovered_pdfs) | citation_source_ids
-    removed = store.prune_missing_sources(conn, current_source_ids)
+    removed = store.prune_missing_sources(
+        conn, current_source_ids, source_types=("webpage", "pdf", "citation")
+    )
     if removed:
         print(f"Removed {removed} source(s) no longer present (deleted, moved, or newly excluded)")
 

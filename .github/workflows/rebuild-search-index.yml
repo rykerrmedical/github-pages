@@ -7,8 +7,8 @@
 #
 # Setup required before this will work — see ../DEPLOY.md:
 #   - Repo secret RYKERR_DEPLOY_SSH_KEY: private half of a dedicated
-#     deploy keypair, restricted server-side to only writing the index
-#     file (never a general-purpose key).
+#     deploy keypair, restricted server-side to only reading/writing the
+#     index file (never a general-purpose key).
 #   - Repo secret RYKERR_VPS_HOST: the VPS's hostname or IP.
 
 name: Rebuild search index
@@ -38,27 +38,7 @@ jobs:
         working-directory: search-indexer
         run: pip install -r requirements.txt
 
-      - name: Give GitHub Pages a moment to finish publishing
-        if: github.event_name == 'push'
-        run: sleep 90
-
-      - name: Build index
-        working-directory: search-indexer
-        run: python build_index.py
-
-      # GitHub-hosted runners are fresh VMs with no state left over from
-      # the last run, and rykerr_index.db is gitignored, so build_index.py
-      # above always builds tier 1/2 from scratch — it never carries
-      # forward tier 3's local title index (WikEM / Deranged Physiology /
-      # IBCC), which lives in the SAME output db but comes from this
-      # separate script. Without this step, every deploy would silently
-      # overwrite the live index with one missing tier 3 entirely.
-      - name: Build tier-3 local index (WikEM / Deranged Physiology / IBCC)
-        working-directory: search-indexer
-        run: python build_tier3_index.py
-
-      - name: Deploy index to VPS
-        working-directory: search-indexer
+      - name: Set up deploy SSH key
         env:
           SSH_KEY: ${{ secrets.RYKERR_DEPLOY_SSH_KEY }}
           VPS_HOST: ${{ secrets.RYKERR_VPS_HOST }}
@@ -68,9 +48,48 @@ jobs:
           chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -H "$VPS_HOST" >> ~/.ssh/known_hosts 2>/dev/null
 
-          # The destination path here doesn't actually matter — the
-          # VPS-side forced command (see ../DEPLOY.md) ignores whatever
-          # path we pass and always writes to the one file it's locked
-          # to. It's included anyway for clarity.
+      # GitHub-hosted runners are fresh VMs with no state left over from
+      # the last run, and rykerr_index.db is gitignored, so build_index.py
+      # would otherwise always start from nothing. Pulling the currently-
+      # live index down first means build_index.py's incremental logic
+      # actually has something to diff against, AND — combined with the
+      # prune_missing_sources fix — means tier 3's WikEM/Deranged
+      # Physiology rows (which only a manual run from a non-cloud IP can
+      # populate; GitHub's runner IPs get blocked by those two sites)
+      # survive being overwritten by this automated run instead of
+      # silently vanishing on every deploy.
+      - name: Pull current live index from VPS
+        working-directory: search-indexer
+        env:
+          VPS_HOST: ${{ secrets.RYKERR_VPS_HOST }}
+        run: |
+          scp -O -i ~/.ssh/deploy_key -o StrictHostKeyChecking=yes \
+              rykerr-deploy@"$VPS_HOST":rykerr_index.db rykerr_index.db \
+              || echo "No existing index downloaded (first run, or fetch failed) — starting fresh."
+
+      - name: Give GitHub Pages a moment to finish publishing
+        if: github.event_name == 'push'
+        run: sleep 90
+
+      - name: Build index
+        working-directory: search-indexer
+        run: python build_index.py
+
+      # See build_tier3_index.py's docstring: WikEM and Deranged Physiology
+      # block/challenge requests from GitHub's runner IPs (403 / stuck
+      # sitemap fetch), so only IBCC actually refreshes here. WikEM and
+      # Deranged Physiology are refreshed by running this script by hand
+      # from a non-cloud IP occasionally and doing a one-off manual
+      # upload — see DEPLOY.md. This step still runs every time so IBCC
+      # stays fresh automatically.
+      - name: Build tier-3 local index (WikEM / Deranged Physiology / IBCC)
+        working-directory: search-indexer
+        run: python build_tier3_index.py
+
+      - name: Deploy index to VPS
+        working-directory: search-indexer
+        env:
+          VPS_HOST: ${{ secrets.RYKERR_VPS_HOST }}
+        run: |
           scp -O -v -i ~/.ssh/deploy_key -o StrictHostKeyChecking=yes \
               rykerr_index.db rykerr-deploy@"$VPS_HOST":rykerr_index.db

@@ -173,14 +173,31 @@ def replace_source_chunks(conn, source_type, source_id, source_title, chunk_rows
     )
 
 
-def prune_missing_sources(conn, current_source_ids):
+def prune_missing_sources(conn, current_source_ids, source_types):
     """Removes chunks + the sources record for anything indexed
     previously that's no longer in the current crawl/PDF-discovery
     results — a page taken down, a PDF moved, or something newly added
     to curation/excluded_urls.txt. Returns how many sources were
     removed, for logging. This is what keeps incremental updates from
-    silently accumulating stale content forever."""
-    known = {row[0] for row in conn.execute("SELECT source_id FROM sources").fetchall()}
+    silently accumulating stale content forever.
+
+    source_types SCOPES this to only the source_type(s) this particular
+    build run is actually authoritative for (e.g. build_index.py passes
+    ('webpage', 'pdf', 'citation')). Without this, a run of build_index.py
+    would treat tier 3's separately-maintained 'external' rows (see
+    build_tier3_index.py) as "no longer present" and delete them, since
+    they're never part of build_index.py's own current_source_ids — even
+    though build_index.py knows nothing about tier 3 and has no business
+    pruning it. Confirmed as a real bug (not hypothetical): surfaced when
+    the automated deploy pipeline was extended to also seed tier 3 from a
+    previously-downloaded live index."""
+    placeholders = ",".join("?" for _ in source_types)
+    known = {
+        row[0] for row in conn.execute(
+            f"SELECT source_id FROM sources WHERE source_type IN ({placeholders})",
+            list(source_types),
+        ).fetchall()
+    }
     missing = known - set(current_source_ids)
     for source_id in missing:
         conn.execute("DELETE FROM chunks WHERE source_id=?", (source_id,))
