@@ -149,12 +149,21 @@ def index_webpages(conn, excluded_patterns, force_substr=None):
             forced = force_substr is not None and (
                 force_substr in url.lower() or force_substr in page["title"].lower()
             )
-            content_signal = _hash_text(page["text"])
+            # Signal has to cover everything that can change what gets
+            # embedded now that a page is title + blurb + structured
+            # blocks rather than one flat text field — a blurb edit or a
+            # heading change with the same body prose underneath should
+            # still trigger a re-embed.
+            content_repr = "\x1e".join([
+                page["title"], page["blurb"] or "",
+                *(f"{b['heading_path'] or ''}\x1f{b['text']}" for b in page["blocks"]),
+            ])
+            content_signal = _hash_text(content_repr)
             if not forced and store.get_source_signal(conn, url) == content_signal:
                 stats["unchanged"] += 1
                 continue
 
-            pieces = chunker.chunk_text(page["text"])
+            pieces = chunker.chunk_structured_text(page["title"], page["blurb"], page["blocks"])
             if not pieces:
                 continue
 
@@ -170,9 +179,18 @@ def index_webpages(conn, excluded_patterns, force_substr=None):
             if page_tags:
                 stats["with_tags"] += 1
 
-            embeddings = embedder.embed_documents(pieces)
+            embeddings = embedder.embed_documents([p["text"] for p in pieces])
             chunk_rows = [
-                {"locator": "", "locator_url": url, "chunk_index": i, "text": piece, "embedding": vec}
+                # locator carries the section heading (e.g. "Anatomical
+                # Differences"), same idea as a PDF's "Page N" — lets a
+                # result show WHICH part of the page it's from, not just
+                # the page as a whole. Empty for a page with no in-body
+                # heading structure at all (most short posts).
+                {
+                    "locator": piece.get("heading_path") or "",
+                    "locator_url": url, "chunk_index": i,
+                    "text": piece["text"], "embedding": vec,
+                }
                 for i, (piece, vec) in enumerate(zip(pieces, embeddings))
             ]
             _check_chunk_regression(conn, page["title"], url, len(chunk_rows))
@@ -309,10 +327,10 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
     if not forced and _versioned(content_signal) == previous_signal:
         stats["unchanged"] += 1
         return
-    pages, citation_entries = pdf_ingest.extract_pdf_pages(pdf_bytes, pdf_url)
+    sections, citation_entries = pdf_ingest.extract_pdf_pages(pdf_bytes, pdf_url)
 
     # Resolve and store this PDF's citation-blurb mentions regardless of
-    # whether `pages` ends up empty — this is the one point where we
+    # whether `sections` ends up empty — this is the one point where we
     # actually have the PDF open and its blurbs extracted, so it has to
     # happen here even on a run where the surrounding body text produces
     # nothing to chunk. See store.replace_citation_mentions — this is
@@ -344,26 +362,39 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
             f"{len(mention_rows) - unresolved} resolved, {unresolved} unresolved"
         )
 
-    if not pages:
+    if not sections:
         print(f"  ! no extractable text in {pdf_url}, skipping")
         return
 
-    chunk_rows = []
-    chunk_index = 0
-    for page_number, page_text in pages:
-        pieces = chunker.chunk_text(page_text)
-        if not pieces:
-            continue
-        embeddings = embedder.embed_documents(pieces)
-        for piece, vec in zip(pieces, embeddings):
-            chunk_rows.append({
-                "locator": f"Page {page_number}",
-                "locator_url": pdf_ingest.locator_url_for_page(pdf_url, page_number),
-                "chunk_index": chunk_index,
-                "text": piece,
-                "embedding": vec,
-            })
-            chunk_index += 1
+    # chunk_structured_text needs "text" plus whatever pass-through
+    # metadata each resulting chunk should carry — here that's
+    # start_page/end_page, so a section split into several word-count
+    # windows still knows which pages EVERY one of its pieces came from,
+    # not just the section as a whole.
+    blocks = [
+        {
+            "heading_path": s["heading_path"],
+            "text": s["text"],
+            "start_page": s["start_page"],
+            "end_page": s["end_page"],
+        }
+        for s in sections
+    ]
+    pieces = chunker.chunk_structured_text(title, None, blocks)
+    embeddings = embedder.embed_documents([p["text"] for p in pieces])
+    chunk_rows = [
+        {
+            "locator": (
+                f"Page {p['start_page']}" if p["start_page"] == p["end_page"]
+                else f"Pages {p['start_page']}-{p['end_page']}"
+            ),
+            "locator_url": pdf_ingest.locator_url_for_page(pdf_url, p["start_page"]),
+            "chunk_index": i,
+            "text": p["text"],
+            "embedding": vec,
+        }
+        for i, (p, vec) in enumerate(zip(pieces, embeddings))
+    ]
 
     if not chunk_rows:
         return

@@ -43,7 +43,7 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 2
+PDF_PIPELINE_VERSION = 3  # section-based chunking (grouping by heading across page breaks) + the pdf_title() unquote fix
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like
@@ -592,12 +592,21 @@ def _strip_repeated_boilerplate(pages):
     site URL, doc title) that's byte-for-byte identical across most
     pages of a PDF. Left in, a short repeated line doesn't usually hurt
     much on its own, but on a short page it can be a large fraction of
-    the chunk — worth stripping cheaply since we're already here."""
+    the chunk — worth stripping cheaply since we're already here.
+
+    pages here is (page_number, heading_path, text) — this runs BEFORE
+    extract_pdf_pages groups pages into heading-based sections (frequency
+    analysis needs the full per-page picture; grouping would already
+    have merged text across pages by the time this ran, which would
+    both undercount how many pages a boilerplate line really appears on
+    and make stripping it out from the middle of an already-joined blob
+    messier than doing it here first), so heading_path just passes
+    through untouched for the caller's later grouping pass."""
     if len(pages) < 6:
         return pages  # too few pages for frequency to mean anything
 
     line_counts = Counter()
-    for _, text in pages:
+    for _, _, text in pages:
         for line in {ln.strip() for ln in text.split("\n") if ln.strip()}:
             line_counts[line] += 1
 
@@ -607,11 +616,11 @@ def _strip_repeated_boilerplate(pages):
         return pages
 
     cleaned = []
-    for page_number, text in pages:
+    for page_number, heading_path, text in pages:
         kept = [ln for ln in text.split("\n") if ln.strip() not in boilerplate]
         text = _clean_page_text("\n".join(kept))
         if len(text) >= config.PDF_MIN_CHARS_PER_PAGE:
-            cleaned.append((page_number, text))
+            cleaned.append((page_number, heading_path, text))
     return cleaned
 
 
@@ -769,21 +778,59 @@ def _heading_candidates_from_dict(page_dict):
 
 
 def extract_pdf_pages(pdf_bytes, pdf_url):
-    """Returns (pages, citations).
+    """Returns (sections, citations).
 
-    pages is a list of (page_number, text) for every page with enough
-    extractable text to be worth indexing. page_number is 1-based, to
-    match what a human would actually call it in a citation. Each page's
-    text is prefixed with the chapter/section heading currently in
-    effect (e.g. "[Vent Parameters Round One — Positive End-Expiratory
-    Pressure]"), detected from the PDF's own font formatting.
+    sections is a list of {"start_page", "end_page", "heading_path",
+    "text"} dicts, in document order — one per contiguous run of pages
+    that share the same chapter/section heading (detected from the PDF's
+    own font formatting, same as before), NOT one per page. Page numbers
+    are 1-based, to match what a human would actually call them in a
+    citation; start_page == end_page for a section that fits on one
+    page, or a range for one that spans several. heading_path is e.g.
+    "Vent Parameters Round One — Positive End-Expiratory Pressure", or
+    None for text with no heading in effect yet (a preamble before the
+    first real heading). Unlike a page's raw text, `text` here does NOT
+    have the heading baked in as a prefix — that's chunker.
+    chunk_structured_text's job now, applied per resulting CHUNK rather
+    than per page/section, so a long section that needs splitting into
+    several word-count windows doesn't lose its heading context after
+    the first window (see that function's docstring).
+
+    Grouping by heading rather than by page fixes a real retrieval
+    problem, not just a cosmetic one: a section that runs across a page
+    break used to become two (or more) separate, independently-scored
+    chunks, split at an arbitrary point that has nothing to do with the
+    document's actual structure — a short, sharply-on-topic section
+    could lose to an irrelevant but keyword-heavy neighboring page
+    simply because neither carried any real indication of what it
+    actually was, and a genuinely single idea was diluted across
+    multiple weaker, disconnected chunks instead of standing as one
+    strong one. Confirmed as the root cause on the live vent book: a
+    query for pediatric initial vent settings retrieved pages 122/131/150
+    (each an arbitrary page-shaped slice) while page 147's actual
+    "Minute Volume for Pediatrics" section/table — which continues onto
+    page 148 — never made the candidate pool at all, page-chunked and
+    diluted into two mediocre-scoring pieces instead of one strong one.
+
+    KNOWN LIMITATION: when a heading transition happens PARTWAY through
+    one page (an old section ends and a new one starts on the same
+    page), this still attributes that whole page to whichever heading is
+    in effect by the page's END — heading detection only knows WHAT
+    heading text appears on a page, not WHERE within that page's
+    plain-text extraction it falls, so it can't split one page's text at
+    the exact transition point. That's the same imprecision the old
+    per-page version had for every single page; now it's confined to
+    just the one page where a transition actually happens, rather than
+    applying everywhere. Worth revisiting (e.g. locating the heading
+    text within the page's plain-text extraction to split there) if it
+    turns out to matter in practice, but not attempted here.
 
     citations is a flat list of every inline citation blurb found across
     the whole document (see extract_citation_blurbs) — each entry is
     {"page", "number", "label", "label_pieces", "blurb", "links"},
-    already stripped out of the corresponding page's text in `pages` so
-    it isn't double-indexed as undifferentiated body prose. build_index.py
-    is responsible for resolving each entry's links (or falling back to
+    already stripped out of the corresponding page's text so it isn't
+    double-indexed as undifferentiated body prose. build_index.py is
+    responsible for resolving each entry's links (or falling back to
     author/year + content matching when there are none) and indexing it
     as its own small "citation" source.
 
@@ -836,7 +883,14 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     tier1_min = (body_size + _HEADING_TIER1_OFFSET) if body_size is not None else None
     tier2_min = (body_size + _HEADING_TIER2_OFFSET) if body_size is not None else None
 
-    pages = []
+    # Pass 1: per-page cleaning, citation extraction, and skip-filtering
+    # -- exactly what the old per-page loop did, just not yet grouped
+    # into sections. Has to stay a separate pass before grouping because
+    # _strip_repeated_boilerplate (right after) needs the full per-page
+    # picture to do its frequency analysis; grouping first would both
+    # undercount how many actual pages a boilerplate line appears on and
+    # make stripping it back out of an already-merged section messier.
+    kept_pages = []  # (page_number, heading_path, text)
     citations = []
     skipped_scanned = 0
     skipped_references = 0
@@ -877,18 +931,15 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
             skipped_changelog += 1
             continue
 
-        heading_path = " — ".join(h for h in (current_h1, current_h2) if h)
-        if heading_path:
-            text = f"[{heading_path}]\n\n{text}"
-
-        pages.append((i, text))
+        heading_path = " — ".join(h for h in (current_h1, current_h2) if h) or None
+        kept_pages.append((i, heading_path, text))
 
     if ocr_attempted:
         note = f", {ocr_failed} failed" if ocr_failed else ""
         print(f"  - {pdf_url}: ran OCR on {ocr_attempted} page(s) with embedded images{note}")
 
     if skipped_scanned:
-        frac = skipped_scanned / max(skipped_scanned + len(pages), 1)
+        frac = skipped_scanned / max(skipped_scanned + len(kept_pages), 1)
         note = " (this PDF may be scanned images — check config.PDF_ENABLE_OCR is on)" if frac > 0.5 else ""
         print(f"  ! {pdf_url}: skipped {skipped_scanned} page(s) with little/no extractable text{note}")
 
@@ -904,11 +955,38 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
             f"list (edit notes, not instructional content — outranked real content on shared vocabulary)"
         )
 
-    before = len(pages)
-    pages = _strip_repeated_boilerplate(pages)
-    dropped = before - len(pages)
+    before = len(kept_pages)
+    kept_pages = _strip_repeated_boilerplate(kept_pages)
+    dropped = before - len(kept_pages)
     if dropped:
         print(f"  ! {pdf_url}: {dropped} page(s) were nothing but repeated header/footer text once stripped, dropped")
+
+    # Pass 2: group the surviving pages into sections — a contiguous run
+    # of pages sharing the same heading_path becomes ONE section instead
+    # of one chunk per page. See this function's docstring for why.
+    sections = []
+    current_section = None  # {"start_page", "end_page", "heading_path", "texts": [...]}
+
+    def _flush_section():
+        if current_section is not None and current_section["texts"]:
+            sections.append({
+                "start_page": current_section["start_page"],
+                "end_page": current_section["end_page"],
+                "heading_path": current_section["heading_path"],
+                "text": "\n\n".join(current_section["texts"]),
+            })
+
+    for page_number, heading_path, text in kept_pages:
+        if current_section is not None and current_section["heading_path"] == heading_path:
+            current_section["end_page"] = page_number
+            current_section["texts"].append(text)
+        else:
+            _flush_section()
+            current_section = {
+                "start_page": page_number, "end_page": page_number,
+                "heading_path": heading_path, "texts": [text],
+            }
+    _flush_section()
 
     if citations:
         with_links = sum(1 for c in citations if c["links"])
@@ -917,7 +995,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
             f"({with_links} with a resolvable link, {len(citations) - with_links} plain-text only)"
         )
 
-    return pages, citations
+    return sections, citations
 
 
 def pdf_title(pdf_bytes, fallback_url):
@@ -929,8 +1007,13 @@ def pdf_title(pdf_bytes, fallback_url):
             return title
     except Exception:
         pass
-    # Fall back to the filename
-    name = urlparse.urlsplit(fallback_url).path.rsplit("/", 1)[-1]
+    # Fall back to the filename — unquoted (a raw URL-encoded filename
+    # like "Field%20Reference%20Guides.pdf" is not a clean title), and
+    # with the extension stripped, so an untitled PDF's fallback looks
+    # like every other PDF's real embedded title instead of a filename.
+    name = urlparse.unquote(urlparse.urlsplit(fallback_url).path.rsplit("/", 1)[-1])
+    if name.lower().endswith(".pdf"):
+        name = name[:-4]
     return name or fallback_url
 
 
