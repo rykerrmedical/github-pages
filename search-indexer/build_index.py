@@ -538,8 +538,17 @@ def build(force_full=False, force_substr=None):
     if removed:
         print(f"Removed {removed} source(s) no longer present (deleted, moved, or newly excluded)")
 
-    total_chunks = page_stats["chunks_written"] + pdf_stats["chunks_written"] + citation_stats["chunks"]
     total_docs_touched = page_stats["changed"] + pdf_stats["changed"]
+
+    # num_chunks here is a meta-table display stat (retrieval reads the
+    # chunks/sources tables directly, never this), so it should be the
+    # actual corpus-wide total -- not a per-run delta of chunks written
+    # this run. The delta undercounts whenever pages/PDFs have nothing
+    # changed but citation sources (which are always fully rewritten
+    # every run) still contribute their full count -- a no-op incremental
+    # run would otherwise report just the citation chunk count as if it
+    # were the whole index.
+    total_chunks = conn.execute("SELECT COUNT(*) FROM chunks").fetchone()[0]
 
     store.record_build_stats(
         conn,
