@@ -191,7 +191,7 @@ permalink: /search-beta/
     if (source.source_type === 'citation') {
       return source.locator || 'Citation';
     }
-    return 'rykerrmedical.com';
+    return source.locator ? 'rykerrmedical.com — ' + source.locator : 'rykerrmedical.com';
   }
 
   function renderResults(data) {
