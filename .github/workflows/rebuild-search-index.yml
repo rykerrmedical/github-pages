@@ -91,5 +91,5 @@ jobs:
         env:
           VPS_HOST: ${{ secrets.RYKERR_VPS_HOST }}
         run: |
-          scp -O -v -i ~/.ssh/deploy_key -o StrictHostKeyChecking=yes \
+          scp -O -i ~/.ssh/deploy_key -o StrictHostKeyChecking=yes \
               rykerr_index.db rykerr-deploy@"$VPS_HOST":rykerr_index.db
