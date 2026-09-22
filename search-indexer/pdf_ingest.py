@@ -76,14 +76,55 @@ def _canonicalize_pdf_url(url):
     return f"https://archive.org/download/{m.group(1)}"
 
 
+_BLOG_POST_URL_RE = re.compile(r"/\d{4}/\d{2}/\d{2}/")
+
+
+def _is_archive_org(url):
+    host = urlparse.urlsplit(url).netloc.lower()
+    return host == "archive.org" or host.endswith(".archive.org")
+
+
 def find_pdf_links(html, page_url):
-    """Returns absolute URLs of every .pdf link found on this page."""
+    """Returns absolute URLs of every .pdf link found on this page.
+
+    On a blog post (Jekyll's own dated permalink shape, /YYYY/MM/DD/
+    slug.html) ONLY keeps links hosted on archive.org -- everything else
+    found there is skipped. Confirmed as a real, generalizable bug, not
+    a one-off: a "for further reading" PDF link buried in a post's own
+    prose (an external journal correspondence letter, hosted on an
+    unrelated third-party site, linked once from the chest-tubes post)
+    got swept into tier-1 PRIMARY-content indexing exactly like Ryan's
+    own deliberately curated reference PDFs.
+
+    The obvious first fix attempt -- skip PDF discovery on posts
+    entirely -- turned out to be too broad: confirmed against the real
+    site that at least one genuinely-wanted reference ("Umbilical Vein
+    Catheterization Reference", part of Ryan's own curated
+    archive.org/clinical-guides collection) is currently ONLY linked
+    from inside a post, with no resource-page link at all -- that fix
+    would have silently dropped it from the index right alongside the
+    actual stray link it was meant to catch. Host, not page type, turns
+    out to be the real signal: every PDF Ryan has ever actually wanted
+    indexed FROM archive.org, confirmed real across the whole corpus,
+    regardless of whether it's linked from a resource page or an
+    incidental post mention -- while the one stray case (vpci.org.in)
+    is hosted nowhere Ryan controls at all. A non-post resource/hub page
+    (e.g. /austere-medicine/) is where he separately curates PDFs hosted
+    elsewhere too (WHO's own site, cpj.org) -- deliberate enough,
+    curated in one dedicated place rather than mentioned in passing,
+    that any host found there is still trusted as before; this
+    restriction applies to post pages only."""
+    on_post = bool(_BLOG_POST_URL_RE.search(urlparse.urlsplit(page_url).path))
     soup = BeautifulSoup(html, "lxml")
     found = []
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if href.lower().split("?")[0].split("#")[0].endswith(".pdf"):
-            found.append(_canonicalize_pdf_url(_normalize(href, page_url)))
+        if not href.lower().split("?")[0].split("#")[0].endswith(".pdf"):
+            continue
+        url = _canonicalize_pdf_url(_normalize(href, page_url))
+        if on_post and not _is_archive_org(url):
+            continue
+        found.append(url)
     return found
 
 
