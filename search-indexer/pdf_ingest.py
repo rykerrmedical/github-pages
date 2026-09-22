@@ -43,7 +43,7 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 3  # section-based chunking (grouping by heading across page breaks) + the pdf_title() unquote fix
+PDF_PIPELINE_VERSION = 4  # + _strip_inline_footnote_markers (see below)
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like
@@ -488,6 +488,102 @@ def extract_citation_blurbs(text):
     clean_text = _clean_page_text("".join(clean_parts))
 
     return clean_text, entries
+
+
+# --- Inline footnote-marker cleanup ---
+# extract_citation_blurbs (above) pulls a footnote's own BLURB text out
+# of the page it supports, but confirmed against the real, live vent
+# book: it leaves the inline MARKER -- the bare number where the
+# footnote was actually referenced, mid-sentence -- exactly where it
+# was, glued straight onto the preceding word with no space, because
+# that's genuinely how the PDF's own text stream has it (a superscript
+# footnote number is typographically kerned tight against what precedes
+# it, with no literal space character between them). Real confirmed
+# examples, pulled straight from the live index: "...their contribution
+# to ICU delirium.487", "...less likely, chest tube placement493)",
+# "...NSAIDs of this nature would include things like ketorolac or
+# diclofenac.479". Left alone, every one of these reads as a stray
+# number stapled onto a word in the middle of a search result.
+#
+# The obvious fix -- strip any digit run that's glued to a word with no
+# surrounding space -- is NOT safe to run blindly. Confirmed by testing
+# against the REAL text of every PDF currently indexed (2561 candidate
+# matches across the whole corpus): the overwhelming majority outside
+# the vent book are something else entirely wearing the same shape --
+# confidence intervals ("...1.04 to 1.60)"), forest-plot/table data
+# ("33 41 100.0% — 0,94 [0.69, 1.29]"), numbered reference-list entries
+# ("31. Hardman JG"), DOIs, grant numbers, even a plain decimal fraction
+# in the vent book itself ("an FiO2 of 0.21" -- "21" glued to "0." with
+# no space, same shape as a footnote, but it's just a number). Blindly
+# stripping any of those would silently corrupt real clinical/
+# statistical content, which is a far worse outcome than a cosmetic
+# glued digit.
+#
+# The fix that IS safe, also confirmed against the real vent-book text
+# (626 of 680 candidate matches corroborated this way, 25 spot-checked
+# by hand, all genuine footnote markers -- the other 54 were left alone,
+# including that same "0.21" and a "0.8563" respiratory-quotient value
+# elsewhere in the same document, correctly NOT stripped): only remove a
+# glued digit run when that SAME number ALSO appears elsewhere in this
+# document shaped like the START of its own footnote/sidenote entry --
+# a number followed by whitespace then a capital letter, e.g. "493 As a
+# sidenote..." (a plain sidenote-style footnote, not resolvable as a
+# real Author/Year citation, so extract_citation_blurbs above leaves it
+# in place -- see its own docstring's "plenty of numbered footnotes are
+# not citations at all"). Two independent occurrences of the same
+# number, in two different shapes, in the same document, is strong
+# self-corroborating evidence it's a real footnote marker rather than a
+# coincidence -- a stray table number or a confidence-interval bound
+# essentially never ALSO happens to reappear elsewhere as its own
+# capital-letter-led sentence start.
+#
+# Gated on top of that: this whole mechanism only ever runs on a
+# document that's already proven, via its own real extract_citation_blurbs
+# hits, to actually use Ryan's numbered-footnote-at-bottom-of-page
+# convention in the first place (see _FOOTNOTE_MARKER_MIN_CITATIONS) --
+# so it can never even attempt to fire on the academic-paper PDFs or
+# anything else in the corpus that merely happens to contain glued-
+# looking digits for unrelated reasons.
+_FOOTNOTE_ENTRY_START_RE = re.compile(r"(?<!\d)(\d{2,3})(?!\d)\s+(?=[A-Z])")
+_INLINE_FOOTNOTE_MARKER_RE = re.compile(r"(?<=[A-Za-z\)\.,;:])(\d{2,3})(?=[\s\)\.,;:]|$)")
+_FOOTNOTE_MARKER_MIN_CITATIONS = 5
+# Capped at 3 digits, not 4: confirmed as a real, caught-in-testing false
+# positive at 4 digits against the real vent book -- "the LTV1200, as I"
+# (a real ventilator model number, "LTV 1200") got corrupted into "the
+# LTV, as I" because "1200" coincidentally also appeared elsewhere in the
+# document followed by whitespace + a capital letter, satisfying the
+# corroboration check for entirely unrelated reasons. Every real footnote
+# number actually found in the live document tops out in the mid-500s
+# (338 total citations across a 266-page book), so capping at 3 digits
+# (covers up to 999) loses no real footnote while structurally excluding
+# a 4-digit model/part number from ever being a candidate at all -- the
+# lookbehind here requires a non-digit immediately before the match, so
+# a run like "1200" can't be entered mid-number either (re-confirmed
+# against the real text after this fix: LTV1200 no longer touched, the
+# real placement493/etc. cleanup still fires exactly as before).
+
+
+def _strip_inline_footnote_markers(kept_pages, citations):
+    """kept_pages: [(page_number, heading_path, text), ...], citations:
+    the whole document's extract_citation_blurbs hits (see extract_pdf_pages).
+    Returns kept_pages with the same shape, text cleaned. See the module
+    comment above for why this is scoped the way it is."""
+    if len(citations) < _FOOTNOTE_MARKER_MIN_CITATIONS:
+        return kept_pages
+
+    whole_text = "\n".join(text for _, _, text in kept_pages)
+    entry_numbers = {m.group(1) for m in _FOOTNOTE_ENTRY_START_RE.finditer(whole_text)}
+    # Also seed with the numbers already proven real via a strict
+    # Author/Year match -- covers the rare case where a real entry's own
+    # formatting doesn't happen to match the looser entry-start scan.
+    entry_numbers.update(c["number"] for c in citations)
+
+    def _strip(text):
+        return _INLINE_FOOTNOTE_MARKER_RE.sub(
+            lambda m: "" if m.group(1) in entry_numbers else m.group(0), text
+        )
+
+    return [(page_number, heading_path, _strip(text)) for page_number, heading_path, text in kept_pages]
 
 
 def _normalize_link_label(text):
@@ -953,6 +1049,14 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
         print(
             f"  ! {pdf_url}: skipped {skipped_changelog} page(s) that look like a version/changelog "
             f"list (edit notes, not instructional content — outranked real content on shared vocabulary)"
+        )
+
+    before_marker_cleanup = len(citations)
+    kept_pages = _strip_inline_footnote_markers(kept_pages, citations)
+    if before_marker_cleanup >= _FOOTNOTE_MARKER_MIN_CITATIONS:
+        print(
+            f"  - {pdf_url}: cleaned up inline footnote-marker digits glued onto body text "
+            f"(document uses a numbered-footnote convention — see _strip_inline_footnote_markers)"
         )
 
     before = len(kept_pages)

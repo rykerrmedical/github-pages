@@ -31,3 +31,24 @@
 # entirely rather than letting it compete with/outrank the current
 # version.
 https://rykerrmedical.com/2022/06/13/acute-deterioration-in-mechanical-ventilation.html
+
+# Journal correspondence letter (Flores-Franco, "Improvised Chest Tube
+# Valve for Intra-hospital Transportation") hosted at vpci.org.in, not
+# rykerrmedical.com -- linked once, inline, from the chest-tubes blog
+# post as a "further reading" citation (see _posts/2025-01-07-chest-tubes.md).
+# find_pdf_links() picks up any .pdf link found while crawling a
+# webpage, with no way yet to tell "content Ryan is hosting/curating as
+# primary source material" apart from "a PDF a post merely links to in
+# passing" -- both currently get indexed identically as tier-1 content.
+# Confirmed as a real, live production mismatch: the embedded PDF title
+# metadata is a leftover authoring artifact ("July-Sept-2010.pmd", the
+# original PageMaker filename from whoever scanned this decades-old
+# correspondence) rather than anything readable, and its content is a
+# single doctor's brief editorial reply, not something that answers a
+# clinical question with Ryan's own authority behind it -- confirmed
+# outranking real tier-1 content for "should I connect a chest tube to
+# suction?" despite not actually answering it. Worth revisiting
+# find_pdf_links()'s blanket-tier-1 treatment generally at some point
+# (other posts likely link out similarly), but excluding this one
+# specific straggler is the safe, immediate fix.
+https://www.vpci.org.in/uploads/Correspondence%282%29.pdf
