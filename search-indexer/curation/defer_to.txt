@@ -1,0 +1,34 @@
+# Rykerr Medical search — citation overrides
+#
+# For content that's findable and SHOULD be, but whose own page isn't
+# the best thing to actually point someone at — the real content is
+# somewhere else. extract.py already auto-detects the common case of
+# this on its own (an index/card page whose entry links straight to the
+# thing it's about — the blog's post list, a resource hub's cards) —
+# see extract.py's module docstring. This file is the manual fallback
+# for what can't be auto-detected: a section that links to several
+# different things at once (so there's no single unambiguous target to
+# pick automatically), or the real best source not being linked from
+# the page at all yet (e.g. a video that isn't indexed here yet).
+#
+# Nothing here excludes the deferring page from the index — it stays
+# exactly as searchable as always. Only the citation shown changes, and
+# only for the specific chunk(s) a rule matches.
+#
+# One rule per line, pipe-separated:
+#   PAGE_URL | HEADING_SUBSTRING | TARGET_URL
+#
+#   PAGE_URL           the exact URL of the page whose chunk(s) should
+#                       defer.
+#   HEADING_SUBSTRING   matched case-insensitively against that chunk's
+#                       own heading path. Leave blank to match every
+#                       chunk on that page regardless of section.
+#   TARGET_URL          what to cite instead. If it isn't indexed yet,
+#                       the rule just doesn't fire yet — not an error.
+#
+# Example (commented out — nothing to defer yet, this is just the shape):
+# https://www.rykerrmedical.com/vent-management/ | QR Code | https://www.youtube.com/watch?v=REPLACE_ME
+#
+# Blank lines and lines starting with # are ignored. Edit this file any
+# time — it's picked up fresh on the next index rebuild, no code changes
+# needed.

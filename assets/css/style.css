@@ -54,12 +54,19 @@ h1, h2, h3 {
 }
 
 /* Give each post entry more breathing room, and indent the blurb/date line
-   (post-meta) under its boxed title instead of flush against the left edge */
+   (post-blurb) under its boxed title instead of flush against the left edge.
+   This used to be a #posts-list-scoped override of the .post-meta class
+   that individual post pages use for their byline/date -- split into its
+   own .post-blurb class instead, because reusing "post-meta" here was
+   also making the search indexer's extraction (which treats "*meta*"
+   classes as boilerplate to strip, correctly, on an individual post's
+   real byline/date) silently drop this blurb text too. See
+   search-indexer/extract.py. */
 #posts-list li {
   margin-bottom: 2.5rem;
 }
 
-#posts-list .post-meta {
+#posts-list .post-blurb {
   margin-left: 1rem;
 }
 

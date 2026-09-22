@@ -98,11 +98,18 @@ def _check_chunk_regression(conn, title, source_id, new_count):
         )
 
 
-def index_webpages(conn, excluded_patterns, force_substr=None):
+def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None):
     """Crawls every page in config.SITES, skipping re-chunk/re-embed for
     any page whose extracted text hasn't changed since last time — unless
     force_substr matches its URL or title, which reprocesses it
     regardless (see --force).
+
+    defer_overrides: curation.load_defer_overrides()'s output — manual
+    "cite something else for this chunk" rules, applied on top of
+    extract.py's own auto-detected links_to (see curation.resolve_defer
+    and curation/defer_to.txt) wherever a chunk's page+heading matches
+    one.
+
     Returns (discovered_pdf_urls, current_page_source_ids, stats)."""
     stats = {
         "seen": 0, "changed": 0, "unchanged": 0, "chunks_written": 0,
@@ -186,10 +193,23 @@ def index_webpages(conn, excluded_patterns, force_substr=None):
                 # result show WHICH part of the page it's from, not just
                 # the page as a whole. Empty for a page with no in-body
                 # heading structure at all (most short posts).
+                #
+                # links_to: a manual override (curation/defer_to.txt)
+                # takes precedence over extract.py's own auto-detected
+                # links_to when both apply to the same chunk — an
+                # explicit editorial call beats a heuristic. Either way
+                # this is just metadata carried on the chunk; the actual
+                # citation swap happens at query time (see retrieval.py
+                # on the server), never here — the chunk's own text is
+                # still exactly what gets embedded and matched.
                 {
                     "locator": piece.get("heading_path") or "",
                     "locator_url": url, "chunk_index": i,
                     "text": piece["text"], "embedding": vec,
+                    "links_to": (
+                        curation.resolve_defer(url, piece.get("heading_path"), defer_overrides)
+                        or piece.get("links_to")
+                    ),
                 }
                 for i, (piece, vec) in enumerate(zip(pieces, embeddings))
             ]
@@ -479,7 +499,13 @@ def build(force_full=False, force_substr=None):
     if excluded_patterns:
         print(f"Loaded {len(excluded_patterns)} exclusion rule(s) from curation/excluded_urls.txt")
 
-    discovered_pdfs, page_source_ids, page_stats = index_webpages(conn, excluded_patterns, force_substr)
+    defer_overrides = curation.load_defer_overrides()
+    if defer_overrides:
+        print(f"Loaded {len(defer_overrides)} citation-override rule(s) from curation/defer_to.txt")
+
+    discovered_pdfs, page_source_ids, page_stats = index_webpages(
+        conn, excluded_patterns, defer_overrides, force_substr
+    )
     discovered_pdfs = set(discovered_pdfs)
 
     # Resolves the citation blurbs pdf_ingest.py pulls out of your own

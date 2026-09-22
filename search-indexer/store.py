@@ -49,6 +49,22 @@ CREATE TABLE IF NOT EXISTS chunks (
     tags TEXT NOT NULL DEFAULT '[]',  -- JSON list, e.g. your hand-placed
                                         -- post tags — '[]' for sources
                                         -- (like PDFs) that don't have any
+    links_to TEXT,                     -- set only when this chunk is really
+                                        -- just a pointer at something else
+                                        -- (an index page's entry for one
+                                        -- specific post, an overview
+                                        -- section deferring to a better
+                                        -- source) -- the URL of what to
+                                        -- cite instead, resolved at query
+                                        -- time (see the server's
+                                        -- retrieval.py) against whatever's
+                                        -- currently indexed under that URL.
+                                        -- NULL for the overwhelming
+                                        -- majority of chunks, which just
+                                        -- cite their own page as always.
+                                        -- See extract.py and curation.py
+                                        -- (defer_to.txt) for how this gets
+                                        -- set.
     embedding BLOB NOT NULL
 );
 CREATE INDEX IF NOT EXISTS idx_chunks_source ON chunks(source_id);
@@ -105,7 +121,22 @@ CREATE INDEX IF NOT EXISTS idx_citation_mentions_target ON citation_mentions(tar
 def connect(db_path=None):
     conn = sqlite3.connect(db_path or config.OUTPUT_DB_PATH)
     conn.executescript(SCHEMA)
+    _migrate(conn)
     return conn
+
+
+def _migrate(conn):
+    """CREATE TABLE IF NOT EXISTS (above) only helps a brand-new DB -- it's
+    a no-op against the already-existing production chunks table, so a
+    newly added column needs an explicit, idempotent ALTER TABLE here.
+    Guarded by checking the existing columns first rather than a bare
+    try/except, so this stays a clean no-op on every run after the first
+    (and doesn't mask a real ALTER TABLE failure behind a swallowed
+    exception)."""
+    existing = {row[1] for row in conn.execute("PRAGMA table_info(chunks)").fetchall()}
+    if "links_to" not in existing:
+        conn.execute("ALTER TABLE chunks ADD COLUMN links_to TEXT")
+        conn.commit()
 
 
 def reset_all(conn):
@@ -157,11 +188,12 @@ def replace_source_chunks(conn, source_type, source_id, source_title, chunk_rows
     for row in chunk_rows:
         conn.execute(
             "INSERT INTO chunks "
-            "(source_type, source_id, source_title, locator, locator_url, chunk_index, text, tags, embedding) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "(source_type, source_id, source_title, locator, locator_url, chunk_index, text, tags, links_to, embedding) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             (
                 source_type, source_id, source_title, row["locator"], row["locator_url"],
-                row["chunk_index"], row["text"], tags_json, row["embedding"].astype(np.float32).tobytes(),
+                row["chunk_index"], row["text"], tags_json, row.get("links_to"),
+                row["embedding"].astype(np.float32).tobytes(),
             ),
         )
     conn.execute(
@@ -339,7 +371,7 @@ def load_all(db_path=None):
     conn = connect(db_path)
     rows = conn.execute(
         "SELECT source_type, source_id, source_title, locator, locator_url, "
-        "chunk_index, text, tags, embedding FROM chunks"
+        "chunk_index, text, tags, links_to, embedding FROM chunks"
     ).fetchall()
     conn.close()
 
@@ -348,7 +380,7 @@ def load_all(db_path=None):
 
     metas = []
     vectors = []
-    for source_type, source_id, source_title, locator, locator_url, chunk_index, text, tags_json, blob in rows:
+    for source_type, source_id, source_title, locator, locator_url, chunk_index, text, tags_json, links_to, blob in rows:
         metas.append({
             "source_type": source_type,
             "source_id": source_id,
@@ -358,6 +390,7 @@ def load_all(db_path=None):
             "chunk_index": chunk_index,
             "text": text,
             "tags": json.loads(tags_json) if tags_json else [],
+            "links_to": links_to,
         })
         vectors.append(np.frombuffer(blob, dtype=np.float32))
 
