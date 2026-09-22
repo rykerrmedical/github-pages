@@ -125,7 +125,7 @@ RERANK_CANDIDATE_POOL = 75
 # copies in sync by hand, same as EMBEDDING_MODEL_NAME/RERANKER_MODEL_NAME
 # above. See server/config.py for the real-data calibration behind
 # TIER1_GOOD_ENOUGH_SCORE.
-TIER1_SOURCE_TYPES = {"webpage", "pdf"}
+TIER1_SOURCE_TYPES = {"webpage", "pdf", "podcast"}
 TIER2_SOURCE_TYPES = {"citation"}
 TIER1_GOOD_ENOUGH_SCORE = 2.0
 TIER2_BOOST_SCORE = 4.0
@@ -162,6 +162,14 @@ POSTS_REPO_ROOT = ".."
 # warning rather than failing the build - update this to match your
 # actual layout if it ever changes, same as POSTS_REPO_ROOT above.
 REFERENCES_REPO_ROOT = "../../rykerr-references"
+
+# --- Podcast episodes ---
+# The real RSS feed powering the podcast, fetched fresh by
+# podcast_ingest.py -- deliberately NOT podcast/episodes.json, which is
+# only a build-time snapshot for the client-side podcast page (see
+# podcast/build_episodes.sh) with no guarantee it's freshly regenerated
+# whenever this indexer runs.
+PODCAST_FEED_URL = "https://rykerrmedical.github.io/landing/feed.xml"
 
 # --- Output ---
 OUTPUT_DB_PATH = "rykerr_index.db"

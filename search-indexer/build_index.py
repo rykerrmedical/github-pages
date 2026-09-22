@@ -59,6 +59,7 @@ import embedder
 import extract
 import frontmatter_tags
 import pdf_ingest
+import podcast_ingest
 import reference_citations
 import store
 import tags as tags_module
@@ -557,9 +558,16 @@ def build(force_full=False, force_substr=None):
             f"link or reference page found)"
         )
 
-    current_source_ids = page_source_ids | set(discovered_pdfs) | citation_source_ids
+    podcast_source_ids, podcast_stats = podcast_ingest.index_podcast_episodes(conn, force_substr)
+    if podcast_stats["seen"]:
+        print(
+            f"Podcasts: {podcast_stats['seen']} seen, {podcast_stats['changed']} changed/new, "
+            f"{podcast_stats['unchanged']} unchanged (skipped)"
+        )
+
+    current_source_ids = page_source_ids | set(discovered_pdfs) | citation_source_ids | podcast_source_ids
     removed = store.prune_missing_sources(
-        conn, current_source_ids, source_types=("webpage", "pdf", "citation")
+        conn, current_source_ids, source_types=("webpage", "pdf", "citation", "podcast")
     )
     if removed:
         print(f"Removed {removed} source(s) no longer present (deleted, moved, or newly excluded)")
