@@ -31,3 +31,8 @@ sentence-transformers>=3.0
 numpy>=1.26
 tqdm>=4.66
 pyyaml>=6.0
+
+# Podcast transcription (podcast_transcribe.py). Standard openai-whisper
+# -- needs a system ffmpeg install too (`brew install ffmpeg` on macOS,
+# `apt install ffmpeg` on Linux/CI), which pip can't provide on its own.
+openai-whisper

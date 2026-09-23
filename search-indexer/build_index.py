@@ -60,6 +60,7 @@ import extract
 import frontmatter_tags
 import pdf_ingest
 import podcast_ingest
+import podcast_transcribe
 import reference_citations
 import store
 import tags as tags_module
@@ -565,9 +566,19 @@ def build(force_full=False, force_substr=None):
             f"{podcast_stats['unchanged']} unchanged (skipped)"
         )
 
-    current_source_ids = page_source_ids | set(discovered_pdfs) | citation_source_ids | podcast_source_ids
+    transcript_source_ids, transcript_stats = podcast_transcribe.index_podcast_transcripts(conn, force_substr)
+    if transcript_stats["seen"]:
+        print(
+            f"Podcast transcripts: {transcript_stats['seen']} seen, {transcript_stats['changed']} changed/new, "
+            f"{transcript_stats['unchanged']} unchanged (skipped)"
+        )
+        if transcript_stats.get("failed"):
+            print(f"  ! {transcript_stats['failed']} episode(s) failed unexpectedly and were skipped")
+
+    current_source_ids = page_source_ids | set(discovered_pdfs) | citation_source_ids | podcast_source_ids | transcript_source_ids
     removed = store.prune_missing_sources(
-        conn, current_source_ids, source_types=("webpage", "pdf", "citation", "podcast")
+        conn, current_source_ids,
+        source_types=("webpage", "pdf", "citation", "podcast", "podcast_transcript"),
     )
     if removed:
         print(f"Removed {removed} source(s) no longer present (deleted, moved, or newly excluded)")

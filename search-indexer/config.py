@@ -125,7 +125,7 @@ RERANK_CANDIDATE_POOL = 75
 # copies in sync by hand, same as EMBEDDING_MODEL_NAME/RERANKER_MODEL_NAME
 # above. See server/config.py for the real-data calibration behind
 # TIER1_GOOD_ENOUGH_SCORE.
-TIER1_SOURCE_TYPES = {"webpage", "pdf", "podcast"}
+TIER1_SOURCE_TYPES = {"webpage", "pdf", "podcast", "podcast_transcript"}
 TIER2_SOURCE_TYPES = {"citation"}
 TIER1_GOOD_ENOUGH_SCORE = 2.0
 TIER2_BOOST_SCORE = 4.0
@@ -170,6 +170,41 @@ REFERENCES_REPO_ROOT = "../../rykerr-references"
 # podcast/build_episodes.sh) with no guarantee it's freshly regenerated
 # whenever this indexer runs.
 PODCAST_FEED_URL = "https://rykerrmedical.github.io/landing/feed.xml"
+
+# --- Podcast transcription (Whisper) ---
+# Fully local, fully automatic -- runs as part of the normal overnight
+# build_index.py run (see podcast_transcribe.py), no manual export or
+# per-episode action needed (Ryan: "avoid manually having to do stuff
+# with each new one that goes out"). Real, non-trivial CPU time though
+# -- this is why it belongs in the overnight run, not a quick iteration
+# loop. Set to False to skip transcription entirely on a given run
+# without removing the module (e.g. a night you need your Mac free).
+PODCAST_TRANSCRIBE_ENABLED = True
+
+# Standard openai-whisper (Ryan: "normal whisper is fine" -- not a
+# specialized/"lite" reimplementation). ".en" variants are English-only
+# and faster/slightly more accurate than the multilingual model of the
+# same size -- appropriate here since the podcast is English. "small.en"
+# is a reasonable starting point for clinical jargon-heavy speech; bump
+# to "medium.en" (notably slower) if small's transcription of drug/
+# procedure names isn't accurate enough in practice -- there's no way to
+# calibrate this without listening to real output, so treat it as a
+# starting point, not a measured choice. Requires a system ffmpeg install
+# (`brew install ffmpeg` on macOS) -- openai-whisper shells out to it for
+# audio decoding.
+WHISPER_MODEL_NAME = "small.en"
+
+# Folded into every transcript's content_signal (see
+# podcast_transcribe._versioned) so bumping this -- or WHISPER_MODEL_NAME
+# above -- forces every episode to be re-transcribed once on the next
+# run, without a full index wipe. Same idea as pdf_ingest.
+# PDF_PIPELINE_VERSION.
+WHISPER_PIPELINE_VERSION = 1
+
+# Safety cap on how large an episode's audio file will be downloaded --
+# mirrors PDF_MAX_BYTES above. Generous headroom over any real episode
+# length at typical podcast bitrates.
+AUDIO_MAX_BYTES = 500 * 1024 * 1024
 
 # --- Output ---
 OUTPUT_DB_PATH = "rykerr_index.db"
