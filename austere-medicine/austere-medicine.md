@@ -67,7 +67,7 @@ Each section (except for the last) is broken down as so:
 - [Disasterready.org: Humanitarian Essentials](https://www.disasterready.org/humanitarian-essentials) (free, online)
 - [Bulding a Better Response Course](https://buildingabetterresponse.org/) (free, online)
 - [FCCS: Resource Limited](https://sccm.org/Education-Center/Educational-Programming/Fundamentals/Fundamental-Critical-Care-Support-Resource-Limited) (costs money, tough to find)
-- [World Eextreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) (costs lots of money, in-person)
+- [World Extreme Medicine: Humanitarian Medicine Course](https://worldextrememedicine.com/extreme-medicine-courses/humanitarian-medicine-course-castleton/) (costs lots of money, in-person)
 
 **Learn More:**
 - In Control: A Practical Handbook for Professionals Working in Health Emergencies Internationally [free pdf download](https://www.incontrol-handbook.org)
@@ -146,7 +146,7 @@ Each section (except for the last) is broken down as so:
 - Book chapters on [InTech Open](https://www.intechopen.com/) (all free)
     - "Disasters and Disaster Medicine" in Essentials of Accident and Emergency Medicine, chapter by A. S. Alsheikhly [web](https://www.intechopen.com/chapters/58936) [archive](https://archive.org/details/austere-medicine/Disasters%20and%20Disaster%20Medicine.pdf)
     - "Considerations in Mass Casualty and Disaster Management" in Emergency Medicine - An International Prespective, chapter by P. Aitken & P. Leggat [web](https://www.intechopen.com/chapters/31947) [archive](https://archive.org/details/austere-medicine/Considerations%20in%20Mass%20Casualty%20and%20Disaster%20Management.pdf)
-- [Disaster Helath Core Curriculum from USU NCDMPH](https://ncdmph.usuhs.edu/education/core-curriculum) (free, online, approx. 7 hours)
+- [Disaster Health Core Curriculum from USU NCDMPH](https://ncdmph.usuhs.edu/education/core-curriculum) (free, online, approx. 7 hours)
 
 **Potential Leads:**
 - [Disaster Medical Assistance Teams (DMAT)](https://aspr.hhs.gov/NDMS/Pages/join-ndms.aspx) (US folks only)
