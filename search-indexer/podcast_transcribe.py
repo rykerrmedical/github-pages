@@ -1,5 +1,5 @@
 """
-Transcribes podcast episodes locally with faster-whisper and indexes the
+Transcribes podcast episodes locally with openai-whisper and indexes the
 result as a new tier-1 source_type='podcast_transcript' -- separate from
 podcast_ingest.py's lightweight 'podcast' metadata chunk (title,
 categories, description), which stays indexed independently under its
@@ -18,9 +18,8 @@ with each new one that goes out"). Every run re-fetches the episode list
 other source type here (see _versioned / index_podcast_transcripts). The
 one genuinely manual part is running build_index.py at all -- meant to
 happen overnight (see build_index.py's own docstring), since
-transcribing a real episode is real CPU time even with faster-whisper's
-int8 CPU speedup, and that cost only grows as more episodes get
-published.
+transcribing a real episode is real CPU time, and that cost only grows
+as more episodes get published.
 
 Uses the standard `openai-whisper` package (see requirements.txt) --
 Ryan's own call: "normal whisper is fine," not a specialized/"lite"
@@ -41,6 +40,7 @@ import config
 import embedder
 import podcast_ingest
 import store
+import transcript_chunking
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": config.USER_AGENT})
@@ -140,53 +140,6 @@ def _transcribe(audio_path):
     ]
 
 
-def _format_timestamp(seconds):
-    seconds = int(seconds)
-    h, rem = divmod(seconds, 3600)
-    m, s = divmod(rem, 60)
-    if h:
-        return f"{h}:{m:02d}:{s:02d}"
-    return f"{m}:{s:02d}"
-
-
-def _group_segments(segments):
-    """Groups consecutive (start, end, text) segments into ~config.
-    CHUNK_SIZE_WORDS-word windows with config.CHUNK_OVERLAP_WORDS words
-    of overlap -- the same target size as every other chunk in the
-    index (see chunker._word_windows), just windowed over TIMED segments
-    instead of plain text, so each resulting chunk keeps a real start
-    time to deep-link into the audio with, not just its words. Whisper
-    gives per-SEGMENT (not per-word) timing, so every word inherits its
-    own segment's start time -- precise enough for a "jump to roughly
-    here" citation link, which is the actual use case.
-
-    Returns [{"start": float, "text": str}, ...]."""
-    words = []
-    for start, _end, text in segments:
-        for w in text.split():
-            words.append((w, start))
-    if not words:
-        return []
-
-    size = config.CHUNK_SIZE_WORDS
-    overlap = config.CHUNK_OVERLAP_WORDS
-    step = max(size - overlap, 1)
-
-    pieces = []
-    pos = 0
-    while pos < len(words):
-        window = words[pos : pos + size]
-        if len(window) >= config.MIN_CHUNK_WORDS or pos == 0:
-            pieces.append({
-                "start": window[0][1],
-                "text": " ".join(w for w, _ in window),
-            })
-        if pos + size >= len(words):
-            break
-        pos += step
-    return pieces
-
-
 def _process_episode(conn, ep, force_substr, stats):
     audio_url = ep["audio_url"]
     forced = force_substr is not None and (
@@ -224,22 +177,33 @@ def _process_episode(conn, ep, force_substr, stats):
         print(f"  ! no speech detected in {ep['title']!r}, skipping")
         return
 
-    pieces = _group_segments(segments)
+    pieces = transcript_chunking.group_segments(segments)
     if not pieces:
         return
 
-    desc_text = podcast_ingest._clean_description(ep["description_html"])
-    shownotes_url = podcast_ingest._find_shownotes_link(ep["description_html"])
-
+    # Deliberately does NOT set links_to to the episode's show-notes
+    # page here, unlike podcast_ingest.py's thin per-episode metadata
+    # chunk. That deferral makes sense for a chunk with nothing but a
+    # title/description to offer -- the show-notes page is genuinely
+    # richer. It does NOT make sense here: this chunk IS the real
+    # spoken content, with a precise timestamped deep link into the
+    # actual audio. A show-notes page is usually just a bare list of
+    # external reference links (confirmed on a real one -- no write-up,
+    # just citations), so swapping the citation to it would trade a
+    # precise, substantive answer for a thin reference list. Ryan's
+    # call (2026-09-24): podcast/video content should cite itself so it
+    # shows up as its own distinct result, with the show-notes page
+    # (still indexed as an ordinary webpage) only surfacing separately,
+    # ranked on its own actual relevance -- see retrieval.py's
+    # _apply_source_type_tiebreak for the matching ranking-order change.
     embeddings = embedder.embed_documents([p["text"] for p in pieces])
     chunk_rows = [
         {
-            "locator": _format_timestamp(p["start"]),
+            "locator": transcript_chunking.format_timestamp(p["start"]),
             "locator_url": f"{audio_url}#t={int(p['start'])}",
             "chunk_index": i,
             "text": p["text"],
             "embedding": vec,
-            "links_to": shownotes_url,
         }
         for i, (p, vec) in enumerate(zip(pieces, embeddings))
     ]
@@ -250,7 +214,6 @@ def _process_episode(conn, ep, force_substr, stats):
     conn.commit()
     stats["changed"] += 1
     print(f"  - {ep['title']!r}: {len(pieces)} transcript chunk(s)")
-    del desc_text  # not used in the chunk text itself -- podcast_ingest already indexes it
 
 
 def index_podcast_transcripts(conn, force_substr=None):

@@ -62,6 +62,7 @@ import pdf_ingest
 import podcast_ingest
 import podcast_transcribe
 import reference_citations
+import youtube_transcribe
 import store
 import tags as tags_module
 
@@ -575,15 +576,35 @@ def build(force_full=False, force_substr=None):
         if transcript_stats.get("failed"):
             print(f"  ! {transcript_stats['failed']} episode(s) failed unexpectedly and were skipped")
 
-    current_source_ids = page_source_ids | set(discovered_pdfs) | citation_source_ids | podcast_source_ids | transcript_source_ids
+    youtube_source_ids, youtube_stats = youtube_transcribe.index_youtube_transcripts(conn, force_substr)
+    if youtube_stats["seen"]:
+        print(
+            f"YouTube transcripts: {youtube_stats['seen']} seen, {youtube_stats['changed']} changed/new, "
+            f"{youtube_stats['unchanged']} unchanged (skipped)"
+        )
+        if youtube_stats.get("failed"):
+            print(f"  ! {youtube_stats['failed']} video(s) failed unexpectedly and were skipped")
+
+    current_source_ids = (
+        page_source_ids | set(discovered_pdfs) | citation_source_ids
+        | podcast_source_ids | transcript_source_ids | youtube_source_ids
+    )
     removed = store.prune_missing_sources(
         conn, current_source_ids,
-        source_types=("webpage", "pdf", "citation", "podcast", "podcast_transcript"),
+        source_types=("webpage", "pdf", "citation", "podcast", "podcast_transcript", "youtube_transcript"),
     )
     if removed:
         print(f"Removed {removed} source(s) no longer present (deleted, moved, or newly excluded)")
 
-    total_docs_touched = page_stats["changed"] + pdf_stats["changed"]
+    # Includes every source type's changed/new count, not just pages and
+    # PDFs -- confirmed as a real gap: an overnight run that transcribed
+    # 16 new podcast episodes still reported only "8 source(s) actually
+    # re-indexed" (1 page + 7 PDFs), silently omitting all 16 podcast
+    # changes from this summary line even though they were real work.
+    total_docs_touched = (
+        page_stats["changed"] + pdf_stats["changed"] + podcast_stats["changed"]
+        + transcript_stats["changed"] + youtube_stats["changed"]
+    )
 
     # num_chunks here is a meta-table display stat (retrieval reads the
     # chunks/sources tables directly, never this), so it should be the

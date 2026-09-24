@@ -125,7 +125,7 @@ RERANK_CANDIDATE_POOL = 75
 # copies in sync by hand, same as EMBEDDING_MODEL_NAME/RERANKER_MODEL_NAME
 # above. See server/config.py for the real-data calibration behind
 # TIER1_GOOD_ENOUGH_SCORE.
-TIER1_SOURCE_TYPES = {"webpage", "pdf", "podcast", "podcast_transcript"}
+TIER1_SOURCE_TYPES = {"webpage", "pdf", "podcast", "podcast_transcript", "youtube_transcript"}
 TIER2_SOURCE_TYPES = {"citation"}
 TIER1_GOOD_ENOUGH_SCORE = 2.0
 TIER2_BOOST_SCORE = 4.0
@@ -208,3 +208,22 @@ AUDIO_MAX_BYTES = 500 * 1024 * 1024
 
 # --- Output ---
 OUTPUT_DB_PATH = "rykerr_index.db"
+
+# --- YouTube video transcription ---
+# Mirrors podcast_transcribe.py's automatic pattern, extended to the
+# YouTube channel (Ryan, 2026-09-24: "let's do [youtube]... set it up
+# and I can run tonight" -- same "avoid manually having to do stuff
+# with each new one that goes out" goal as the podcasts). Captions-first
+# (see youtube_transcribe.py) -- only falls back to local Whisper
+# transcription for a video with no caption track at all, so most of
+# the 16 videos should be fast/free and only the caption-less ones cost
+# real CPU time.
+YOUTUBE_CHANNEL_URL = "https://www.youtube.com/@rykerrmedical"
+YOUTUBE_TRANSCRIBE_ENABLED = True
+YOUTUBE_WHISPER_FALLBACK_ENABLED = True
+
+# Folded into every video's content_signal (see youtube_transcribe.
+# _content_signal) so bumping this forces every video to be
+# rechecked once on the next run, without a full index wipe. Same idea
+# as WHISPER_PIPELINE_VERSION / PDF_PIPELINE_VERSION.
+YOUTUBE_PIPELINE_VERSION = 1

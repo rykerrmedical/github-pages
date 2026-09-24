@@ -36,3 +36,9 @@ pyyaml>=6.0
 # -- needs a system ffmpeg install too (`brew install ffmpeg` on macOS,
 # `apt install ffmpeg` on Linux/CI), which pip can't provide on its own.
 openai-whisper
+
+# YouTube caption/audio fetching (youtube_transcribe.py). Pulls caption
+# tracks directly and, for videos with no captions, downloads audio for
+# the same Whisper fallback podcasts use -- reuses the ffmpeg install
+# above for that path, nothing extra needed for captions-only videos.
+yt-dlp

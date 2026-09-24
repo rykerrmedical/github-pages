@@ -86,13 +86,38 @@ def _dedupe_by_citation(hits):
     return [best[key] for key in order]
 
 
+# Mirrors server/retrieval.py's _SOURCE_TYPE_TIE_PRIORITY /
+# _apply_source_type_tiebreak — see there for the full reasoning.
+# Kept here too so this local preview tool shows the same ordering the
+# real /api/search endpoint would, same as the rest of this file's
+# mirrored tier logic.
+_SOURCE_TYPE_TIE_PRIORITY = {"podcast_transcript": 1, "youtube_transcript": 2}
+_SOURCE_TYPE_TIE_DEFAULT = 0
+_TIE_EPSILON = 0.3
+
+
+def _apply_source_type_tiebreak(hits):
+    if len(hits) < 2:
+        return hits
+    return sorted(
+        hits,
+        key=lambda h: (
+            -round(h["rerank_score"] / _TIE_EPSILON),
+            _SOURCE_TYPE_TIE_PRIORITY.get(h["source_type"], _SOURCE_TYPE_TIE_DEFAULT),
+            -h["rerank_score"],
+        ),
+    )
+
+
 def _rerank_pool(query_text, metas, scores, allowed_idx, pool_size, dedupe):
     pool = _pool_by_cosine(scores, allowed_idx, pool_size)
     candidates = [{**metas[i], "score": float(scores[i])} for i in pool]
     if not candidates:
         return []
     ranked = reranker.rerank(query_text, candidates, len(candidates))
-    return _dedupe_by_citation(ranked) if dedupe else ranked
+    if not dedupe:
+        return ranked
+    return _apply_source_type_tiebreak(_dedupe_by_citation(ranked))
 
 
 def search(query_text, top_k=5, db_path=None, use_reranking=None, dedupe=True):
