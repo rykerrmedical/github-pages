@@ -198,8 +198,12 @@ WHISPER_MODEL_NAME = "small.en"
 # podcast_transcribe._versioned) so bumping this -- or WHISPER_MODEL_NAME
 # above -- forces every episode to be re-transcribed once on the next
 # run, without a full index wipe. Same idea as pdf_ingest.
-# PDF_PIPELINE_VERSION.
-WHISPER_PIPELINE_VERSION = 1
+# PDF_PIPELINE_VERSION. Bumped to 2 on 2026-09-25 (Ryan: "we need to do
+# the podcasts also") for the same fix just applied to YouTube videos --
+# transcript_chunking.group_segments now leads every chunk with the
+# episode's own title, which changes the actual embedded text for every
+# chunk, so every episode needs one clean re-transcribe to pick it up.
+WHISPER_PIPELINE_VERSION = 2
 
 # Safety cap on how large an episode's audio file will be downloaded --
 # mirrors PDF_MAX_BYTES above. Generous headroom over any real episode
