@@ -40,5 +40,6 @@ node_modules/
 
 # Search indexer (rykerr-search project) — build artifacts, not source
 search-indexer/venv/
+search-indexer/venv312/
 search-indexer/__pycache__/
 search-indexer/*.db

@@ -177,7 +177,7 @@ def _process_episode(conn, ep, force_substr, stats):
         print(f"  ! no speech detected in {ep['title']!r}, skipping")
         return
 
-    pieces = transcript_chunking.group_segments(segments)
+    pieces = transcript_chunking.group_segments(segments, ep["title"])
     if not pieces:
         return
 

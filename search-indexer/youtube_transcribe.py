@@ -1,13 +1,24 @@
 """
 Indexes rykerrmedical's YouTube channel as a new tier-1
-source_type='youtube_transcript'. Captions-first, Whisper only as a
-fallback -- for each video, tries to pull YouTube's own caption track
-(manual captions if the video has them, otherwise YouTube's
-auto-generated ones) via yt-dlp, since that's free and near-instant.
-Only when a video has NEITHER does this fall back to downloading its
-audio and transcribing locally with the same openai-whisper setup
-podcast_transcribe.py uses (see _transcribe there, reused directly here
-rather than duplicated).
+source_type='youtube_transcript'. Always transcribes locally with the
+same openai-whisper setup podcast_transcribe.py uses (see _transcribe
+there, reused directly here rather than duplicated) -- deliberately
+does NOT use YouTube's own caption tracks, even when a video has them.
+
+That was the original design (captions-first, Whisper only as a
+fallback, since captions are free/instant) -- reversed on 2026-09-25
+after a real, confirmed failure: YouTube's auto-generated captions for
+"Perfusion Index Video" repeatedly mis-heard "perfusion" as "profusion"/
+"provision", and since that's the exact term the video is about, the
+mis-transcription measurably hurt its own ranking for the query it
+should have been the best answer to. Ryan's call, and the more
+defensible one anyway: "if we went thru all the work to transcribe with
+whisper [for podcasts], why aren't we using that?" -- there's no real
+reason to trust YouTube's auto-captions over a model already proven
+accurate enough for this same jargon-heavy medical content. This also
+drops the manual-vs-auto-caption distinction entirely, since it no
+longer matters -- every video gets the same treatment regardless of
+what captions YouTube does or doesn't have.
 
 Fully unattended, by design (Ryan: "avoid manually having to do stuff
 with each new one that goes out" -- said about podcasts originally, and
@@ -31,10 +42,10 @@ this chunk IS the real spoken content, with a precise timestamped deep
 link into the actual video -- it should show up as its own result, not
 collapse into a show-notes page's citation.
 
-Requires yt-dlp (see requirements.txt) and, only for the Whisper
-fallback path, a system ffmpeg install -- the same one podcast_
-transcribe.py already needs, so nothing new there if podcasts are
-already transcribing locally.
+Requires yt-dlp (see requirements.txt, for listing the channel and
+downloading audio) and a system ffmpeg install -- the same one
+podcast_transcribe.py already needs, so nothing new there if podcasts
+are already transcribing locally.
 """
 import os
 import shutil
@@ -55,12 +66,7 @@ def _content_signal(video_id):
     """"Have we already processed this video at the current pipeline
     version" -- folds in WHISPER_MODEL_NAME too (same idea as podcast_
     transcribe._versioned) so bumping either forces exactly one
-    reprocess per video on the next run. Applies uniformly regardless of
-    whether a given video ends up sourced from captions or Whisper --
-    slightly wasteful for caption-sourced videos on a pure Whisper-model
-    bump (they'll get re-checked for no real reason), but that recheck
-    is just a caption re-fetch, not a re-transcribe -- cheap enough that
-    keeping one simple signal beats tracking method-specific versions."""
+    reprocess per video on the next run."""
     return f"yt:{video_id}::pv{config.YOUTUBE_PIPELINE_VERSION}::{config.WHISPER_MODEL_NAME}"
 
 
@@ -98,81 +104,15 @@ def _list_channel_videos():
     return videos
 
 
-def _parse_json3(path):
-    """Parses yt-dlp's json3 caption format (YouTube's own timed-text
-    event structure) into [(start_seconds, end_seconds, text), ...].
-    Used for both manual and auto-generated captions -- yt-dlp requests
-    the same json3 shape from YouTube's timedtext API either way, which
-    is far easier to parse correctly than YouTube's auto-caption VTT
-    (that format repeats overlapping "karaoke" cue lines that would need
-    their own dedup logic; json3's discrete events don't)."""
-    import json
-
-    with open(path, encoding="utf-8") as f:
-        data = json.load(f)
-
-    segments = []
-    for event in data.get("events", []):
-        start_ms = event.get("tStartMs")
-        if start_ms is None:
-            continue
-        text = "".join(seg.get("utf8", "") for seg in (event.get("segs") or []))
-        text = text.replace("\n", " ").strip()
-        if not text:
-            continue
-        dur_ms = event.get("dDurationMs", 0)
-        segments.append((start_ms / 1000, (start_ms + dur_ms) / 1000, text))
-    return segments
-
-
-def _fetch_captions(video_id, video_url):
-    """Tries to pull an English caption track (manual first, falling
-    back to YouTube's auto-generated one -- yt-dlp's own preference
-    order when both writesubtitles and writeautomaticsub are set and
-    only a manual track exists, or only an auto one does). Returns
-    parsed segments, or None if the video has no captions in English at
-    all."""
-    import yt_dlp
-
-    tmpdir = tempfile.mkdtemp()
-    try:
-        opts = {
-            "skip_download": True,
-            "writesubtitles": True,
-            "writeautomaticsub": True,
-            "subtitleslangs": ["en"],
-            "subtitlesformat": "json3",
-            "outtmpl": os.path.join(tmpdir, "%(id)s.%(ext)s"),
-            "quiet": True,
-            "no_warnings": True,
-        }
-        try:
-            with yt_dlp.YoutubeDL(opts) as ydl:
-                ydl.download([video_url])
-        except Exception as e:
-            print(f"  ! caption fetch failed for {video_id}: {e}")
-            return None
-
-        candidates = [f for f in os.listdir(tmpdir) if f.startswith(video_id) and f.endswith(".json3")]
-        if not candidates:
-            return None
-        segments = _parse_json3(os.path.join(tmpdir, candidates[0]))
-        return segments or None
-    finally:
-        shutil.rmtree(tmpdir, ignore_errors=True)
-
-
 def _download_audio_and_transcribe(video_id, video_url, title):
-    """Whisper fallback for a video with no usable captions: downloads
-    just the audio (yt-dlp's own best-audio format selection + ffmpeg
-    extraction, capped at config.AUDIO_MAX_BYTES same as podcast
-    episodes) and transcribes it with podcast_transcribe._transcribe --
-    the exact same openai-whisper call podcasts use, reused rather than
-    duplicated so the two stay identical in behavior. Returns segments,
-    or None on any download/transcription failure."""
+    """Downloads just the audio (yt-dlp's own best-audio format
+    selection + ffmpeg extraction, capped at config.AUDIO_MAX_BYTES same
+    as podcast episodes) and transcribes it with podcast_transcribe.
+    _transcribe -- the exact same openai-whisper call podcasts use,
+    reused rather than duplicated so the two stay identical in behavior.
+    Returns segments, or None on any download/transcription failure."""
     import yt_dlp
 
-    print(f"  - no captions for {title!r}, falling back to Whisper (downloading audio)...")
     tmpdir = tempfile.mkdtemp()
     try:
         opts = {
@@ -201,21 +141,6 @@ def _download_audio_and_transcribe(video_id, video_url, title):
         shutil.rmtree(tmpdir, ignore_errors=True)
 
 
-def _get_segments(video_id, video_url, title):
-    """Returns (segments, method) -- method is "captions" or "whisper",
-    for the log line only. (None, None) if neither path produced
-    anything usable."""
-    segments = _fetch_captions(video_id, video_url)
-    if segments:
-        return segments, "captions"
-
-    if not config.YOUTUBE_WHISPER_FALLBACK_ENABLED:
-        return None, None
-
-    segments = _download_audio_and_transcribe(video_id, video_url, title)
-    return (segments, "whisper") if segments else (None, None)
-
-
 def _process_video(conn, video, force_substr, stats):
     video_id = video["id"]
     title = video["title"]
@@ -229,13 +154,13 @@ def _process_video(conn, video, force_substr, stats):
         stats["unchanged"] += 1
         return
 
-    segments, method = _get_segments(video_id, video_url, title)
+    segments = _download_audio_and_transcribe(video_id, video_url, title)
     if not segments:
         stats["failed"] += 1
-        print(f"  ! could not get captions or transcribe {title!r}, skipping")
+        print(f"  ! could not transcribe {title!r}, skipping")
         return
 
-    pieces = transcript_chunking.group_segments(segments)
+    pieces = transcript_chunking.group_segments(segments, title)
     if not pieces:
         return
 
@@ -253,7 +178,7 @@ def _process_video(conn, video, force_substr, stats):
     store.replace_source_chunks(conn, "youtube_transcript", video_url, title, chunk_rows, signal)
     conn.commit()
     stats["changed"] += 1
-    print(f"  - {title!r}: {len(pieces)} transcript chunk(s) (via {method})")
+    print(f"  - {title!r}: {len(pieces)} transcript chunk(s)")
 
 
 def index_youtube_transcripts(conn, force_substr=None):

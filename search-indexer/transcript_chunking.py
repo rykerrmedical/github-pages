@@ -23,7 +23,7 @@ def format_timestamp(seconds):
     return f"{m}:{s:02d}"
 
 
-def group_segments(segments):
+def group_segments(segments, title):
     """Groups consecutive (start, end, text) segments into ~config.
     CHUNK_SIZE_WORDS-word windows with config.CHUNK_OVERLAP_WORDS words
     of overlap -- the same target size as every other chunk in the
@@ -34,6 +34,19 @@ def group_segments(segments):
     own segment's start time -- precise enough for a "jump to roughly
     here" citation link, which is the actual use case.
 
+    title: the episode/video title, led with on EVERY resulting chunk
+    (not just the first), same pattern as chunker.chunk_structured_text
+    for webpages/PDFs -- see that module's docstring for why this
+    matters: a chunk with no idea what episode/video it's from is easy
+    to outrank by something that happens to spell a key term correctly
+    even once. Confirmed as a real problem, not a hypothetical one: a
+    YouTube video titled "Perfusion Index Video" had its auto-generated
+    captions mishear "perfusion" as "profusion"/"provision" in several
+    places, and with nothing else in the chunk naming the actual topic,
+    a webpage that merely mentioned "Perfusion Index" correctly (but
+    wasn't really about it) outranked the video's own on-topic content
+    for a "perfusion index" query.
+
     Returns [{"start": float, "text": str}, ...]."""
     words = []
     for start, _end, text in segments:
@@ -42,6 +55,7 @@ def group_segments(segments):
     if not words:
         return []
 
+    prefix = f"[{title}]\n\n"
     size = config.CHUNK_SIZE_WORDS
     overlap = config.CHUNK_OVERLAP_WORDS
     step = max(size - overlap, 1)
@@ -53,7 +67,7 @@ def group_segments(segments):
         if len(window) >= config.MIN_CHUNK_WORDS or pos == 0:
             pieces.append({
                 "start": window[0][1],
-                "text": " ".join(w for w, _ in window),
+                "text": prefix + " ".join(w for w, _ in window),
             })
         if pos + size >= len(words):
             break

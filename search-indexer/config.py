@@ -213,17 +213,22 @@ OUTPUT_DB_PATH = "rykerr_index.db"
 # Mirrors podcast_transcribe.py's automatic pattern, extended to the
 # YouTube channel (Ryan, 2026-09-24: "let's do [youtube]... set it up
 # and I can run tonight" -- same "avoid manually having to do stuff
-# with each new one that goes out" goal as the podcasts). Captions-first
-# (see youtube_transcribe.py) -- only falls back to local Whisper
-# transcription for a video with no caption track at all, so most of
-# the 16 videos should be fast/free and only the caption-less ones cost
-# real CPU time.
+# with each new one that goes out" goal as the podcasts). Always
+# transcribes locally with Whisper -- see youtube_transcribe.py's
+# module docstring for why this doesn't use YouTube's own captions:
+# confirmed on a real video that auto-generated captions mis-heard
+# "perfusion" as "profusion"/"provision" throughout, hurting that
+# video's own ranking for the exact query it should have answered.
 YOUTUBE_CHANNEL_URL = "https://www.youtube.com/@rykerrmedical"
 YOUTUBE_TRANSCRIBE_ENABLED = True
-YOUTUBE_WHISPER_FALLBACK_ENABLED = True
 
 # Folded into every video's content_signal (see youtube_transcribe.
 # _content_signal) so bumping this forces every video to be
 # rechecked once on the next run, without a full index wipe. Same idea
-# as WHISPER_PIPELINE_VERSION / PDF_PIPELINE_VERSION.
-YOUTUBE_PIPELINE_VERSION = 1
+# as WHISPER_PIPELINE_VERSION / PDF_PIPELINE_VERSION. Bumped to 2 on
+# 2026-09-25 for two real fixes at once: dropping the captions path
+# (see above) and adding the video title as lead-in context to every
+# transcript chunk (see transcript_chunking.group_segments) -- both
+# change every chunk's actual embedded text, so everything needs one
+# clean reprocess to pick them up.
+YOUTUBE_PIPELINE_VERSION = 2
