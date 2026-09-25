@@ -56,6 +56,7 @@ import embedder
 import podcast_transcribe
 import store
 import transcript_chunking
+import transcript_files
 
 
 def _video_url(video_id):
@@ -159,6 +160,8 @@ def _process_video(conn, video, force_substr, stats):
         stats["failed"] += 1
         print(f"  ! could not transcribe {title!r}, skipping")
         return
+
+    transcript_files.save_transcript_files(segments, title, config.YOUTUBE_TRANSCRIPT_DIR)
 
     pieces = transcript_chunking.group_segments(segments, title)
     if not pieces:

@@ -41,6 +41,7 @@ import embedder
 import podcast_ingest
 import store
 import transcript_chunking
+import transcript_files
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": config.USER_AGENT})
@@ -176,6 +177,8 @@ def _process_episode(conn, ep, force_substr, stats):
     if not segments:
         print(f"  ! no speech detected in {ep['title']!r}, skipping")
         return
+
+    transcript_files.save_transcript_files(segments, ep["title"], config.PODCAST_TRANSCRIPT_DIR)
 
     pieces = transcript_chunking.group_segments(segments, ep["title"])
     if not pieces:

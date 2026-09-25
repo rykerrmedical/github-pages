@@ -236,3 +236,16 @@ YOUTUBE_TRANSCRIBE_ENABLED = True
 # change every chunk's actual embedded text, so everything needs one
 # clean reprocess to pick them up.
 YOUTUBE_PIPELINE_VERSION = 2
+
+# --- Saved transcript files (.txt/.srt) ---
+# Human-readable transcripts saved alongside the index for every
+# podcast episode and YouTube video -- independent of what's actually
+# embedded (see transcript_files.py, which builds these from the raw
+# per-segment transcript, not the overlapping chunks). Ryan,
+# 2026-09-25: "let's save the .txt and .srt files... at least save that
+# data while we are re-running the whole thing" -- saved for later use
+# (pasting YouTube chapter timestamps, a podcast chapters feed, show
+# notes, etc.) without committing yet to which. Relative to wherever
+# build_index.py runs from, same convention as OUTPUT_DB_PATH above.
+PODCAST_TRANSCRIPT_DIR = "transcripts/podcasts"
+YOUTUBE_TRANSCRIPT_DIR = "transcripts/youtube"
