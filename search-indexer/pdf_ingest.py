@@ -43,12 +43,17 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 6  # v5: _heading_candidates_from_dict's trailing-
+PDF_PIPELINE_VERSION = 7  # v5: _heading_candidates_from_dict's trailing-
                           # footnote-span strip, the new 'section' column,
                           # PDF_ARCHIVE_ITEM_CONTENT_TYPE tags.
                           # v6: _strip_leading_heading_echo -- a page's own
                           # body text no longer repeats the heading line
                           # that's already shown separately as 'section'.
+                          # v7: _page_text only runs OCR when the page's
+                          # own text layer is too thin, not just because
+                          # the page has ANY embedded image (a decorative
+                          # per-page logo was forcing needless Tesseract
+                          # OCR on every page of an otherwise-fine PDF).
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like
@@ -896,16 +901,33 @@ def _page_text(page):
     content when config.PDF_ENABLE_OCR is on and Tesseract is available.
     Returns (text, ocr_attempted, ocr_failed) so the caller can tally
     summary counts rather than printing per-page noise across a
-    200+-page document."""
+    200+-page document.
+
+    OCR is skipped whenever the page's own plain text layer already
+    clears PDF_MIN_CHARS_PER_PAGE -- a real, reproducible hang against
+    "WHO Medical Evacuation in Amergencies.pdf": that document has a
+    small decorative image (logo/icon) on essentially every page, so
+    `page.get_images()` was true throughout and Tesseract ran via
+    get_textpage_ocr() on every single page even though each one
+    already had a perfectly good text layer -- ballooning one PDF from
+    seconds to (going by the per-page pace observed) hours, for zero
+    benefit, since there was never any missing text to recover. OCR is
+    only actually useful for a page whose normal text layer is too
+    thin to be real content -- e.g. the scanned 12-lead EKG reference
+    this fallback was originally added for -- so that's the only case
+    it still runs for."""
+    plain_text = page.get_text()
     if not (config.PDF_ENABLE_OCR and page.get_images()):
-        return page.get_text(), False, False
+        return plain_text, False, False
+    if len(plain_text.strip()) >= config.PDF_MIN_CHARS_PER_PAGE:
+        return plain_text, False, False
     if not _ocr_available():
-        return page.get_text(), False, False
+        return plain_text, False, False
     try:
         ocr_textpage = page.get_textpage_ocr(flags=0, full=False)
         return page.get_text("text", textpage=ocr_textpage), True, False
     except Exception:
-        return page.get_text(), True, True
+        return plain_text, True, True
 
 
 def _bold_flag(span):
