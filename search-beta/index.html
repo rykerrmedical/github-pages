@@ -308,7 +308,7 @@ permalink: /search-beta/
     if (rel.section && rel.locator) return rel.section + '; ' + rel.locator;
     if (rel.section) return rel.section;
     if (rel.source_type === 'youtube_transcript') {
-      return rel.locator ? ('YouTube version; ' + rel.locator) : 'YouTube version';
+      return rel.locator ? ('YouTube version of the podcast; ' + rel.locator) : 'YouTube version of the podcast';
     }
     return rel.locator || 'See also';
   }

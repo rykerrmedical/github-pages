@@ -412,7 +412,7 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
         {
             "locator": (
                 f"Page {p['start_page']}" if p["start_page"] == p["end_page"]
-                else f"Pages {p['start_page']}-{p['end_page']}"
+                else f"pages {p['start_page']}-{p['end_page']}"
             ),
             "locator_url": pdf_ingest.locator_url_for_page(pdf_url, p["start_page"]),
             "chunk_index": i,

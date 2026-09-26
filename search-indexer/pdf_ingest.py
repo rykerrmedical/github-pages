@@ -43,7 +43,7 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 8  # v5: _heading_candidates_from_dict's trailing-
+PDF_PIPELINE_VERSION = 9  # v5: _heading_candidates_from_dict's trailing-
                           # footnote-span strip, the new 'section' column,
                           # PDF_ARCHIVE_ITEM_CONTENT_TYPE tags.
                           # v6: _strip_leading_heading_echo -- a page's own
@@ -58,6 +58,11 @@ PDF_PIPELINE_VERSION = 8  # v5: _heading_candidates_from_dict's trailing-
                           # full_ocr), guarded against tiny/repeated
                           # boilerplate images; third-party references
                           # stay on the cheap text-layer-only path.
+                          # v9: build_index.py's multi-page locator now
+                          # reads "pages 126-127", not "Pages 126-127" --
+                          # this constant covers that too since a chunk's
+                          # locator is only rebuilt when its PDF actually
+                          # gets reprocessed, gated by this same version.
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like
