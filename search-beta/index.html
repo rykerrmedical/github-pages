@@ -254,8 +254,8 @@ permalink: /search-beta/
     }
     if (source.source_type === 'pdf') {
       var pdfTag = (source.tags && source.tags[0]) || '';
-      if (pdfTag === 'book') return 'Book, by Rykerr Medical';
-      if (pdfTag === 'document') return 'Document, by Rykerr Medical';
+      if (pdfTag === 'book') return 'Book by Rykerr Medical';
+      if (pdfTag === 'document') return 'Document by Rykerr Medical';
       return 'Reference PDF';
     }
     if (source.source_type === 'citation') {
