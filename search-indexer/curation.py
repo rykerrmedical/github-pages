@@ -28,6 +28,7 @@ import os
 
 EXCLUDED_URLS_PATH = os.path.join(os.path.dirname(__file__), "curation", "excluded_urls.txt")
 DEFER_TO_PATH = os.path.join(os.path.dirname(__file__), "curation", "defer_to.txt")
+TITLE_OVERRIDES_PATH = os.path.join(os.path.dirname(__file__), "curation", "title_overrides.txt")
 
 
 def load_excluded_patterns(path=None):
@@ -116,3 +117,46 @@ def resolve_defer(page_url, heading_path, overrides):
         if not o["heading_substring"] or o["heading_substring"].lower() in heading_lower:
             return o["target_url"]
     return None
+
+
+def load_title_overrides(path=None):
+    """Some PDFs carry a wrong/stale embedded title (a leftover from
+    whatever document they were originally exported from -- e.g. one of
+    Ryan's own clinical guides showing up titled "Ryan Kerr's CV Sep
+    2021" because pdf_ingest.pdf_title() trusts the PDF's own /Title
+    metadata field whenever it's non-empty, and this one just happens to
+    have someone else's leftover text in it, not an actually-empty
+    field the existing filename fallback would ever catch. One line per
+    fix here, `URL = Correct Title` -- same manual-override spirit as
+    excluded_urls.txt/defer_to.txt, deliberately NOT a heuristic (a
+    "prefer the filename" rule would just as often make things WORSE --
+    plenty of these PDFs have a perfectly good real title in their
+    metadata already, just not this one)."""
+    path = path or TITLE_OVERRIDES_PATH
+    overrides = {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith("#") or "=" not in line:
+                    continue
+                url, title = line.split("=", 1)
+                overrides[url.strip()] = title.strip()
+    except FileNotFoundError:
+        pass
+    return overrides
+
+
+_title_overrides_cache = None
+
+
+def resolve_title_override(url):
+    """Lazily loads and caches title_overrides.txt on first use (one
+    process per build_index.py run, so a module-level cache is safe --
+    matches load_excluded_patterns/load_defer_overrides being read once
+    per run too, just without needing every caller up the chain to
+    thread the loaded dict through as a parameter)."""
+    global _title_overrides_cache
+    if _title_overrides_cache is None:
+        _title_overrides_cache = load_title_overrides()
+    return _title_overrides_cache.get(url)

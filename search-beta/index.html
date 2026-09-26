@@ -110,15 +110,17 @@ permalink: /search-beta/
     line-height: 1.6;
   }
 
+  /* A plain container, not a link — the clickable primary content
+     lives in .search-result-main below it. Nesting an <a> for each
+     "see also" item inside the whole-card link used to be invalid
+     HTML (a link inside a link), which browsers handle inconsistently
+     — this keeps every link a sibling instead. */
   .search-result-card {
-    display: block;
     background-color: #1a1a1a;
     border: 1px solid #2a2a2a;
     border-radius: 8px;
     padding: 1rem 1.2rem;
     margin-bottom: 0.9rem;
-    text-decoration: none;
-    color: inherit;
     transition: border-color 0.15s ease;
   }
 
@@ -126,25 +128,85 @@ permalink: /search-beta/
     border-color: #a31232;
   }
 
-  .search-result-source {
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: #a31232;
-    margin-bottom: 0.3rem;
+  .search-result-main {
+    display: block;
+    text-decoration: none;
+    color: inherit;
   }
 
+  /* Title leads every card — the thing you'd actually scan for —
+     followed by its section/chapter when the chunk has one distinct
+     from its locator (see server's SourceOut.section). */
   .search-result-title {
     font-size: 1.05rem;
     font-weight: bold;
     color: #f2f2f2;
-    margin-bottom: 0.35rem;
+    margin-bottom: 0.3rem;
+  }
+
+  .search-result-section {
+    font-weight: normal;
+    color: #d8d8d8;
+  }
+
+  /* Type + locator are secondary metadata, below the title — small caps
+     like the old top-of-card label used to be, just repositioned. */
+  .search-result-type {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #a31232;
+  }
+
+  .search-result-locator {
+    font-size: 0.8rem;
+    color: #8a8a8a;
+    margin-bottom: 0.5rem;
   }
 
   .search-result-snippet {
     font-size: 0.9rem;
     color: #c4c4c4;
     line-height: 1.5;
+  }
+
+  /* "See also" — other good-matching sections of the SAME source,
+     folded into this card instead of eating their own result slots
+     (see server's retrieval._group_by_source). Deliberately plain
+     links, no snippet text — this is a pointer list, not more cards. */
+  .search-result-related {
+    margin-top: 0.75rem;
+    padding-top: 0.6rem;
+    border-top: 1px solid #2a2a2a;
+  }
+
+  .search-result-related-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #8a8a8a;
+    margin-bottom: 0.3rem;
+  }
+
+  .search-result-related ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .search-result-related li {
+    margin: 0.2rem 0;
+  }
+
+  .search-result-related a {
+    font-size: 0.85rem;
+    color: #c4c4c4;
+    text-decoration: none;
+  }
+
+  .search-result-related a:hover {
+    color: #f2f2f2;
+    text-decoration: underline;
   }
 
   body.high-contrast .search-result-card {
@@ -180,18 +242,98 @@ permalink: /search-beta/
     return div.innerHTML;
   }
 
-  function sourceLabel(source) {
+  // The card's TYPE line — book / document / podcast / YouTube video /
+  // website page / outside reference / external source (2026-09-26 card
+  // redesign). 'book' vs 'document' comes from the tag the indexer set
+  // automatically from which archive.org collection the PDF lives under
+  // — see search-indexer/config.py's PDF_ARCHIVE_ITEM_CONTENT_TYPE.
+  function contentTypeLabel(source) {
     if (source.source_type === 'external') {
       var tag = (source.tags && source.tags[0]) || '';
       return SITE_NAMES[tag] || 'External source';
     }
     if (source.source_type === 'pdf') {
-      return source.locator ? 'PDF — ' + source.locator : 'PDF';
+      var pdfTag = (source.tags && source.tags[0]) || '';
+      if (pdfTag === 'book') return 'Book, by Rykerr Medical';
+      if (pdfTag === 'document') return 'Document, by Rykerr Medical';
+      return 'PDF';
     }
     if (source.source_type === 'citation') {
-      return source.locator || 'Citation';
+      return 'Outside reference';
     }
-    return source.locator ? 'rykerrmedical.com — ' + source.locator : 'rykerrmedical.com';
+    if (source.source_type === 'podcast' || source.source_type === 'podcast_transcript') {
+      return 'Podcast';
+    }
+    if (source.source_type === 'youtube_transcript') {
+      return 'YouTube video';
+    }
+    return 'Website page';
+  }
+
+  // Section/chapter to show next to the title. Comes straight off the
+  // server for a PDF (its own `section` field — a page range's heading).
+  // A webpage doesn't get a separate `section` from the server since
+  // its own `locator` already IS the heading (see build_index.py's
+  // index_webpages) — reuse that here instead of showing it twice.
+  function sectionText(source) {
+    if (source.section) return source.section;
+    if (source.source_type === 'webpage' && source.locator) return source.locator;
+    return '';
+  }
+
+  // The small locator line under the type (page number / timestamp /
+  // citation note). Omitted for a webpage — its locator is already
+  // shown as the section, not repeated below as well.
+  function locatorText(source) {
+    if (source.source_type === 'webpage') return '';
+    return source.locator || '';
+  }
+
+  function relatedLabel(rel) {
+    if (rel.section && rel.locator) return rel.section + ' — ' + rel.locator;
+    return rel.section || rel.locator || 'See also';
+  }
+
+  function buildCard(source) {
+    var card = document.createElement('div');
+    card.className = 'search-result-card';
+
+    var main = document.createElement('a');
+    main.className = 'search-result-main';
+    main.href = source.locator_url || '#';
+    if (source.locator_url) {
+      main.target = '_blank';
+      main.rel = 'noopener noreferrer';
+    }
+
+    var section = sectionText(source);
+    var titleHtml = escapeHtml(source.source_title);
+    if (section) {
+      titleHtml += '<span class="search-result-section"> — ' + escapeHtml(section) + '</span>';
+    }
+
+    var locator = locatorText(source);
+
+    main.innerHTML =
+      '<div class="search-result-title">' + titleHtml + '</div>' +
+      '<div class="search-result-type">' + escapeHtml(contentTypeLabel(source)) + '</div>' +
+      (locator ? '<div class="search-result-locator">' + escapeHtml(locator) + '</div>' : '') +
+      '<div class="search-result-snippet">' + escapeHtml(source.snippet) + '</div>';
+    card.appendChild(main);
+
+    if (source.related && source.related.length) {
+      var relatedEl = document.createElement('div');
+      relatedEl.className = 'search-result-related';
+      relatedEl.innerHTML = '<div class="search-result-related-label">See also</div><ul>' +
+        source.related.map(function (rel) {
+          return '<li><a href="' + escapeHtml(rel.locator_url || '#') + '" target="_blank" rel="noopener noreferrer">' +
+            escapeHtml(relatedLabel(rel)) + '</a></li>';
+        }).join('') +
+        '</ul>';
+      card.appendChild(relatedEl);
+    }
+
+    return card;
   }
 
   function renderResults(data) {
@@ -206,18 +348,7 @@ permalink: /search-beta/
 
     if (data.sources && data.sources.length) {
       data.sources.forEach(function (source) {
-        var card = document.createElement('a');
-        card.className = 'search-result-card';
-        card.href = source.locator_url || '#';
-        if (source.locator_url) {
-          card.target = '_blank';
-          card.rel = 'noopener noreferrer';
-        }
-        card.innerHTML =
-          '<div class="search-result-source">' + escapeHtml(sourceLabel(source)) + '</div>' +
-          '<div class="search-result-title">' + escapeHtml(source.source_title) + '</div>' +
-          '<div class="search-result-snippet">' + escapeHtml(source.snippet) + '</div>';
-        results.appendChild(card);
+        results.appendChild(buildCard(source));
       });
     } else if (!data.answer) {
       status.textContent = "No results — try rephrasing your question.";

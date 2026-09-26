@@ -126,6 +126,25 @@ RERANK_CANDIDATE_POOL = 75
 # above. See server/config.py for the real-data calibration behind
 # TIER1_GOOD_ENOUGH_SCORE.
 TIER1_SOURCE_TYPES = {"webpage", "pdf", "podcast", "podcast_transcript", "youtube_transcript"}
+
+# Auto-detects a PDF's content type (for the search result card's type
+# label -- see 2026-09-26 card redesign) from which archive.org "item"
+# it's hosted under, rather than a per-PDF list. Ryan already sorts his
+# own material into archive.org collections -- "vent-book-draft-1" is
+# just the one book, "clinical-guides" is every quick-reference document
+# he's authored (Field Reference Guides, the Drug Guide, the 12-lead EKG
+# guide, etc). Everything else -- research papers, WHO/textbook
+# material, show-notes evidence bundles -- lives under other item names
+# and isn't his own authored work, so it falls through to a plain,
+# non-attributing "PDF" label instead of guessing wrong. Confirmed by
+# actually pulling every indexed PDF's URL and title (2026-09-26) --
+# this is a clean, exhaustive split with the current index, and stays
+# correct for anything Ryan adds to either collection later without
+# editing this file again.
+PDF_ARCHIVE_ITEM_CONTENT_TYPE = {
+    "vent-book-draft-1": "book",
+    "clinical-guides": "document",
+}
 TIER2_SOURCE_TYPES = {"citation"}
 TIER1_GOOD_ENOUGH_SCORE = 2.0
 TIER2_BOOST_SCORE = 4.0

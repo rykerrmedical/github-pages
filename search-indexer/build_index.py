@@ -340,7 +340,10 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
     if pdf_bytes is None:
         return
 
-    title = pdf_ingest.pdf_title(pdf_bytes, pdf_url)
+    title = (
+        curation.resolve_title_override(pdf_url)
+        or pdf_ingest.pdf_title(pdf_bytes, pdf_url)
+    )
 
     # No usable HEAD signal from this server — fall back to hashing
     # the bytes we just downloaded. Still avoids re-embedding when
@@ -414,6 +417,7 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
             "locator_url": pdf_ingest.locator_url_for_page(pdf_url, p["start_page"]),
             "chunk_index": i,
             "text": p["text"],
+            "section": p.get("heading_path") or "",
             "embedding": vec,
         }
         for i, (p, vec) in enumerate(zip(pieces, embeddings))
@@ -422,8 +426,18 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
     if not chunk_rows:
         return
 
+    # 'book'/'document' when this PDF lives under one of Ryan's own
+    # archive.org collections, else no tag at all -- see
+    # config.PDF_ARCHIVE_ITEM_CONTENT_TYPE and pdf_ingest.content_type_tag.
+    # Drives the search result card's type label ("book by Rykerr
+    # Medical" / "document by Rykerr Medical" vs a plain "PDF").
+    content_type = pdf_ingest.content_type_tag(pdf_url)
+    pdf_tags = [content_type] if content_type else []
+
     _check_chunk_regression(conn, title, pdf_url, len(chunk_rows))
-    store.replace_source_chunks(conn, "pdf", pdf_url, title, chunk_rows, _versioned(content_signal))
+    store.replace_source_chunks(
+        conn, "pdf", pdf_url, title, chunk_rows, _versioned(content_signal), tags=pdf_tags
+    )
     conn.commit()
     stats["changed"] += 1
     stats["chunks_written"] += len(chunk_rows)

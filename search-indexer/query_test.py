@@ -109,6 +109,25 @@ def _apply_source_type_tiebreak(hits):
     )
 
 
+def _group_by_source(hits):
+    """Mirrors server/retrieval.py's _group_by_source — see there for the
+    full reasoning. Kept here too so this local preview tool shows the
+    same "see also" grouping the real /api/search endpoint applies."""
+    related = {}
+    primaries = []
+    for h in hits:
+        sid = h["source_id"]
+        if sid not in related:
+            related[sid] = []
+            primaries.append(h)
+        else:
+            related[sid].append(h)
+    return [
+        dict(p, related=related[p["source_id"]]) if related[p["source_id"]] else p
+        for p in primaries
+    ]
+
+
 def _rerank_pool(query_text, metas, scores, allowed_idx, pool_size, dedupe):
     pool = _pool_by_cosine(scores, allowed_idx, pool_size)
     candidates = [{**metas[i], "score": float(scores[i])} for i in pool]
@@ -187,20 +206,28 @@ def search(query_text, top_k=5, db_path=None, use_reranking=None, dedupe=True):
         if boosted >= config.TIER2_BOOST_MAX:
             break
 
+    if dedupe:
+        results = _group_by_source(results)
     return results
 
 
 def _print_hit(rank, hit):
     where = f" — {hit['locator']}" if hit["locator"] else ""
+    section = f" [{hit['section']}]" if hit.get("section") else ""
     if "rerank_score" in hit:
         score_label = f"rerank {hit['rerank_score']:.3f}, cosine {hit['score']:.3f}"
     else:
         score_label = f"{hit['score']:.3f}"
     tag = " [BOOSTED CITATION]" if hit.get("boosted") else ""
-    print(f"{rank}. [{score_label}] ({hit['source_type']}) {hit['source_title']}{where}{tag}")
+    print(f"{rank}. [{score_label}] ({hit['source_type']}) {hit['source_title']}{section}{where}{tag}")
     print(f"   {hit['locator_url']}")
     snippet = hit["text"][:220].replace("\n", " ")
-    print(f"   {snippet}...\n")
+    print(f"   {snippet}...")
+    for rel in hit.get("related", []):
+        rel_section = f" [{rel['section']}]" if rel.get("section") else ""
+        rel_where = f" — {rel['locator']}" if rel["locator"] else ""
+        print(f"   see also:{rel_section}{rel_where}")
+    print()
 
 
 def cmd_sources(db_path, filter_substr=None):

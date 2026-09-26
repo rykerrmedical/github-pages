@@ -1167,3 +1167,15 @@ def locator_url_for_page(pdf_url, page_number):
     #page=N fragment and jump straight there — so this is a genuinely
     clickable deep link, not just a label."""
     return f"{pdf_url}#page={page_number}"
+
+
+def content_type_tag(pdf_url):
+    """Returns 'book'/'document' (see config.PDF_ARCHIVE_ITEM_CONTENT_TYPE)
+    when pdf_url is hosted under one of Ryan's own archive.org items,
+    else None -- an archive.org download URL looks like
+    .../download/<item>/<filename>.pdf, so the item name is just the
+    path segment right after "download/"."""
+    match = re.search(r"/download/([^/]+)/", pdf_url)
+    if not match:
+        return None
+    return config.PDF_ARCHIVE_ITEM_CONTENT_TYPE.get(match.group(1))

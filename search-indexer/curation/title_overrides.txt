@@ -1,0 +1,4 @@
+# Manual title fixes for PDFs whose embedded /Title metadata is wrong or
+# stale (see curation.load_title_overrides). Format: URL = Correct Title
+
+https://archive.org/download/clinical-guides/Management%20of%20the%20Sick%20Baby.pdf = Management of the Sick Baby

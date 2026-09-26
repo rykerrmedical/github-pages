@@ -45,6 +45,18 @@ CREATE TABLE IF NOT EXISTS chunks (
                                     -- this includes a #page=N fragment, which
                                     -- most browser PDF viewers honor
     chunk_index INTEGER NOT NULL,  -- position within the source, for ordering
+    section TEXT,                  -- the chunk's heading/section within its
+                                    -- source, when it has one distinct from
+                                    -- `locator` (a PDF's locator is a page
+                                    -- range; its section is the heading that
+                                    -- range falls under, e.g. "Additional
+                                    -- Concepts Round One -- Driving
+                                    -- Pressure") -- see 2026-09-26 card
+                                    -- redesign. NULL/'' when a source's
+                                    -- locator already IS its section (a
+                                    -- webpage's heading_path) or it has no
+                                    -- sub-document structure at all
+                                    -- (podcast/YouTube timestamps).
     text TEXT NOT NULL,
     tags TEXT NOT NULL DEFAULT '[]',  -- JSON list, e.g. your hand-placed
                                         -- post tags — '[]' for sources
@@ -137,6 +149,9 @@ def _migrate(conn):
     if "links_to" not in existing:
         conn.execute("ALTER TABLE chunks ADD COLUMN links_to TEXT")
         conn.commit()
+    if "section" not in existing:
+        conn.execute("ALTER TABLE chunks ADD COLUMN section TEXT")
+        conn.commit()
 
 
 def reset_all(conn):
@@ -188,11 +203,11 @@ def replace_source_chunks(conn, source_type, source_id, source_title, chunk_rows
     for row in chunk_rows:
         conn.execute(
             "INSERT INTO chunks "
-            "(source_type, source_id, source_title, locator, locator_url, chunk_index, text, tags, links_to, embedding) "
-            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+            "(source_type, source_id, source_title, locator, locator_url, chunk_index, text, tags, links_to, section, embedding) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
             (
                 source_type, source_id, source_title, row["locator"], row["locator_url"],
-                row["chunk_index"], row["text"], tags_json, row.get("links_to"),
+                row["chunk_index"], row["text"], tags_json, row.get("links_to"), row.get("section") or None,
                 row["embedding"].astype(np.float32).tobytes(),
             ),
         )
@@ -371,7 +386,7 @@ def load_all(db_path=None):
     conn = connect(db_path)
     rows = conn.execute(
         "SELECT source_type, source_id, source_title, locator, locator_url, "
-        "chunk_index, text, tags, links_to, embedding FROM chunks"
+        "chunk_index, text, tags, links_to, section, embedding FROM chunks"
     ).fetchall()
     conn.close()
 
@@ -380,7 +395,7 @@ def load_all(db_path=None):
 
     metas = []
     vectors = []
-    for source_type, source_id, source_title, locator, locator_url, chunk_index, text, tags_json, links_to, blob in rows:
+    for source_type, source_id, source_title, locator, locator_url, chunk_index, text, tags_json, links_to, section, blob in rows:
         metas.append({
             "source_type": source_type,
             "source_id": source_id,
@@ -391,6 +406,7 @@ def load_all(db_path=None):
             "text": text,
             "tags": json.loads(tags_json) if tags_json else [],
             "links_to": links_to,
+            "section": section or "",
         })
         vectors.append(np.frombuffer(blob, dtype=np.float32))
 

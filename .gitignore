@@ -43,3 +43,4 @@ search-indexer/venv/
 search-indexer/venv312/
 search-indexer/__pycache__/
 search-indexer/*.db
+search-indexer/build_log_*.txt
