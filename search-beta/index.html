@@ -145,12 +145,18 @@ permalink: /search-beta/
     font-size: 1.05rem;
     font-weight: bold;
     color: #f2f2f2;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.1rem;
   }
 
+  /* On its own line below the title now, not glued on with a dash --
+     a heading that already has its own internal "chapter — section"
+     dash was doubling up into a visually noisy run of dashes. */
   .search-result-section {
+    display: block;
+    font-size: 0.85rem;
     font-weight: normal;
     color: #d8d8d8;
+    margin-bottom: 0.3rem;
   }
 
   /* Type + locator are secondary metadata, below the title — small caps
@@ -294,7 +300,7 @@ permalink: /search-beta/
   }
 
   function relatedLabel(rel) {
-    if (rel.section && rel.locator) return rel.section + ' — ' + rel.locator;
+    if (rel.section && rel.locator) return rel.section + '; ' + rel.locator;
     return rel.section || rel.locator || 'See also';
   }
 
@@ -311,15 +317,11 @@ permalink: /search-beta/
     }
 
     var section = sectionText(source);
-    var titleHtml = escapeHtml(source.source_title);
-    if (section) {
-      titleHtml += '<span class="search-result-section"> — ' + escapeHtml(section) + '</span>';
-    }
-
     var locator = locatorText(source);
 
     main.innerHTML =
-      '<div class="search-result-title">' + titleHtml + '</div>' +
+      '<div class="search-result-title">' + escapeHtml(source.source_title) + '</div>' +
+      (section ? '<div class="search-result-section">' + escapeHtml(section) + '</div>' : '') +
       '<div class="search-result-type">' + escapeHtml(contentTypeLabel(source)) + '</div>' +
       (locator ? '<div class="search-result-locator">' + escapeHtml(locator) + '</div>' : '') +
       '<div class="search-result-snippet">' + escapeHtml(source.snippet) + '</div>';

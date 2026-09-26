@@ -43,12 +43,12 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 5  # + _heading_candidates_from_dict's trailing-
-                          # footnote-span strip, + the new 'section' column,
-                          # + PDF_ARCHIVE_ITEM_CONTENT_TYPE tags -- three
-                          # separate 2026-09-26 changes bundled into one bump
-                          # since they landed the same day and all need the
-                          # same one-time reprocess to take effect.
+PDF_PIPELINE_VERSION = 6  # v5: _heading_candidates_from_dict's trailing-
+                          # footnote-span strip, the new 'section' column,
+                          # PDF_ARCHIVE_ITEM_CONTENT_TYPE tags.
+                          # v6: _strip_leading_heading_echo -- a page's own
+                          # body text no longer repeats the heading line
+                          # that's already shown separately as 'section'.
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like
@@ -949,6 +949,47 @@ def _heading_candidates_from_dict(page_dict):
     return found
 
 
+_TRAILING_FOOTNOTE_DIGITS = r"\d{0,3}"
+
+
+def _strip_leading_heading_echo(text, heading_texts):
+    """Strips a heading line this page just introduced (current_h1/
+    current_h2) off the very START of that same page's own body text.
+
+    The heading is already carried separately as the chunk's 'section'
+    field, so leaving it in the body too means the section name and the
+    first words of the snippet under it say the same thing twice --
+    confirmed against a real example: a page headed "Driving Pressure"
+    (footnote marker already stripped by _heading_candidates_from_dict)
+    whose very next line of body text is "Driving pressure is a term to
+    describe..." -- same phrase, once as the label shown above the
+    snippet, once as the sentence it labels, reading as an odd repeat.
+
+    Only strips from the start of the page's plain text, and only
+    headings _detected on THIS page_ -- a heading merely carried over
+    from an earlier page (current_h1/current_h2 persisting across a
+    multi-page section) was never physically printed here, so there's
+    nothing of it to strip.
+
+    heading_texts already had any footnote-marker span filtered out by
+    _heading_candidates_from_dict's own size-ratio check (get_text
+    "dict"), but the plain-text extraction feeding `text` here is a
+    completely separate pymupdf call and keeps the marker digits glued
+    on -- hence the optional trailing-digits allowance below rather than
+    an exact match.
+    """
+    for heading_text in heading_texts:
+        candidate = text.lstrip()
+        pattern = re.compile(
+            r"^" + re.escape(heading_text) + _TRAILING_FOOTNOTE_DIGITS + r"\s*\n+",
+            re.IGNORECASE,
+        )
+        m = pattern.match(candidate)
+        if m:
+            text = candidate[m.end():]
+    return text
+
+
 def extract_pdf_pages(pdf_bytes, pdf_url):
     """Returns (sections, citations).
 
@@ -1070,10 +1111,16 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     current_h1 = None
     current_h2 = None
     for i, candidates, plain_text, page_links in raw_pages:
+        heading_texts_this_page = []  # headings physically printed on
+        # THIS page (reading order) -- feeds _strip_leading_heading_echo
+        # below; current_h1/current_h2 below track the running section
+        # for heading_path and persist across pages, which is why the
+        # echo-strip needs its own page-scoped list instead.
         if tier2_min is not None:
             for size, heading_text in candidates:
                 if size < tier2_min:
                     continue  # bold but body-sized — not a real heading (e.g. emphasis)
+                heading_texts_this_page.append(heading_text)
                 if size >= tier1_min:
                     current_h1, current_h2 = heading_text, None
                 else:
@@ -1081,6 +1128,8 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
 
         text = _clean_page_text(plain_text)
         text = _strip_known_boilerplate(text, page_number=i)
+        if heading_texts_this_page:
+            text = _strip_leading_heading_echo(text, heading_texts_this_page)
 
         text, blurb_entries = extract_citation_blurbs(text)
         for entry in blurb_entries:
