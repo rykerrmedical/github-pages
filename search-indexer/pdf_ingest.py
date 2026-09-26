@@ -43,17 +43,21 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 7  # v5: _heading_candidates_from_dict's trailing-
+PDF_PIPELINE_VERSION = 8  # v5: _heading_candidates_from_dict's trailing-
                           # footnote-span strip, the new 'section' column,
                           # PDF_ARCHIVE_ITEM_CONTENT_TYPE tags.
                           # v6: _strip_leading_heading_echo -- a page's own
                           # body text no longer repeats the heading line
                           # that's already shown separately as 'section'.
-                          # v7: _page_text only runs OCR when the page's
-                          # own text layer is too thin, not just because
-                          # the page has ANY embedded image (a decorative
-                          # per-page logo was forcing needless Tesseract
-                          # OCR on every page of an otherwise-fine PDF).
+                          # v7+v8: OCR no longer runs just because a page
+                          # has ANY embedded image (a decorative per-page
+                          # logo was forcing needless Tesseract OCR on
+                          # every page of an otherwise-fine PDF). v8 adds
+                          # back full per-image OCR coverage for Ryan's
+                          # own Rykerr Medical PDFs specifically (prefer_
+                          # full_ocr), guarded against tiny/repeated
+                          # boilerplate images; third-party references
+                          # stay on the cheap text-layer-only path.
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like
@@ -896,31 +900,92 @@ def _ocr_available():
     return _OCR_AVAILABLE
 
 
-def _page_text(page):
+# Below this pixel size (in either dimension) an embedded image is
+# essentially never real content -- it's a bullet, a divider rule, a
+# spacer -- confirmed against the actual failure that motivated this:
+# Tesseract's own "Image too small to scale!! (2x36 vs min width of 3)"
+# complaint on a genuinely 2x36px image from a real PDF.
+_OCR_MIN_IMAGE_DIMENSION_PX = 30
+
+# An image xref reused across at least this many pages, or at least
+# this fraction of the document, reads as running boilerplate (a
+# letterhead logo, a footer icon) rather than page-specific content --
+# see _repeated_image_xrefs.
+_OCR_BOILERPLATE_MIN_PAGE_COUNT = 3
+_OCR_BOILERPLATE_MIN_PAGE_FRACTION = 0.3
+
+
+def _repeated_image_xrefs(pdf_bytes):
+    """xrefs of images that recur across enough pages to be running
+    boilerplate rather than page-specific content (a logo/icon reused
+    via the same embedded image object on many pages).
+
+    Opens its OWN separate Document rather than reusing the one
+    extract_pdf_pages already has open -- get_images() is cheap (no
+    text/OCR work, just reading the page's resource dict), but
+    extract_pdf_pages's own docstring already flags interleaving extra
+    pymupdf calls across the same open Document as the suspected cause
+    of a real prior bug (pages misidentified as textless), so this
+    stays a fully separate open/close rather than touching that one."""
+    try:
+        doc = pymupdf.open(stream=pdf_bytes, filetype="pdf")
+    except Exception:
+        return set()
+    counts = Counter()
+    page_count = doc.page_count
+    for page in doc:
+        for img in page.get_images():
+            counts[img[0]] += 1  # img[0] is the xref
+    doc.close()
+    min_count = max(_OCR_BOILERPLATE_MIN_PAGE_COUNT, page_count * _OCR_BOILERPLATE_MIN_PAGE_FRACTION)
+    return {xref for xref, n in counts.items() if n >= min_count}
+
+
+def _page_has_ocr_worthy_image(page, boilerplate_xrefs):
+    """True if this page carries at least one embedded image that's
+    neither too tiny to be real content nor recurring boilerplate."""
+    for info in page.get_image_info(xrefs=True):
+        if info["xref"] in boilerplate_xrefs:
+            continue
+        if info["width"] < _OCR_MIN_IMAGE_DIMENSION_PX or info["height"] < _OCR_MIN_IMAGE_DIMENSION_PX:
+            continue
+        return True
+    return False
+
+
+def _page_text(page, prefer_full_ocr=False, boilerplate_xrefs=None):
     """Plain extracted text, with OCR folded in for any embedded image
     content when config.PDF_ENABLE_OCR is on and Tesseract is available.
     Returns (text, ocr_attempted, ocr_failed) so the caller can tally
     summary counts rather than printing per-page noise across a
     200+-page document.
 
-    OCR is skipped whenever the page's own plain text layer already
-    clears PDF_MIN_CHARS_PER_PAGE -- a real, reproducible hang against
-    "WHO Medical Evacuation in Amergencies.pdf": that document has a
-    small decorative image (logo/icon) on essentially every page, so
-    `page.get_images()` was true throughout and Tesseract ran via
-    get_textpage_ocr() on every single page even though each one
-    already had a perfectly good text layer -- ballooning one PDF from
-    seconds to (going by the per-page pace observed) hours, for zero
-    benefit, since there was never any missing text to recover. OCR is
-    only actually useful for a page whose normal text layer is too
-    thin to be real content -- e.g. the scanned 12-lead EKG reference
-    this fallback was originally added for -- so that's the only case
-    it still runs for."""
+    A page whose plain text layer already clears PDF_MIN_CHARS_PER_PAGE
+    only gets OCR treatment too when prefer_full_ocr is set (Ryan's own
+    Rykerr Medical PDFs -- see content_type_tag/PDF_ARCHIVE_ITEM_CONTENT_TYPE
+    -- explicitly matter more here than third-party references), and
+    even then only if the page has an image worth the trouble (not
+    tiny, not repeated boilerplate -- see _page_has_ocr_worthy_image).
+    Without that, a decorative per-page logo/icon was enough to trigger
+    full Tesseract OCR on every single page of an otherwise perfectly
+    extractable document -- a real, reproducible hang confirmed against
+    "WHO Medical Evacuation in Amergencies.pdf" (third-party, hosted
+    under the 'austere-medicine' archive.org item, ballooning that one
+    PDF from seconds to, at the observed per-page pace, hours -- for
+    zero benefit, since nothing was actually missing).
+
+    A thin/near-textless page (e.g. the scanned 12-lead EKG reference
+    this fallback was originally built for) always gets OCR regardless
+    of prefer_full_ocr -- that's the one case OCR is unambiguously
+    worth it for every PDF, not just Ryan's own."""
     plain_text = page.get_text()
     if not (config.PDF_ENABLE_OCR and page.get_images()):
         return plain_text, False, False
     if len(plain_text.strip()) >= config.PDF_MIN_CHARS_PER_PAGE:
-        return plain_text, False, False
+        if not prefer_full_ocr:
+            return plain_text, False, False
+        if not _page_has_ocr_worthy_image(page, boilerplate_xrefs or set()):
+            return plain_text, False, False
     if not _ocr_available():
         return plain_text, False, False
     try:
@@ -1087,6 +1152,17 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     before trusting it. Link extraction is folded into this same pass
     for the same reason — page.get_links()/get_textbox() both need the
     page open, and it's already open here exactly once per page."""
+    # Ryan's own Rykerr Medical PDFs (the vent book, clinical guides/
+    # drug guide/field references -- see PDF_ARCHIVE_ITEM_CONTENT_TYPE)
+    # get the pricier full per-image OCR treatment even on pages that
+    # already have a good text layer; third-party references stay on
+    # the cheap text-layer-only path (explicitly Ryan's priority call --
+    # he cares much more about full fidelity on his own content than on
+    # outside references). _repeated_image_xrefs is its own separate
+    # open/close of the PDF, so only pay for it when it'll matter.
+    prefer_full_ocr = content_type_tag(pdf_url) is not None
+    boilerplate_xrefs = _repeated_image_xrefs(pdf_bytes) if (prefer_full_ocr and config.PDF_ENABLE_OCR) else set()
+
     try:
         doc = pymupdf.open(stream=pdf_bytes, filetype="pdf")
     except Exception as e:
@@ -1101,7 +1177,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     ocr_failed = 0
     for i, page in enumerate(doc, start=1):
         page_dict = page.get_text("dict")
-        plain_text, attempted, failed = _page_text(page)
+        plain_text, attempted, failed = _page_text(page, prefer_full_ocr, boilerplate_xrefs)
         ocr_attempted += attempted
         ocr_failed += failed
         candidates = _heading_candidates_from_dict(page_dict)
