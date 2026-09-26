@@ -109,23 +109,43 @@ def _apply_source_type_tiebreak(hits):
     )
 
 
+_NORMALIZE_TITLE_RE = re.compile(r"[^a-z0-9]+")
+_AUDIO_PODCAST_TYPES = {"podcast", "podcast_transcript"}
+_VIDEO_PODCAST_TYPES = {"youtube_transcript"}
+
+
+def _normalize_episode_title(title):
+    return _NORMALIZE_TITLE_RE.sub(" ", (title or "").lower()).strip()
+
+
+def _group_key(hit):
+    if hit["source_type"] in _AUDIO_PODCAST_TYPES or hit["source_type"] in _VIDEO_PODCAST_TYPES:
+        return ("episode", _normalize_episode_title(hit["source_title"]))
+    return ("source", hit["source_id"])
+
+
 def _group_by_source(hits):
     """Mirrors server/retrieval.py's _group_by_source — see there for the
-    full reasoning. Kept here too so this local preview tool shows the
-    same "see also" grouping the real /api/search endpoint applies."""
-    related = {}
-    primaries = []
+    full reasoning, including why a podcast/YouTube pair groups by
+    normalized title with the podcast always as primary. Kept here too
+    so this local preview tool shows the same "see also" grouping the
+    real /api/search endpoint applies."""
+    groups = {}
+    order = []
     for h in hits:
-        sid = h["source_id"]
-        if sid not in related:
-            related[sid] = []
-            primaries.append(h)
-        else:
-            related[sid].append(h)
-    return [
-        dict(p, related=related[p["source_id"]]) if related[p["source_id"]] else p
-        for p in primaries
-    ]
+        key = _group_key(h)
+        if key not in groups:
+            groups[key] = []
+            order.append(key)
+        groups[key].append(h)
+
+    out = []
+    for key in order:
+        members = groups[key]
+        primary = next((m for m in members if m["source_type"] in _AUDIO_PODCAST_TYPES), members[0])
+        rest = [m for m in members if m is not primary]
+        out.append(dict(primary, related=rest) if rest else primary)
+    return out
 
 
 def _rerank_pool(query_text, metas, scores, allowed_idx, pool_size, dedupe):

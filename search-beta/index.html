@@ -299,9 +299,18 @@ permalink: /search-beta/
     return source.locator || '';
   }
 
+  // Podcast/YouTube "see also" entries never carry a `section` (that's
+  // a PDF chapter/heading concept) -- a plain locator like "39:12"
+  // alone reads as a mystery timestamp, so label it by what it links
+  // to instead. See retrieval._group_by_source (server) for why a
+  // YouTube upload can show up here under its matching podcast episode.
   function relatedLabel(rel) {
     if (rel.section && rel.locator) return rel.section + '; ' + rel.locator;
-    return rel.section || rel.locator || 'See also';
+    if (rel.section) return rel.section;
+    if (rel.source_type === 'youtube_transcript') {
+      return rel.locator ? ('YouTube version; ' + rel.locator) : 'YouTube version';
+    }
+    return rel.locator || 'See also';
   }
 
   function buildCard(source) {
