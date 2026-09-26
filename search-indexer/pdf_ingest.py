@@ -43,7 +43,12 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 4  # + _strip_inline_footnote_markers (see below)
+PDF_PIPELINE_VERSION = 5  # + _heading_candidates_from_dict's trailing-
+                          # footnote-span strip, + the new 'section' column,
+                          # + PDF_ARCHIVE_ITEM_CONTENT_TYPE tags -- three
+                          # separate 2026-09-26 changes bundled into one bump
+                          # since they landed the same day and all need the
+                          # same one-time reprocess to take effect.
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like
