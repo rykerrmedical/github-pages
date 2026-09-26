@@ -785,6 +785,24 @@ _HEADING_TIER1_OFFSET = 3.0
 _HEADING_TIER2_OFFSET = 0.5
 _HEADING_MAX_CHARS = 80  # headings are short lines; longer bold text is usually just emphasis
 
+# A TRAILING footnote marker is a different shape than the leading one
+# _HEADING_LEADING_NUM_RE catches -- a superscript citation number
+# glued directly onto the end of the heading text it's attached to
+# (no space, since that's how a superscript reference renders), on the
+# SAME line as the heading. Confirmed on the real vent book: "Driving
+# Pressure" plus a footnote reference came through _heading_candidates_
+# from_dict as one joined string, "Driving Pressure284", because that
+# function joined every span on the line without checking whether a
+# trailing span was actually part of the heading at all. The existing
+# assumption above (footnote text stays close to body size, so the
+# tier2 size cutoff excludes it) only protects a footnote that's its
+# own whole candidate -- it does nothing once the footnote's span has
+# already been fused into a real heading's text before any size
+# comparison happens. A trailing span this much smaller than the
+# line's own largest span, holding only digits, is that footnote
+# marker, not real heading content -- see _heading_candidates_from_dict.
+_FOOTNOTE_SPAN_SIZE_RATIO = 0.75
+
 
 # --- OCR for image-embedded content ---
 # Only attempted on pages that actually contain an image (page.get_images()
@@ -902,15 +920,27 @@ def _heading_candidates_from_dict(page_dict):
             spans = line.get("spans", [])
             if not spans:
                 continue
-            text = "".join(s["text"] for s in spans).strip()
+            max_size = max(s["size"] for s in spans)
+            # Drop a trailing footnote-reference span before joining --
+            # see _FOOTNOTE_SPAN_SIZE_RATIO's comment above. Only ever
+            # strips a span that's both digit-only AND meaningfully
+            # smaller than the line's own biggest span, so a heading
+            # that's legitimately typed with a normal-size trailing
+            # number (rare, but e.g. a literal "Section 5") is untouched
+            # -- its number would share the same span/size as the rest
+            # of the heading, not sit in its own smaller one.
+            text_spans = [
+                sp for sp in spans
+                if not (sp["text"].strip().isdigit() and sp["size"] < max_size * _FOOTNOTE_SPAN_SIZE_RATIO)
+            ]
+            text = "".join(sp["text"] for sp in text_spans).strip()
             if not text or len(text) > _HEADING_MAX_CHARS:
                 continue
             if not any(_bold_flag(s) for s in spans):
                 continue
             if _HEADING_LEADING_NUM_RE.match(text):
                 continue
-            size = max(s["size"] for s in spans)
-            found.append((size, text))
+            found.append((max_size, text))
     return found
 
 
