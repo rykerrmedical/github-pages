@@ -443,6 +443,23 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
     if not chunk_rows:
         return
 
+    # A third-party paper whose EVERY chunk carries the identical page
+    # range (no finer page structure detected anywhere in it) means that
+    # range IS the whole document, not a genuine excerpt within it --
+    # same "papers are cited as a whole, not by page" call as the
+    # single-page case above, just not caught by start_page != end_page
+    # alone (a short paper's whole text can land in one "pages 1-10"
+    # just as easily as one "Page 8"). Confirmed real, 2026-09-27: Walas
+    # 2019's every chunk carried the identical "pages 1-10" locator --
+    # its whole page count, not a range within it. Ryan's own book/
+    # document PDFs are untouched (content_type is not None) -- pages
+    # are how those actually get navigated, even a short one-locator one.
+    if content_type is None:
+        distinct_locators = {row["locator"] for row in chunk_rows if row["locator"]}
+        if len(distinct_locators) == 1:
+            for row in chunk_rows:
+                row["locator"] = ""
+
     _check_chunk_regression(conn, title, pdf_url, len(chunk_rows))
     store.replace_source_chunks(
         conn, "pdf", pdf_url, title, chunk_rows, _versioned(content_signal), tags=pdf_tags

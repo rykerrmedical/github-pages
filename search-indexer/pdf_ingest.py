@@ -43,7 +43,7 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 10  # v5: _heading_candidates_from_dict's trailing-
+PDF_PIPELINE_VERSION = 11  # v5: _heading_candidates_from_dict's trailing-
                           # footnote-span strip, the new 'section' column,
                           # PDF_ARCHIVE_ITEM_CONTENT_TYPE tags.
                           # v6: _strip_leading_heading_echo -- a page's own
@@ -71,6 +71,20 @@ PDF_PIPELINE_VERSION = 10  # v5: _heading_candidates_from_dict's trailing-
                           # curation/title_overrides.txt entry (e.g.
                           # O'Shea 2017), since title resolution happens
                           # in the same reprocess-gated code path.
+                          # v11: a running header/footer that happens to
+                          # be printed in a large font (a journal/site
+                          # name repeated on nearly every page, e.g.
+                          # "Library") no longer gets picked up as a real
+                          # H1/H2 heading -- confirmed real on O'Shea
+                          # 2017.pdf, whose "section" was showing as
+                          # "Library \u2014 Search methods for
+                          # identification of studies" (the actual
+                          # heading, with Cochrane's own running header
+                          # glued in front of it). Same frequency-based
+                          # detection _strip_repeated_boilerplate already
+                          # uses for body text, now applied to heading
+                          # candidates before they're ever assigned to
+                          # current_h1/current_h2.
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like
@@ -1207,6 +1221,27 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     tier1_min = (body_size + _HEADING_TIER1_OFFSET) if body_size is not None else None
     tier2_min = (body_size + _HEADING_TIER2_OFFSET) if body_size is not None else None
 
+    # A running header/footer set in a large font (a journal or site
+    # name repeated at the top of nearly every page) looks exactly like
+    # a real heading to the size-based check above -- it's big, it's not
+    # body text. Catch it the same way _strip_repeated_boilerplate
+    # catches its body-text equivalent: count how many DISTINCT pages
+    # each heading-sized text appears on, and treat anything on most of
+    # them as running-header noise rather than a real section title.
+    # Confirmed real, not hypothetical: O'Shea 2017.pdf's "section" was
+    # showing as "Library — Search methods for identification of
+    # studies" -- "Library" being Cochrane's own running header, printed
+    # large enough to clear tier2_min on nearly every page.
+    heading_page_counts = Counter()
+    if tier2_min is not None:
+        for _, candidates, _, _ in raw_pages:
+            for heading_text in {t for size, t in candidates if size >= tier2_min}:
+                heading_page_counts[heading_text] += 1
+    heading_boilerplate = set()
+    if len(raw_pages) >= 6:
+        heading_threshold = max(3, int(len(raw_pages) * 0.4))
+        heading_boilerplate = {t for t, c in heading_page_counts.items() if c >= heading_threshold}
+
     # Pass 1: per-page cleaning, citation extraction, and skip-filtering
     # -- exactly what the old per-page loop did, just not yet grouped
     # into sections. Has to stay a separate pass before grouping because
@@ -1231,6 +1266,8 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
             for size, heading_text in candidates:
                 if size < tier2_min:
                     continue  # bold but body-sized — not a real heading (e.g. emphasis)
+                if heading_text in heading_boilerplate:
+                    continue  # running header/footer, not a real heading — see above
                 heading_texts_this_page.append(heading_text)
                 if size >= tier1_min:
                     current_h1, current_h2 = heading_text, None
