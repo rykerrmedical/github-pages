@@ -82,7 +82,23 @@ def group_segments(segments, title):
 
     Returns [{"start": float, "text": str}, ...]."""
     if _looks_like_hallucinated_silence(segments):
-        return []
+        # Whisper's hallucinated filler (see above) isn't worth keeping
+        # as chunk text -- but returning [] here entirely, as this used
+        # to, drops the source out of search completely: confirmed a
+        # real regression on "Tot Talks T-Piece" (Ryan, 2026-09-26) --
+        # it used to surface fine (garbage "you you you" snippet and
+        # all) and disappeared once this returned no chunks at all,
+        # since zero chunks means zero embeddings to ever match against.
+        # The source itself is still real, on-topic content -- only the
+        # transcript is worthless. Keep ONE title-anchored chunk, same
+        # "[title]\n\n" prefix every other chunk gets (so it still
+        # matches title-term queries the same way), with a short honest
+        # note in place of the transcript instead of either the Whisper
+        # garbage or nothing at all.
+        return [{
+            "start": 0.0,
+            "text": f"[{title}]\n\n(No substantive speech was detected in this audio to transcribe.)",
+        }]
 
     words = []
     for start, _end, text in segments:
