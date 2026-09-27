@@ -180,9 +180,13 @@ def _process_episode(conn, ep, force_substr, stats):
 
     transcript_files.save_transcript_files(segments, ep["title"], config.PODCAST_TRANSCRIPT_DIR)
 
+    # NOT an early return when this comes back empty -- see
+    # youtube_transcribe.py's matching comment: this still has to reach
+    # replace_source_chunks below so a previous run's chunks get wiped
+    # rather than lingering as stale garbage, and so the new signal
+    # gets recorded instead of this episode being re-downloaded and
+    # re-transcribed every future run.
     pieces = transcript_chunking.group_segments(segments, ep["title"])
-    if not pieces:
-        return
 
     # Deliberately does NOT set links_to to the episode's show-notes
     # page here, unlike podcast_ingest.py's thin per-episode metadata
@@ -199,7 +203,7 @@ def _process_episode(conn, ep, force_substr, stats):
     # (still indexed as an ordinary webpage) only surfacing separately,
     # ranked on its own actual relevance -- see retrieval.py's
     # _apply_source_type_tiebreak for the matching ranking-order change.
-    embeddings = embedder.embed_documents([p["text"] for p in pieces])
+    embeddings = embedder.embed_documents([p["text"] for p in pieces]) if pieces else []
     chunk_rows = [
         {
             "locator": transcript_chunking.format_timestamp(p["start"]),
@@ -216,7 +220,10 @@ def _process_episode(conn, ep, force_substr, stats):
     )
     conn.commit()
     stats["changed"] += 1
-    print(f"  - {ep['title']!r}: {len(pieces)} transcript chunk(s)")
+    if pieces:
+        print(f"  - {ep['title']!r}: {len(pieces)} transcript chunk(s)")
+    else:
+        print(f"  - {ep['title']!r}: no real speech content (looked like Whisper noise on silence), 0 chunks")
 
 
 def index_podcast_transcripts(conn, force_substr=None):

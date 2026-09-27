@@ -163,11 +163,17 @@ def _process_video(conn, video, force_substr, stats):
 
     transcript_files.save_transcript_files(segments, title, config.YOUTUBE_TRANSCRIPT_DIR)
 
+    # NOT an early return when this comes back empty (e.g. Whisper
+    # hallucinating on a deliberately silent video -- see
+    # transcript_chunking._looks_like_hallucinated_silence): this still
+    # has to reach replace_source_chunks below so (a) any chunks from a
+    # PREVIOUS run get wiped rather than lingering forever as stale
+    # garbage, and (b) the new signal gets recorded, so this video isn't
+    # needlessly re-downloaded and re-transcribed on every single future
+    # run just because it never got to "unchanged".
     pieces = transcript_chunking.group_segments(segments, title)
-    if not pieces:
-        return
 
-    embeddings = embedder.embed_documents([p["text"] for p in pieces])
+    embeddings = embedder.embed_documents([p["text"] for p in pieces]) if pieces else []
     chunk_rows = [
         {
             "locator": transcript_chunking.format_timestamp(p["start"]),
@@ -181,7 +187,10 @@ def _process_video(conn, video, force_substr, stats):
     store.replace_source_chunks(conn, "youtube_transcript", video_url, title, chunk_rows, signal)
     conn.commit()
     stats["changed"] += 1
-    print(f"  - {title!r}: {len(pieces)} transcript chunk(s)")
+    if pieces:
+        print(f"  - {title!r}: {len(pieces)} transcript chunk(s)")
+    else:
+        print(f"  - {title!r}: no real speech content (looked like Whisper noise on silence), 0 chunks")
 
 
 def index_youtube_transcripts(conn, force_substr=None):

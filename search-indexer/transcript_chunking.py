@@ -11,7 +11,40 @@ came from -- Whisper's per-segment output or a parsed YouTube caption
 track: [(start_seconds, end_seconds, text), ...], already trimmed of
 empty text.
 """
+import re
+from collections import Counter
+
 import config
+
+# Whisper's well-known failure mode on silent/near-silent audio: instead
+# of returning nothing, it "hallucinates" a short filler phrase (most
+# often just "you", also seen: "thank you", "bye", "thanks for
+# watching") repeated at sparse, roughly-regular intervals -- one
+# per its internal ~30s processing window. Confirmed against a real
+# video: "Tot Talks T-Piece" (deliberately silent -- the point is
+# demonstrated on screen, not narrated) transcribed to exactly
+# "you" / "you" / "you" / "you" at :00, :30, 1:00, 1:30. Left alone,
+# that became the video's entire searchable content and its ONLY
+# result snippet, reading as broken rather than as the intentional
+# silent video it is.
+_HALLUCINATED_SILENCE_MAX_WORDS = 50
+_HALLUCINATED_SILENCE_MIN_REPEAT_FRACTION = 0.75
+
+
+def _looks_like_hallucinated_silence(segments):
+    """True if this segment list is very short AND dominated by one
+    repeated phrase -- Whisper noise on silence, not real content.
+    Deliberately narrow (both a low absolute word count AND a high
+    repeat fraction have to hold) so an actually short-but-substantive
+    clip doesn't get swept up by this."""
+    texts = [re.sub(r"\s+", " ", text).strip().lower() for _, _, text in segments if text.strip()]
+    if not texts:
+        return False
+    total_words = sum(len(t.split()) for t in texts)
+    if total_words > _HALLUCINATED_SILENCE_MAX_WORDS:
+        return False
+    most_common_count = Counter(texts).most_common(1)[0][1]
+    return (most_common_count / len(texts)) >= _HALLUCINATED_SILENCE_MIN_REPEAT_FRACTION
 
 
 def format_timestamp(seconds):
@@ -48,6 +81,9 @@ def group_segments(segments, title):
     for a "perfusion index" query.
 
     Returns [{"start": float, "text": str}, ...]."""
+    if _looks_like_hallucinated_silence(segments):
+        return []
+
     words = []
     for start, _end, text in segments:
         for w in text.split():
