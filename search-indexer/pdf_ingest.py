@@ -43,7 +43,7 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 9  # v5: _heading_candidates_from_dict's trailing-
+PDF_PIPELINE_VERSION = 10  # v5: _heading_candidates_from_dict's trailing-
                           # footnote-span strip, the new 'section' column,
                           # PDF_ARCHIVE_ITEM_CONTENT_TYPE tags.
                           # v6: _strip_leading_heading_echo -- a page's own
@@ -63,6 +63,14 @@ PDF_PIPELINE_VERSION = 9  # v5: _heading_candidates_from_dict's trailing-
                           # this constant covers that too since a chunk's
                           # locator is only rebuilt when its PDF actually
                           # gets reprocessed, gated by this same version.
+                          # v10: a single-page locator ("Page 8") is now
+                          # omitted entirely for a third-party reference
+                          # PDF -- only Ryan's own book/document PDFs and
+                          # genuine multi-page ranges still show one. Also
+                          # covers this same run picking up any new
+                          # curation/title_overrides.txt entry (e.g.
+                          # O'Shea 2017), since title resolution happens
+                          # in the same reprocess-gated code path.
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like

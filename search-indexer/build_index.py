@@ -406,13 +406,30 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
         }
         for s in sections
     ]
+    # 'book'/'document' when this PDF lives under one of Ryan's own
+    # archive.org collections, else no tag at all -- see
+    # config.PDF_ARCHIVE_ITEM_CONTENT_TYPE and pdf_ingest.content_type_tag.
+    # Drives the search result card's type label ("book by Rykerr
+    # Medical" / "document by Rykerr Medical" vs "Reference PDF"), and
+    # now also the locator below: a single page number is only shown
+    # for Ryan's own book/document PDFs, where pages are how the reader
+    # actually navigates it. For a third-party paper, a lone page
+    # number is noise -- papers are cited as a whole, not by page --
+    # unless the citation is genuinely a RANGE spanning several pages,
+    # which stays shown regardless of ownership (Ryan's call,
+    # 2026-09-26: "For papers we don't need to cite pages. Only if we
+    # are citing a range within a document").
+    content_type = pdf_ingest.content_type_tag(pdf_url)
+    pdf_tags = [content_type] if content_type else []
+
     pieces = chunker.chunk_structured_text(title, None, blocks)
     embeddings = embedder.embed_documents([p["text"] for p in pieces])
     chunk_rows = [
         {
             "locator": (
-                f"Page {p['start_page']}" if p["start_page"] == p["end_page"]
-                else f"pages {p['start_page']}-{p['end_page']}"
+                f"pages {p['start_page']}-{p['end_page']}" if p["start_page"] != p["end_page"]
+                else f"Page {p['start_page']}" if content_type is not None
+                else ""
             ),
             "locator_url": pdf_ingest.locator_url_for_page(pdf_url, p["start_page"]),
             "chunk_index": i,
@@ -425,14 +442,6 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
 
     if not chunk_rows:
         return
-
-    # 'book'/'document' when this PDF lives under one of Ryan's own
-    # archive.org collections, else no tag at all -- see
-    # config.PDF_ARCHIVE_ITEM_CONTENT_TYPE and pdf_ingest.content_type_tag.
-    # Drives the search result card's type label ("book by Rykerr
-    # Medical" / "document by Rykerr Medical" vs a plain "PDF").
-    content_type = pdf_ingest.content_type_tag(pdf_url)
-    pdf_tags = [content_type] if content_type else []
 
     _check_chunk_regression(conn, title, pdf_url, len(chunk_rows))
     store.replace_source_chunks(

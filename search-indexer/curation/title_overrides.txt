@@ -2,3 +2,12 @@
 # stale (see curation.load_title_overrides). Format: URL = Correct Title
 
 https://archive.org/download/clinical-guides/Management%20of%20the%20Sick%20Baby.pdf = Management of the Sick Baby
+
+# No embedded /Title at all (confirmed via pdf_ingest.pdf_title's own
+# fallback path), so it was falling back to the filename Ryan names his
+# reference PDFs with (Author Year.pdf) instead of the paper's real
+# title. Identified via web search against its actual content (CO2
+# detection to confirm tube placement, "Description of the
+# intervention"/"across all included studies" Cochrane review section
+# headings) -- Cochrane Database Syst Rev 2017, O'Shea JE et al.
+https://archive.org/download/papers-peds-airway-video/O%27Shea%202017.pdf = Orotracheal intubation in infants performed with a stylet versus without a stylet
