@@ -29,6 +29,7 @@ import os
 EXCLUDED_URLS_PATH = os.path.join(os.path.dirname(__file__), "curation", "excluded_urls.txt")
 DEFER_TO_PATH = os.path.join(os.path.dirname(__file__), "curation", "defer_to.txt")
 TITLE_OVERRIDES_PATH = os.path.join(os.path.dirname(__file__), "curation", "title_overrides.txt")
+AUDIO_SOURCES_PATH = os.path.join(os.path.dirname(__file__), "curation", "audio_sources.txt")
 
 
 def load_excluded_patterns(path=None):
@@ -160,3 +161,40 @@ def resolve_title_override(url):
     if _title_overrides_cache is None:
         _title_overrides_cache = load_title_overrides()
     return _title_overrides_cache.get(url)
+
+
+def load_audio_sources(path=None):
+    """Standalone archive.org audio recordings with no transcript --
+    Ryan's narrated procedure "scripts" (see curation/audio_sources.txt
+    for the real background). No auto-detection possible here at all
+    (unlike title_overrides.txt, which corrects something extraction
+    DID find): these are audio files with nothing to transcribe or
+    crawl, only discoverable at all because Ryan tells us they exist and
+    what they're about. Format, one entry per line: `URL = Title |
+    Description` -- same manual-override spirit as the rest of this
+    module, just the primary source of an entry rather than a fix to
+    one. Malformed lines (missing "|") are skipped rather than raising,
+    same tolerance as load_title_overrides, so one bad edit doesn't take
+    the whole file down.
+
+    Returns [{"url": str, "title": str, "description": str}, ...]."""
+    path = path or AUDIO_SOURCES_PATH
+    sources = []
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith("#") or "=" not in line:
+                    continue
+                url, rest = line.split("=", 1)
+                if "|" not in rest:
+                    continue
+                title, description = rest.split("|", 1)
+                sources.append({
+                    "url": url.strip(),
+                    "title": title.strip(),
+                    "description": description.strip(),
+                })
+    except FileNotFoundError:
+        pass
+    return sources

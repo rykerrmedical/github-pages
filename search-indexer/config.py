@@ -125,7 +125,7 @@ RERANK_CANDIDATE_POOL = 75
 # copies in sync by hand, same as EMBEDDING_MODEL_NAME/RERANKER_MODEL_NAME
 # above. See server/config.py for the real-data calibration behind
 # TIER1_GOOD_ENOUGH_SCORE.
-TIER1_SOURCE_TYPES = {"webpage", "pdf", "podcast", "podcast_transcript", "youtube_transcript"}
+TIER1_SOURCE_TYPES = {"webpage", "pdf", "podcast", "podcast_transcript", "youtube_transcript", "audio"}
 
 # Auto-detects a PDF's content type (for the search result card's type
 # label -- see 2026-09-26 card redesign) from which archive.org "item"

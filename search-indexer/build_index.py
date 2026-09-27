@@ -505,6 +505,46 @@ def _write_citation_sources(conn):
     return stats, current_ids
 
 
+def _write_audio_sources(conn):
+    """Assembles curation/audio_sources.txt's hand-described archive.org
+    audio recordings into their own small "audio" sources, one chunk
+    each -- title + Ryan's own short description, exactly like
+    _write_citation_sources above does for citation blurbs, just one
+    entry per source instead of grouped mentions (there's no equivalent
+    of "cited from two different PDFs" here, each recording is its own
+    thing). No crawling, no transcription -- see curation.load_audio_sources
+    for why. Always recomputes from the current curation file rather than
+    trying to skip unchanged entries -- there are only a handful of these
+    and each description is a sentence or two, so re-embedding all of
+    them every run is cheap, same reasoning as citation sources. Returns
+    (stats, current_source_ids) -- the latter folds into
+    prune_missing_sources' current set so a recording removed from the
+    curation file gets cleaned up same as any other source."""
+    stats = {"sources": 0, "chunks": 0}
+    entries = curation.load_audio_sources()
+
+    current_ids = set()
+    for entry in entries:
+        url, title, description = entry["url"], entry["title"], entry["description"]
+        current_ids.add(url)
+        text = f"[{title}]\n\n{description}"
+        embeddings = embedder.embed_documents([text])
+        chunk_rows = [{
+            "locator": "",
+            "locator_url": url,
+            "chunk_index": 0,
+            "text": text,
+            "embedding": embeddings[0],
+        }]
+        content_signal = _hash_text(text)
+        store.replace_source_chunks(conn, "audio", url, title, chunk_rows, content_signal)
+        conn.commit()
+        stats["sources"] += 1
+        stats["chunks"] += 1
+
+    return stats, current_ids
+
+
 def build(force_full=False, force_substr=None):
     start = time.time()
     conn = store.connect()
@@ -583,6 +623,10 @@ def build(force_full=False, force_substr=None):
             f"link or reference page found)"
         )
 
+    audio_stats, audio_source_ids = _write_audio_sources(conn)
+    if audio_stats["sources"]:
+        print(f"Assembled {audio_stats['sources']} audio source(s) from curation/audio_sources.txt")
+
     podcast_source_ids, podcast_stats = podcast_ingest.index_podcast_episodes(conn, force_substr)
     if podcast_stats["seen"]:
         print(
@@ -611,10 +655,11 @@ def build(force_full=False, force_substr=None):
     current_source_ids = (
         page_source_ids | set(discovered_pdfs) | citation_source_ids
         | podcast_source_ids | transcript_source_ids | youtube_source_ids
+        | audio_source_ids
     )
     removed = store.prune_missing_sources(
         conn, current_source_ids,
-        source_types=("webpage", "pdf", "citation", "podcast", "podcast_transcript", "youtube_transcript"),
+        source_types=("webpage", "pdf", "citation", "podcast", "podcast_transcript", "youtube_transcript", "audio"),
     )
     if removed:
         print(f"Removed {removed} source(s) no longer present (deleted, moved, or newly excluded)")
@@ -673,6 +718,7 @@ def build(force_full=False, force_substr=None):
         f"  Citations: {citation_stats['sources']} source(s), {citation_stats['chunks']} blurb chunk(s), "
         f"{citation_stats['unresolved_mentions']} still unresolved"
     )
+    print(f"  Audio: {audio_stats['sources']} source(s), {audio_stats['chunks']} chunk(s)")
     print(f"  {total_docs_touched} source(s) actually re-indexed this run, {removed} removed")
     print(f"Index written to: {config.OUTPUT_DB_PATH}")
     print("Sync this file to the VPS to make it live (see README.md).")

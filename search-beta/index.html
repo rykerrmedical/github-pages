@@ -271,6 +271,9 @@ permalink: /search-beta/
     if (source.source_type === 'citation') {
       return 'Outside reference';
     }
+    if (source.source_type === 'audio') {
+      return 'Audio recording by Rykerr Medical';
+    }
     if (source.source_type === 'podcast' || source.source_type === 'podcast_transcript') {
       return 'Podcast';
     }
