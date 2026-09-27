@@ -97,15 +97,33 @@ _TIE_EPSILON = 0.3
 
 
 def _apply_source_type_tiebreak(hits):
+    """A podcast/YouTube hit is only demoted when it's ACTUALLY tied
+    (same score bucket) with another hit sharing its _group_key — a
+    genuine same-episode duplicate. Mirrors server/retrieval.py's fix,
+    2026-09-27 -- see there for the full reasoning (a real bug, not
+    hypothetical: "Scripts Discussion with Richard" was landing below
+    an unrelated, worse-scored PDF just for being a podcast)."""
     if len(hits) < 2:
         return hits
+
+    def _bucket(h):
+        return round(h["rerank_score"] / _TIE_EPSILON)
+
+    has_tied_sibling = set()
+    for i, h in enumerate(hits):
+        for h2 in hits[i + 1:]:
+            if _bucket(h) == _bucket(h2) and _group_key(h) == _group_key(h2):
+                has_tied_sibling.add(id(h))
+                has_tied_sibling.add(id(h2))
+
+    def _tie_priority(h):
+        if id(h) not in has_tied_sibling:
+            return _SOURCE_TYPE_TIE_DEFAULT
+        return _SOURCE_TYPE_TIE_PRIORITY.get(h["source_type"], _SOURCE_TYPE_TIE_DEFAULT)
+
     return sorted(
         hits,
-        key=lambda h: (
-            -round(h["rerank_score"] / _TIE_EPSILON),
-            _SOURCE_TYPE_TIE_PRIORITY.get(h["source_type"], _SOURCE_TYPE_TIE_DEFAULT),
-            -h["rerank_score"],
-        ),
+        key=lambda h: (-_bucket(h), _tie_priority(h), -h["rerank_score"]),
     )
 
 
