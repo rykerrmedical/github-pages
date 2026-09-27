@@ -48,7 +48,15 @@ def _looks_like_hallucinated_silence(segments):
 
 
 def format_timestamp(seconds):
+    """Returns "" for the very start of the recording (0:00) -- Ryan's
+    call, 2026-09-27: a timestamp only earns its keep when it tells you
+    to skip ahead of somewhere; the default entry point (press play)
+    already gets you to 0:00, so labeling it just adds noise. Any other
+    chunk, including a later one that happens to start close to but not
+    exactly the beginning, still gets a real timestamp."""
     seconds = int(seconds)
+    if seconds <= 0:
+        return ""
     h, rem = divmod(seconds, 3600)
     m, s = divmod(rem, 60)
     if h:
@@ -95,9 +103,17 @@ def group_segments(segments, title):
         # matches title-term queries the same way), with a short honest
         # note in place of the transcript instead of either the Whisper
         # garbage or nothing at all.
+        # Just the title, nothing after it -- Ryan's call, 2026-09-27:
+        # the placeholder sentence read as "boring" filler once it was
+        # actually showing up on cards, and main.py's _snippet() already
+        # strips a leading "[Title]\n" line entirely before display
+        # (see its docstring), so a bare title-plus-newline here means
+        # the card shows no snippet at all rather than a stock sentence
+        # -- same discoverability (still title-anchored for embedding),
+        # cleaner card.
         return [{
             "start": 0.0,
-            "text": f"[{title}]\n\n(No substantive speech was detected in this audio to transcribe.)",
+            "text": f"[{title}]\n",
         }]
 
     words = []

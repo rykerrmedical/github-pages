@@ -336,7 +336,7 @@ permalink: /search-beta/
       (section ? '<div class="search-result-section">' + escapeHtml(section) + '</div>' : '') +
       '<div class="search-result-type">' + escapeHtml(contentTypeLabel(source)) + '</div>' +
       (locator ? '<div class="search-result-locator">' + escapeHtml(locator) + '</div>' : '') +
-      '<div class="search-result-snippet">' + escapeHtml(source.snippet) + '</div>';
+      (source.snippet ? '<div class="search-result-snippet">' + escapeHtml(source.snippet) + '</div>' : '');
     card.appendChild(main);
 
     if (source.related && source.related.length) {
