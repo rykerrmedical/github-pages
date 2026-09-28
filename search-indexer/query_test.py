@@ -244,6 +244,24 @@ def _rerank_pool(query_text, metas, scores, allowed_idx, pool_size, dedupe):
     return _apply_source_type_tiebreak(_dedupe_by_citation(ranked))
 
 
+# Mirrors server/retrieval.py's _is_tier1/_is_tier2 — see there for the
+# full reasoning (2026-09-27: a linked-but-not-authored PDF no longer
+# counts as tier 1 just for being source_type == "pdf").
+_RYAN_AUTHORED_PDF_TAGS = {"book", "document"}
+
+
+def _is_tier1(m):
+    if m["source_type"] == "pdf":
+        return bool(_RYAN_AUTHORED_PDF_TAGS & set(m.get("tags") or []))
+    return m["source_type"] in config.TIER1_SOURCE_TYPES
+
+
+def _is_tier2(m):
+    if m["source_type"] == "pdf":
+        return not (_RYAN_AUTHORED_PDF_TAGS & set(m.get("tags") or []))
+    return m["source_type"] in config.TIER2_SOURCE_TYPES
+
+
 def search(query_text, top_k=5, db_path=None, use_reranking=None, dedupe=True):
     """Mirrors server/retrieval.py's search() — two-stage retrieval (cheap
     cosine pool -> cross-encoder rerank) plus the same answer-priority
@@ -284,10 +302,10 @@ def search(query_text, top_k=5, db_path=None, use_reranking=None, dedupe=True):
 
     pool_size = max(config.RERANK_CANDIDATE_POOL, top_k)
 
-    tier1_idx = [i for i, m in enumerate(metas) if m["source_type"] in config.TIER1_SOURCE_TYPES]
+    tier1_idx = [i for i, m in enumerate(metas) if _is_tier1(m)]
     tier1_ranked = _rerank_pool(expanded_query, metas, scores, tier1_idx, pool_size, dedupe)
 
-    tier2_idx = [i for i, m in enumerate(metas) if m["source_type"] in config.TIER2_SOURCE_TYPES]
+    tier2_idx = [i for i, m in enumerate(metas) if _is_tier2(m)]
     tier2_ranked = _rerank_pool(expanded_query, metas, scores, tier2_idx, pool_size, dedupe)
 
     if tier1_ranked and tier1_ranked[0]["rerank_score"] >= config.TIER1_GOOD_ENOUGH_SCORE:
