@@ -95,6 +95,25 @@ _SOURCE_TYPE_TIE_PRIORITY = {"podcast_transcript": 1, "youtube_transcript": 2}
 _SOURCE_TYPE_TIE_DEFAULT = 0
 _TIE_EPSILON = 0.3
 
+# Mirrors server/retrieval.py's _POINTER_PHRASE_RE / _looks_like_pointer_mention
+# — see there for the full reasoning (2026-09-27, "intubation checklists":
+# Wes Podcast's show notes page ranked #1 for namedropping "EmCrit
+# Intubation Checklist(s)" as a pointer elsewhere, ahead of Ryan's own
+# actual RFG checklist).
+_POINTER_PHRASE_RE = re.compile(
+    r"\b(?:see|check out|start(?:ing)?\s+(?:at|with)|refer(?:s|red)?\s+to|"
+    r"linked\s+(?:to|from|here)|dig\s+in(?:to)?\s+(?:here|at)|"
+    r"get\s+into\s+(?:the\s+details\s+of|it)\s+at|for\s+more,?\s+see|"
+    r"as\s+mentioned[^.]{0,20}see)\s+(?:the\s+)?"
+    r"[A-Z][\w&/’'\-]*(?:\s+[A-Z][\w&/’'\-]*){0,6}",
+)
+
+
+def _looks_like_pointer_mention(hit):
+    if hit.get("source_type") != "webpage":
+        return False
+    return bool(_POINTER_PHRASE_RE.search(hit.get("text") or ""))
+
 
 def _apply_source_type_tiebreak(hits):
     """A podcast/YouTube hit is only demoted when it's ACTUALLY tied
@@ -102,7 +121,10 @@ def _apply_source_type_tiebreak(hits):
     genuine same-episode duplicate. Mirrors server/retrieval.py's fix,
     2026-09-27 -- see there for the full reasoning (a real bug, not
     hypothetical: "Scripts Discussion with Richard" was landing below
-    an unrelated, worse-scored PDF just for being a podcast)."""
+    an unrelated, worse-scored PDF just for being a podcast).
+
+    Also mirrors the independent "pointer mention" tiebreak dimension
+    added the same day — see server/retrieval.py."""
     if len(hits) < 2:
         return hits
 
@@ -110,16 +132,28 @@ def _apply_source_type_tiebreak(hits):
         return round(h["rerank_score"] / _TIE_EPSILON)
 
     has_tied_sibling = set()
+    pointer_penalized = set()
     for i, h in enumerate(hits):
         for h2 in hits[i + 1:]:
-            if _bucket(h) == _bucket(h2) and _group_key(h) == _group_key(h2):
+            if _bucket(h) != _bucket(h2):
+                continue
+            if _group_key(h) == _group_key(h2):
                 has_tied_sibling.add(id(h))
                 has_tied_sibling.add(id(h2))
+            h_ptr, h2_ptr = _looks_like_pointer_mention(h), _looks_like_pointer_mention(h2)
+            if h_ptr and not h2_ptr:
+                pointer_penalized.add(id(h))
+            elif h2_ptr and not h_ptr:
+                pointer_penalized.add(id(h2))
 
     def _tie_priority(h):
-        if id(h) not in has_tied_sibling:
-            return _SOURCE_TYPE_TIE_DEFAULT
-        return _SOURCE_TYPE_TIE_PRIORITY.get(h["source_type"], _SOURCE_TYPE_TIE_DEFAULT)
+        source_type_priority = (
+            _SOURCE_TYPE_TIE_PRIORITY.get(h["source_type"], _SOURCE_TYPE_TIE_DEFAULT)
+            if id(h) in has_tied_sibling
+            else _SOURCE_TYPE_TIE_DEFAULT
+        )
+        pointer_priority = 1 if id(h) in pointer_penalized else 0
+        return (pointer_priority, source_type_priority)
 
     return sorted(
         hits,
@@ -142,12 +176,32 @@ def _group_key(hit):
     return ("source", hit["source_id"])
 
 
+def _combine_citation_locators(locators):
+    """Mirrors server/retrieval.py's _combine_citation_locators — see
+    there for the full reasoning (2026-09-27, Ryan's rule: one card per
+    third-party citation PDF, every distinct page range folded into the
+    locator instead of a second unrelated "see also" card)."""
+    if not locators:
+        return ""
+    first, rest = locators[0], locators[1:]
+    if not rest:
+        return first
+
+    def _bare(loc):
+        m = re.match(r"^(?:pages?|p\.)\s+(.*)$", loc, re.IGNORECASE)
+        return m.group(1) if m else loc
+
+    return first + "; see also " + ", ".join(_bare(loc) for loc in rest)
+
+
 def _group_by_source(hits):
     """Mirrors server/retrieval.py's _group_by_source — see there for the
     full reasoning, including why a podcast/YouTube pair groups by
-    normalized title with the podcast always as primary. Kept here too
-    so this local preview tool shows the same "see also" grouping the
-    real /api/search endpoint applies."""
+    normalized title with the podcast always as primary, and why a
+    third-party citation PDF folds every extra locator into the primary
+    card instead of getting a second "see also" card. Kept here too so
+    this local preview tool shows the same grouping the real
+    /api/search endpoint applies."""
     groups = {}
     order = []
     for h in hits:
@@ -162,7 +216,20 @@ def _group_by_source(hits):
         members = groups[key]
         primary = next((m for m in members if m["source_type"] in _AUDIO_PODCAST_TYPES), members[0])
         rest = [m for m in members if m is not primary]
-        out.append(dict(primary, related=rest) if rest else primary)
+        if not rest:
+            out.append(primary)
+            continue
+        if primary["source_type"] == "citation":
+            locators = []
+            seen = set()
+            for m in [primary] + rest:
+                loc = m.get("locator")
+                if loc and loc not in seen:
+                    seen.add(loc)
+                    locators.append(loc)
+            out.append(dict(primary, locator=_combine_citation_locators(locators)))
+        else:
+            out.append(dict(primary, related=rest))
     return out
 
 
