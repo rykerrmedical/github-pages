@@ -32,6 +32,7 @@ episode list here.
 """
 import hashlib
 import re
+import urllib.parse as urlparse
 import xml.etree.ElementTree as ET
 
 import requests
@@ -118,12 +119,19 @@ def _find_shownotes_link(html):
     for href in re.findall(r'href="([^"]+)"', html):
         m = _SHOWNOTES_HREF_RE.match(href.strip())
         if m:
-            # Normalize to the canonical host (_config.yml's url =
-            # https://www.rykerrmedical.com) so this matches whatever
-            # source_id the webpage pipeline actually indexed that page
-            # under, regardless of which host spelling the podcast
-            # description happened to use.
-            return f"https://www.rykerrmedical.com{m.group(1)}"
+            # Normalize to the SAME host crawl.py actually indexes pages
+            # under -- config.SITES[0], not _config.yml's "url" (which
+            # says "https://www.rykerrmedical.com", but crawl.py's own
+            # discover_urls() canonicalizes every crawled page to
+            # config.SITES[0]'s host/scheme via _canonicalize_domain, so
+            # the two configs disagree and _config.yml's value is the
+            # wrong one to match against). Confirmed directly against
+            # the index: real show-notes pages are stored with source_id
+            # "https://rykerrmedical.com/show-notes-...", no "www." --
+            # using the www-prefixed form here made this links_to (and
+            # link_show_notes.py's reverse lookup) match zero real rows.
+            canonical = urlparse.urlsplit(config.SITES[0])
+            return f"{canonical.scheme}://{canonical.netloc}{m.group(1)}"
     return None
 
 

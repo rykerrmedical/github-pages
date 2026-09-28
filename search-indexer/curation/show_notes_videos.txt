@@ -1,0 +1,26 @@
+# Show-notes pages -> the real YouTube video they're notes FOR.
+#
+# Same idea as defer_to.txt/audio_sources.txt: a manual fallback for
+# what can't be auto-detected. Podcasts get this pairing for free from
+# the RSS feed (see podcast_ingest.fetch_episodes/_find_shownotes_link,
+# reused by link_show_notes.py); YouTube videos have no equivalent feed,
+# and confirmed against the real page files, only show-notes-pedi-
+# video.md even links its own video anywhere in its body -- Oxygen
+# Haterz, Perfusion Index, and all three SFCEBM tutoring pages don't
+# mention their video's URL on the page at all. So: one line per page,
+# by hand.
+#
+# Format:
+#   SHOW_NOTES_URL | VIDEO_URL
+#
+# Matched against whatever's actually indexed under source_type =
+# 'youtube_transcript' at query time (see link_show_notes.py) -- a
+# typo or a video that isn't transcribed yet just means that page's
+# notes keep citing themselves, not an error.
+
+https://rykerrmedical.com/show-notes-oxygen-haterz/ | https://www.youtube.com/watch?v=kdqx49UGPIg
+https://rykerrmedical.com/show-notes-perfusion-index-video/ | https://www.youtube.com/watch?v=DIS8a58aL6A
+https://rykerrmedical.com/show-notes-pedi-video/ | https://www.youtube.com/watch?v=in8RQ8yzBU0
+https://rykerrmedical.com/show-notes-SFCEBM-tutor-ryan-and-austin/ | https://www.youtube.com/watch?v=UDVFNtHaGgY
+https://rykerrmedical.com/show-notes-SFCEBM-tutor-ryan-and-austin-again/ | https://www.youtube.com/watch?v=blBC17_i96I
+https://rykerrmedical.com/show-notes-SFCEBM-tutor-ryan-and-james/ | https://www.youtube.com/watch?v=0pJPUw297rI

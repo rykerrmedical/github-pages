@@ -58,6 +58,7 @@ import curation
 import embedder
 import extract
 import frontmatter_tags
+import link_show_notes
 import pdf_ingest
 import podcast_ingest
 import podcast_transcribe
@@ -668,6 +669,23 @@ def build(force_full=False, force_substr=None):
         )
         if youtube_stats.get("failed"):
             print(f"  ! {youtube_stats['failed']} video(s) failed unexpectedly and were skipped")
+
+    # Points each show-notes page's own chunks at the real media
+    # (podcast episode or YouTube video) they're notes FOR, so a search
+    # match on the notes leads with the actual recording -- Ryan's
+    # call, 2026-09-27, extended the same day to the YouTube case too
+    # ("same concept should apply"). Runs last among the indexing steps
+    # on purpose: needs this run's podcast_transcript/youtube_transcript
+    # chunks already written (to pick the nearest one by timestamp, or
+    # at least confirm the target is transcribed) and doesn't touch
+    # which sources exist, just an existing links_to column on chunks
+    # already written above -- see link_show_notes.py.
+    show_notes_linked = (
+        link_show_notes.link_show_notes_to_episodes(conn)
+        + link_show_notes.link_show_notes_to_videos(conn)
+    )
+    if show_notes_linked:
+        print(f"Linked {show_notes_linked} show-notes chunk(s) to their real podcast episode/video")
 
     current_source_ids = (
         page_source_ids | set(discovered_pdfs) | citation_source_ids
