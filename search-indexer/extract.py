@@ -187,7 +187,7 @@ def _parse_structured_blocks(xml_root, title, base_url):
         unique_lines = list(dict.fromkeys(current_lines))
         text = re.sub(r"\s+", " ", " ".join(unique_lines)).strip()
         if text:
-            heading_path = " — ".join(h for _, h in heading_stack) or None
+            heading_path = "; ".join(h for _, h in heading_stack) or None
             block = {"heading_path": heading_path, "text": text}
             if pending_links_to[0]:
                 block["links_to"] = pending_links_to[0]
@@ -224,13 +224,13 @@ def _parse_structured_blocks(xml_root, title, base_url):
                         distinct_targets = {url for _, url in item_refs}
                         if len(distinct_targets) == 1:
                             ref_text = item_refs[0][0] or item_text
-                            item_heading = " — ".join([*(h for _, h in heading_stack), ref_text])
+                            item_heading = "; ".join([*(h for _, h in heading_stack), ref_text])
                             blocks.append({
                                 "heading_path": item_heading, "text": item_text,
                                 "links_to": next(iter(distinct_targets)),
                             })
                         else:
-                            heading_path = " — ".join(h for _, h in heading_stack) or None
+                            heading_path = "; ".join(h for _, h in heading_stack) or None
                             blocks.append({"heading_path": heading_path, "text": item_text})
                 else:
                     item_text, _refs = _collect_text_and_refs(child)

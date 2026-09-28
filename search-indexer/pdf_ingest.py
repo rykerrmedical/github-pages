@@ -794,12 +794,12 @@ _META_SECTION_HEADINGS = {
 
 def _is_meta_section_heading(heading_path):
     """Checked against the LAST (most specific) component of
-    heading_path, so "Summary of Changes" matches whether it's a
-    document's only heading level or nested under a chapter (e.g. an h1
-    of "Introduction" with an h2 of "Summary of Changes")."""
+    heading_path (levels joined with "; ", e.g. "Introduction; Summary
+    of Changes"), so "Summary of Changes" matches whether it's a
+    document's only heading level or nested under a chapter."""
     if not heading_path:
         return False
-    last = heading_path.split(" — ")[-1].strip().lower().rstrip(":.")
+    last = heading_path.split("; ")[-1].strip().lower().rstrip(":.")
     return last in _META_SECTION_HEADINGS
 
 
@@ -1329,7 +1329,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
                 "links": resolve_entry_links(entry, page_links),
             })
 
-        heading_path = " — ".join(h for h in (current_h1, current_h2) if h) or None
+        heading_path = "; ".join(h for h in (current_h1, current_h2) if h) or None
 
         if len(text) < config.PDF_MIN_CHARS_PER_PAGE:
             skipped_scanned += 1

@@ -116,7 +116,7 @@ if __name__ == "__main__":
     blocks = [
         {"heading_path": None, "text": "Intro paragraph. " * 5},
         {"heading_path": "Anatomical Differences", "text": "word " * 300},
-        {"heading_path": "Sizing Equipment — ET Tube Size", "text": "A short formula section."},
+        {"heading_path": "Sizing Equipment; ET Tube Size", "text": "A short formula section."},
     ]
     out = chunk_structured_text("Managing Pediatric Airways", "A field guide for EMS.", blocks)
     for c in out:
