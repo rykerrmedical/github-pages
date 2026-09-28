@@ -52,6 +52,21 @@ def _normalize(url, base):
     return url
 
 
+def find_hrefs(html, base_url):
+    """Every outbound link on a page, normalized to an absolute URL
+    (same urljoin/fragment-strip _normalize already does for page
+    discovery) -- a small general-purpose building block for "does
+    this page link to X anywhere on it", not just page discovery.
+    Unlike discover_via_crawl's own link-following, this doesn't filter
+    by domain, extension, or SKIP_PATH_CONTAINS at all -- a caller
+    checking for one specific target link (an archive.org file, a
+    youtube.com URL) wants everything, not just same-site HTML pages.
+    Added 2026-09-28 for link_show_notes.py's auto-detection -- see its
+    module docstring."""
+    soup = BeautifulSoup(html, "lxml")
+    return {_normalize(a["href"], base_url) for a in soup.find_all("a", href=True)}
+
+
 def _bare_domain(netloc):
     """Strips a leading 'www.' so 'www.example.com' and 'example.com'
     compare as the same site."""

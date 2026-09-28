@@ -102,7 +102,7 @@ def _check_chunk_regression(conn, title, source_id, new_count):
         )
 
 
-def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None):
+def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None, audio_urls=None, known_video_urls=None):
     """Crawls every page in config.SITES, skipping re-chunk/re-embed for
     any page whose extracted text hasn't changed since last time — unless
     force_substr matches its URL or title, which reprocesses it
@@ -114,13 +114,43 @@ def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None):
     and curation/defer_to.txt) wherever a chunk's page+heading matches
     one.
 
-    Returns (discovered_pdf_urls, current_page_source_ids, stats)."""
+    audio_urls: curation/audio_sources.txt's own URLs (a set), used to
+    auto-detect which page (if any) mentions/embeds each one -- see
+    link_show_notes.find_mentioned_audio_urls.
+
+    known_video_urls: source_ids already indexed as source_type=
+    'youtube_transcript' (a set) -- one of Ryan's OWN videos, already
+    confirmed real by having been transcribed. Used the same way, to
+    auto-detect which show-notes page (if any) links its own video --
+    see link_show_notes.find_mentioned_video_urls for why this has to
+    check against known real videos rather than matching any
+    youtube.com/youtu.be link found on the page.
+
+    Both scans run against every page's raw HTML regardless of whether
+    its content changed since last run (the "unchanged, skip re-embed"
+    shortcut below only skips re-chunking, never these -- they're
+    cheap, just a set intersection against hrefs already parsed out of
+    HTML already in hand).
+
+    Returns (discovered_pdf_urls, current_page_source_ids, stats,
+    auto_detected_videos, auto_detected_audio_mentions) --
+    auto_detected_videos is {show_notes_url: video_url}, one entry per
+    show-notes page found to link EXACTLY ONE already-known video (see
+    find_mentioned_video_urls -- more than one match is left out
+    rather than guessed at); auto_detected_audio_mentions is
+    {audio_url: page_url} for every audio_sources.txt URL found linked
+    from some page. Both added 2026-09-28 -- see link_show_notes.py's
+    module docstring."""
     stats = {
         "seen": 0, "changed": 0, "unchanged": 0, "chunks_written": 0,
         "with_tags": 0, "with_frontmatter_tags": 0,
     }
     discovered_pdfs = set()
     current_source_ids = set()
+    audio_urls = audio_urls or set()
+    known_video_urls = known_video_urls or set()
+    auto_detected_videos = {}
+    auto_detected_audio_mentions = {}
 
     post_index = frontmatter_tags.build_post_index(config.POSTS_REPO_ROOT)
     if post_index:
@@ -147,6 +177,24 @@ def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None):
             html = crawl.fetch_html(url)
             if html is None:
                 continue
+
+            # Whole-page link scans for link_show_notes.py's
+            # auto-detection -- deliberately BEFORE the "unchanged,
+            # skip re-embed" check below, since a page's set of
+            # outbound links can matter here even on a run where its
+            # own text didn't change (e.g. the first run after a new
+            # audio_sources.txt entry is added, for a page that was
+            # already indexed and unchanged otherwise).
+            if "/show-notes-" in url:
+                video_matches = link_show_notes.find_mentioned_video_urls(html, url, known_video_urls)
+                if len(video_matches) == 1:
+                    auto_detected_videos[url] = next(iter(video_matches))
+                # 0 matches: not on the page (yet) -- fine, manual file
+                # or a later run picks it up. >1 matches: ambiguous
+                # (page links more than one of Ryan's own videos) --
+                # deliberately left alone rather than guessing.
+            for audio_url in link_show_notes.find_mentioned_audio_urls(html, url, audio_urls):
+                auto_detected_audio_mentions[audio_url] = url
 
             discovered_pdfs.update(pdf_ingest.find_pdf_links(html, url))
 
@@ -225,7 +273,7 @@ def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None):
             stats["changed"] += 1
             stats["chunks_written"] += len(chunk_rows)
 
-    return discovered_pdfs, current_source_ids, stats
+    return discovered_pdfs, current_source_ids, stats, auto_detected_videos, auto_detected_audio_mentions
 
 
 def _versioned(signal):
@@ -523,7 +571,7 @@ def _write_citation_sources(conn):
     return stats, current_ids
 
 
-def _write_audio_sources(conn):
+def _write_audio_sources(conn, auto_detected_mentions=None):
     """Assembles curation/audio_sources.txt's hand-described archive.org
     audio recordings into their own small "audio" sources, one chunk
     each -- title + Ryan's own short description, exactly like
@@ -534,12 +582,21 @@ def _write_audio_sources(conn):
     for why. Always recomputes from the current curation file rather than
     trying to skip unchanged entries -- there are only a handful of these
     and each description is a sentence or two, so re-embedding all of
-    them every run is cheap, same reasoning as citation sources. Returns
-    (stats, current_source_ids) -- the latter folds into
+    them every run is cheap, same reasoning as citation sources.
+
+    auto_detected_mentions: {audio_url: page_url} from index_webpages'
+    whole-page link scan (see link_show_notes.find_mentioned_audio_urls),
+    added 2026-09-28. A curation-file entry's own explicit
+    MENTIONED_ON_URL field, when it has one, overrides whatever this
+    found for that URL -- same manual-beats-auto-detected precedence as
+    everywhere else in this codebase (defer_to.txt, show_notes_videos.txt).
+
+    Returns (stats, current_source_ids) -- the latter folds into
     prune_missing_sources' current set so a recording removed from the
     curation file gets cleaned up same as any other source."""
     stats = {"sources": 0, "chunks": 0}
     entries = curation.load_audio_sources()
+    auto_detected_mentions = auto_detected_mentions or {}
 
     current_ids = set()
     for entry in entries:
@@ -553,12 +610,14 @@ def _write_audio_sources(conn):
             "chunk_index": 0,
             "text": text,
             "embedding": embeddings[0],
-            # mentioned_on (optional 3rd curation field): the real page
-            # this recording is embedded/mentioned on, if Ryan's given
-            # one -- the card should lead with that page, not the raw
+            # mentioned_on (optional 3rd curation field) overrides
+            # auto_detected_mentions (index_webpages' whole-page link
+            # scan) when Ryan's set one by hand; either way, this is
+            # the real page the recording is embedded/mentioned on --
+            # the card should lead with that page, not the raw
             # archive.org file (server/retrieval.py resolves this and
             # demotes the archive.org link to alt_link).
-            "links_to": entry.get("mentioned_on") or None,
+            "links_to": entry.get("mentioned_on") or auto_detected_mentions.get(url) or None,
         }]
         content_signal = _hash_text(text)
         store.replace_source_chunks(conn, "audio", url, title, chunk_rows, content_signal)
@@ -593,8 +652,28 @@ def build(force_full=False, force_substr=None):
     if defer_overrides:
         print(f"Loaded {len(defer_overrides)} citation-override rule(s) from curation/defer_to.txt")
 
-    discovered_pdfs, page_source_ids, page_stats = index_webpages(
-        conn, excluded_patterns, defer_overrides, force_substr
+    # Loaded early (not just inside _write_audio_sources, further
+    # down) so index_webpages can scan every crawled page's raw HTML
+    # for a link to one of these while it's already fetching each
+    # page's HTML anyway -- see find_mentioned_audio_urls.
+    audio_urls = {e["url"] for e in curation.load_audio_sources()}
+
+    # Same idea, for the YouTube video side (find_mentioned_video_urls):
+    # already-indexed youtube_transcript source_ids from THIS DB as it
+    # stands before this run's own YouTube indexing happens further
+    # down -- one run behind for a video transcribed for the first time
+    # today, which just means its show-notes page's auto-detection
+    # catches up on the NEXT run, same grace as an untranscribed target
+    # anywhere else in this pipeline.
+    known_video_urls = {
+        row[0] for row in conn.execute(
+            "SELECT DISTINCT source_id FROM chunks WHERE source_type = 'youtube_transcript'"
+        ).fetchall()
+    }
+
+    discovered_pdfs, page_source_ids, page_stats, auto_detected_videos, auto_detected_audio_mentions = index_webpages(
+        conn, excluded_patterns, defer_overrides, force_substr,
+        audio_urls=audio_urls, known_video_urls=known_video_urls
     )
     discovered_pdfs = set(discovered_pdfs)
 
@@ -647,7 +726,7 @@ def build(force_full=False, force_substr=None):
             f"link or reference page found)"
         )
 
-    audio_stats, audio_source_ids = _write_audio_sources(conn)
+    audio_stats, audio_source_ids = _write_audio_sources(conn, auto_detected_audio_mentions)
     if audio_stats["sources"]:
         print(f"Assembled {audio_stats['sources']} audio source(s) from curation/audio_sources.txt")
 
@@ -688,7 +767,7 @@ def build(force_full=False, force_substr=None):
     # already written above -- see link_show_notes.py.
     show_notes_linked = (
         link_show_notes.link_show_notes_to_episodes(conn)
-        + link_show_notes.link_show_notes_to_videos(conn)
+        + link_show_notes.link_show_notes_to_videos(conn, auto_detected_videos)
     )
     if show_notes_linked:
         print(f"Linked {show_notes_linked} show-notes chunk(s) to their real podcast episode/video")

@@ -33,14 +33,20 @@ Two ways a show-notes page's target gets identified:
     show-notes chunk -> real episode, instead of thin-podcast-chunk ->
     show-notes page.
   - YouTube videos (link_show_notes_to_videos): no feed exists to
-    auto-detect these from, and confirmed against the real page files,
-    only one of the six YouTube-notes pages (show-notes-pedi-video.md)
-    even links its own video anywhere in its body -- the rest (Oxygen
-    Haterz, Perfusion Index, all three SFCEBM tutoring pages) don't
-    mention it at all, so there's nothing reliable on the page to
-    detect from either way. Manual mapping in
-    curation/show_notes_videos.txt instead, same "fallback for what
-    can't be auto-detected" spirit as curation.py's own defer_to.txt.
+    auto-detect these the way podcasts do, but build_index.py now
+    scans each show-notes page's own raw HTML for a self-referencing
+    youtube.com/youtu.be link (find_self_video_link, added 2026-09-28)
+    -- confirmed real that show-notes-pedi-video.md links its own
+    video inline mid-sentence, not in a list or a link-only heading,
+    so this is a whole-page scan, not extract.py's block-level link
+    detection. Most of today's real pages (Oxygen Haterz, Perfusion
+    Index, all three SFCEBM tutoring pages) still don't link their own
+    video anywhere on the page at all, though, so curation/
+    show_notes_videos.txt remains a real, load-bearing fallback for
+    those -- not just a safety net -- same "fallback for what can't be
+    auto-detected, and an override for what can" spirit as curation.py's
+    own defer_to.txt. See link_show_notes_to_videos's docstring for the
+    merge precedence.
 
 Within one mapped page, matching gets as precise as the data allows: a
 notes chunk whose own text starts with a real "MM:SS" timestamp
@@ -60,9 +66,25 @@ existed) rather than pointing at nothing real.
 import os
 import re
 
+import crawl
 import podcast_ingest
 
 _TIMESTAMP_RE = re.compile(r"\b(\d{1,2}):(\d{2})(?::(\d{2}))?\b")
+
+# Extracts the bare 11-char video ID from any YouTube URL shape Ryan's
+# pages actually use or might plausibly use -- confirmed real that
+# show-notes-pedi-video.md links its own video as a youtu.be SHORT
+# link ("via this link"), which is NOT the same string as the
+# https://www.youtube.com/watch?v=<id> form youtube_transcribe.py's
+# own _video_url canonicalizes every known_video_urls source_id to.
+# Caught this mismatch during end-to-end verification, 2026-09-28,
+# before it shipped: an exact-string set intersection (the first
+# draft) would have silently matched nothing, ever, on the one real
+# page this was built for. See _canonical_youtube_url.
+_YOUTUBE_VIDEO_ID_RE = re.compile(
+    r"(?:youtube\.com/(?:watch\?(?:.*&)?v=|embed/|shorts/)|youtu\.be/)([\w-]{11})",
+    re.IGNORECASE,
+)
 
 MANUAL_VIDEO_MAP_PATH = os.path.join(os.path.dirname(__file__), "curation", "show_notes_videos.txt")
 
@@ -84,6 +106,81 @@ def _first_timestamp_seconds(text):
     if ss is not None:
         return int(hh_or_mm) * 3600 + int(mm_or_ss) * 60 + int(ss)
     return int(hh_or_mm) * 60 + int(mm_or_ss)
+
+
+def _youtube_video_id(url):
+    """The bare 11-char video ID out of any recognizable YouTube URL
+    shape, or None if `url` isn't one. See _YOUTUBE_VIDEO_ID_RE."""
+    m = _YOUTUBE_VIDEO_ID_RE.search(url or "")
+    return m.group(1) if m else None
+
+
+def _canonical_youtube_url(url):
+    """Normalize any YouTube video URL to the exact
+    https://www.youtube.com/watch?v=<id> form youtube_transcribe.py's
+    own _video_url canonicalizes every known_video_urls source_id to
+    -- so a youtu.be short link (confirmed real on
+    show-notes-pedi-video.md) matches by video identity, not exact
+    string. Returns None for anything that isn't a YouTube video
+    link."""
+    video_id = _youtube_video_id(url)
+    return f"https://www.youtube.com/watch?v={video_id}" if video_id else None
+
+
+def find_mentioned_video_urls(html, base_url, known_video_urls):
+    """Which of `known_video_urls` (source_ids already indexed under
+    source_type='youtube_transcript' -- i.e. one of Ryan's OWN videos,
+    already confirmed real by having been transcribed) are linked
+    anywhere on this page's raw HTML. Added 2026-09-28.
+
+    Deliberately checked against known_video_urls rather than matching
+    ANY youtube.com/youtu.be link: confirmed real on
+    show-notes-pedi-video.md, which links its own video AND a totally
+    unrelated third-party reference ("EmCrit #253 Kovacs Kata on
+    YouTube") -- a bare youtube.com regex match can't tell those apart,
+    and picking "the first one found" over an unordered set of hrefs
+    would be a coin flip between the real video and a random citation.
+    Restricting to already-indexed videos of Ryan's own makes a false
+    match require linking to a DIFFERENT one of his own videos, a much
+    narrower failure mode -- and correctly returns nothing (not a
+    wrong guess) for a video that hasn't been transcribed yet, same
+    "target isn't there yet" grace as _link_media_to_transcripts.
+
+    Confirmed real that show-notes-pedi-video.md links its video
+    inline mid-sentence ("found on the YouTubes or via this link") as
+    a youtu.be SHORT link -- not the https://www.youtube.com/watch?v=
+    form known_video_urls' source_ids are in, and not a list item or
+    link-only heading either, so this needs both the whole-page scan
+    (same as find_mentioned_audio_urls, not extract.py's block-level
+    detection) AND URL canonicalization (_canonical_youtube_url) before
+    comparing, or a youtu.be link would never match at all -- caught
+    during end-to-end verification, 2026-09-28. Returns a (possibly
+    empty) set -- callers should only trust a single unambiguous
+    match; more than one means the page links to several of Ryan's own
+    videos and there's no reliable way to tell which is the page's own
+    subject, so the caller should leave it to the manual curation file
+    instead of guessing."""
+    if not known_video_urls:
+        return set()
+    canonical_hrefs = {_canonical_youtube_url(href) for href in crawl.find_hrefs(html, base_url)}
+    canonical_hrefs.discard(None)
+    return canonical_hrefs & known_video_urls
+
+
+def find_mentioned_audio_urls(html, base_url, audio_urls):
+    """Which of `audio_urls` (curation/audio_sources.txt's own URLs)
+    are linked anywhere on this one page's raw HTML. Added 2026-09-28
+    for the same reason as find_self_video_link: confirmed real that
+    all four current audio_sources.txt entries are each their own
+    standalone single-link paragraph in "Reflecting on the Air Medical
+    New Hire Process" -- not a list or a link-only heading, so this
+    needs the same whole-page scan, not extract.py's block-level
+    detection. Returns a (possibly empty) set, never None, so callers
+    can always do `mapping.update(...)`-style merging without a None
+    check."""
+    if not audio_urls:
+        return set()
+    return crawl.find_hrefs(html, base_url) & audio_urls
 
 
 def _load_manual_video_map(path=None):
@@ -168,9 +265,18 @@ def link_show_notes_to_episodes(conn):
     return _link_media_to_transcripts(conn, mapping, "podcast_transcript")
 
 
-def link_show_notes_to_videos(conn):
-    """YouTube half: curation/show_notes_videos.txt -> video URL. See
-    module docstring for why this can't be auto-detected the way the
-    podcast half is. Returns the number of chunks updated."""
-    mapping = _load_manual_video_map()
+def link_show_notes_to_videos(conn, auto_detected=None):
+    """YouTube half: {show_notes_url: video_url}, built from two
+    sources -- auto_detected (build_index.py's own whole-page scan via
+    find_self_video_link, see its docstring) is the base, and
+    curation/show_notes_videos.txt is layered on top, overriding any
+    page it also covers (same manual-beats-auto-detected precedence as
+    curation.resolve_defer/defer_to.txt). Most of today's real pages
+    (Oxygen Haterz, Perfusion Index, all three SFCEBM tutoring pages)
+    don't link their own video anywhere on the page at all, so the
+    manual file is still doing real work here, not just acting as a
+    safety net -- auto-detection only helps the pages that DO embed a
+    self-link, like show-notes-pedi-video.md. Returns the number of
+    chunks updated."""
+    mapping = {**(auto_detected or {}), **_load_manual_video_map()}
     return _link_media_to_transcripts(conn, mapping, "youtube_transcript")
