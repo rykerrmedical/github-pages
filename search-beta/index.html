@@ -327,10 +327,21 @@ permalink: /search-beta/
   // alone reads as a mystery timestamp, so label it by what it links
   // to instead. See retrieval._group_by_source (server) for why a
   // YouTube upload can show up here under its matching podcast episode.
-  function relatedLabel(rel) {
+  //
+  // primarySourceType matters here: "YouTube version of the podcast"
+  // is only a true statement when the PRIMARY card is itself a podcast
+  // and this entry is its cross-referenced YouTube upload. When the
+  // primary card is ALREADY a standalone YouTube video with no
+  // matching podcast (nothing groups by title into an "episode" unless
+  // BOTH exist), its own "see also" entries are just other good-
+  // matching timestamps of that SAME video -- calling one of those
+  // "the YouTube version of the podcast" is nonsense (there is no
+  // podcast). Caught real, 2026-09-28, on "Stylets & Bougies for
+  // Kiddos" (a video-only upload with no podcast counterpart).
+  function relatedLabel(rel, primarySourceType) {
     if (rel.section && rel.locator) return rel.section + '; ' + rel.locator;
     if (rel.section) return rel.section;
-    if (rel.source_type === 'youtube_transcript') {
+    if (rel.source_type === 'youtube_transcript' && primarySourceType !== 'youtube_transcript') {
       return rel.locator ? ('YouTube version of the podcast; ' + rel.locator) : 'YouTube version of the podcast';
     }
     return rel.locator || 'See also';
@@ -375,7 +386,7 @@ permalink: /search-beta/
       relatedEl.innerHTML = '<div class="search-result-related-label">See also</div><ul>' +
         source.related.map(function (rel) {
           return '<li><a href="' + escapeHtml(rel.locator_url || '#') + '" target="_blank" rel="noopener noreferrer">' +
-            escapeHtml(relatedLabel(rel)) + '</a></li>';
+            escapeHtml(relatedLabel(rel, source.source_type)) + '</a></li>';
         }).join('') +
         '</ul>';
       card.appendChild(relatedEl);

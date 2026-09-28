@@ -765,6 +765,36 @@ def _looks_like_changelog_page(text, min_matches=_CHANGELOG_MIN_MATCHES):
     return len(_CHANGELOG_ENTRY_RE.findall(text)) >= min_matches
 
 
+# A section whose own heading names it as pure navigation/bookkeeping --
+# a table of contents, a changelog/revision-history page -- rather than
+# instructional content. Ryan's rule, 2026-09-28: none of these should
+# ever be a citable search result, whether as a primary card or a "see
+# also" entry, on any of his PDFs. Confirmed real that this is a gap the
+# existing content-shape heuristics above don't close: Field Reference
+# Guides' "Summary of Changes" page didn't match
+# _looks_like_changelog_page (that regex was tuned against the vent
+# book's specific dash-led-bullet formatting), and a plain "Table of
+# Contents" page has no distinctive body-text shape to detect at all --
+# it's just a list of titles and page numbers. Matching by heading NAME
+# instead is a simpler, more reliable backstop that doesn't depend on a
+# document's particular prose shape.
+_META_SECTION_HEADINGS = {
+    "table of contents", "contents", "summary of changes",
+    "revision history", "change log", "changelog", "version history",
+}
+
+
+def _is_meta_section_heading(heading_path):
+    """Checked against the LAST (most specific) component of
+    heading_path, so "Summary of Changes" matches whether it's a
+    document's only heading level or nested under a chapter (e.g. an h1
+    of "Introduction" with an h2 of "Summary of Changes")."""
+    if not heading_path:
+        return False
+    last = heading_path.split(" — ")[-1].strip().lower().rstrip(":.")
+    return last in _META_SECTION_HEADINGS
+
+
 def _strip_repeated_boilerplate(pages):
     """Catches the more generic case: a header/footer line (page number,
     site URL, doc title) that's byte-for-byte identical across most
@@ -1254,6 +1284,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     skipped_scanned = 0
     skipped_references = 0
     skipped_changelog = 0
+    skipped_meta_section = 0
     current_h1 = None
     current_h2 = None
     for i, candidates, plain_text, page_links in raw_pages:
@@ -1290,8 +1321,13 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
                 "links": resolve_entry_links(entry, page_links),
             })
 
+        heading_path = " — ".join(h for h in (current_h1, current_h2) if h) or None
+
         if len(text) < config.PDF_MIN_CHARS_PER_PAGE:
             skipped_scanned += 1
+            continue
+        if _is_meta_section_heading(heading_path):
+            skipped_meta_section += 1
             continue
         if _looks_like_references_page(text):
             skipped_references += 1
@@ -1300,7 +1336,6 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
             skipped_changelog += 1
             continue
 
-        heading_path = " — ".join(h for h in (current_h1, current_h2) if h) or None
         kept_pages.append((i, heading_path, text))
 
     if ocr_attempted:
@@ -1322,6 +1357,13 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
         print(
             f"  ! {pdf_url}: skipped {skipped_changelog} page(s) that look like a version/changelog "
             f"list (edit notes, not instructional content — outranked real content on shared vocabulary)"
+        )
+
+    if skipped_meta_section:
+        print(
+            f"  ! {pdf_url}: skipped {skipped_meta_section} page(s) headed \"Table of Contents\", "
+            f"\"Summary of Changes\", or similar (pure navigation/bookkeeping, never a citable result — "
+            f"see _is_meta_section_heading)"
         )
 
     before_marker_cleanup = len(citations)
