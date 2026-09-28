@@ -194,6 +194,19 @@ def _combine_citation_locators(locators):
     return first + "; see also " + ", ".join(_bare(loc) for loc in rest)
 
 
+def _demote_pointer_mentions(hits):
+    """Mirrors server/retrieval.py's _demote_pointer_mentions — see
+    there for the full reasoning (2026-09-27: a pointer-mention hit can
+    score far above everything else, nowhere near a tie, so the
+    bucket-scoped tiebreak alone never demotes it)."""
+    pointer_flags = [_looks_like_pointer_mention(h) for h in hits]
+    if not any(pointer_flags) or all(pointer_flags):
+        return hits
+    non_pointer = [h for h, is_ptr in zip(hits, pointer_flags) if not is_ptr]
+    pointer = [h for h, is_ptr in zip(hits, pointer_flags) if is_ptr]
+    return non_pointer + pointer
+
+
 def _group_by_source(hits):
     """Mirrors server/retrieval.py's _group_by_source — see there for the
     full reasoning, including why a podcast/YouTube pair groups by
@@ -330,6 +343,7 @@ def search(query_text, top_k=5, db_path=None, use_reranking=None, dedupe=True):
             break
 
     if dedupe:
+        results = _demote_pointer_mentions(results)
         results = _group_by_source(results)
     return results
 
