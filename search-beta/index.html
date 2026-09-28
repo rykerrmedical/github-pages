@@ -219,6 +219,26 @@ permalink: /search-beta/
     text-decoration: underline;
   }
 
+  /* A direct link to the raw media file (archive.org mp3, etc.) when
+     the card's main link now points somewhere else instead -- the
+     real page the recording lives on/is embedded in (server's
+     alt_link, see retrieval.py's _redirect_podcast_to_site_page and
+     the audio-script links_to case). Sibling of .search-result-main,
+     same reasoning as .search-result-related: no nested <a> inside
+     the whole-card link. */
+  .search-result-altlink {
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: #8a8a8a;
+    text-decoration: none;
+  }
+
+  .search-result-altlink:hover {
+    color: #f2f2f2;
+    text-decoration: underline;
+  }
+
   body.high-contrast .search-result-card {
     background-color: #000;
     border-color: #fff;
@@ -338,6 +358,16 @@ permalink: /search-beta/
       (locator ? '<div class="search-result-locator">' + escapeHtml(locator) + '</div>' : '') +
       (source.snippet ? '<div class="search-result-snippet">' + escapeHtml(source.snippet) + '</div>' : '');
     card.appendChild(main);
+
+    if (source.alt_link && source.alt_link.url) {
+      var altLink = document.createElement('a');
+      altLink.className = 'search-result-altlink';
+      altLink.href = source.alt_link.url;
+      altLink.target = '_blank';
+      altLink.rel = 'noopener noreferrer';
+      altLink.textContent = (source.alt_link.label || 'Listen on Archive.org') + ' \u2192';
+      card.appendChild(altLink);
+    }
 
     if (source.related && source.related.length) {
       var relatedEl = document.createElement('div');

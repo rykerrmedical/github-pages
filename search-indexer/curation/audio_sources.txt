@@ -6,17 +6,25 @@
 # Process"). Indexed by a short hand-written description instead of a
 # transcription -- see curation.load_audio_sources / build_index.py's
 # _write_audio_sources. Format, one entry per line:
-#   URL = Title | Description
+#   URL = Title | Description | MENTIONED_ON_URL
+#
+# MENTIONED_ON_URL is optional -- the real page this recording is
+# embedded/linked from (a "Title | Description" entry with no 3rd
+# field still works, just won't defer anywhere). When given, the
+# card leads with that page instead of the raw archive.org file,
+# which becomes a quick "Listen on Archive.org" link instead --
+# Ryan's call, 2026-09-28. All four of today's entries are linked
+# from the same post.
 #
 # Add new ones here as Ryan records/links them -- nothing else to do,
 # a normal build_index.py run picks up anything new or edited (content
 # signal is hashed from the title+description text, so editing a
 # description here is enough to trigger re-embedding, no --force needed).
 
-https://archive.org/download/scripts_202510/Old RSI Procedure Narrative.mp3 = Old RSI Procedure Narrative | Ryan's original rapid sequence intubation (RSI) procedure script, recorded around 2021 for his flight program job at the time. A narrated, step-by-step spoken walkthrough of the RSI procedure, meant to be listened to on a drive or otherwise rehearsed for memorization -- the "scripts" method described in the Scripts Discussion with Richard podcast episode, applied to RSI specifically.
+https://archive.org/download/scripts_202510/Old RSI Procedure Narrative.mp3 = Old RSI Procedure Narrative | Ryan's original rapid sequence intubation (RSI) procedure script, recorded around 2021 for his flight program job at the time. A narrated, step-by-step spoken walkthrough of the RSI procedure, meant to be listened to on a drive or otherwise rehearsed for memorization -- the "scripts" method described in the Scripts Discussion with Richard podcast episode, applied to RSI specifically. | https://rykerrmedical.com/2025/11/09/reflecting-on-the-new-hire-process.html
 
-https://archive.org/download/scripts_202510/RSI Script.mp3 = RSI Script | A newer, more generalized rapid sequence intubation (RSI) procedure script than the original 2021 version -- a narrated, step-by-step spoken walkthrough of RSI for rehearsal and memorization, written to not assume one specific job's kit or bag setup.
+https://archive.org/download/scripts_202510/RSI Script.mp3 = RSI Script | A newer, more generalized rapid sequence intubation (RSI) procedure script than the original 2021 version -- a narrated, step-by-step spoken walkthrough of RSI for rehearsal and memorization, written to not assume one specific job's kit or bag setup. | https://rykerrmedical.com/2025/11/09/reflecting-on-the-new-hire-process.html
 
-https://archive.org/download/scripts_202510/Chest Tube Script.mp3 = Chest Tube Script | A narrated, step-by-step procedure script for chest tube placement, recorded as a spoken walkthrough for rehearsal and memorization -- the same "scripts" method described in the Scripts Discussion with Richard podcast episode, applied to chest tube placement.
+https://archive.org/download/scripts_202510/Chest Tube Script.mp3 = Chest Tube Script | A narrated, step-by-step procedure script for chest tube placement, recorded as a spoken walkthrough for rehearsal and memorization -- the same "scripts" method described in the Scripts Discussion with Richard podcast episode, applied to chest tube placement. | https://rykerrmedical.com/2025/11/09/reflecting-on-the-new-hire-process.html
 
-https://archive.org/download/scripts_202510/Cric Script.mp3 = Cric Script | A narrated, step-by-step procedure script for a surgical cricothyrotomy (cric), recorded as a spoken walkthrough for rehearsal and memorization -- the same "scripts" method described in the Scripts Discussion with Richard podcast episode, applied to a surgical airway.
+https://archive.org/download/scripts_202510/Cric Script.mp3 = Cric Script | A narrated, step-by-step procedure script for a surgical cricothyrotomy (cric), recorded as a spoken walkthrough for rehearsal and memorization -- the same "scripts" method described in the Scripts Discussion with Richard podcast episode, applied to a surgical airway. | https://rykerrmedical.com/2025/11/09/reflecting-on-the-new-hire-process.html

@@ -553,6 +553,12 @@ def _write_audio_sources(conn):
             "chunk_index": 0,
             "text": text,
             "embedding": embeddings[0],
+            # mentioned_on (optional 3rd curation field): the real page
+            # this recording is embedded/mentioned on, if Ryan's given
+            # one -- the card should lead with that page, not the raw
+            # archive.org file (server/retrieval.py resolves this and
+            # demotes the archive.org link to alt_link).
+            "links_to": entry.get("mentioned_on") or None,
         }]
         content_signal = _hash_text(text)
         store.replace_source_chunks(conn, "audio", url, title, chunk_rows, content_signal)

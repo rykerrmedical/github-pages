@@ -171,13 +171,24 @@ def load_audio_sources(path=None):
     DID find): these are audio files with nothing to transcribe or
     crawl, only discoverable at all because Ryan tells us they exist and
     what they're about. Format, one entry per line: `URL = Title |
-    Description` -- same manual-override spirit as the rest of this
-    module, just the primary source of an entry rather than a fix to
-    one. Malformed lines (missing "|") are skipped rather than raising,
-    same tolerance as load_title_overrides, so one bad edit doesn't take
-    the whole file down.
+    Description | MENTIONED_ON_URL` -- same manual-override spirit as
+    the rest of this module, just the primary source of an entry rather
+    than a fix to one. MENTIONED_ON_URL is optional (a 2-field `Title |
+    Description` entry still works, just without a page to defer to)
+    and, when present, becomes the chunk's links_to -- Ryan's call,
+    2026-09-28: the card should lead with the real page the recording
+    is embedded in/mentioned on (a blog post, say), with the raw
+    archive.org file demoted to a quick "Listen on Archive.org" link
+    (see server/retrieval.py's alt_link handling) -- same principle as
+    link_show_notes.py, just the opposite direction (a standalone media
+    file deferring TO a page, instead of a page deferring to media).
+    Malformed lines (missing "|") are skipped rather than raising, same
+    tolerance as load_title_overrides, so one bad edit doesn't take the
+    whole file down.
 
-    Returns [{"url": str, "title": str, "description": str}, ...]."""
+    Returns [{"url": str, "title": str, "description": str,
+    "mentioned_on": str}, ...] -- "mentioned_on" is "" when that field
+    was omitted."""
     path = path or AUDIO_SOURCES_PATH
     sources = []
     try:
@@ -189,11 +200,15 @@ def load_audio_sources(path=None):
                 url, rest = line.split("=", 1)
                 if "|" not in rest:
                     continue
-                title, description = rest.split("|", 1)
+                parts = [p.strip() for p in rest.split("|", 2)]
+                title = parts[0]
+                description = parts[1] if len(parts) > 1 else ""
+                mentioned_on = parts[2] if len(parts) > 2 else ""
                 sources.append({
                     "url": url.strip(),
-                    "title": title.strip(),
-                    "description": description.strip(),
+                    "title": title,
+                    "description": description,
+                    "mentioned_on": mentioned_on,
                 })
     except FileNotFoundError:
         pass
