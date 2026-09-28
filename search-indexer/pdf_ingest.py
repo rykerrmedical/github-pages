@@ -43,7 +43,7 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 11  # v5: _heading_candidates_from_dict's trailing-
+PDF_PIPELINE_VERSION = 12  # v5: _heading_candidates_from_dict's trailing-
                           # footnote-span strip, the new 'section' column,
                           # PDF_ARCHIVE_ITEM_CONTENT_TYPE tags.
                           # v6: _strip_leading_heading_echo -- a page's own
@@ -85,6 +85,14 @@ PDF_PIPELINE_VERSION = 11  # v5: _heading_candidates_from_dict's trailing-
                           # uses for body text, now applied to heading
                           # candidates before they're ever assigned to
                           # current_h1/current_h2.
+                          # v12: a page headed "Table of Contents",
+                          # "Summary of Changes", or similar bookkeeping
+                          # names is skipped entirely now, never indexed
+                          # as a citable chunk -- see
+                          # _is_meta_section_heading. Confirmed real that
+                          # both the vent book's Table of Contents and
+                          # Field Reference Guides' Summary of Changes
+                          # page were showing up in "see also" lists.
 
 # archive.org serves the same file from several hostnames: the canonical
 # archive.org/download/<item>/<file> URL, and per-node mirrors like
