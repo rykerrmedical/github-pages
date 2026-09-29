@@ -514,6 +514,18 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
             for row in chunk_rows:
                 row["locator"] = ""
 
+    # Ryan's call, 2026-09-28: "should just go to the first page like
+    # all the other refs" -- a whole-document third-party citation
+    # (locator == "", from either rule above) still had locator_url
+    # pointing at whatever page the winning chunk happened to start on,
+    # which reads as "here's an excerpt" even though the card itself
+    # says "refer to the whole thing." Force it to page 1.
+    if content_type is None:
+        first_page_url = pdf_ingest.locator_url_for_page(pdf_url, 1)
+        for row in chunk_rows:
+            if row["locator"] == "":
+                row["locator_url"] = first_page_url
+
     _check_chunk_regression(conn, title, pdf_url, len(chunk_rows))
     store.replace_source_chunks(
         conn, "pdf", pdf_url, title, chunk_rows, _versioned(content_signal), tags=pdf_tags
