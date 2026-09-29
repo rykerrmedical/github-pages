@@ -1,0 +1,4607 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,640
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,640 --> 00:00:15,280
+care medicine.
+
+4
+00:00:15,280 --> 00:00:20,360
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,360 --> 00:00:23,860
+use of technology can facilitate that effort.
+
+6
+00:00:23,860 --> 00:00:29,220
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,220 --> 00:00:36,960
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:36,960 --> 00:00:40,700
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,700 --> 00:00:45,860
+do.
+
+10
+00:00:45,860 --> 00:01:14,900
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:03:14,900 --> 00:03:37,780
+I'm very appreciative of that.
+
+12
+00:03:37,780 --> 00:03:39,740
+Wes and I used to work together.
+
+13
+00:03:39,740 --> 00:03:43,500
+He was an educator with the program that I fly for.
+
+14
+00:03:43,500 --> 00:03:49,900
+We've stayed in touch a little bit over the years, mostly when hot topics come up in the
+
+15
+00:03:49,900 --> 00:03:52,580
+EMS field and people are arguing online.
+
+16
+00:03:52,580 --> 00:03:56,620
+We tend to send things to one another.
+
+17
+00:03:56,620 --> 00:04:04,540
+We decided to have a quick chat on the show today, just about some general topics of discussion,
+
+18
+00:04:04,540 --> 00:04:05,940
+more clinical based.
+
+19
+00:04:05,940 --> 00:04:10,260
+We'll just dive into this.
+
+20
+00:04:10,260 --> 00:04:14,980
+I'm just going to hit Wes with some provocative questions and we'll see where it takes us.
+
+21
+00:04:14,980 --> 00:04:20,820
+The first one is, which is better for RSI, a tomodate or ketamine?
+
+22
+00:04:20,820 --> 00:04:27,260
+Why is it ketamine?
+
+23
+00:04:27,260 --> 00:04:29,220
+I'll give you my answer to this.
+
+24
+00:04:29,220 --> 00:04:32,260
+I like ketamine.
+
+25
+00:04:32,260 --> 00:04:38,140
+Here's why I'm a proponent of ketamine and what I do, whether ambulance, direct patient
+
+26
+00:04:38,140 --> 00:04:44,100
+care, or an air medical, or in some of our austere environments.
+
+27
+00:04:44,100 --> 00:04:49,220
+We've also chatted about working overseas and stuff like that.
+
+28
+00:04:49,220 --> 00:04:50,900
+I'm very familiar with ketamine.
+
+29
+00:04:50,900 --> 00:04:54,180
+I use ketamine for a lot of different things.
+
+30
+00:04:54,180 --> 00:05:00,700
+I'm very familiar with it at different drug dosages, familiar with its effects.
+
+31
+00:05:00,700 --> 00:05:04,860
+I'm familiar with the concentration we carry on our ambulance.
+
+32
+00:05:04,860 --> 00:05:11,820
+I'm kind of a clinical minimalist when it comes to medications, but what I do like out
+
+33
+00:05:11,820 --> 00:05:16,580
+of my medications is I like to be able to use it for a variety of things.
+
+34
+00:05:16,580 --> 00:05:23,700
+If we carry a medication, I want it to either be super important or have a lot of variety.
+
+35
+00:05:23,700 --> 00:05:29,380
+I've worked for services that carry three different benzos, but I love carrying a medication
+
+36
+00:05:29,380 --> 00:05:32,940
+that's like, hey man, we can use this for five different things.
+
+37
+00:05:32,940 --> 00:05:34,820
+That's ketamine for me.
+
+38
+00:05:35,780 --> 00:05:41,220
+I fully believe in our environment, familiarity with the medication is something that's not
+
+39
+00:05:41,220 --> 00:05:45,540
+talked about, but it aids in things.
+
+40
+00:05:45,540 --> 00:05:48,580
+That's why I like ketamine.
+
+41
+00:05:48,580 --> 00:05:56,700
+Having said that, obviously the research that's come out has shown that ketamine's human
+
+42
+00:05:56,700 --> 00:06:00,580
+dynamic profile isn't what we thought it was.
+
+43
+00:06:00,580 --> 00:06:05,860
+All the research of the last five years has shown that ketamine is not the hemodynamic
+
+44
+00:06:05,860 --> 00:06:10,260
+superhero that some of the people thought it was.
+
+45
+00:06:10,260 --> 00:06:17,940
+It's also shown that a comedy is not the villain that people thought it was, but having said
+
+46
+00:06:17,940 --> 00:06:24,500
+all that, it doesn't necessarily make ketamine a villain or a comedy a hero either.
+
+47
+00:06:24,500 --> 00:06:33,540
+The majority of RSI goes back to what you do outside of those meds, whether it be resuscitation,
+
+48
+00:06:33,540 --> 00:06:36,740
+correctly identifying who can benefit from it.
+
+49
+00:06:36,740 --> 00:06:38,860
+We talked about dose adjustment.
+
+50
+00:06:38,860 --> 00:06:47,740
+I'm a huge advocate for adjusting dosages based on numerous things.
+
+51
+00:06:47,740 --> 00:06:56,820
+I think a lot of that matters more than just which sedation you necessarily pick.
+
+52
+00:06:56,820 --> 00:06:57,820
+For sure.
+
+53
+00:06:57,820 --> 00:06:58,820
+I agree with that.
+
+54
+00:06:58,820 --> 00:07:04,420
+I think in the time that I've been working in critical care, we've transitioned to just
+
+55
+00:07:04,420 --> 00:07:09,740
+using ketamine preferentially for everything.
+
+56
+00:07:09,740 --> 00:07:15,260
+It's been touted as a very safe drug with minimal hemodynamic effects.
+
+57
+00:07:15,260 --> 00:07:19,220
+It's been interesting to see the conversation in the last year or so where that's being
+
+58
+00:07:19,220 --> 00:07:20,220
+second guessed.
+
+59
+00:07:20,220 --> 00:07:25,740
+But you're right that I think the focus will eventually land on the things we're doing
+
+60
+00:07:25,740 --> 00:07:29,700
+before we give the medications.
+
+61
+00:07:29,700 --> 00:07:33,380
+I assume it's the same where you work, but when you were still here flying with us, we
+
+62
+00:07:33,380 --> 00:07:40,180
+had a pretty strong emphasis on the resuscitation phase, particularly in airway management,
+
+63
+00:07:40,180 --> 00:07:43,940
+resuscitate before you push drugs, before you decide to intubate, as part of that decision,
+
+64
+00:07:43,940 --> 00:07:44,940
+I guess.
+
+65
+00:07:44,940 --> 00:07:50,420
+I guess I don't totally have a good idea of how prevalent that is in other services or
+
+66
+00:07:50,420 --> 00:07:55,020
+in other areas outside of the critical care or flight sphere.
+
+67
+00:07:55,020 --> 00:07:57,460
+My impression is that it is gaining traction.
+
+68
+00:07:57,460 --> 00:07:59,860
+I think people are starting to notice that.
+
+69
+00:07:59,860 --> 00:08:00,860
+Yeah.
+
+70
+00:08:00,860 --> 00:08:04,180
+I see it a lot around here.
+
+71
+00:08:04,180 --> 00:08:09,740
+In Texas, it's a medically aggressive state pre-hospital.
+
+72
+00:08:09,740 --> 00:08:13,380
+I think for the most part, it's really made its way here in Texas.
+
+73
+00:08:13,380 --> 00:08:16,900
+Scott Weingart coined the term hot killers.
+
+74
+00:08:16,900 --> 00:08:19,900
+I hear that every time I turn a corner.
+
+75
+00:08:19,900 --> 00:08:26,860
+I think for the most part, at least where I work, you hear people more concerned with
+
+76
+00:08:26,860 --> 00:08:32,660
+the hemodynamics and the hypoxia and the pre-innovation killers.
+
+77
+00:08:32,660 --> 00:08:41,860
+I think we're going to eventually approach a phase where those aren't the patients that
+
+78
+00:08:41,860 --> 00:08:48,900
+are catching us off guard with peri-innovation hypotension or hypoxia.
+
+79
+00:08:48,900 --> 00:08:55,380
+We have the group of people that we know are physiologically tough right now.
+
+80
+00:08:55,380 --> 00:08:59,820
+We have the people that are physiologically very safe.
+
+81
+00:08:59,820 --> 00:09:08,500
+There's a sliver of gray area in the middle to where they're not physiologically strong,
+
+82
+00:09:08,500 --> 00:09:15,340
+but maybe their numbers aren't, you know, cystog-blow 90 or shock index wise.
+
+83
+00:09:15,340 --> 00:09:19,740
+Once we do form RSI, DSI, boom, they drop.
+
+84
+00:09:19,740 --> 00:09:26,660
+I think that little sliver, the future of education for EMS critical care or pre-hospital
+
+85
+00:09:26,660 --> 00:09:29,780
+critical care like what we work in, that's where we're going.
+
+86
+00:09:29,780 --> 00:09:36,500
+We end up having to capture of needing to optimize or pre-recess to take those patients
+
+87
+00:09:36,500 --> 00:09:37,500
+prior to intubation.
+
+88
+00:09:37,500 --> 00:09:38,500
+Yeah.
+
+89
+00:09:38,500 --> 00:09:42,220
+No, that totally makes sense.
+
+90
+00:09:42,220 --> 00:09:49,220
+I like the point you made about preferring ketamine for its many uses.
+
+91
+00:09:49,220 --> 00:09:54,900
+I think that is a good argument for caring ketamine over other agents in the pre-hospital
+
+92
+00:09:54,900 --> 00:10:00,340
+setting that it just has, you know, if you have to take up one space in your small med
+
+93
+00:10:00,340 --> 00:10:05,700
+bag, might as well pick something that has a bunch of use cases, particularly when you
+
+94
+00:10:05,700 --> 00:10:10,360
+get like further and further away from like your normal urban 911 system.
+
+95
+00:10:10,360 --> 00:10:14,460
+If you're carrying it back into the field or in like a more austere setting, I think
+
+96
+00:10:14,460 --> 00:10:15,860
+that makes a lot of sense.
+
+97
+00:10:15,860 --> 00:10:16,860
+Yeah.
+
+98
+00:10:16,860 --> 00:10:21,340
+And, you know, I kind of feel that way about, you know, verse said, you know, that's not
+
+99
+00:10:21,340 --> 00:10:27,780
+mentioned, but, you know, my last RSI was with ketamine, but before that I had like
+
+100
+00:10:27,780 --> 00:10:34,020
+a run of maybe three RSIs where we used verse said, but it's not because I wanted to use
+
+101
+00:10:34,020 --> 00:10:37,540
+for said, it's just how the call developed.
+
+102
+00:10:37,540 --> 00:10:42,700
+And we just kind of pushed them over the edge with some verse said.
+
+103
+00:10:42,700 --> 00:10:50,060
+But before I use that drug, right, I did certain things, you know, both resuscitate and wise,
+
+104
+00:10:50,060 --> 00:10:53,620
+and like I said, it's how the call kind of developed like, Hey, look, they've already
+
+105
+00:10:53,620 --> 00:10:55,140
+got some meds in their system.
+
+106
+00:10:55,140 --> 00:10:56,140
+Boom.
+
+107
+00:10:56,140 --> 00:11:00,620
+Let's give them a splash more of her said, and we go down that pathway.
+
+108
+00:11:00,620 --> 00:11:08,460
+And so if that, if that kind of tells you how I feel about my loyalties to an RSI drug,
+
+109
+00:11:08,460 --> 00:11:10,780
+it's that I don't really have much loyalty.
+
+110
+00:11:10,780 --> 00:11:13,340
+I just like things that I'm familiar with.
+
+111
+00:11:13,340 --> 00:11:15,580
+Yeah, it makes sense.
+
+112
+00:11:15,580 --> 00:11:21,940
+In pre-osville, once we get in those situations, that familiarity helps drive good decision
+
+113
+00:11:21,940 --> 00:11:22,940
+making.
+
+114
+00:11:22,940 --> 00:11:23,940
+For sure.
+
+115
+00:11:23,940 --> 00:11:28,540
+Yeah, that's one potential downside of a time it is we basically only have one use for it.
+
+116
+00:11:28,540 --> 00:11:32,940
+I mean, you can use it for more things, but like in our setting in critical care transport,
+
+117
+00:11:32,940 --> 00:11:36,140
+we tend to pretty much only use it for RSI.
+
+118
+00:11:36,140 --> 00:11:40,580
+So we don't have like a wide breadth of understanding with that medication because we only ever
+
+119
+00:11:40,580 --> 00:11:43,100
+use it in one situation.
+
+120
+00:11:43,100 --> 00:11:46,300
+And then nowadays we use it in that one situation very infrequently.
+
+121
+00:11:46,300 --> 00:11:47,300
+Yeah.
+
+122
+00:11:47,300 --> 00:11:48,300
+Yeah.
+
+123
+00:11:48,300 --> 00:11:49,780
+Yeah, fully agree.
+
+124
+00:11:49,780 --> 00:11:54,380
+Let's talk a little bit more about the dose attenuation side of things.
+
+125
+00:11:54,380 --> 00:11:57,460
+Because this is something that we've talked about a little bit.
+
+126
+00:11:57,460 --> 00:12:00,740
+And I remember it being like a topic of discussion a while ago.
+
+127
+00:12:00,740 --> 00:12:01,740
+I don't know.
+
+128
+00:12:01,740 --> 00:12:05,940
+It's probably been like a number of years now, but there was a talk at EMTC one year
+
+129
+00:12:05,940 --> 00:12:11,060
+that a friend of mine like told me about and sent me some notes on just about attenuating
+
+130
+00:12:11,060 --> 00:12:16,020
+doses for fragile patients in general, but specifically for RSI.
+
+131
+00:12:16,020 --> 00:12:19,820
+And I remember like hearing a fair amount about that for like a year or two, but it
+
+132
+00:12:19,820 --> 00:12:21,940
+doesn't really come up in conversation anymore.
+
+133
+00:12:21,940 --> 00:12:27,420
+Now it seems that the focus has sort of shifted on resuscitating patients to the point where
+
+134
+00:12:27,420 --> 00:12:34,140
+you can use your normal doses of medications versus previously using smaller doses of those
+
+135
+00:12:34,140 --> 00:12:35,140
+agents.
+
+136
+00:12:35,140 --> 00:12:38,380
+But there is likely space for both of those ideas to coexist.
+
+137
+00:12:38,380 --> 00:12:42,380
+So I was just curious to know your thoughts on that.
+
+138
+00:12:42,380 --> 00:12:43,820
+I'm a huge fan of that.
+
+139
+00:12:43,820 --> 00:12:49,720
+So whenever I was flying in Houston, I spent a lot of time for the flight service I flew
+
+140
+00:12:49,720 --> 00:12:50,720
+was in Houston, right?
+
+141
+00:12:50,720 --> 00:12:51,720
+It was hospital based.
+
+142
+00:12:51,720 --> 00:12:54,980
+And I spent a lot of time in the OR.
+
+143
+00:12:54,980 --> 00:12:58,780
+We were fortunate enough to have a trauma anesthesiologist who was a former paramedic
+
+144
+00:12:58,780 --> 00:13:00,700
+that worked with us.
+
+145
+00:13:00,700 --> 00:13:04,580
+And so whenever I wanted to go to the OR, I just go to the OR.
+
+146
+00:13:04,580 --> 00:13:09,580
+So whenever I tell you I've spent a lot of time in the OR, man, I spent a lot of time.
+
+147
+00:13:09,580 --> 00:13:14,620
+And anesthesiologists are all about dose adjustment.
+
+148
+00:13:14,620 --> 00:13:19,100
+Anesthesiologists they rarely will ask you, okay, what's your dose range for this?
+
+149
+00:13:19,100 --> 00:13:22,740
+They just go a little bit of a syringe or a lot of bit of syringe, but every patient
+
+150
+00:13:22,740 --> 00:13:24,580
+gets their dose adjusted.
+
+151
+00:13:24,580 --> 00:13:30,540
+And so this made a huge push a handful of years ago, you know, adjusting doses down
+
+152
+00:13:30,540 --> 00:13:35,940
+to like a sliver of things or even increasing them based on certain things, right?
+
+153
+00:13:35,940 --> 00:13:38,460
+Burned patients is a big one.
+
+154
+00:13:38,460 --> 00:13:43,380
+A pregnant patient where like you might need to up your dose of something.
+
+155
+00:13:43,380 --> 00:13:50,820
+In emergency medicine research, that did not pan out for dose adjustment.
+
+156
+00:13:50,820 --> 00:13:58,180
+I will say that research for dose adjustment in our size is incredibly hard.
+
+157
+00:13:58,180 --> 00:14:03,380
+So it's not that it went against it, it's just it didn't prove of benefit.
+
+158
+00:14:03,380 --> 00:14:08,740
+As I'm sure you know, even research, you know, just behind our basic RSI stuff has
+
+159
+00:14:08,740 --> 00:14:12,500
+been a grind of the teeth sometimes, right?
+
+160
+00:14:12,500 --> 00:14:17,660
+And so from my opinion, ER physicians never really bought into that.
+
+161
+00:14:17,660 --> 00:14:21,580
+The only physicians that bought into that were the ones that were ED critical care or
+
+162
+00:14:21,580 --> 00:14:27,140
+anesthesiology critical care that intertwined with their medical.
+
+163
+00:14:27,140 --> 00:14:34,380
+Now one thing I do tell people is our dosages for RSI, they're huge doses.
+
+164
+00:14:34,380 --> 00:14:40,620
+So if your average dose of ketamine for RSI is two milligrams per kilogram, that is a
+
+165
+00:14:40,620 --> 00:14:41,620
+wampan dose.
+
+166
+00:14:41,620 --> 00:14:43,980
+That is a lot of a dose, right?
+
+167
+00:14:43,980 --> 00:14:49,380
+Like there are people that we just give 0.5 milligrams per kilogram to for whatever reason
+
+168
+00:14:49,380 --> 00:14:54,460
+or 0.3 for pain and it sends them.
+
+169
+00:14:54,460 --> 00:15:00,420
+And so I usually, my standard ketamine dose is about one milligram per kilogram.
+
+170
+00:15:00,420 --> 00:15:01,720
+That's my kind of go to.
+
+171
+00:15:01,720 --> 00:15:04,020
+I increase it for burns.
+
+172
+00:15:04,020 --> 00:15:09,080
+If they are mentally very capable prior to RSI for whatever reason, then I'll increase
+
+173
+00:15:09,080 --> 00:15:10,080
+it.
+
+174
+00:15:10,080 --> 00:15:16,460
+An example being one time in Houston, we had a guy, he was shot right here.
+
+175
+00:15:16,460 --> 00:15:19,620
+And Wes here is pointing to his face.
+
+176
+00:15:19,620 --> 00:15:21,340
+He was GCS 15.
+
+177
+00:15:21,340 --> 00:15:23,060
+His airway was swelling.
+
+178
+00:15:23,060 --> 00:15:24,340
+But I talked to him.
+
+179
+00:15:24,340 --> 00:15:26,820
+I told him what we were about to do and he nodded his head.
+
+180
+00:15:26,820 --> 00:15:29,660
+I'm going to use a bigger dose for him.
+
+181
+00:15:29,660 --> 00:15:30,060
+But for 80% of our RSI is pre-hosp
+
+182
+00:15:30,060 --> 00:15:39,540
+I'm going to use that lower dose at one milligram per kilogram and then adjust it down based
+
+183
+00:15:39,540 --> 00:15:41,740
+on their hemodynamics.
+
+184
+00:15:41,740 --> 00:15:45,020
+And you don't necessarily have to pick one or the other.
+
+185
+00:15:45,020 --> 00:15:51,780
+We don't have to purely go produce dose or purely push hard for resuscitation.
+
+186
+00:15:51,780 --> 00:15:55,420
+We need to pair our dose with our active resuscitation.
+
+187
+00:15:55,420 --> 00:15:57,660
+So I'll give you an example.
+
+188
+00:15:57,660 --> 00:16:02,860
+You get there and you have this person, hemorrhagic shock, their bleed now, their blood pressure
+
+189
+00:16:02,860 --> 00:16:03,860
+is terrible.
+
+190
+00:16:03,860 --> 00:16:08,540
+But one of the things you need to do is you need to be getting that airway and getting
+
+191
+00:16:08,540 --> 00:16:09,540
+off scene.
+
+192
+00:16:09,540 --> 00:16:11,180
+But you know you can't do it right now.
+
+193
+00:16:11,180 --> 00:16:12,980
+So hey, let's get the line in.
+
+194
+00:16:12,980 --> 00:16:16,100
+Let's push blood products hard and fast.
+
+195
+00:16:16,100 --> 00:16:19,140
+Will those blood products only go in so fast?
+
+196
+00:16:19,140 --> 00:16:21,740
+And then once they do get in, yeah, it helps the pressure.
+
+197
+00:16:21,740 --> 00:16:25,140
+But they have to circulate in to collect some oxygen.
+
+198
+00:16:25,140 --> 00:16:29,100
+And so this patient is going to be very dynamic for a while.
+
+199
+00:16:29,100 --> 00:16:33,740
+But you know you're going to be trending in the right direction recess wise.
+
+200
+00:16:33,740 --> 00:16:35,060
+You know you're going to be winning.
+
+201
+00:16:35,060 --> 00:16:37,220
+OK, let's go ahead and start this airway.
+
+202
+00:16:37,220 --> 00:16:40,660
+But maybe I don't do the full one milligram per kilogram.
+
+203
+00:16:40,660 --> 00:16:43,140
+Maybe I do a reduced dose of 0.5.
+
+204
+00:16:43,140 --> 00:16:47,380
+We do a DSI scenario, which I'll talk about here a little bit.
+
+205
+00:16:47,820 --> 00:16:52,540
+And let's get this airway and then be quick on our post-innovation sedation of small
+
+206
+00:16:52,540 --> 00:16:54,260
+amounts.
+
+207
+00:16:54,260 --> 00:16:58,940
+So usually whenever I do that, I'm very quick on my post-innovation sedation.
+
+208
+00:16:58,940 --> 00:16:59,940
+Maybe it's more ketamine.
+
+209
+00:16:59,940 --> 00:17:01,260
+Maybe it's a little bit of fentanyl.
+
+210
+00:17:01,260 --> 00:17:02,940
+All right, we do it.
+
+211
+00:17:02,940 --> 00:17:03,940
+Let's get this airway.
+
+212
+00:17:03,940 --> 00:17:05,220
+We had this very reduced dose.
+
+213
+00:17:05,220 --> 00:17:07,660
+But we're winning the resuscitation battle.
+
+214
+00:17:07,660 --> 00:17:09,380
+Now let's get some fentanyl in.
+
+215
+00:17:09,380 --> 00:17:10,580
+And a little bit of ketamine here.
+
+216
+00:17:10,580 --> 00:17:11,580
+And a little bit of fentanyl here.
+
+217
+00:17:11,580 --> 00:17:13,300
+And a little bit of ketamine here.
+
+218
+00:17:13,300 --> 00:17:18,860
+And then as we're winning the resuscitation battle, we're also pushing in our sedation
+
+219
+00:17:18,860 --> 00:17:19,860
+meds.
+
+220
+00:17:19,860 --> 00:17:24,660
+So I don't necessarily play the boundary of one or the other.
+
+221
+00:17:24,660 --> 00:17:30,100
+I kind of just resuscitate and then add in as needed.
+
+222
+00:17:30,100 --> 00:17:31,700
+That's kind of how I like to do that.
+
+223
+00:17:31,700 --> 00:17:34,380
+I think that's a good strategy.
+
+224
+00:17:34,380 --> 00:17:38,420
+Because like the way, yeah, the way I've always kind of like framed it in my mind is like
+
+225
+00:17:38,420 --> 00:17:43,260
+when I have a range for a drug dose, I've been guilty of just picking the one that makes
+
+226
+00:17:43,260 --> 00:17:50,340
+the math easy so that you like draw up an even number of or like just a set straight
+
+227
+00:17:50,340 --> 00:17:54,780
+number of mils, like five or six mils of the drug, instead of like having to do math and
+
+228
+00:17:54,780 --> 00:17:57,380
+like make it more complicated.
+
+229
+00:17:57,380 --> 00:18:02,460
+And I think that approach is quite common versus like putting a little more forethought
+
+230
+00:18:02,460 --> 00:18:08,140
+into like actually calculating your dose or even like taking your dose that like makes
+
+231
+00:18:08,140 --> 00:18:11,820
+the number simple and then deciding if you want to give the whole thing or if it makes
+
+232
+00:18:11,820 --> 00:18:13,500
+sense to give less of it.
+
+233
+00:18:13,500 --> 00:18:18,340
+I also do the same thing when I perform DSI.
+
+234
+00:18:18,340 --> 00:18:23,300
+I like to give them just enough ketamine to make them compliant to my recess efforts,
+
+235
+00:18:23,300 --> 00:18:24,300
+whatever that may be.
+
+236
+00:18:24,300 --> 00:18:25,300
+Right.
+
+237
+00:18:25,300 --> 00:18:31,580
+So the last time I did it, I just wanted to do Vapox, a ventilator associated pre-oxination.
+
+238
+00:18:31,580 --> 00:18:36,100
+And so I just needed to give this guy, I gave this guy like 25 milligrams of ketamine.
+
+239
+00:18:36,100 --> 00:18:40,020
+He already had some alcohol on board.
+
+240
+00:18:40,020 --> 00:18:45,900
+And that snowed him plenty to allow me to use the ventilator for pre-oxination.
+
+241
+00:18:45,900 --> 00:18:47,700
+We did that.
+
+242
+00:18:47,700 --> 00:18:53,240
+And then I gave him, I think it was like one meg per gig of ketamine, but we even talked
+
+243
+00:18:53,240 --> 00:18:55,140
+about producing that dose.
+
+244
+00:18:55,140 --> 00:18:56,300
+It wasn't even my idea.
+
+245
+00:18:56,300 --> 00:18:59,300
+It was another commander's idea.
+
+246
+00:18:59,300 --> 00:19:00,860
+He's like, amen.
+
+247
+00:19:00,860 --> 00:19:06,740
+That guy took 0.25 milligrams per kilogram of ketamine really, really well.
+
+248
+00:19:07,740 --> 00:19:10,900
+Do we need the full thing?
+
+249
+00:19:10,900 --> 00:19:12,060
+And that was a conversation, right?
+
+250
+00:19:12,060 --> 00:19:19,200
+So I kind of, whenever I do DSI, I give them just enough of a dose to perform my recess
+
+251
+00:19:19,200 --> 00:19:20,700
+efforts, whatever that may be.
+
+252
+00:19:20,700 --> 00:19:25,380
+Like I said, that one was using the ventilator as a pre-oxination device.
+
+253
+00:19:25,380 --> 00:19:26,780
+So it's easy.
+
+254
+00:19:26,780 --> 00:19:32,980
+If I've got to do it where like, hey, I need to do like a finger thaw or a needle decompression,
+
+255
+00:19:32,980 --> 00:19:36,620
+or they're just kind of moving around because of head injury, I might do a little bit more.
+
+256
+00:19:36,980 --> 00:19:42,100
+And the 0.5 range in which it'd be 0.5 here, wait three minutes, another 0.5.
+
+257
+00:19:42,100 --> 00:19:45,500
+And then again, I'm pretty, I'm always pretty quick with my post-innovation.
+
+258
+00:19:45,500 --> 00:19:49,460
+Wait, you're telling me you're going to give ketamine to the head injury patient?
+
+259
+00:19:49,460 --> 00:19:50,460
+Oh yeah.
+
+260
+00:19:50,460 --> 00:19:53,740
+I want their head to just explode.
+
+261
+00:19:53,740 --> 00:19:56,460
+That's how I know that's going well.
+
+262
+00:19:56,460 --> 00:19:57,460
+Okay.
+
+263
+00:19:57,460 --> 00:19:58,460
+To derail you.
+
+264
+00:19:58,460 --> 00:20:01,460
+No, it's fine.
+
+265
+00:20:01,460 --> 00:20:02,460
+It's fine.
+
+266
+00:20:02,460 --> 00:20:03,980
+Because I mean, that stuff comes up, right?
+
+267
+00:20:03,980 --> 00:20:09,100
+Because I'm sure you fly out to these rural areas and the only training they've had on
+
+268
+00:20:09,100 --> 00:20:10,860
+ketamine was their first training.
+
+269
+00:20:10,860 --> 00:20:13,060
+And that was part of it, right?
+
+270
+00:20:13,060 --> 00:20:14,180
+Yeah, totally.
+
+271
+00:20:14,180 --> 00:20:20,020
+Like that, the idea that ketamine will increase intracranial pressure and also that you have
+
+272
+00:20:20,020 --> 00:20:21,020
+that emergent phenomenon.
+
+273
+00:20:21,020 --> 00:20:24,820
+So we like didn't use it with adults for a long time.
+
+274
+00:20:24,820 --> 00:20:29,780
+I think that for the most part has kind of, like I don't hear, I haven't heard anyone
+
+275
+00:20:29,780 --> 00:20:33,900
+talk about that in a long time, but you still occasionally hear people talk about the, you
+
+276
+00:20:34,140 --> 00:20:37,940
+increased ICP part of things.
+
+277
+00:20:37,940 --> 00:20:38,940
+Yeah, very much so.
+
+278
+00:20:38,940 --> 00:20:48,740
+And, you know, to be honest, ketamine can, doesn't always, but can cause a surge in your
+
+279
+00:20:48,740 --> 00:20:53,220
+blood pressure that really you don't know how it's going to go.
+
+280
+00:20:53,220 --> 00:20:57,940
+And that's the scary part is when you give ketamine to a patient, is their blood pressure
+
+281
+00:20:57,940 --> 00:21:01,820
+going to spike to like 200, it's over 100.
+
+282
+00:21:01,820 --> 00:21:03,540
+Is it going to stay the same?
+
+283
+00:21:03,540 --> 00:21:05,780
+Is it going to drop?
+
+284
+00:21:05,780 --> 00:21:07,060
+Right?
+
+285
+00:21:07,060 --> 00:21:10,420
+It's kind of, it's very unpredictable in that moment, right?
+
+286
+00:21:10,420 --> 00:21:18,540
+And so I have found myself kind of criticizing people or avoiding ketamine in people that
+
+287
+00:21:18,540 --> 00:21:21,260
+are just uncontrollably hypertensive.
+
+288
+00:21:21,260 --> 00:21:23,260
+I'm not talking about the 150s.
+
+289
+00:21:23,260 --> 00:21:29,580
+I'm talking about people that are like 190, 200s where blood pressure is a targeted thing
+
+290
+00:21:29,580 --> 00:21:34,460
+in this condition, whether it be like a subarachnoid bleed or something like that.
+
+291
+00:21:34,460 --> 00:21:41,220
+And I'm like, okay, well, we could probably find a better, a better meds to use than,
+
+292
+00:21:41,220 --> 00:21:45,220
+than this ketamine here for this thing, right?
+
+293
+00:21:45,220 --> 00:21:48,980
+I'm playing the boundaries here of what do I want from my RSI?
+
+294
+00:21:48,980 --> 00:21:52,300
+You know, what's the target goal for this patient?
+
+295
+00:21:52,300 --> 00:21:54,300
+Makes sense.
+
+296
+00:21:54,300 --> 00:22:01,760
+Going back to what you were talking about earlier, when you were deciding how and when
+
+297
+00:22:01,760 --> 00:22:08,260
+to attenuate or diminish a dose of one of these agents, what are you basing that decision
+
+298
+00:22:08,260 --> 00:22:09,260
+on?
+
+299
+00:22:09,260 --> 00:22:14,020
+Like are there objective parameters or is it more of just this patient looks either
+
+300
+00:22:14,020 --> 00:22:20,620
+really sick or they're physically small in size or like something else that you're looking
+
+301
+00:22:20,620 --> 00:22:21,620
+for?
+
+302
+00:22:21,620 --> 00:22:23,140
+Like what are your, how do you make that determination?
+
+303
+00:22:24,140 --> 00:22:29,420
+My dose attenuation is based on several things.
+
+304
+00:22:29,420 --> 00:22:33,380
+First and foremost is clinical gestalt.
+
+305
+00:22:33,380 --> 00:22:35,100
+But just kind of your gut feeling, right?
+
+306
+00:22:35,100 --> 00:22:37,380
+Like are they cool, pale, diferetic?
+
+307
+00:22:37,380 --> 00:22:38,380
+Are they shocky?
+
+308
+00:22:38,380 --> 00:22:40,540
+Are they ash and gray?
+
+309
+00:22:40,540 --> 00:22:44,420
+Can they volume distribute this medication I'm about to give?
+
+310
+00:22:44,420 --> 00:22:50,420
+And then the other one is on something that we probably don't talk enough about, but
+
+311
+00:22:50,420 --> 00:22:55,180
+I do think is the future that EMS and emergency medicine needs to look to.
+
+312
+00:22:55,180 --> 00:22:57,800
+And that is clinical frailty.
+
+313
+00:22:57,800 --> 00:23:01,860
+Clinical frailty is something that the ICU people have been researching for a while.
+
+314
+00:23:01,860 --> 00:23:04,660
+They kind of have a grasp on it.
+
+315
+00:23:04,660 --> 00:23:11,980
+Clinical frailty is the person's ability to carry out daily tasks as relative to their
+
+316
+00:23:11,980 --> 00:23:13,460
+age.
+
+317
+00:23:13,460 --> 00:23:16,940
+So what can a normal healthy 20-year-old do?
+
+318
+00:23:16,940 --> 00:23:21,260
+What can a normal healthy 65-year-old do?
+
+319
+00:23:21,260 --> 00:23:24,540
+What can a normal healthy eight-year-old do?
+
+320
+00:23:24,540 --> 00:23:28,620
+And then how frail is that person from this?
+
+321
+00:23:28,620 --> 00:23:30,780
+Let's take the 20-year-old.
+
+322
+00:23:30,780 --> 00:23:35,620
+One time when I was in the OR, we had this Marine come in.
+
+323
+00:23:35,620 --> 00:23:36,620
+He was a Marine.
+
+324
+00:23:36,620 --> 00:23:37,620
+He was like 22.
+
+325
+00:23:37,620 --> 00:23:39,620
+He's about 6'2", about 210.
+
+326
+00:23:39,620 --> 00:23:42,060
+Muscle, great shape.
+
+327
+00:23:42,060 --> 00:23:43,940
+He was a Marine.
+
+328
+00:23:43,940 --> 00:23:44,940
+And but he was bleeding out.
+
+329
+00:23:44,940 --> 00:23:46,500
+He had a, his spleen was bleeding.
+
+330
+00:23:46,540 --> 00:23:48,860
+He had open tip fib.
+
+331
+00:23:48,860 --> 00:23:53,660
+And the anesthesiologist I was with was like, no, we're going to give him a big dose.
+
+332
+00:23:53,660 --> 00:23:55,580
+I was like, no, no, no, man.
+
+333
+00:23:55,580 --> 00:23:57,580
+Like, he's like a 92 systolic.
+
+334
+00:23:57,580 --> 00:24:00,020
+He's like, no, we're going to give him a big dose.
+
+335
+00:24:00,020 --> 00:24:01,020
+It's fine.
+
+336
+00:24:01,020 --> 00:24:02,020
+He'll be all right.
+
+337
+00:24:02,020 --> 00:24:03,020
+He can take it.
+
+338
+00:24:03,020 --> 00:24:07,740
+And sure enough, we gave him this big dose of propofol and we used all of our SEDS and
+
+339
+00:24:07,740 --> 00:24:08,740
+he took it.
+
+340
+00:24:08,740 --> 00:24:10,940
+But he was a healthy 22-year-old.
+
+341
+00:24:10,940 --> 00:24:18,220
+Now if you're a 22-year-old bed bound patient with some type of neurodegenerative disease
+
+342
+00:24:18,220 --> 00:24:20,020
+and you're kind of wasting, right?
+
+343
+00:24:20,020 --> 00:24:23,380
+And so yeah, you're 22, but you are not healthy.
+
+344
+00:24:23,380 --> 00:24:24,380
+You're clinically frail.
+
+345
+00:24:24,380 --> 00:24:26,220
+You're kind of mostly bed bound.
+
+346
+00:24:26,220 --> 00:24:30,420
+You struggle to get up out of bed and even feed yourself.
+
+347
+00:24:30,420 --> 00:24:33,020
+Maybe they can barely walk.
+
+348
+00:24:33,020 --> 00:24:36,140
+Those are two different 22-year-olds.
+
+349
+00:24:36,860 --> 00:24:44,300
+And that one that is clinically frail does not carry the physiologic reserve to handle
+
+350
+00:24:44,300 --> 00:24:46,700
+what we're about to do to them.
+
+351
+00:24:46,700 --> 00:24:52,580
+And so what I tell people is to make it easy is whatever insult you're there for, whether
+
+352
+00:24:52,580 --> 00:24:59,780
+it be sepsis, trauma, a stroke, airway blockage, whatever the reason why you're about to carry
+
+353
+00:24:59,780 --> 00:25:01,420
+out RSI.
+
+354
+00:25:01,420 --> 00:25:07,340
+Could this person undergo this procedure on their best day?
+
+355
+00:25:07,340 --> 00:25:12,500
+If that 22-year-old that's very frail and has neurodegenerative disease, if they went
+
+356
+00:25:12,500 --> 00:25:17,060
+in to the OR, they are not going to get a very big dose.
+
+357
+00:25:17,060 --> 00:25:21,720
+We were more comfortable giving a big dose to the Marine who was bleeding out from his
+
+358
+00:25:21,720 --> 00:25:26,340
+spleen because we knew his body could handle it.
+
+359
+00:25:26,340 --> 00:25:29,220
+But that's a frail person.
+
+360
+00:25:29,220 --> 00:25:31,500
+They can't even handle it on a good day.
+
+361
+00:25:31,500 --> 00:25:38,700
+That frail person goes into the OR and their dose gets attenuated down.
+
+362
+00:25:38,700 --> 00:25:39,700
+They stair-step them.
+
+363
+00:25:39,700 --> 00:25:44,140
+They'll use a lot more inhaled gas anesthetics and they expect a drop.
+
+364
+00:25:44,140 --> 00:25:48,020
+So that person is going to get fluid challenges beforehand.
+
+365
+00:25:48,020 --> 00:25:52,900
+They're going to have levofed, maybe even hanging, already going at a low dose just
+
+366
+00:25:52,900 --> 00:25:54,540
+because.
+
+367
+00:25:54,540 --> 00:25:59,020
+That's what I find myself kind of teaching the newer paramedics now.
+
+368
+00:25:59,020 --> 00:26:04,340
+It's about this frailty that when you look at this person on their best day, how healthy
+
+369
+00:26:04,340 --> 00:26:06,540
+are they before this sepsis?
+
+370
+00:26:06,540 --> 00:26:07,540
+How healthy are they?
+
+371
+00:26:07,540 --> 00:26:13,020
+Do you use that same idea solely in airway management or RSI?
+
+372
+00:26:13,020 --> 00:26:19,500
+Or do you also extend it into other things like let's say you have a hypertensive patient
+
+373
+00:26:19,500 --> 00:26:24,180
+and giving anti-pertensive or patient in pain and giving analgesia because you could take
+
+374
+00:26:24,180 --> 00:26:29,260
+that same idea and apply it to patients not solely for airway management?
+
+375
+00:26:29,260 --> 00:26:31,420
+Yeah, 100%.
+
+376
+00:26:31,420 --> 00:26:32,420
+I apply it.
+
+377
+00:26:32,420 --> 00:26:37,300
+So in your example, if we're giving analgesia or maybe we're doing a conscious sedation
+
+378
+00:26:37,300 --> 00:26:42,300
+or they broke a hip, I 100% apply this to it.
+
+379
+00:26:42,300 --> 00:26:46,620
+Now again, just because I reduced the dose doesn't mean I just give a lower dose and
+
+380
+00:26:46,620 --> 00:26:47,980
+stare at people.
+
+381
+00:26:47,980 --> 00:26:52,660
+I'll give more frequent doses.
+
+382
+00:26:52,660 --> 00:26:55,380
+And then I'll also apply it towards refusals.
+
+383
+00:26:55,380 --> 00:27:03,860
+Yeah, and I promise it, once you start kind of, whenever I take even halfway decent experienced
+
+384
+00:27:03,860 --> 00:27:09,980
+clinicians, introduce them to this concept of clinical frailty, and I usually spend one
+
+385
+00:27:09,980 --> 00:27:14,500
+shift whenever I'm precepting, I'm asking them about what's this person's frailty
+
+386
+00:27:14,500 --> 00:27:15,500
+level.
+
+387
+00:27:15,500 --> 00:27:18,780
+After that, they kind of get a good understanding of it.
+
+388
+00:27:19,300 --> 00:27:22,460
+So it's not a hard concept to understand.
+
+389
+00:27:22,460 --> 00:27:29,860
+It's just kind of getting out of the objective number framework that we get held to on a
+
+390
+00:27:29,860 --> 00:27:32,060
+CQI basis, right?
+
+391
+00:27:32,060 --> 00:27:33,060
+Totally.
+
+392
+00:27:33,060 --> 00:27:38,860
+The thing that I'm going to say, this plug-in hurts in people's feelings, but it shouldn't
+
+393
+00:27:38,860 --> 00:27:46,340
+is hop killers are great for a QAQI initiative thing.
+
+394
+00:27:46,340 --> 00:27:55,340
+The thought of first pass success without hypotension or hypoxia is a great QAQI measure,
+
+395
+00:27:55,340 --> 00:28:00,780
+and it's a great QAQI goal that I fully support.
+
+396
+00:28:00,780 --> 00:28:05,340
+But at the same time, we have to understand the limitations of just numbers.
+
+397
+00:28:05,340 --> 00:28:08,340
+And so I'll give you an example.
+
+398
+00:28:08,340 --> 00:28:17,420
+If we have somebody that is 92 systolic, heart rate 130s, they just got hit by a car,
+
+399
+00:28:17,420 --> 00:28:23,900
+bleeding out from everywhere, heart rate's 130, systolic 92, GCS of like four or five,
+
+400
+00:28:23,900 --> 00:28:26,940
+but the guy's like ash and gray.
+
+401
+00:28:26,940 --> 00:28:32,780
+The guy just looks like a tablecloth, and it looks like he's got a coat on you.
+
+402
+00:28:32,780 --> 00:28:34,900
+So we have that guy.
+
+403
+00:28:34,900 --> 00:28:42,260
+And then we have a meme all having a stroke, and her systolic is 190 systolic over like
+
+404
+00:28:42,260 --> 00:28:43,260
+140.
+
+405
+00:28:43,260 --> 00:28:49,020
+You know, rightward gaze, she's drooling on herself, you know, like a GCS of three
+
+406
+00:28:49,020 --> 00:28:50,020
+to four.
+
+407
+00:28:50,020 --> 00:28:55,620
+But if we go back to that car wreck patient, that patient gets a quick finger thaw, tourniquets,
+
+408
+00:28:55,620 --> 00:29:01,380
+pelvic binder, blood products, and they carry out RSI with a reduced esketamine.
+
+409
+00:29:01,380 --> 00:29:05,900
+And the follow up systolic on this patient are in the high 80s.
+
+410
+00:29:05,900 --> 00:29:12,300
+So they get, you know, the finger thaw, the tourniquets, the pelvic binder, blood products,
+
+411
+00:29:12,300 --> 00:29:14,860
+reduced dose of ketamine.
+
+412
+00:29:14,860 --> 00:29:20,580
+And this patient goes like 84 systolic, next one's 86, next one's 88.
+
+413
+00:29:20,580 --> 00:29:26,660
+And the patient rides in at 88 systolic all the way into the hospital.
+
+414
+00:29:26,660 --> 00:29:33,260
+And then we bounce over to the stroke lady, and the crew does none of those things.
+
+415
+00:29:33,260 --> 00:29:39,380
+The crew doesn't give any volume, no resuscitative measures, just shows up goes, all right, yeah,
+
+416
+00:29:39,380 --> 00:29:42,300
+I mean, she's cancer BRSI, let's do it.
+
+417
+00:29:42,300 --> 00:29:45,260
+And they pull the trigger for RSI.
+
+418
+00:29:45,260 --> 00:29:48,220
+And that lady systolic drops to 110.
+
+419
+00:29:48,220 --> 00:29:52,380
+Who do you think did the better job as a clinician?
+
+420
+00:29:53,380 --> 00:29:57,820
+Yeah, so definitely the first group, but it won't be reflected in the metrics if you're
+
+421
+00:29:57,820 --> 00:30:01,940
+just you're like taking away the context and you're just measuring numbers.
+
+422
+00:30:01,940 --> 00:30:08,300
+Yeah, so the first crew was an example of the receiving ER physician complained about
+
+423
+00:30:08,300 --> 00:30:12,100
+the crew based on the hot killers.
+
+424
+00:30:12,100 --> 00:30:17,420
+And they described this patient was about code, and they did an amazing job to resuscitate
+
+425
+00:30:17,420 --> 00:30:19,260
+that patient.
+
+426
+00:30:19,260 --> 00:30:25,420
+The second patient, the little memaw stroke was a patient I RSI.
+
+427
+00:30:25,420 --> 00:30:31,220
+And even though her systolic went down to 110, she went into wide complex tachycardia
+
+428
+00:30:31,220 --> 00:30:36,540
+and had to synchronize cardioverter out of it almost had to CPR, because I failed to
+
+429
+00:30:36,540 --> 00:30:39,260
+recognize the frailty.
+
+430
+00:30:39,260 --> 00:30:43,260
+And I did not help her neurologic status at all.
+
+431
+00:30:43,260 --> 00:30:45,780
+And that was a failure on my part.
+
+432
+00:30:45,780 --> 00:30:48,700
+But I passed the QAQI initiative.
+
+433
+00:30:48,700 --> 00:30:50,260
+She was never hypoxic.
+
+434
+00:30:50,260 --> 00:30:53,100
+She was never systolic below 90.
+
+435
+00:30:53,100 --> 00:30:56,220
+The other crew was a crew I debriefed.
+
+436
+00:30:56,220 --> 00:30:57,220
+And they did amazing.
+
+437
+00:30:57,220 --> 00:31:04,300
+It deserves, you know, all the the pats on the back for how they ran that resuscitation
+
+438
+00:31:04,300 --> 00:31:06,540
+and they paired their airway with it.
+
+439
+00:31:06,540 --> 00:31:09,380
+But your QAQI might not reflect that.
+
+440
+00:31:09,380 --> 00:31:13,140
+And it's great to have the hot killers as your QAQI goal.
+
+441
+00:31:13,140 --> 00:31:15,260
+I fully support that.
+
+442
+00:31:15,260 --> 00:31:20,580
+But there's also humans on the other side of these charts, right?
+
+443
+00:31:20,580 --> 00:31:22,380
+Yeah, for sure.
+
+444
+00:31:22,380 --> 00:31:23,540
+That's a good point.
+
+445
+00:31:23,540 --> 00:31:25,860
+That's my big stick on that.
+
+446
+00:31:25,860 --> 00:31:26,860
+Cool.
+
+447
+00:31:26,860 --> 00:31:31,460
+Well, let's, yeah, let's transition from airway management.
+
+448
+00:31:31,460 --> 00:31:34,460
+And I want to ask you another question here.
+
+449
+00:31:34,460 --> 00:31:41,260
+So why, why is it that finger Thor costume is the preferred chest decompression in EMS
+
+450
+00:31:41,260 --> 00:31:42,260
+these days?
+
+451
+00:31:42,900 --> 00:31:49,620
+Well, I guess to answer that question is I think mostly because it's sexy.
+
+452
+00:31:49,620 --> 00:31:54,220
+It's just a sexy thing to throw on social media and do.
+
+453
+00:31:54,220 --> 00:32:00,060
+It's good that it's becoming more prominent, kind of the same as before.
+
+454
+00:32:00,060 --> 00:32:02,060
+I don't see this as an either or.
+
+455
+00:32:02,060 --> 00:32:08,420
+I think if you have the ability to do a finger, then you also need to be proficient in your
+
+456
+00:32:08,420 --> 00:32:10,300
+decompression skills as well.
+
+457
+00:32:10,940 --> 00:32:12,820
+And it really kind of your a needle.
+
+458
+00:32:12,820 --> 00:32:13,820
+Yeah, your impression.
+
+459
+00:32:13,820 --> 00:32:17,700
+Yeah, your needle decompression, your needle decompression skills.
+
+460
+00:32:17,700 --> 00:32:23,500
+It actually annoys me when people are very quick to finger Thor, but then you kind of
+
+461
+00:32:23,500 --> 00:32:29,020
+ask them some things about the compression and they're very naive to it or just flat
+
+462
+00:32:29,020 --> 00:32:32,100
+out wrong to how to do it.
+
+463
+00:32:32,100 --> 00:32:33,500
+What's it for stuff like that?
+
+464
+00:32:33,500 --> 00:32:38,380
+So yeah, that's something that that's one thing I've noticed lately is that there's
+
+465
+00:32:38,380 --> 00:32:44,700
+a lot of I don't know what you call it, like animosity maybe against the needle decompression.
+
+466
+00:32:44,700 --> 00:32:50,380
+Just based on these studies about how there are potential complications if you place the
+
+467
+00:32:50,380 --> 00:32:51,860
+needle in the wrong spot.
+
+468
+00:32:51,860 --> 00:32:59,220
+So there's like a lot of resistance, the idea of teaching people how to do a needle decompression.
+
+469
+00:32:59,220 --> 00:33:05,020
+And the narrative is that finger Thor is a safer alternative, but it seems like a to
+
+470
+00:33:05,020 --> 00:33:07,020
+me it seems like a pretty easy thing to fix.
+
+471
+00:33:07,020 --> 00:33:10,740
+Like it's not that hard to train someone how to like find a location.
+
+472
+00:33:10,740 --> 00:33:15,420
+Like we train paramedics in the field to do all kinds of quite complicated things.
+
+473
+00:33:15,420 --> 00:33:21,380
+But for whatever reason, like the needle decompression one, it's perceived to be different in that
+
+474
+00:33:21,380 --> 00:33:23,580
+like it's for whatever reason not trainable.
+
+475
+00:33:23,580 --> 00:33:26,140
+Like we can't overcome that challenge.
+
+476
+00:33:26,140 --> 00:33:29,900
+Yeah, I think there's a lot of fallacies with it.
+
+477
+00:33:29,900 --> 00:33:35,100
+Whenever I used to teach cadaver labs, I kind of asked some people like, Hey, what are
+
+478
+00:33:35,100 --> 00:33:38,660
+solid indications for it?
+
+479
+00:33:38,660 --> 00:33:46,100
+And the absence of breath sounds alone is not a solid indication for this.
+
+480
+00:33:46,100 --> 00:33:49,100
+Just because there's just so many things that go along with it.
+
+481
+00:33:49,100 --> 00:33:55,660
+Now I can use absent breath sounds on one side as long as other parts of the story add
+
+482
+00:33:55,660 --> 00:33:56,860
+up.
+
+483
+00:33:56,860 --> 00:34:04,820
+But for the most part, like this is a hemodynamic saving procedure, not a breathing saving procedure.
+
+484
+00:34:04,820 --> 00:34:12,740
+If we were to mess up a needle decompression catheter on somebody that needed it, but we
+
+485
+00:34:12,740 --> 00:34:17,200
+just did the procedure wrong, that is one thing.
+
+486
+00:34:17,200 --> 00:34:24,580
+If we did the procedure wrong on somebody that never needed it, that's actually a very,
+
+487
+00:34:24,580 --> 00:34:27,100
+very bad thing.
+
+488
+00:34:27,100 --> 00:34:33,740
+And so I think a lot of it is fallacies that people have with it.
+
+489
+00:34:33,740 --> 00:34:40,020
+Fallacies on while we go to certain locations and we're not bearing the needle.
+
+490
+00:34:40,020 --> 00:34:42,620
+I still see that time and time again.
+
+491
+00:34:42,620 --> 00:34:46,820
+So yeah, I think the research that I've seen doesn't say that fingerthore is better than
+
+492
+00:34:46,820 --> 00:34:48,060
+NCD.
+
+493
+00:34:48,060 --> 00:34:53,060
+It just kind of says that we're very bad at NCD.
+
+494
+00:34:53,060 --> 00:34:59,460
+And so I mean, fingerthore cost me is a very straightforward procedure.
+
+495
+00:34:59,460 --> 00:35:02,220
+But again, that can still be screwed up.
+
+496
+00:35:02,220 --> 00:35:07,540
+Yeah, I think if you're working, if you're doing needle decompression in a system where
+
+497
+00:35:07,540 --> 00:35:13,460
+you have two ALS providers, I think it's reasonable to approach that the same way you would as
+
+498
+00:35:13,460 --> 00:35:14,460
+giving a med.
+
+499
+00:35:14,460 --> 00:35:18,180
+Like have somebody double check your dose, like have someone double check where you want
+
+500
+00:35:18,180 --> 00:35:19,180
+to go.
+
+501
+00:35:19,620 --> 00:35:26,820
+The other thing I was thinking of is that I think that the mindset around a fingerthore
+
+502
+00:35:26,820 --> 00:35:30,940
+cost me being more of a surgical procedure.
+
+503
+00:35:30,940 --> 00:35:38,380
+I think it makes people evaluate that they actually need it with like a little more scrutiny
+
+504
+00:35:38,380 --> 00:35:39,620
+than with the needle.
+
+505
+00:35:39,620 --> 00:35:46,060
+I think for many years the needle was kind of considered relatively benign and it's just
+
+506
+00:35:46,060 --> 00:35:49,060
+like simple, quick, easy to do.
+
+507
+00:35:49,060 --> 00:35:53,140
+Everyone with a med back now has like a 14-cage needle strapped to the front of it.
+
+508
+00:35:53,140 --> 00:35:55,620
+So that was like seen as a low consequence thing.
+
+509
+00:35:55,620 --> 00:36:00,060
+Whereas if you have a scalpel in your hand and you're like feeling your hand go through
+
+510
+00:36:00,060 --> 00:36:06,700
+that plural space, like into that plural space, like there is more momentum to like second
+
+511
+00:36:06,700 --> 00:36:09,520
+guess at like, do I actually need to do this?
+
+512
+00:36:09,520 --> 00:36:11,980
+Is my patient actually tensioning?
+
+513
+00:36:11,980 --> 00:36:17,260
+It forces you to justify that procedure a little more than the needle, which I think
+
+514
+00:36:17,260 --> 00:36:19,420
+potentially adds value.
+
+515
+00:36:19,420 --> 00:36:21,420
+That's actually a really great point.
+
+516
+00:36:21,420 --> 00:36:27,960
+So what you're saying is the scalpel kind of forces us to give like a tactical pause
+
+517
+00:36:27,960 --> 00:36:29,460
+in what we do.
+
+518
+00:36:29,460 --> 00:36:30,460
+Totally.
+
+519
+00:36:30,460 --> 00:36:35,780
+Yeah, if you think of it like as another level, the same way we would like a lot of medics,
+
+520
+00:36:35,780 --> 00:36:40,260
+they should put some thought into it, but not as much thought into the decision to manage
+
+521
+00:36:40,260 --> 00:36:43,640
+an airway as they would into the decision to a crec.
+
+522
+00:36:43,640 --> 00:36:48,920
+It's like a next level decision that makes you really, really need to commit to that
+
+523
+00:36:48,920 --> 00:36:49,920
+procedure.
+
+524
+00:36:49,920 --> 00:36:55,120
+You need to like assure yourself that it's justified and then see it all the way through.
+
+525
+00:36:55,120 --> 00:36:58,760
+Whereas if it's relatively easy to do and quick and simple, you don't necessarily put
+
+526
+00:36:58,760 --> 00:37:00,320
+so much thought into it.
+
+527
+00:37:00,320 --> 00:37:02,800
+Yeah, no, definitely.
+
+528
+00:37:02,800 --> 00:37:09,360
+And I guess now that you say that, I'm thinking about it, you know, we get so used to holding
+
+529
+00:37:09,360 --> 00:37:13,580
+the needle all the time, whether it be IV or IM shots.
+
+530
+00:37:13,580 --> 00:37:14,580
+For sure.
+
+531
+00:37:14,580 --> 00:37:16,260
+And this is just another needle.
+
+532
+00:37:16,260 --> 00:37:18,380
+So yeah, I think you're right.
+
+533
+00:37:18,380 --> 00:37:21,260
+I think that's a huge driver of it.
+
+534
+00:37:21,260 --> 00:37:22,260
+Yeah.
+
+535
+00:37:22,260 --> 00:37:26,900
+And what are your thoughts on the chest tube versus finger-thore cost?
+
+536
+00:37:26,900 --> 00:37:32,780
+I know where I work now, we've moved away from doing chest tubes to just doing the finger
+
+537
+00:37:32,780 --> 00:37:33,780
+thaw.
+
+538
+00:37:33,780 --> 00:37:38,060
+And I was just curious how it is down where you're at or what you think about that.
+
+539
+00:37:38,080 --> 00:37:40,600
+We just do the finger thaw.
+
+540
+00:37:40,600 --> 00:37:43,720
+When I was in Houston, we placed chest tubes.
+
+541
+00:37:43,720 --> 00:37:45,240
+And where I'm at here, we don't even carry them.
+
+542
+00:37:45,240 --> 00:37:47,520
+We just do the finger thaw.
+
+543
+00:37:47,520 --> 00:37:52,440
+But also kind of pre-hospital where I'm at on the ambulance.
+
+544
+00:37:52,440 --> 00:37:56,360
+If I'm in someone's chest, there's a lot of other things going on and I need to be
+
+545
+00:37:56,360 --> 00:37:59,800
+moving to a location kind of thing.
+
+546
+00:37:59,800 --> 00:38:01,800
+Yeah.
+
+547
+00:38:01,800 --> 00:38:06,920
+But I mean, chest tubes, I don't see much value in what we are decompressing the chest
+
+548
+00:38:06,920 --> 00:38:07,920
+for.
+
+549
+00:38:07,940 --> 00:38:08,940
+There's value.
+
+550
+00:38:08,940 --> 00:38:12,820
+So if our metal drudgers are like, hey guys, we're going to actually start putting a tube
+
+551
+00:38:12,820 --> 00:38:18,620
+in and securing it on scene, I'd be like, okay, it's going to kind of increase my time
+
+552
+00:38:18,620 --> 00:38:19,620
+on scene, but okay.
+
+553
+00:38:19,620 --> 00:38:21,620
+It wouldn't bother me.
+
+554
+00:38:21,620 --> 00:38:28,620
+But I think for what we want to decompress the chest, getting into the airway cavity,
+
+555
+00:38:28,620 --> 00:38:30,620
+that solves that problem.
+
+556
+00:38:30,620 --> 00:38:36,020
+Obviously, you know, the receiving doctors always have an opinion about that more than
+
+557
+00:38:36,020 --> 00:38:37,020
+I do.
+
+558
+00:38:37,120 --> 00:38:41,240
+Yeah, I think that's a good way to think about it in general.
+
+559
+00:38:41,240 --> 00:38:45,000
+The emergent life-saving intervention is to vent the chest.
+
+560
+00:38:45,000 --> 00:38:50,120
+So if you can do that effectively with just a finger thaw or if it's like solely air in
+
+561
+00:38:50,120 --> 00:38:53,000
+there and you can do it with a needle, then that's fine.
+
+562
+00:38:53,000 --> 00:38:57,560
+I always kind of think that the chest tube is the next step in that intervention if you
+
+563
+00:38:57,560 --> 00:39:02,320
+have time to help reinflate that lung.
+
+564
+00:39:02,320 --> 00:39:06,560
+I guess if you have ongoing bleeding, I guess that still serves a function.
+
+565
+00:39:07,060 --> 00:39:11,060
+Ideally, just cutting the hole in there and venting, it allows that tension physiology
+
+566
+00:39:11,060 --> 00:39:12,060
+to resolve.
+
+567
+00:39:12,060 --> 00:39:13,060
+Yeah.
+
+568
+00:39:13,060 --> 00:39:17,620
+I also think it depends a little bit on your context.
+
+569
+00:39:17,620 --> 00:39:23,180
+If you've vented the chest and now the patient is relatively stable and you have a long transport
+
+570
+00:39:23,180 --> 00:39:27,220
+time or you're in a more remote setting where you're going to be sitting on the patient
+
+571
+00:39:27,220 --> 00:39:32,220
+for a while, you might as well put a tube in and start to reinflate that lung.
+
+572
+00:39:32,220 --> 00:39:34,980
+You might as well work towards the next step of the process.
+
+573
+00:39:35,600 --> 00:39:40,600
+I think for the most part in the 911 system, it may not be necessary.
+
+574
+00:39:41,600 --> 00:39:42,600
+Yeah.
+
+575
+00:39:42,600 --> 00:39:48,940
+I could definitely see this being like in your setting if we're in our facility, like
+
+576
+00:39:48,940 --> 00:39:52,560
+those were the chest tube top place was they were all in our facility.
+
+577
+00:39:52,560 --> 00:39:57,080
+So had the equipment, could easily size it, big room.
+
+578
+00:39:57,080 --> 00:40:00,240
+Hey man, let's go ahead and do this now.
+
+579
+00:40:00,240 --> 00:40:04,000
+It's easier to do it now than try to get in the aircraft and do it or whatever.
+
+580
+00:40:04,020 --> 00:40:05,020
+I agree.
+
+581
+00:40:05,020 --> 00:40:12,340
+Yeah, I think if you have time to plan the procedure, I think it makes sense to put a
+
+582
+00:40:12,340 --> 00:40:13,340
+chest tube.
+
+583
+00:40:13,340 --> 00:40:17,580
+I think if you're doing it like an emergency and a crashing patient as part of resuscitation,
+
+584
+00:40:17,580 --> 00:40:21,620
+I think like a needle or a finger is totally fine.
+
+585
+00:40:21,620 --> 00:40:22,620
+Yeah.
+
+586
+00:40:22,620 --> 00:40:28,900
+And I am interested in seeing the research that will probably come out about does this
+
+587
+00:40:28,900 --> 00:40:34,080
+lead to more infections into the thorax and stuff like that.
+
+588
+00:40:34,080 --> 00:40:35,080
+Yeah.
+
+589
+00:40:35,080 --> 00:40:45,720
+So there was a study that I came across not too long ago and it was done by the IDF in
+
+590
+00:40:45,720 --> 00:40:48,240
+this conflict in Gaza.
+
+591
+00:40:48,240 --> 00:40:53,240
+And if I remember right, I think their protocol or their like written procedure is to do a
+
+592
+00:40:53,240 --> 00:41:00,660
+chest tube, but they had a number of cases where a finger thor was done instead and they
+
+593
+00:41:00,660 --> 00:41:03,880
+actually had worse outcomes with the finger thor.
+
+594
+00:41:03,880 --> 00:41:11,860
+And if I remember right, the critique was that they had more infections and that like
+
+595
+00:41:11,860 --> 00:41:17,480
+if you took a step back and looked at it, like it didn't like doing the down and dirty
+
+596
+00:41:17,480 --> 00:41:22,340
+quick procedure, like it actually resulted in more complications overall.
+
+597
+00:41:22,340 --> 00:41:26,700
+And the mentality was that it was like faster and quicker to do, but that wasn't necessarily
+
+598
+00:41:26,700 --> 00:41:28,700
+the case.
+
+599
+00:41:28,700 --> 00:41:33,500
+But that was like a very, yeah, I'm trying to think of like a better way to describe
+
+600
+00:41:33,500 --> 00:41:34,500
+this.
+
+601
+00:41:34,500 --> 00:41:36,900
+It didn't, it wasn't a, I think it was like an observational study.
+
+602
+00:41:36,900 --> 00:41:38,820
+They just like had this dataset that they saw.
+
+603
+00:41:38,820 --> 00:41:43,860
+It wasn't, you know, it wasn't like a, was it geared towards that?
+
+604
+00:41:43,860 --> 00:41:44,860
+Yeah.
+
+605
+00:41:44,860 --> 00:41:46,940
+It wasn't like looking forward into evaluating this problem.
+
+606
+00:41:46,940 --> 00:41:50,760
+It was just like based on an observation they had.
+
+607
+00:41:50,760 --> 00:41:53,720
+But I thought that was kind of interesting because that was the first thing I'd seen
+
+608
+00:41:53,720 --> 00:41:59,080
+maybe ever that was like second guessing this idea that finger thor is better in the pre-hospital
+
+609
+00:41:59,080 --> 00:42:00,080
+setting.
+
+610
+00:42:00,080 --> 00:42:05,360
+Like I think in all the time that I've been at EMS, it's like transition from chest tube
+
+611
+00:42:05,360 --> 00:42:09,080
+away from chest tubes to other procedures or at least towards the finger thor, maybe
+
+612
+00:42:09,080 --> 00:42:10,080
+not towards the needle.
+
+613
+00:42:10,080 --> 00:42:11,800
+But that was the first one.
+
+614
+00:42:11,800 --> 00:42:16,240
+The first thing I saw that kind of questioned that like, is this the best idea?
+
+615
+00:42:16,240 --> 00:42:20,720
+I think that falls in line with the same idea from going from a needle to a finger
+
+616
+00:42:20,720 --> 00:42:21,720
+thor.
+
+617
+00:42:21,720 --> 00:42:27,600
+Like the finger thor is seen as like a more robust procedure, like the next level intervention.
+
+618
+00:42:27,600 --> 00:42:30,960
+I think you can make the same argument for a finger thor versus a chest tube.
+
+619
+00:42:30,960 --> 00:42:34,560
+Now, if you're putting in a chest tube and leaving something in the body, you're probably
+
+620
+00:42:34,560 --> 00:42:40,160
+more inclined to use like a better technique in terms of like asepsis or sterility.
+
+621
+00:42:40,160 --> 00:42:44,840
+You probably like, whereas if you're doing your finger thor, you're probably like, oh,
+
+622
+00:42:44,840 --> 00:42:49,200
+you know, it's fine just to use my regular nightshower gloves and whatever.
+
+623
+00:42:49,200 --> 00:42:54,360
+Just take this scalpel out of a bag that has a cover on it versus like opening up a sterile
+
+624
+00:42:54,360 --> 00:42:56,400
+kit and prepping your field.
+
+625
+00:42:56,400 --> 00:43:00,560
+So yeah, I think in years to come, there will be more detail on that.
+
+626
+00:43:00,560 --> 00:43:01,560
+So we'll see.
+
+627
+00:43:01,560 --> 00:43:02,560
+Yeah, no, definitely.
+
+628
+00:43:02,560 --> 00:43:10,120
+And that's something that also kind of drives decision making is the risk, even if I perform
+
+629
+00:43:10,120 --> 00:43:12,920
+this procedure correctly, there are risks.
+
+630
+00:43:12,920 --> 00:43:17,080
+So even if I perform this procedure correctly and subject the patient to these risks, is
+
+631
+00:43:17,080 --> 00:43:22,080
+it worth it relative towards their degree of illness?
+
+632
+00:43:22,080 --> 00:43:23,520
+Yeah, totally.
+
+633
+00:43:23,520 --> 00:43:27,200
+Like deciding to intubate a 95 year old asthmatic.
+
+634
+00:43:27,200 --> 00:43:28,200
+Totally.
+
+635
+00:43:28,200 --> 00:43:29,200
+You can do that safely.
+
+636
+00:43:29,200 --> 00:43:33,800
+You can resuscitate and attenuate your doses, but they may never come off that ventilator.
+
+637
+00:43:33,800 --> 00:43:36,800
+So yeah, is it worth it?
+
+638
+00:43:36,800 --> 00:43:42,880
+And that's something that I think in hospital providers or good in hospital providers, I
+
+639
+00:43:42,880 --> 00:43:48,640
+should say, that I've observed in my time in the hospital is somebody's like critical
+
+640
+00:43:48,640 --> 00:43:55,320
+care docs and anesthesia will look at family and just quickly explain what this is, but
+
+641
+00:43:55,320 --> 00:43:58,920
+also quickly explain the likely outcome.
+
+642
+00:43:58,920 --> 00:44:01,160
+And it's nice to see that.
+
+643
+00:44:01,160 --> 00:44:09,120
+It's nice to see providers who aren't so procedure or goal driven to stop and think
+
+644
+00:44:09,120 --> 00:44:11,160
+about the big picture.
+
+645
+00:44:11,160 --> 00:44:12,920
+Because it is hard in the moment.
+
+646
+00:44:12,920 --> 00:44:17,480
+You have this dying patient, we want to do these procedures, airway management, get in
+
+647
+00:44:17,480 --> 00:44:22,280
+the chest, and then we count that checkbox as a win.
+
+648
+00:44:22,280 --> 00:44:27,280
+But yeah, to kind of think bigger picture there, like is this, would this really be
+
+649
+00:44:27,280 --> 00:44:28,280
+a win?
+
+650
+00:44:28,280 --> 00:44:33,960
+Yeah, I think that is something that definitely comes with clinical experience over time.
+
+651
+00:44:33,960 --> 00:44:38,360
+I am privileged in the fact that where I work now allows me to do both.
+
+652
+00:44:38,360 --> 00:44:40,640
+Both the needle and the finger.
+
+653
+00:44:41,640 --> 00:44:48,560
+Yeah, I think most places that can do a finger thrower also, I assume they still maintain
+
+654
+00:44:48,560 --> 00:44:51,440
+the ability to do a needle.
+
+655
+00:44:51,440 --> 00:44:56,760
+But I guess I don't know if there's programs that have totally gone away from needle decompression
+
+656
+00:44:56,760 --> 00:44:59,920
+and just do finger thrower cost me.
+
+657
+00:44:59,920 --> 00:45:02,840
+You may not have to ask around on that one and see.
+
+658
+00:45:02,840 --> 00:45:05,600
+Yeah, it would be interesting.
+
+659
+00:45:05,600 --> 00:45:12,480
+I don't want educators to go, oh, now that we can do finger, let's just not talk about
+
+660
+00:45:12,480 --> 00:45:15,640
+needle unless we're just bashing it.
+
+661
+00:45:15,640 --> 00:45:16,640
+Right?
+
+662
+00:45:16,640 --> 00:45:21,320
+Because sometimes educators and medical directors, when they want to push hard for something,
+
+663
+00:45:21,320 --> 00:45:24,800
+they bash something else.
+
+664
+00:45:24,800 --> 00:45:25,800
+Kind of undeservingly.
+
+665
+00:45:25,800 --> 00:45:26,800
+Right?
+
+666
+00:45:26,800 --> 00:45:27,800
+Yeah, for sure.
+
+667
+00:45:27,800 --> 00:45:32,920
+Yeah, I mean, a great example of that is when the industry kind of shifted here in the States
+
+668
+00:45:32,920 --> 00:45:38,080
+to everyone, ventilating patients with the Hamilton, like all of a sudden, we had a whole
+
+669
+00:45:38,080 --> 00:45:41,800
+industry of like LTV and rebel haters.
+
+670
+00:45:41,800 --> 00:45:43,080
+Oh yes.
+
+671
+00:45:43,080 --> 00:45:46,920
+Even though we like flew with those machines for quite a long time.
+
+672
+00:45:46,920 --> 00:45:49,680
+Oh man, don't get me started on that.
+
+673
+00:45:49,680 --> 00:45:52,640
+You're preaching to the choir.
+
+674
+00:45:52,640 --> 00:46:00,760
+All of a sudden, every Joe Blow paramedic watches a few things on Instagram, has a Hamilton.
+
+675
+00:46:01,640 --> 00:46:10,480
+If I were to roll in, just like with an LTV or a Zoll vent, they're talking down to me.
+
+676
+00:46:10,480 --> 00:46:17,080
+Like, bro, I will work circles around you with whatever vent you put in my hand.
+
+677
+00:46:17,080 --> 00:46:21,000
+You don't even understand half what they want to tell you.
+
+678
+00:46:21,000 --> 00:46:23,880
+Now I say that, I say that.
+
+679
+00:46:23,880 --> 00:46:26,360
+Where I work now, we have the Hamilton T1s.
+
+680
+00:46:26,360 --> 00:46:27,360
+Yeah.
+
+681
+00:46:27,360 --> 00:46:30,960
+I do think they are the superior machine.
+
+682
+00:46:30,960 --> 00:46:35,120
+I think it's great that the price point on that machine has come down to replace the
+
+683
+00:46:35,120 --> 00:46:36,120
+other ones.
+
+684
+00:46:36,120 --> 00:46:37,120
+I think it is better.
+
+685
+00:46:37,120 --> 00:46:43,040
+But yeah, it's just an interesting observation how when there is something newer, all of
+
+686
+00:46:43,040 --> 00:46:47,040
+a sudden, you have all these reasons about why the thing you were using before is bad,
+
+687
+00:46:47,040 --> 00:46:48,200
+when you didn't notice before.
+
+688
+00:46:48,200 --> 00:46:52,160
+It would be different if that was the narrative, like, oh, these are the problems with this
+
+689
+00:46:52,160 --> 00:46:54,040
+machine and this is why we need a new one.
+
+690
+00:46:54,040 --> 00:46:56,480
+Oh, great, the new one's here.
+
+691
+00:46:56,480 --> 00:46:57,480
+That's not, yeah.
+
+692
+00:46:57,480 --> 00:46:58,480
+Yeah.
+
+693
+00:46:58,480 --> 00:47:00,960
+It's a whole, that's maybe a whole other discussion.
+
+694
+00:47:00,960 --> 00:47:01,960
+It is, it is.
+
+695
+00:47:01,960 --> 00:47:06,800
+But I will tell you this, an expert with a knife is always better than a novice with
+
+696
+00:47:06,800 --> 00:47:07,800
+a gun.
+
+697
+00:47:07,800 --> 00:47:08,800
+Yeah.
+
+698
+00:47:08,800 --> 00:47:10,800
+Yeah, it's a good analogy.
+
+699
+00:47:10,800 --> 00:47:15,840
+But yeah, you are, you're right.
+
+700
+00:47:15,840 --> 00:47:22,360
+People become very classist now that they have waveforms to look at and to reference.
+
+701
+00:47:23,360 --> 00:47:29,480
+Well, speaking of novices with guns, why don't you tell me, Wes, about why having POCUS makes
+
+702
+00:47:29,480 --> 00:47:31,480
+you a better paramedic?
+
+703
+00:47:31,480 --> 00:47:33,680
+All right.
+
+704
+00:47:33,680 --> 00:47:35,520
+I love point of care ultrasound.
+
+705
+00:47:35,520 --> 00:47:36,520
+Okay.
+
+706
+00:47:36,520 --> 00:47:38,040
+Me too, just to be clear.
+
+707
+00:47:38,040 --> 00:47:40,320
+I'm team, I'm team ultrasound.
+
+708
+00:47:40,320 --> 00:47:42,320
+Good, good.
+
+709
+00:47:42,320 --> 00:47:46,920
+It is a non-invasive assessment tool.
+
+710
+00:47:46,920 --> 00:47:49,320
+Keyword being non-invasive assessment tool.
+
+711
+00:47:49,320 --> 00:47:53,680
+That gives us the ability to assess things that we previously have not been able to
+
+712
+00:47:53,680 --> 00:47:55,880
+assess.
+
+713
+00:47:55,880 --> 00:48:02,120
+There's three kinds of providers that will use ultrasound.
+
+714
+00:48:02,120 --> 00:48:08,960
+There is your brand new providers, your brand new paramedics who really aren't even good
+
+715
+00:48:08,960 --> 00:48:13,680
+enough at performing assessments to understand to use ultrasound.
+
+716
+00:48:13,680 --> 00:48:16,480
+But ultrasound can still benefit them.
+
+717
+00:48:16,480 --> 00:48:23,840
+When you have your very seasoned providers, your veterans, your 15-year plus guys, they're
+
+718
+00:48:23,840 --> 00:48:29,120
+so good at their assessments and their assessments are set in stone that they will oftentimes
+
+719
+00:48:29,120 --> 00:48:32,120
+tell you, an ultrasound ain't going to change my decision.
+
+720
+00:48:32,120 --> 00:48:36,280
+In which case I'll go, yes, it will.
+
+721
+00:48:36,280 --> 00:48:42,360
+It will prove to the receiving doctor or to your QAQI person what your clinical thought
+
+722
+00:48:42,360 --> 00:48:45,040
+process was.
+
+723
+00:48:45,040 --> 00:48:49,120
+Where ultrasounds really going to help people is that middle ground.
+
+724
+00:48:49,120 --> 00:48:55,680
+Those paramedics that are like three years in, about three to 10 years in, who now have
+
+725
+00:48:55,680 --> 00:49:00,600
+gotten pretty good on their assessments, this can help take their assessments to the next
+
+726
+00:49:00,600 --> 00:49:01,600
+level.
+
+727
+00:49:01,600 --> 00:49:02,600
+Yeah.
+
+728
+00:49:02,600 --> 00:49:03,600
+Yeah.
+
+729
+00:49:03,600 --> 00:49:08,640
+Most of my experience with ultrasound has been not in the pre-hospital setting, but
+
+730
+00:49:08,640 --> 00:49:14,320
+more in clinic or ambulatory care or emergency room.
+
+731
+00:49:14,320 --> 00:49:20,860
+When you have a little bit more time, but I found it super helpful in differentiating
+
+732
+00:49:20,860 --> 00:49:26,040
+abdominal pain, causes of abdominal pain when you don't have a CT scan, when you don't have
+
+733
+00:49:26,040 --> 00:49:27,040
+additional imaging.
+
+734
+00:49:27,040 --> 00:49:30,800
+And that's been super helpful for me over the last year or two.
+
+735
+00:49:30,800 --> 00:49:31,800
+Yeah.
+
+736
+00:49:31,800 --> 00:49:38,400
+Like simple things like finding polycystic kidneys and weird masses and cysts, call bladder
+
+737
+00:49:38,400 --> 00:49:42,760
+stones, ovarian cysts, just all kinds of stuff.
+
+738
+00:49:42,760 --> 00:49:48,600
+And I think that the progression from learning how to use ultrasound for a fast exam, we
+
+739
+00:49:48,600 --> 00:49:53,240
+always teach people when they're first learning in our setting, in the EMS setting, the progression
+
+740
+00:49:53,240 --> 00:50:01,680
+from going to that to doing a more general abdominal assessment is a pretty easy transition.
+
+741
+00:50:01,680 --> 00:50:03,440
+You're not learning a whole new skill set.
+
+742
+00:50:03,440 --> 00:50:05,360
+You're not changing the mode on it.
+
+743
+00:50:05,360 --> 00:50:10,080
+You don't really have to mess around with your depth and your settings and your contrast.
+
+744
+00:50:10,080 --> 00:50:12,160
+You just look in different spots.
+
+745
+00:50:12,160 --> 00:50:18,040
+I find that to be a really good way to take folks who are familiar with the very basics
+
+746
+00:50:18,040 --> 00:50:21,800
+and show them the additional capabilities of the tool.
+
+747
+00:50:21,800 --> 00:50:22,800
+Yeah.
+
+748
+00:50:22,800 --> 00:50:23,800
+Yeah.
+
+749
+00:50:23,800 --> 00:50:28,240
+Because the first learning curve that you have to overcome with ultrasound is becoming
+
+750
+00:50:28,240 --> 00:50:33,040
+handy with the probe, pun intended, by the way.
+
+751
+00:50:34,040 --> 00:50:35,040
+Yeah.
+
+752
+00:50:35,040 --> 00:50:40,880
+Being good with the probe is the first learning curve of any ultrasound.
+
+753
+00:50:40,880 --> 00:50:45,200
+So it makes sense that once you know how to do one procedure, it's easier to learn how
+
+754
+00:50:45,200 --> 00:50:49,360
+to do other procedures, because you know how to use the probe.
+
+755
+00:50:49,360 --> 00:50:53,600
+There are like two cases I hear discussed a lot for use in EMS.
+
+756
+00:50:53,600 --> 00:50:58,920
+One is doing fast exams, which I think is reasonable.
+
+757
+00:50:59,000 --> 00:51:03,160
+I think the pushback on that, and I'm curious to get your thoughts on it, is that there's
+
+758
+00:51:03,160 --> 00:51:08,240
+always the potential that you identify a fast as negative when it wasn't.
+
+759
+00:51:08,240 --> 00:51:15,680
+I think there was some hesitation to use a fast exam as a decision-making tool to bypass
+
+760
+00:51:15,680 --> 00:51:22,320
+facilities because what if you were overconfident in your ability and you missed free fluid
+
+761
+00:51:22,320 --> 00:51:24,120
+when it was there?
+
+762
+00:51:24,120 --> 00:51:31,840
+So I see that as a reasonable critique of pre-hospital use when there's not an adequate
+
+763
+00:51:31,840 --> 00:51:34,320
+measure of competency somehow.
+
+764
+00:51:34,320 --> 00:51:36,320
+Yeah.
+
+765
+00:51:36,320 --> 00:51:39,680
+And that's a real thing.
+
+766
+00:51:39,680 --> 00:51:47,240
+The thing about ultrasound is you use it to roll in something, not necessarily to roll
+
+767
+00:51:47,240 --> 00:51:48,400
+out.
+
+768
+00:51:48,400 --> 00:51:52,280
+I'm sure there are assessments you can use ultrasound to roll out for.
+
+769
+00:51:52,280 --> 00:51:57,160
+You use it in a clinic setting.
+
+770
+00:51:57,160 --> 00:52:05,080
+For my job and my experience, 9-1-1, EMS, I'm using ultrasound to roll in as a trigger
+
+771
+00:52:05,080 --> 00:52:09,040
+for something, not necessarily to roll out for things.
+
+772
+00:52:09,040 --> 00:52:10,040
+Yeah.
+
+773
+00:52:10,040 --> 00:52:13,200
+I think that's a good learning point.
+
+774
+00:52:13,200 --> 00:52:20,320
+Where I work, the trauma center is the next city away, so we'd have to go down to Albuquerque.
+
+775
+00:52:20,320 --> 00:52:23,400
+But if you had a relatively stable trauma patient, you can take them to the local hospital
+
+776
+00:52:23,400 --> 00:52:24,840
+in Santa Fe.
+
+777
+00:52:24,840 --> 00:52:33,760
+But rather than having what you would take to a level one trauma center and ruling out
+
+778
+00:52:33,760 --> 00:52:38,200
+abdominal bleeding and diverting to the closer hospital, using it the other way around to
+
+779
+00:52:38,200 --> 00:52:44,880
+say this patient would normally go to the level two here in Santa Fe, but I do see something.
+
+780
+00:52:44,880 --> 00:52:50,200
+So now I can rule in free fluid in the abdomen and then I divert with good reason to level
+
+781
+00:52:50,720 --> 00:52:51,720
+one.
+
+782
+00:52:51,720 --> 00:52:55,960
+I think that's a good workaround for that concern with ultrasound pre-hospital.
+
+783
+00:52:55,960 --> 00:52:56,960
+Yeah.
+
+784
+00:52:56,960 --> 00:53:04,960
+And one of the biggest, and I kind of alluded to it earlier, one of the biggest kind of
+
+785
+00:53:04,960 --> 00:53:11,000
+things I have trouble selling people in ultrasound is they go, yeah, but I don't know when to
+
+786
+00:53:11,000 --> 00:53:12,000
+use it.
+
+787
+00:53:12,000 --> 00:53:13,360
+When will it affect my decision making?
+
+788
+00:53:13,360 --> 00:53:15,400
+At what point in my assessment do I use it?
+
+789
+00:53:15,400 --> 00:53:21,240
+What I tell people is, okay, cool, don't necessarily use it in your initial assessment.
+
+790
+00:53:21,240 --> 00:53:25,800
+Do your initial assessment, especially if you're a good, fairly seasoned clinician.
+
+791
+00:53:25,800 --> 00:53:27,200
+You don't have to be a veteran.
+
+792
+00:53:27,200 --> 00:53:31,080
+Once you get a couple years under your belt, you know your initial assessment.
+
+793
+00:53:31,080 --> 00:53:33,320
+Bang, bang, bang.
+
+794
+00:53:33,320 --> 00:53:35,680
+Start getting your thought process behind you.
+
+795
+00:53:35,680 --> 00:53:43,000
+Start getting your differentials behind you and then use ultrasound to look at the different
+
+796
+00:53:43,000 --> 00:53:44,760
+things you think it could be.
+
+797
+00:53:44,760 --> 00:53:50,360
+So you look at ultrasound with intent rather than just blindly looking at it.
+
+798
+00:53:50,360 --> 00:53:51,360
+Yeah.
+
+799
+00:53:51,360 --> 00:53:56,480
+And especially if you have time during transport, for sure working on an ambulance, like, you
+
+800
+00:53:56,480 --> 00:54:00,760
+know, to scan someone's belly or to take a look at their heart, it only takes like a
+
+801
+00:54:00,760 --> 00:54:05,000
+minute or two, like once you, you know, get all the passes, maybe five or 10 minutes when
+
+802
+00:54:05,000 --> 00:54:07,600
+you're like learning like all the different views and angles and like how you want to
+
+803
+00:54:07,600 --> 00:54:11,000
+get your, set yourself up, but it doesn't take that long.
+
+804
+00:54:11,000 --> 00:54:15,200
+Like you could, you got like a 15 minute transport to the hospital and your patient,
+
+805
+00:54:15,200 --> 00:54:19,040
+you've already like done all the things and made your decisions.
+
+806
+00:54:19,040 --> 00:54:21,880
+Take the time to look around and see what you see.
+
+807
+00:54:21,880 --> 00:54:25,280
+Confirm those things that like, were maybes on your differential.
+
+808
+00:54:25,280 --> 00:54:26,280
+Yeah.
+
+809
+00:54:26,280 --> 00:54:27,280
+100%.
+
+810
+00:54:27,280 --> 00:54:33,000
+You know, in this can become a cognitive overload, especially for the people that are newer at
+
+811
+00:54:33,000 --> 00:54:34,000
+it.
+
+812
+00:54:34,000 --> 00:54:36,400
+So context is everything.
+
+813
+00:54:36,400 --> 00:54:39,080
+When I learned ultrasound, you know, I was flying in Houston.
+
+814
+00:54:39,080 --> 00:54:42,200
+There's two good, competent providers.
+
+815
+00:54:42,200 --> 00:54:44,080
+So one of us could be doing ultrasound.
+
+816
+00:54:44,080 --> 00:54:47,960
+The other one could be doing anything and everything.
+
+817
+00:54:47,960 --> 00:54:53,320
+If you're in a rural EMS setting, you might be the only paramedic that that's going to
+
+818
+00:54:53,320 --> 00:54:57,680
+see this patient and everybody else showing up might just be volunteers.
+
+819
+00:54:57,680 --> 00:55:04,480
+So using more than one other person, my partner rarely crossed my mind.
+
+820
+00:55:04,480 --> 00:55:05,480
+Right.
+
+821
+00:55:05,480 --> 00:55:06,480
+Yeah.
+
+822
+00:55:06,680 --> 00:55:10,720
+This can be a bit of a drain if you don't see a huge utility.
+
+823
+00:55:10,720 --> 00:55:11,720
+All right.
+
+824
+00:55:11,720 --> 00:55:15,440
+Like if you have this patient, you do your initial assessment.
+
+825
+00:55:15,440 --> 00:55:16,600
+I've got a lot of other things to do.
+
+826
+00:55:16,600 --> 00:55:17,600
+I got a certain IV.
+
+827
+00:55:17,600 --> 00:55:18,600
+I got to give them some analgesics.
+
+828
+00:55:18,600 --> 00:55:21,360
+I've got a color report.
+
+829
+00:55:21,360 --> 00:55:24,400
+I've got to do all this other assessment.
+
+830
+00:55:24,400 --> 00:55:28,200
+Then your ultrasound is going to be pushed down.
+
+831
+00:55:28,200 --> 00:55:34,720
+But if you're, you know, like right now in Austin, if I get a major call, I could be
+
+832
+00:55:34,720 --> 00:55:36,800
+working with a paramedic partner or an EMT.
+
+833
+00:55:36,800 --> 00:55:39,080
+I could have a paramedic partner show up.
+
+834
+00:55:39,080 --> 00:55:42,720
+I could have a PA or medical director show up.
+
+835
+00:55:42,720 --> 00:55:44,560
+I could have other people show up.
+
+836
+00:55:44,560 --> 00:55:46,920
+They can cognitively offload things for me.
+
+837
+00:55:46,920 --> 00:55:49,200
+I can assign the ultrasound too.
+
+838
+00:55:49,200 --> 00:55:50,200
+Yeah.
+
+839
+00:55:50,200 --> 00:55:54,840
+So therefore you'll get the ultrasound done a little bit quicker.
+
+840
+00:55:54,840 --> 00:55:55,840
+For sure.
+
+841
+00:55:55,840 --> 00:55:56,840
+Yeah.
+
+842
+00:55:56,840 --> 00:56:02,760
+The other use case that I see folks talk about a lot, which I really don't have much experience
+
+843
+00:56:02,760 --> 00:56:07,280
+with is during cardiac arrest to make a decision to terminate resuscitation.
+
+844
+00:56:07,280 --> 00:56:13,560
+I've used that like an ER setting a few times, but I think it matters less in a hospital
+
+845
+00:56:13,560 --> 00:56:15,360
+setting to do that.
+
+846
+00:56:15,360 --> 00:56:18,200
+I mean, it's a useful tool, right?
+
+847
+00:56:18,200 --> 00:56:24,760
+But in the pre-hospital setting, I think it matters a lot more because being able to terminate
+
+848
+00:56:24,760 --> 00:56:32,120
+resuscitation, like, frees up resources and eliminates the risk of the whole crew transporting
+
+849
+00:56:32,120 --> 00:56:34,000
+a patient to the hospital.
+
+850
+00:56:34,000 --> 00:56:38,840
+But that said, in flight, we very rarely work cardiac arrest.
+
+851
+00:56:38,840 --> 00:56:42,920
+It's like a bread and butter thing you do on the ground, but we don't really do that
+
+852
+00:56:42,920 --> 00:56:45,480
+in flight unless something goes real wrong.
+
+853
+00:56:45,480 --> 00:56:49,240
+So yeah, I was curious if you use it for that reason.
+
+854
+00:56:49,240 --> 00:56:50,240
+Yeah.
+
+855
+00:56:50,240 --> 00:56:52,960
+So we do use it for that reason.
+
+856
+00:56:52,960 --> 00:57:00,680
+We use it for that reason to obviously look for what the term now is pseudo PEA as well.
+
+857
+00:57:00,680 --> 00:57:06,160
+So recently, our medical directors have said, hey, like, if it's just a Sicily, you don't
+
+858
+00:57:06,160 --> 00:57:08,600
+necessarily have to do it per se, right?
+
+859
+00:57:08,600 --> 00:57:11,840
+So pseudo PEA is a big one.
+
+860
+00:57:11,840 --> 00:57:14,360
+Also starting to kind of understand the purpose of the arrest.
+
+861
+00:57:14,360 --> 00:57:19,080
+There's been a couple people that caught PEs that way.
+
+862
+00:57:19,080 --> 00:57:23,920
+I love using it if I'm going to pace somebody to determine capture.
+
+863
+00:57:23,920 --> 00:57:28,560
+That's like the number one ways to capture.
+
+864
+00:57:28,560 --> 00:57:34,160
+But going back to the cardiac arrest thing, it's really, really great because it's documentable.
+
+865
+00:57:34,160 --> 00:57:35,160
+Totally.
+
+866
+00:57:35,160 --> 00:57:36,160
+It is.
+
+867
+00:57:36,160 --> 00:57:43,760
+And in pre-hospital EMS, I don't think that average paramedic understands the power of
+
+868
+00:57:43,760 --> 00:57:47,960
+having something objective that's documentable.
+
+869
+00:57:47,960 --> 00:57:48,960
+Yeah.
+
+870
+00:57:48,960 --> 00:57:53,520
+And with all these devices, you can save videos.
+
+871
+00:57:53,520 --> 00:57:58,200
+You can capture like, you know, a five second video showing like absence of cardiac motion.
+
+872
+00:57:59,200 --> 00:58:01,120
+Yeah, you can't argue with that.
+
+873
+00:58:01,120 --> 00:58:02,120
+You see it, it's there.
+
+874
+00:58:02,120 --> 00:58:04,120
+I guess it's not there, right?
+
+875
+00:58:04,120 --> 00:58:05,120
+You know what I'm saying?
+
+876
+00:58:05,120 --> 00:58:08,600
+But it's very clear.
+
+877
+00:58:08,600 --> 00:58:11,880
+Same thing when you see some, you find like an abnormal finding on assessment.
+
+878
+00:58:11,880 --> 00:58:15,800
+If you see free fluid, you just take a picture of it and show it to the receiving provider
+
+879
+00:58:15,800 --> 00:58:18,720
+and then the trauma surgeon knows exactly where to look.
+
+880
+00:58:18,720 --> 00:58:24,120
+Yeah, it just really makes it clear once you know what you're looking for.
+
+881
+00:58:24,120 --> 00:58:27,280
+Yeah, 100%, right?
+
+882
+00:58:27,520 --> 00:58:34,800
+To be able to document something for QA, QI and legal purposes and then to be able to
+
+883
+00:58:34,800 --> 00:58:42,200
+show the next provider something is very powerful in all of healthcare.
+
+884
+00:58:42,200 --> 00:58:49,880
+And then again, going back to the documentable thing, sometimes before refusals, I used the
+
+885
+00:58:49,880 --> 00:58:52,880
+blue protocol and the lung focus.
+
+886
+00:58:52,880 --> 00:58:54,720
+That's my number one assessment.
+
+887
+00:58:54,720 --> 00:58:59,840
+If I had to tell all free hospital providers to learn one thing, well ultrasound, you would
+
+888
+00:58:59,840 --> 00:59:02,960
+say learn about lung assessments with ultrasound.
+
+889
+00:59:02,960 --> 00:59:06,400
+Yeah, and I'm not actually familiar with the blue protocol.
+
+890
+00:59:06,400 --> 00:59:11,680
+Yeah, superficially familiar with like doing lung ultrasound to look for like check your
+
+891
+00:59:11,680 --> 00:59:18,760
+fields and like the area of pneumothorax and look for like consolidations, that kind of
+
+892
+00:59:18,760 --> 00:59:19,760
+stuff.
+
+893
+00:59:19,760 --> 00:59:21,600
+I don't have like a systematic approach to it.
+
+894
+00:59:22,320 --> 00:59:30,680
+Yeah, so it's essentially looking at the lungs and what you're looking for is A lines,
+
+895
+00:59:30,680 --> 00:59:31,720
+which are good.
+
+896
+00:59:31,720 --> 00:59:36,280
+It tells you how much, you know, if your lungs inflating in that location.
+
+897
+00:59:36,280 --> 00:59:41,000
+B lines, where is it seeing some fluid?
+
+898
+00:59:41,000 --> 00:59:44,560
+C lines, which is where the B lines become a lot more solid.
+
+899
+00:59:44,560 --> 00:59:47,080
+I call them consolidation lines.
+
+900
+00:59:47,080 --> 00:59:50,440
+And then that drills over to hepatization, right?
+
+901
+00:59:50,440 --> 00:59:57,000
+Which you know, generally is pneumonia or some type of consolidation.
+
+902
+00:59:57,000 --> 00:59:59,800
+And then you can also see free fluid in the chest, right?
+
+903
+00:59:59,800 --> 01:00:02,960
+In trauma, it's hemothorax until proven otherwise.
+
+904
+01:00:02,960 --> 01:00:09,560
+In non trauma, medical patients, it's pleural effusion.
+
+905
+01:00:09,560 --> 01:00:13,480
+But anyways, you can use that to help differentiate things.
+
+906
+01:00:13,560 --> 01:00:18,320
+So many times we have patients who are COPD, but also FCHF, and you're trying to see which
+
+907
+01:00:18,320 --> 01:00:21,640
+one is causing the problem.
+
+908
+01:00:21,640 --> 01:00:23,240
+Am I going to go hard with the steroids?
+
+909
+01:00:23,240 --> 01:00:26,640
+Am I going to go hard with the nitro and CPAP?
+
+910
+01:00:26,640 --> 01:00:33,000
+But I've had a handful of times to where I come across a patient and they have already
+
+911
+01:00:33,000 --> 01:00:40,440
+had a refusal done on them two hours prior and gotten, you know, inhalers for their asthma.
+
+912
+01:00:40,440 --> 01:00:46,200
+And I'll take the ultrasound and tell them, like, hey, you have pneumonia.
+
+913
+01:00:46,200 --> 01:00:51,440
+And yes, your asthma is acting up, but it's because you have pneumonia.
+
+914
+01:00:51,440 --> 01:01:01,200
+Ultrasound is more sensitive and more specific towards pneumonia findings than chest x-ray.
+
+915
+01:01:01,200 --> 01:01:03,240
+That has been proven, right?
+
+916
+01:01:03,240 --> 01:01:04,240
+And so.
+
+917
+01:01:04,240 --> 01:01:07,400
+Yeah, with a provider who's savvy with the machine.
+
+918
+01:01:07,400 --> 01:01:08,400
+Correct.
+
+919
+01:01:08,520 --> 01:01:15,440
+But yeah, I mean, the long off sounds my number one assessment that changes my decision making
+
+920
+01:01:15,440 --> 01:01:18,120
+on the ambulance.
+
+921
+01:01:18,120 --> 01:01:21,680
+Especially for those maybe clinically frail patients we talked about.
+
+922
+01:01:21,680 --> 01:01:27,320
+An example being one time, this couple years ago, I had a kid, I think he was like four
+
+923
+01:01:27,320 --> 01:01:29,280
+years old or a little bit younger than four.
+
+924
+01:01:29,280 --> 01:01:36,560
+He had a trach and he's on a home vent and he had a desaturation of that.
+
+925
+01:01:36,560 --> 01:01:41,680
+And it just so happens the home health care nurse was there when this happened.
+
+926
+01:01:41,680 --> 01:01:47,600
+And she said, oh, well, you know, he just the machine got disconnected from the option.
+
+927
+01:01:47,600 --> 01:01:51,760
+The auction going through the machine just didn't get disconnected.
+
+928
+01:01:51,760 --> 01:01:54,320
+So he had desaturation of that.
+
+929
+01:01:54,320 --> 01:01:55,840
+And she's like, it'll be okay.
+
+930
+01:01:55,840 --> 01:01:56,840
+It'll be okay.
+
+931
+01:01:56,840 --> 01:02:00,560
+I'm like, let me evaluate this kid.
+
+932
+01:02:00,560 --> 01:02:02,120
+So evaluate him.
+
+933
+01:02:02,120 --> 01:02:05,120
+Those were diminished, you know, but clear.
+
+934
+01:02:05,120 --> 01:02:09,360
+But I took the lung ulcers down to him.
+
+935
+01:02:09,360 --> 01:02:14,160
+And sure enough, he had some hepatization down there and one of his lower lobes, right?
+
+936
+01:02:14,160 --> 01:02:16,640
+Now he's at increased risk for pneumonia, right?
+
+937
+01:02:16,640 --> 01:02:20,800
+But because he's clinically frail, it made him a very high risk refusal.
+
+938
+01:02:20,800 --> 01:02:26,280
+But once I kind of showed the mom that showed the home health care that like, I agree with
+
+939
+01:02:26,280 --> 01:02:30,840
+your desaturation event that probably was this, but we just so happened to catch some
+
+940
+01:02:30,840 --> 01:02:31,840
+pneumonia with it too.
+
+941
+01:02:32,560 --> 01:02:33,560
+Yeah.
+
+942
+01:02:33,560 --> 01:02:36,960
+And maybe he wouldn't have actually had a desaturation with a break in supply if he
+
+943
+01:02:36,960 --> 01:02:38,560
+hadn't had the pneumonia.
+
+944
+01:02:38,560 --> 01:02:39,560
+Exactly.
+
+945
+01:02:39,560 --> 01:02:40,560
+Exactly.
+
+946
+01:02:40,560 --> 01:02:47,040
+And so even if that patient didn't have pneumonia, I would still want that ultrasound on my chart
+
+947
+01:02:47,040 --> 01:02:48,960
+to show I did a good assessment.
+
+948
+01:02:48,960 --> 01:02:49,960
+Yeah.
+
+949
+01:02:49,960 --> 01:02:50,960
+Right.
+
+950
+01:02:50,960 --> 01:02:56,640
+Me doing a refusal on that clinically frail patient with and without ultrasound go two
+
+951
+01:02:56,640 --> 01:03:01,680
+different ways in QAQI and go two different ways in front of a lawyer.
+
+952
+01:03:02,520 --> 01:03:07,520
+And what are your thoughts on how to build that competency, like how to do the training
+
+953
+01:03:07,520 --> 01:03:08,520
+side of it?
+
+954
+01:03:08,520 --> 01:03:14,800
+Because I think that is something that gets a lot of discussion in EMS is like the required
+
+955
+01:03:14,800 --> 01:03:20,720
+training is a, like once you get the devices, the hours required to get everyone up to a
+
+956
+01:03:20,720 --> 01:03:25,760
+level of proficiency that is useful in the pre-aswell setting is like the number one
+
+957
+01:03:25,760 --> 01:03:26,760
+barrier.
+
+958
+01:03:26,760 --> 01:03:27,760
+Yeah.
+
+959
+01:03:27,760 --> 01:03:31,400
+I was curious to know like your thoughts on that opinion and also like how to overcome
+
+960
+01:03:31,400 --> 01:03:32,400
+that.
+
+961
+01:03:32,400 --> 01:03:36,360
+So the first thing you need is have a goal.
+
+962
+01:03:36,360 --> 01:03:38,360
+What do you want to do with ultrasound?
+
+963
+01:03:38,360 --> 01:03:43,520
+Do you want to do fast exams because you carry blood products?
+
+964
+01:03:43,520 --> 01:03:50,440
+Do you want to do the cardiac arrest thing because you've had some Lazarus events, right?
+
+965
+01:03:50,440 --> 01:03:51,920
+And you want that recording.
+
+966
+01:03:51,920 --> 01:03:55,800
+You know, I talked a lot about the lung protocol.
+
+967
+01:03:55,800 --> 01:03:59,200
+Obviously you have clinic stuff that you do things with.
+
+968
+01:03:59,200 --> 01:04:00,640
+There's vascular things, right?
+
+969
+01:04:00,880 --> 01:04:07,280
+If you work for a CCT program and you want to do A lines and like, hey, let's use this
+
+970
+01:04:07,280 --> 01:04:09,640
+to do ultrasounds.
+
+971
+01:04:09,640 --> 01:04:15,920
+When Raboa back in the day was becoming a thing, we started a structure to where like,
+
+972
+01:04:15,920 --> 01:04:20,400
+okay, we can't go from ultrasound fast exams to placing a Raboa with it.
+
+973
+01:04:20,400 --> 01:04:26,920
+So we're like, let's just start with ultrasound guided IVs and then ultrasound guided EJs,
+
+974
+01:04:26,920 --> 01:04:27,920
+right?
+
+975
+01:04:27,920 --> 01:04:32,760
+So we stair stepped our, ourself with the thought that we would be doing Raboa.
+
+976
+01:04:32,760 --> 01:04:34,760
+Spoiler, we didn't.
+
+977
+01:04:34,760 --> 01:04:40,960
+We got about as far as doing the ultrasound guided EJs and identifying the, the femoral
+
+978
+01:04:40,960 --> 01:04:44,240
+before Raboa just didn't pan out.
+
+979
+01:04:44,240 --> 01:04:45,240
+Yeah.
+
+980
+01:04:45,240 --> 01:04:46,240
+Not our fault.
+
+981
+01:04:46,240 --> 01:04:49,600
+But anyways, point being is we had a goal with, with it.
+
+982
+01:04:49,600 --> 01:04:50,600
+We had a goal.
+
+983
+01:04:50,600 --> 01:04:54,000
+So number one thing is you have to have a goal.
+
+984
+01:04:54,000 --> 01:04:58,920
+The next thing is in this where I kind of talked about one of the biggest holdups after
+
+985
+01:04:58,920 --> 01:05:04,840
+you give a class on it is the follow-up QAQI portion.
+
+986
+01:05:04,840 --> 01:05:10,400
+Right now, if, if we want to teach a new provider 12 leads, we give them a bunch of 12 leads.
+
+987
+01:05:10,400 --> 01:05:15,080
+We have structured 12 lead event, but then we can also follow up with them.
+
+988
+01:05:15,080 --> 01:05:19,780
+So many people now are competent in reading 12 leads that when a new paramedic gets released
+
+989
+01:05:19,780 --> 01:05:25,700
+and they do a 12 lead in the field, his follow-up on that 12 leads pretty easy.
+
+990
+01:05:25,700 --> 01:05:29,540
+He just shows it to his medical director, his educator or something.
+
+991
+01:05:29,540 --> 01:05:30,540
+So what do you think it is?
+
+992
+01:05:30,540 --> 01:05:33,700
+And we go, well, it could be this, this, this, and they get an answer.
+
+993
+01:05:33,700 --> 01:05:35,780
+With ultrasound, it's not that way.
+
+994
+01:05:35,780 --> 01:05:42,940
+With ultrasound, the, the QAQI and follow-up portion is extremely, extremely important.
+
+995
+01:05:42,940 --> 01:05:48,740
+Or else you just start looking at gray and thinking it's one thing or the other.
+
+996
+01:05:48,740 --> 01:05:52,860
+I'm fortunate in the fact that when I started using, I worked for a hospital based program.
+
+997
+01:05:52,860 --> 01:05:56,580
+I could look up what the patient CT scan was.
+
+998
+01:05:56,580 --> 01:06:00,420
+I could look up what the doctors ultrasound findings were.
+
+999
+01:06:00,420 --> 01:06:01,420
+Yeah, that's cool.
+
+1000
+01:06:01,420 --> 01:06:04,740
+And that, and that really helped me because I did have a lot of false positives when I
+
+1001
+01:06:04,740 --> 01:06:07,380
+started at a lot of false positives.
+
+1002
+01:06:07,380 --> 01:06:10,180
+You mean where you thought you identified something and you didn't?
+
+1003
+01:06:10,180 --> 01:06:11,420
+Correct, correct.
+
+1004
+01:06:11,420 --> 01:06:14,580
+I miss, I miss identified it, right?
+
+1005
+01:06:14,580 --> 01:06:18,740
+And so that kind of got me out of that habit as well.
+
+1006
+01:06:18,740 --> 01:06:24,260
+So you need, before you really dive deep in ultrasound, which I encourage every department
+
+1007
+01:06:24,260 --> 01:06:31,860
+to do by the way, it's have a plan for it and get a structured way for feedback on it
+
+1008
+01:06:31,860 --> 01:06:33,700
+to help people learn.
+
+1009
+01:06:33,700 --> 01:06:37,100
+After that, the training portion actually isn't super hard.
+
+1010
+01:06:37,100 --> 01:06:38,460
+I've seen all kinds of training.
+
+1011
+01:06:38,460 --> 01:06:43,400
+You can get with your local hospital that has like an ultrasound fellow.
+
+1012
+01:06:43,400 --> 01:06:53,600
+When I was flying, we had a education rep from Lumify come out and teach a lot about
+
+1013
+01:06:53,600 --> 01:06:55,720
+ultrasound.
+
+1014
+01:06:55,720 --> 01:07:01,000
+And so that class can be done and put together fairly quickly and easily.
+
+1015
+01:07:01,000 --> 01:07:06,840
+One of the things I'll say is try to get volunteers to come and be ultrasound because
+
+1016
+01:07:06,840 --> 01:07:08,880
+reps, reps, reps, reps, right?
+
+1017
+01:07:08,880 --> 01:07:14,120
+So you can get with your local community college and tell what the community college
+
+1018
+01:07:14,120 --> 01:07:16,400
+that, Hey, this is kind of what we want to do.
+
+1019
+01:07:16,400 --> 01:07:17,520
+We just need volunteers.
+
+1020
+01:07:17,520 --> 01:07:23,120
+Maybe get with like a local clinic, like a family clinic, bonus points on if they take
+
+1021
+01:07:23,120 --> 01:07:30,600
+care of OB patients to do that sounds on OB patients is a rarity, but a great one.
+
+1022
+01:07:30,600 --> 01:07:31,600
+Everybody's anatomy is different.
+
+1023
+01:07:31,600 --> 01:07:33,680
+Everybody's ultrasound is a little different.
+
+1024
+01:07:33,680 --> 01:07:35,640
+So for sure.
+
+1025
+01:07:35,640 --> 01:07:38,080
+Especially on fast exams.
+
+1026
+01:07:38,080 --> 01:07:40,360
+So that's a big one.
+
+1027
+01:07:40,360 --> 01:07:44,060
+The next one that's also probably going to hurt some people's feelings.
+
+1028
+01:07:44,060 --> 01:07:51,040
+But if you talk to enough veterans, you'll see it's kind of true is lots of times these
+
+1029
+01:07:51,040 --> 01:07:56,480
+classes are led by physicians, your ultrasound fellow or your medical director.
+
+1030
+01:07:56,480 --> 01:07:57,720
+And that's great.
+
+1031
+01:07:57,720 --> 01:08:03,560
+I'm not speaking negatively about physicians, but we're at a point now to where the doctors
+
+1032
+01:08:03,560 --> 01:08:11,880
+who have gone through school over the last 10 years have only ever known ultrasound assessments.
+
+1033
+01:08:11,880 --> 01:08:18,280
+They've never had to assess a patient without the option of an ultrasound.
+
+1034
+01:08:18,280 --> 01:08:23,480
+And so what I mean by that is over the last 10 years, when that doctor goes to med school,
+
+1035
+01:08:23,480 --> 01:08:27,600
+at some point in time, they came to a point in their assessment of which differential
+
+1036
+01:08:27,600 --> 01:08:29,280
+was it.
+
+1037
+01:08:29,280 --> 01:08:32,920
+And their attending goes, let's do an ultrasound.
+
+1038
+01:08:32,920 --> 01:08:35,640
+And they've had that option.
+
+1039
+01:08:35,640 --> 01:08:44,460
+So they kind of become not relatable sometimes whenever they teach ultrasound to a paramedic
+
+1040
+01:08:44,460 --> 01:08:51,160
+or a new flight crew who have had to be good providers, good clinicians, good assessing
+
+1041
+01:08:51,160 --> 01:08:53,640
+things without the use of ultrasound.
+
+1042
+01:08:53,640 --> 01:08:55,560
+And now we have to integrate it in.
+
+1043
+01:08:55,560 --> 01:09:05,480
+Do you think that's a potential downside of teaching ultrasound in initial training,
+
+1044
+01:09:05,480 --> 01:09:11,120
+for example, in a paramedic program?
+
+1045
+01:09:11,120 --> 01:09:17,920
+And the reason I ask is because the community college here in Santa Fe, they do ultrasound
+
+1046
+01:09:17,920 --> 01:09:21,080
+in their paramedic school, which I think is rad.
+
+1047
+01:09:21,080 --> 01:09:27,240
+And they do rotations with sonographers doing cardiac ultrasounds and fast exams and just
+
+1048
+01:09:27,240 --> 01:09:28,680
+basic diagnostic stuff.
+
+1049
+01:09:28,680 --> 01:09:34,440
+But I never really thought about the potential adverse effect of that.
+
+1050
+01:09:34,440 --> 01:09:39,760
+Maybe it de-emphasizes good physical exam skills.
+
+1051
+01:09:39,760 --> 01:09:42,520
+I never really considered that.
+
+1052
+01:09:42,520 --> 01:09:46,840
+Yeah, I mean, yes, that could.
+
+1053
+01:09:46,840 --> 01:09:53,840
+What I'm leaning towards is make sure whoever's teaching it is relatable in context.
+
+1054
+01:09:53,840 --> 01:09:58,320
+That's actually super awesome that that paramedic school does that because the thing about ultrasound
+
+1055
+01:09:58,320 --> 01:10:00,680
+is it's a learning curve that takes a while.
+
+1056
+01:10:00,680 --> 01:10:03,680
+I'm sorry, but you're not going to be good in the first six months.
+
+1057
+01:10:03,680 --> 01:10:06,520
+So the quicker you can get it, the better.
+
+1058
+01:10:06,520 --> 01:10:13,160
+Yeah, the guy who he just recently moved on, he ran the medic program here with the EMS
+
+1059
+01:10:13,160 --> 01:10:14,600
+training program for a while.
+
+1060
+01:10:14,600 --> 01:10:22,640
+He introduces ultrasound during your AMP portion of paramedic school to teach anatomy.
+
+1061
+01:10:22,640 --> 01:10:24,640
+And I thought that was really rad.
+
+1062
+01:10:24,640 --> 01:10:31,560
+As you move into your medical and cardiac modules and you introduce fast exam and cardiac
+
+1063
+01:10:31,560 --> 01:10:33,240
+ultrasound and that kind of stuff.
+
+1064
+01:10:33,240 --> 01:10:35,760
+That is the perfect way.
+
+1065
+01:10:35,760 --> 01:10:40,240
+Yeah, I never came across a program that does that before, but I thought it was pretty rad.
+
+1066
+01:10:40,760 --> 01:10:41,880
+Yeah, that's man.
+
+1067
+01:10:41,880 --> 01:10:44,920
+That's like the perfect way to introduce it in paramedic school.
+
+1068
+01:10:44,920 --> 01:10:46,160
+Honestly, that is great.
+
+1069
+01:10:47,160 --> 01:10:52,480
+Yeah, the things that we find now is you get those kind of paramedics that are five to
+
+1070
+01:10:52,480 --> 01:10:53,280
+10 years.
+
+1071
+01:10:53,280 --> 01:10:54,240
+They're good paramedics.
+
+1072
+01:10:54,240 --> 01:10:56,680
+They have good assessments and they want to do this.
+
+1073
+01:10:57,280 --> 01:11:03,120
+But these are the ones that come up to me and go, man, I just don't know like how to integrate
+
+1074
+01:11:03,120 --> 01:11:05,560
+it into my decision making process.
+
+1075
+01:11:05,560 --> 01:11:10,280
+I just don't know when I would use it to change my decision.
+
+1076
+01:11:11,560 --> 01:11:15,040
+And they try and then or in the moment, they just don't think about it, right?
+
+1077
+01:11:15,480 --> 01:11:20,400
+And it's because they learned about it, but they never learn the context by certain things.
+
+1078
+01:11:20,960 --> 01:11:23,880
+And so that's where we start going into scenarios.
+
+1079
+01:11:24,480 --> 01:11:30,440
+I just talked about how if I'm the only provider on scene, I can do an ultrasound, but this
+
+1080
+01:11:30,640 --> 01:11:36,680
+patient needs all these other things from me that I'm probably not going to do an ultrasound
+
+1081
+01:11:36,760 --> 01:11:38,480
+or I'm going to push it back.
+
+1082
+01:11:39,280 --> 01:11:44,840
+And then some patients, right, like CH efforts where I'm trying to decide between which pathway
+
+1083
+01:11:44,840 --> 01:11:47,280
+am I about to go down very aggressively?
+
+1084
+01:11:47,640 --> 01:11:49,440
+I'm going to do an ultrasound, right?
+
+1085
+01:11:49,840 --> 01:11:52,640
+Or maybe, hey, we have this patient with wheezing.
+
+1086
+01:11:53,160 --> 01:11:57,800
+It might be cardiac wheezing, but we throw them on an ebulizer till we get some other things
+
+1087
+01:11:57,800 --> 01:11:58,440
+situated.
+
+1088
+01:11:58,440 --> 01:11:59,680
+OK, let me do an ultrasound.
+
+1089
+01:11:59,680 --> 01:12:01,120
+Oh, it's not wheezing.
+
+1090
+01:12:01,160 --> 01:12:05,760
+It's cardiac wheezes, his lungs full of fluid, pull him off an ebulizer, put him on, see that.
+
+1091
+01:12:05,960 --> 01:12:12,040
+But knowing where to integrate ultrasound into your care is where that middle ground
+
+1092
+01:12:12,040 --> 01:12:14,000
+paramedics start to struggle.
+
+1093
+01:12:14,480 --> 01:12:20,680
+And that's why I say, like, if you have this class, if you have a physician who is very
+
+1094
+01:12:20,680 --> 01:12:23,640
+relatable, then that's great, right?
+
+1095
+01:12:23,680 --> 01:12:29,080
+Who can, who was a paramedic and can kind of work towards those questions.
+
+1096
+01:12:29,680 --> 01:12:34,840
+But if you have like an ultrasound fellow come and teach it or maybe your medical director
+
+1097
+01:12:34,840 --> 01:12:39,760
+is just kind of doing it, does that, be prepared for that to be a portion of your class.
+
+1098
+01:12:40,440 --> 01:12:45,960
+Where like, hey, let's do some scenarios, even just some walkthroughs of knowing the
+
+1099
+01:12:45,960 --> 01:12:48,520
+time and place to have that probe in your hand.
+
+1100
+01:12:49,520 --> 01:12:52,360
+Yeah, that makes sense because I feel the same way in transport.
+
+1101
+01:12:52,360 --> 01:12:56,080
+Like I mentioned at the beginning, like most of my experience of the last few years using
+
+1102
+01:12:56,080 --> 01:12:58,720
+ultrasound has been not in transport.
+
+1103
+01:13:00,000 --> 01:13:03,640
+But I like, I have my own device that I like bring with me flying that like oftentimes,
+
+1104
+01:13:05,080 --> 01:13:08,440
+like I wouldn't delay to do this thing because we already have like a treatment in place
+
+1105
+01:13:08,880 --> 01:13:14,080
+and I'm not necessarily, you know, like in our sitting, like most of the diagnostics
+
+1106
+01:13:14,080 --> 01:13:15,760
+already done, so it would just be like confirmatory.
+
+1107
+01:13:16,080 --> 01:13:17,880
+So I oftentimes like just don't use it.
+
+1108
+01:13:19,120 --> 01:13:23,680
+But it would be different if I was like working emergency, like in a 911 truck.
+
+1109
+01:13:24,120 --> 01:13:29,280
+I think it would be different to like, yeah, to make those decisions without like reading
+
+1110
+01:13:29,280 --> 01:13:31,480
+a CT scan report or a test expert or whatever.
+
+1111
+01:13:32,400 --> 01:13:32,760
+Yeah.
+
+1112
+01:13:33,360 --> 01:13:37,520
+And you know, one of my biggest selling points is like what you say is confirmatory.
+
+1113
+01:13:38,680 --> 01:13:44,360
+You know, pre-hospital medicine struggles with that more than what they know is being
+
+1114
+01:13:44,360 --> 01:13:46,840
+a trusted source of an evaluation.
+
+1115
+01:13:47,160 --> 01:13:47,640
+For sure.
+
+1116
+01:13:48,120 --> 01:13:52,000
+You know, yeah, I think, I think it's the future.
+
+1117
+01:13:52,040 --> 01:13:56,640
+I think the way that college by you is doing it is immaculate.
+
+1118
+01:13:57,960 --> 01:14:03,360
+I've tried to get our in-house permit program to do something like that.
+
+1119
+01:14:05,520 --> 01:14:11,360
+But until national registry changes their standards and stuff for it, most programs kind of won't.
+
+1120
+01:14:12,480 --> 01:14:15,560
+Yeah, I mean, it's tough though, because like whenever you introduce a new thing into a training
+
+1121
+01:14:15,560 --> 01:14:20,200
+program, you invariably have to like make space for it.
+
+1122
+01:14:21,040 --> 01:14:27,840
+So I can see the resistance, especially now, I like the devices are expensive and not that
+
+1123
+01:14:27,840 --> 01:14:28,600
+many people have them.
+
+1124
+01:14:28,600 --> 01:14:34,240
+But I think, yeah, in the next few years, I think the price point on devices in the
+
+1125
+01:14:34,240 --> 01:14:38,640
+pre-hospital setting or just like for like the container to a smartphone or tablet will
+
+1126
+01:14:38,640 --> 01:14:40,280
+come down significantly.
+
+1127
+01:14:40,840 --> 01:14:42,240
+Like they're already fairly cheap.
+
+1128
+01:14:42,280 --> 01:14:46,560
+Like you couldn't buy a secondhand butterfly on eBay for less than a thousand bucks now,
+
+1129
+01:14:47,080 --> 01:14:48,160
+which is pretty rad.
+
+1130
+01:14:50,720 --> 01:14:51,240
+Cool.
+
+1131
+01:14:51,960 --> 01:14:52,480
+All right.
+
+1132
+01:14:52,640 --> 01:14:54,840
+So let's do a quick recap.
+
+1133
+01:14:54,840 --> 01:14:58,120
+We talked about why ketamine is so great.
+
+1134
+01:14:58,920 --> 01:15:01,480
+We talked about why figured the words are so great.
+
+1135
+01:15:01,560 --> 01:15:03,400
+We talked about why focus is great.
+
+1136
+01:15:04,080 --> 01:15:06,680
+Anything else that we need to discuss before I let you go?
+
+1137
+01:15:07,760 --> 01:15:11,000
+Oh, nothing right now.
+
+1138
+01:15:11,000 --> 01:15:15,320
+I think we've talked to the moon and back about all the problems in EMS and why ketamine
+
+1139
+01:15:15,320 --> 01:15:16,040
+can solve them.
+
+1140
+01:15:16,520 --> 01:15:16,840
+Yeah.
+
+1141
+01:15:16,920 --> 01:15:20,600
+We just kind of said this out to the citizens and then our industry will be fixed.
+
+1142
+01:15:21,200 --> 01:15:21,800
+I know, right.
+
+1143
+01:15:21,840 --> 01:15:26,880
+Just if you have a paramedic with ketamine in one hand and a butterfly ultrasound in
+
+1144
+01:15:26,880 --> 01:15:27,320
+the other.
+
+1145
+01:15:27,960 --> 01:15:28,560
+Exactly.
+
+1146
+01:15:28,600 --> 01:15:30,160
+That guy's going to do something for you.
+
+1147
+01:15:31,040 --> 01:15:32,160
+And that's pretty much it.
+
+1148
+01:15:32,720 --> 01:15:33,800
+Thanks for tuning in.
+
+1149
+01:15:34,640 --> 01:15:38,640
+Just before we hop off here, I just want to give a shout out to my friend, Josh Pitman
+
+1150
+01:15:39,040 --> 01:15:40,400
+and his buddy, Kevin Pons.
+
+1151
+01:15:40,440 --> 01:15:43,160
+They're the ones who put the music together for all of this.
+
+1152
+01:15:43,840 --> 01:15:44,560
+Catch you next time.

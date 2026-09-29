@@ -1,0 +1,3279 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,680
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,680 --> 00:00:15,360
+care medicine.
+
+4
+00:00:15,360 --> 00:00:20,400
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,400 --> 00:00:23,920
+use of technology can facilitate that effort.
+
+6
+00:00:23,920 --> 00:00:29,200
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,200 --> 00:00:37,020
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:37,020 --> 00:00:40,760
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,760 --> 00:00:45,920
+do.
+
+10
+00:00:45,920 --> 00:01:00,720
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:00,720 --> 00:01:17,520
+It's been a while since we put out an episode.
+
+12
+00:01:17,520 --> 00:01:18,520
+Welcome back.
+
+13
+00:01:18,520 --> 00:01:23,200
+Today, I have Dr. Andrew Fisher on the show.
+
+14
+00:01:23,200 --> 00:01:26,840
+Andy and I work at the same hospital here in Albuquerque, New Mexico.
+
+15
+00:01:26,840 --> 00:01:36,600
+Andy is the namesake of a group on social media called the St. Fisher Church of Evidence-Based
+
+16
+00:01:36,600 --> 00:01:37,600
+Medicine.
+
+17
+00:01:37,600 --> 00:01:44,400
+They've got an Instagram page that sort of combines free open access medical education
+
+18
+00:01:44,400 --> 00:01:49,240
+with humor to help folks in our field better understand the details of what we do in an
+
+19
+00:01:49,240 --> 00:01:51,120
+informal sort of way.
+
+20
+00:01:51,120 --> 00:01:57,200
+Anyways, Andy knows lots of stuff about trauma management and out of hospital care, so I
+
+21
+00:01:57,200 --> 00:02:03,080
+brought him on to talk about a few concepts that sometimes come up in that realm.
+
+22
+00:02:03,080 --> 00:02:07,320
+Before we get into it all, just know that things we say are personal opinions and do
+
+23
+00:02:07,320 --> 00:02:15,880
+not reflect the stance or stances of wherever we work.
+
+24
+00:02:15,880 --> 00:02:17,920
+Thanks for joining me, Dr. Fisher.
+
+25
+00:02:17,920 --> 00:02:18,920
+Andy.
+
+26
+00:02:18,920 --> 00:02:23,320
+We got him on the show today to talk about trauma stuff in general.
+
+27
+00:02:23,320 --> 00:02:27,920
+Some of you may already know him, but real quick, just as a means of introduction, how
+
+28
+00:02:27,920 --> 00:02:32,280
+about I explain what I think about you or what I think I know and then you can correct
+
+29
+00:02:32,280 --> 00:02:33,280
+me.
+
+30
+00:02:33,280 --> 00:02:34,520
+Or just acknowledge it.
+
+31
+00:02:34,520 --> 00:02:35,880
+Yep, that's me.
+
+32
+00:02:35,880 --> 00:02:38,440
+So Andy Fisher is a doctor.
+
+33
+00:02:38,440 --> 00:02:39,440
+That part is right.
+
+34
+00:02:39,440 --> 00:02:40,440
+True.
+
+35
+00:02:40,440 --> 00:02:43,840
+He's doing a surgical residency at the University of New Mexico Hospital.
+
+36
+00:02:43,840 --> 00:02:44,840
+Yes.
+
+37
+00:02:44,840 --> 00:02:47,880
+And in a prior life, you were a ranger medic.
+
+38
+00:02:47,880 --> 00:02:48,880
+No.
+
+39
+00:02:48,880 --> 00:02:50,400
+Common misconception.
+
+40
+00:02:50,400 --> 00:02:51,400
+To explain.
+
+41
+00:02:51,400 --> 00:02:58,880
+I was a loving Bravo infantry man back in the 90s in Ranger Regiment.
+
+42
+00:02:58,880 --> 00:03:02,280
+And when I got out, I worked in EMS.
+
+43
+00:03:02,280 --> 00:03:08,720
+And when I came back into the military, I went to the interservice physician assistant
+
+44
+00:03:08,720 --> 00:03:12,400
+program and then was assigned to first range battalion.
+
+45
+00:03:12,400 --> 00:03:13,400
+This is the A.
+
+46
+00:03:13,400 --> 00:03:14,640
+Okay, awesome.
+
+47
+00:03:14,640 --> 00:03:15,640
+Cool.
+
+48
+00:03:15,640 --> 00:03:18,800
+And then what is on your, this is the part I don't know.
+
+49
+00:03:18,800 --> 00:03:21,160
+What is on your agenda for when you're done here in Albuquerque?
+
+50
+00:03:21,160 --> 00:03:25,080
+You're going to stick around and be in New Mexican forever?
+
+51
+00:03:25,080 --> 00:03:26,760
+I think that that all depends.
+
+52
+00:03:26,760 --> 00:03:30,280
+Yeah, there's a lot of different options out there.
+
+53
+00:03:30,280 --> 00:03:35,840
+Right now I'm going to pursue a surgical critical care or acute care surgery fellowship.
+
+54
+00:03:35,840 --> 00:03:36,840
+Right on.
+
+55
+00:03:36,840 --> 00:03:42,280
+And then I hope to work in academic medicine and love one trauma center.
+
+56
+00:03:42,280 --> 00:03:43,280
+Awesome.
+
+57
+00:03:43,280 --> 00:03:44,280
+Yeah.
+
+58
+00:03:44,280 --> 00:03:45,800
+And then tell me about your sainthood.
+
+59
+00:03:45,800 --> 00:03:50,120
+I feel like John or Nick should be here to talk about that.
+
+60
+00:03:50,120 --> 00:03:55,320
+Well, my main question is, because I haven't been to church in years, my understanding
+
+61
+00:03:55,320 --> 00:03:59,320
+is that to become a saint, you have to have miracles attributed to you.
+
+62
+00:03:59,320 --> 00:04:00,320
+Yes.
+
+63
+00:04:00,320 --> 00:04:03,720
+It's a miracle that I haven't killed John yet.
+
+64
+00:04:03,720 --> 00:04:07,080
+That's probably how I get in that church.
+
+65
+00:04:07,080 --> 00:04:13,080
+No, I, you know, honestly, it's kind of sort of as a joke between John and a couple of
+
+66
+00:04:13,080 --> 00:04:14,600
+people.
+
+67
+00:04:14,600 --> 00:04:17,840
+And it kind of grew from there.
+
+68
+00:04:17,840 --> 00:04:23,520
+John has, so John and I have been together now for I think probably about five years.
+
+69
+00:04:23,520 --> 00:04:29,760
+And Nick joined probably, God, at least three years ago, at least.
+
+70
+00:04:29,760 --> 00:04:35,000
+And so the three of us, and, you know, obviously we partner with a lot of great people, including
+
+71
+00:04:35,000 --> 00:04:40,680
+yourself and other organizations, people in general.
+
+72
+00:04:40,680 --> 00:04:48,080
+And so we just overall just kind of look to expand upon the idea of evidence-based
+
+73
+00:04:48,080 --> 00:04:54,520
+medicine and kind of free online access to medical education rights to the FOMED aspect.
+
+74
+00:04:54,520 --> 00:04:58,320
+Again, it really just kind of started off as a joke.
+
+75
+00:04:58,320 --> 00:05:02,640
+And somehow we just ended up down this pathway to where we're like, how does this happen?
+
+76
+00:05:02,640 --> 00:05:05,240
+Why do we have so many people that actually pay attention to us?
+
+77
+00:05:05,240 --> 00:05:06,240
+It's probably inappropriate.
+
+78
+00:05:06,240 --> 00:05:10,640
+And if they actually, I think if they knew us altogether, they'd be like, nah, I'm going
+
+79
+00:05:10,640 --> 00:05:11,640
+to have to cut a sling.
+
+80
+00:05:11,640 --> 00:05:13,720
+Yeah, you guys do have a significant following.
+
+81
+00:05:13,720 --> 00:05:14,720
+So that's awesome.
+
+82
+00:05:14,720 --> 00:05:15,720
+Cool.
+
+83
+00:05:15,720 --> 00:05:21,640
+Well, I guess I, for a while, over the last year or so since we've met, have just been
+
+84
+00:05:21,640 --> 00:05:26,980
+kind of collating a list of questions about trauma management in general, anything relevant
+
+85
+00:05:26,980 --> 00:05:29,240
+for people who work in EMS.
+
+86
+00:05:29,240 --> 00:05:34,360
+And I think your experience, like with your medical background and your military experience,
+
+87
+00:05:34,360 --> 00:05:39,640
+and now with your surgical residency, you are like pretty well suited to answer some
+
+88
+00:05:39,640 --> 00:05:40,640
+of these questions.
+
+89
+00:05:40,640 --> 00:05:41,640
+I hope so.
+
+90
+00:05:41,640 --> 00:05:42,640
+Sounds awesome.
+
+91
+00:05:42,640 --> 00:05:48,360
+Yeah, I guess I always preface it with like, you know, while I think I may have a great
+
+92
+00:05:48,360 --> 00:05:53,720
+idea or kind of maybe a decent idea about what to do, I don't know, like that oftentimes
+
+93
+00:05:53,720 --> 00:05:57,640
+I kind of show up and I'm like, we're looking for good enough.
+
+94
+00:05:57,640 --> 00:06:00,200
+Yeah, I just have to show up.
+
+95
+00:06:00,200 --> 00:06:02,600
+I just have to show up.
+
+96
+00:06:02,600 --> 00:06:05,480
+And some of these things, like not everything has a straight answer.
+
+97
+00:06:05,480 --> 00:06:06,480
+Right.
+
+98
+00:06:06,480 --> 00:06:11,960
+I guess that's the challenging part about it is like, what is the right answer?
+
+99
+00:06:11,960 --> 00:06:16,720
+And often we don't know is that we kind of have to make our best guess at the time and
+
+100
+00:06:16,720 --> 00:06:17,720
+go ahead.
+
+101
+00:06:17,720 --> 00:06:21,720
+I think that's, you know, a failed part of I think evidence-based medicine that isn't
+
+102
+00:06:21,720 --> 00:06:24,800
+necessarily appreciated as kind of like a clinical aspect that you kind of have to buy
+
+103
+00:06:24,800 --> 00:06:31,200
+in and kind of have to use your consult a little bit in order to kind of make some decisions.
+
+104
+00:06:31,200 --> 00:06:34,480
+And I've learned that throughout my career, certainly.
+
+105
+00:06:34,480 --> 00:06:36,800
+And I think we kind of learned that early on.
+
+106
+00:06:36,800 --> 00:06:37,800
+For sure.
+
+107
+00:06:37,800 --> 00:06:38,800
+Yeah.
+
+108
+00:06:38,800 --> 00:06:39,800
+Quote, unquote, church.
+
+109
+00:06:39,800 --> 00:06:40,800
+Cool.
+
+110
+00:06:40,800 --> 00:06:44,680
+Well, I guess we'll just dive into this list of questions and see where it takes us.
+
+111
+00:06:44,680 --> 00:06:51,080
+The first question I have for you is, is there ever a reason to unpack a wound in the field?
+
+112
+00:06:51,080 --> 00:06:55,360
+And the reason I asked that question is that a lot of folks on the EMS side are taught
+
+113
+00:06:55,360 --> 00:06:58,360
+never to take it dressing down once it's packed.
+
+114
+00:06:58,360 --> 00:07:01,080
+And I'm just curious to know your thoughts on that.
+
+115
+00:07:01,080 --> 00:07:06,520
+I think whenever you look at what we do in the OR, you know, say someone has a gunshot
+
+116
+00:07:06,520 --> 00:07:11,280
+wound to the abdomen and, you know, we take them up there and we, you know, open them
+
+117
+00:07:11,280 --> 00:07:12,280
+up.
+
+118
+00:07:12,280 --> 00:07:14,800
+First thing we do is try to evacuate all the clots, right?
+
+119
+00:07:14,800 --> 00:07:19,680
+Kind of get all the clots out and then we pack the abdomen with a bunch of laparotomy
+
+120
+00:07:19,680 --> 00:07:20,680
+pads.
+
+121
+00:07:20,680 --> 00:07:25,400
+But then we take them out and we're going to try to identify any sort of bleeding.
+
+122
+00:07:25,400 --> 00:07:26,880
+So I think it's appropriate.
+
+123
+00:07:26,880 --> 00:07:32,360
+I think if you look at the, in fact, if you look at the guidelines, at least in the T-C-C
+
+124
+00:07:32,360 --> 00:07:37,640
+guidelines, it says that you can pack or un, you know, leave packed and then repack around
+
+125
+00:07:37,640 --> 00:07:39,960
+it or just, you know, pack new.
+
+126
+00:07:39,960 --> 00:07:42,660
+I'm more in favor of repacking.
+
+127
+00:07:42,660 --> 00:07:44,240
+So I would pull stuff out.
+
+128
+00:07:44,240 --> 00:07:48,760
+I pulled the clots out and tried to identify where the bleeding is because clearly if it's
+
+129
+00:07:48,760 --> 00:07:53,160
+still bleeding through either I'm not effective or I need to do some other intervention.
+
+130
+00:07:53,160 --> 00:07:55,920
+So I don't really know until I actually get a look at it.
+
+131
+00:07:55,920 --> 00:07:56,920
+Right.
+
+132
+00:07:56,920 --> 00:07:57,920
+That's fair.
+
+133
+00:07:57,920 --> 00:08:01,760
+I think a lot of times on the EMS side when we see blood coming through a dressing, we
+
+134
+00:08:01,760 --> 00:08:03,360
+just layer it up.
+
+135
+00:08:03,360 --> 00:08:05,000
+But what we need is directed pressure.
+
+136
+00:08:05,000 --> 00:08:07,600
+We can't do that if there's a bunch of stuff.
+
+137
+00:08:07,600 --> 00:08:08,600
+Yeah.
+
+138
+00:08:08,600 --> 00:08:10,720
+I think direct pressure works overall.
+
+139
+00:08:10,720 --> 00:08:15,040
+I think you can do it on top of dressings, but I think if you continuously kind of layer
+
+140
+00:08:15,040 --> 00:08:19,000
+it on, later on, later on, it becomes, it does become less effective because now you're
+
+141
+00:08:19,000 --> 00:08:25,280
+kind of trying to distribute this pointed focus of pressure onto a more, a broader surface,
+
+142
+00:08:25,280 --> 00:08:27,200
+which it becomes effective.
+
+143
+00:08:27,200 --> 00:08:35,360
+So either can apply direct pressure on the wound or you can pack effectively and hopefully
+
+144
+00:08:35,360 --> 00:08:37,640
+not have to repack.
+
+145
+00:08:37,640 --> 00:08:42,560
+But some wounds do actually, will bleed through and what are you going to do?
+
+146
+00:08:42,560 --> 00:08:43,560
+Put a tourniquet.
+
+147
+00:08:43,560 --> 00:08:44,560
+Right.
+
+148
+00:08:44,560 --> 00:08:45,560
+Right.
+
+149
+00:08:45,560 --> 00:08:47,880
+And that leads me to my next question along these same lines.
+
+150
+00:08:47,880 --> 00:08:50,040
+What about taking a tourniquet down in the field?
+
+151
+00:08:50,040 --> 00:08:52,840
+Yeah, I'm confused why EMS doesn't do that now.
+
+152
+00:08:52,840 --> 00:09:00,560
+I think if you look at overall, there's a lot of tourniquets that are just, they're
+
+153
+00:09:00,560 --> 00:09:07,360
+applied rapidly in a certain situation because of the level of training based on the responder,
+
+154
+00:09:07,360 --> 00:09:11,880
+whether it be law enforcement bystander, maybe even EMS or fire.
+
+155
+00:09:11,880 --> 00:09:16,800
+But there are a lot of wounds that are clearly, it's not indicated.
+
+156
+00:09:16,800 --> 00:09:22,240
+And I think it would be beneficial for EMS to learn how to pick those down and just evaluate
+
+157
+00:09:22,240 --> 00:09:26,600
+them, even if it's just like, Hey, I'm going to go ahead and pack this wound and then I'm
+
+158
+00:09:26,600 --> 00:09:28,640
+going to take the drink it down and see how it looks.
+
+159
+00:09:28,640 --> 00:09:29,640
+Right.
+
+160
+00:09:29,640 --> 00:09:33,640
+And this is something that has been a topic of conversation for a long time on the wilderness
+
+161
+00:09:33,640 --> 00:09:38,320
+medicine side of things, but I haven't seen it cross over much to the civilian side.
+
+162
+00:09:38,320 --> 00:09:45,360
+I think we'll hopefully see some changes soon.
+
+163
+00:09:45,360 --> 00:09:48,640
+You know, some people from here, from the University of Mexico, we recently submitted
+
+164
+00:09:48,640 --> 00:09:53,720
+a paper that kind of discusses the idea of converting tourniquets in the pre-hospital
+
+165
+00:09:53,720 --> 00:09:59,320
+setting because, you know, especially here in places like this where evacs maybe, you
+
+166
+00:09:59,320 --> 00:10:01,640
+know, four or five hours.
+
+167
+00:10:01,640 --> 00:10:06,800
+So why shouldn't we, from my perspective, you know, why shouldn't we be teaching, you
+
+168
+00:10:06,800 --> 00:10:11,320
+know, EMS professionals to take down a wound or take down a tourniquet and evaluate the
+
+169
+00:10:11,320 --> 00:10:16,720
+wound if it needs a tourniquet grade, if it needs a pressure dressing grade, or it just,
+
+170
+00:10:16,720 --> 00:10:21,360
+you know, kind of a reactionary sort of situation, then that's fine too.
+
+171
+00:10:21,360 --> 00:10:22,520
+But we're getting it down early.
+
+172
+00:10:22,520 --> 00:10:25,080
+And what about a time limit on that?
+
+173
+00:10:25,080 --> 00:10:30,240
+If we can get someone to a trauma center, say a level one in an hour, two hours, don't
+
+174
+00:10:30,240 --> 00:10:31,400
+worry about it.
+
+175
+00:10:31,400 --> 00:10:35,400
+Or is it something where like time is always relevant and you should take a tourniquet
+
+176
+00:10:35,400 --> 00:10:36,400
+down if you can.
+
+177
+00:10:36,400 --> 00:10:39,080
+No, my personal belief is that it's always relevant.
+
+178
+00:10:39,080 --> 00:10:43,880
+And you know, clearly the data suggests that up to two hours is perfectly safe.
+
+179
+00:10:43,880 --> 00:10:50,440
+But at the same time, you know, I'd like to fully use the full abilities of our EMS
+
+180
+00:10:50,440 --> 00:10:51,440
+professionals.
+
+181
+00:10:51,440 --> 00:10:55,000
+And if that is, you know, recognizing the fact that a tourniquet is going to be up,
+
+182
+00:10:55,000 --> 00:10:56,960
+then we should take it down.
+
+183
+00:10:56,960 --> 00:11:01,240
+One it's, it's not a benign intervention, even though it's, you know, quote unquote,
+
+184
+00:11:01,240 --> 00:11:04,000
+safe for two hours, it's not benign.
+
+185
+00:11:04,000 --> 00:11:06,640
+And additionally, it's painful.
+
+186
+00:11:06,640 --> 00:11:10,200
+And so, you know, do if I don't need it on, what's the reason?
+
+187
+00:11:10,200 --> 00:11:14,160
+And then if you look at the overall level response that you get from a tourniquet application,
+
+188
+00:11:14,160 --> 00:11:22,060
+no matter where you are, it's going to be a significant trauma level response that may
+
+189
+00:11:22,060 --> 00:11:31,440
+not necessarily be beneficial to the patient in terms of logistics and cost and overall
+
+190
+00:11:31,440 --> 00:11:32,440
+required intervention.
+
+191
+00:11:32,440 --> 00:11:35,040
+Yeah, that definitely makes sense.
+
+192
+00:11:35,040 --> 00:11:38,520
+So for folks in the field, if you get to the point where you've had a chance to get your
+
+193
+00:11:38,520 --> 00:11:43,080
+head up and think about reevaluating your interventions, like if you have time for a
+
+194
+00:11:43,080 --> 00:11:45,800
+secondary assessment, think about taking it down.
+
+195
+00:11:45,800 --> 00:11:46,800
+Yeah, exactly.
+
+196
+00:11:46,800 --> 00:11:49,440
+It's very similar to like tactical field care, right?
+
+197
+00:11:49,440 --> 00:11:53,840
+So you know, I'm going to kind of step or take a step back.
+
+198
+00:11:53,840 --> 00:11:56,960
+I'm going to kind of look at what we've done, say look at the injuries, kind of go from
+
+199
+00:11:56,960 --> 00:12:00,320
+head to toe again.
+
+200
+00:12:00,320 --> 00:12:04,200
+You know, someone shows up in the ED, they, you know, we go through a whole set of different
+
+201
+00:12:04,200 --> 00:12:08,800
+stuff before the tourniquet ever is a question of coming down.
+
+202
+00:12:08,800 --> 00:12:13,800
+So yeah, take the opportunity to investigate everything, determine if the patient is stable,
+
+203
+00:12:13,800 --> 00:12:19,880
+and if so, I think it should be a reasonable option to expect paramedics to intervene.
+
+204
+00:12:19,880 --> 00:12:21,120
+Cool.
+
+205
+00:12:21,120 --> 00:12:22,600
+Next question about bleeding.
+
+206
+00:12:22,600 --> 00:12:26,440
+What are your thoughts on carrying hemostats to clamp arterial bleeding?
+
+207
+00:12:26,440 --> 00:12:27,800
+That's a terrible idea.
+
+208
+00:12:27,800 --> 00:12:30,520
+I don't, I came in and entertained that question.
+
+209
+00:12:30,520 --> 00:12:31,520
+It's absolutely awesome.
+
+210
+00:12:31,520 --> 00:12:33,640
+How do you look cool if you don't carry hemostats in your flight suit?
+
+211
+00:12:33,720 --> 00:12:37,760
+Yeah, I mean, but if you look at the, even look at the ATLS guidelines, right?
+
+212
+00:12:37,760 --> 00:12:39,800
+So ATLS says do not clank.
+
+213
+00:12:39,800 --> 00:12:45,520
+You will, there's the potential for injuring other underlying structures and overall completely
+
+214
+00:12:45,520 --> 00:12:48,920
+missing the vessel is significant.
+
+215
+00:12:48,920 --> 00:12:54,000
+So and I think a lot of the time the perception is that like having hemostats to clamp on
+
+216
+00:12:54,000 --> 00:12:59,640
+artery will be straightforward and that when you clamp it, there won't be collateral damage.
+
+217
+00:12:59,640 --> 00:13:03,880
+My understanding is that it's quite hard to identify like where you need to clamp and
+
+218
+00:13:03,880 --> 00:13:07,800
+then those jagged edges on the hemostats can cause injury as well.
+
+219
+00:13:07,800 --> 00:13:08,800
+Yeah.
+
+220
+00:13:08,800 --> 00:13:15,120
+Hey, you know, we take people to the operating room and we often have to make large incisions
+
+221
+00:13:15,120 --> 00:13:19,000
+in order to access approximately the control of the vessel.
+
+222
+00:13:19,000 --> 00:13:24,680
+And then we look at, you know, at that point, controlling the hemorrhage and decide how
+
+223
+00:13:24,680 --> 00:13:26,820
+we're going to repair it if we need to repair it.
+
+224
+00:13:26,820 --> 00:13:30,060
+So the idea that like, I'm just going to go ahead and just going to stick the hemostat
+
+225
+00:13:30,060 --> 00:13:35,100
+in here and clamp it is foolish and a bit naive.
+
+226
+00:13:35,100 --> 00:13:40,140
+You know, I'm going to be so bold to say that I didn't carry hemostats at one point when
+
+227
+00:13:40,140 --> 00:13:46,500
+I was, you know, in the pre-hospital setting that I didn't think it was a viable option.
+
+228
+00:13:46,500 --> 00:13:48,500
+So you know, that's my point.
+
+229
+00:13:48,500 --> 00:13:50,980
+Like I've been there, I thought it was a good idea.
+
+230
+00:13:50,980 --> 00:13:56,380
+And I say, that's a good idea, but it's something that I could do, you know, and I think I've
+
+231
+00:13:56,380 --> 00:14:03,140
+got to the point now, based upon the evidence is like, nah, I can either pack, I can hold
+
+232
+00:14:03,140 --> 00:14:06,340
+pressure or I can put on a lip tourniquet.
+
+233
+00:14:06,340 --> 00:14:07,340
+Right.
+
+234
+00:14:07,340 --> 00:14:08,340
+Yeah.
+
+235
+00:14:08,340 --> 00:14:10,780
+There are also plenty of other reasons why folks carry hemostats.
+
+236
+00:14:10,780 --> 00:14:15,140
+Like when I wrap patients up in burritos, I use it to clamp the sheet on top of them
+
+237
+00:14:15,140 --> 00:14:16,140
+to keep their arms in.
+
+238
+00:14:16,140 --> 00:14:21,020
+Or if I don't have a pressure infuser, I can pump up an autocuff and then use the hemostats
+
+239
+00:14:21,020 --> 00:14:22,020
+to keep it inflated.
+
+240
+00:14:22,020 --> 00:14:23,020
+Yeah.
+
+241
+00:14:23,020 --> 00:14:25,540
+I mean, is this done wrong with hemostats in general?
+
+242
+00:14:25,540 --> 00:14:26,540
+Yeah.
+
+243
+00:14:26,540 --> 00:14:27,540
+Yeah.
+
+244
+00:14:27,540 --> 00:14:28,540
+Just not for that specific thing.
+
+245
+00:14:28,540 --> 00:14:31,740
+I mean, I used to use it to pack wounds, right?
+
+246
+00:14:31,740 --> 00:14:33,980
+Because bullet holes are actually pretty small.
+
+247
+00:14:33,980 --> 00:14:36,980
+Like people want to underestimate the size of them.
+
+248
+00:14:36,980 --> 00:14:42,660
+And so someone has a tiny hole and it doesn't quite meet criteria for a tourniquet, you know,
+
+249
+00:14:42,660 --> 00:14:46,180
+you know, I can go ahead and I can pack some breasts, you know, hemostat.
+
+250
+00:14:46,180 --> 00:14:47,620
+That's awesome there.
+
+251
+00:14:47,620 --> 00:14:51,660
+I guess that's a use I hadn't thought about, like using it to get that point pressure when
+
+252
+00:14:51,660 --> 00:14:54,100
+you're packing a wound.
+
+253
+00:14:54,100 --> 00:14:56,060
+What about hemostatic dressings?
+
+254
+00:14:56,060 --> 00:15:01,340
+And in particular, if you think the regular like four by four hemostatics have any value
+
+255
+00:15:01,340 --> 00:15:03,180
+or if it needs to be Z fold to pack?
+
+256
+00:15:03,180 --> 00:15:11,140
+I think four by four dressings have the same role as a bandaid or, you know, it's just
+
+257
+00:15:11,140 --> 00:15:12,260
+something to cover something up.
+
+258
+00:15:12,260 --> 00:15:19,140
+They don't really have a role in actual hemorrhage control of significance.
+
+259
+00:15:19,140 --> 00:15:23,620
+But if we break down between hemostatics and non-hemostatic dressings for so, you know,
+
+260
+00:15:23,620 --> 00:15:28,660
+quote, unquote, kirllex or roll gauze versus a hemostatic dressing, whether it's cell
+
+261
+00:15:28,660 --> 00:15:33,900
+locks or kamikaze or heme con.
+
+262
+00:15:33,900 --> 00:15:40,740
+Right now, the evidence that we have doesn't necessarily suggest that there is a survival
+
+263
+00:15:40,740 --> 00:15:41,740
+benefit.
+
+264
+00:15:41,740 --> 00:15:46,900
+It's not a state that doesn't help control hemorrhage earlier or that we may not have
+
+265
+00:15:46,900 --> 00:15:51,420
+a benefit later on down the road as we sort of get that gathered a large group of numbers
+
+266
+00:15:51,420 --> 00:15:55,180
+potentially that we'll start looking at doing more prospective studies.
+
+267
+00:15:55,180 --> 00:16:04,340
+But at the time, based on the DOD data itself, we don't necessarily have a great benefit.
+
+268
+00:16:04,340 --> 00:16:07,780
+I think what is most important is the packing technique.
+
+269
+00:16:07,780 --> 00:16:08,780
+So how do you actually pack?
+
+270
+00:16:08,780 --> 00:16:13,980
+So are you able to actually identify that bleeding vessel in a large enough wound where
+
+271
+00:16:13,980 --> 00:16:15,460
+you can kind of put your finger on it?
+
+272
+00:16:15,460 --> 00:16:16,460
+I feel it here.
+
+273
+00:16:16,460 --> 00:16:17,460
+I'm going to pack up against it.
+
+274
+00:16:17,460 --> 00:16:18,460
+I'm going to pack, pack, pack, pack, pack.
+
+275
+00:16:19,460 --> 00:16:21,460
+I teach just the same thing at Stop the Bleak courses.
+
+276
+00:16:21,460 --> 00:16:24,180
+So we talk about packing, packing, packing effectively.
+
+277
+00:16:24,180 --> 00:16:26,140
+And I think that's just the most important.
+
+278
+00:16:26,140 --> 00:16:28,860
+There's nothing wrong with hemostatic dressings.
+
+279
+00:16:28,860 --> 00:16:31,060
+If you carry them, that's fantastic.
+
+280
+00:16:31,060 --> 00:16:34,140
+If you don't, I understand.
+
+281
+00:16:34,140 --> 00:16:40,740
+And I think you should practice at least in whatever practice packing, practice packing
+
+282
+00:16:40,740 --> 00:16:43,740
+is because it can be a lot more challenging than I think people expect.
+
+283
+00:16:43,740 --> 00:16:44,740
+Right.
+
+284
+00:16:44,740 --> 00:16:48,420
+And let's say you don't have hemostatics or you don't want to shell out 30 to 40 bucks
+
+285
+00:16:48,420 --> 00:16:50,420
+to buy the Z-fold hemostatics.
+
+286
+00:16:50,420 --> 00:16:52,420
+What about using just roller gauze or curlix?
+
+287
+00:16:52,420 --> 00:16:53,420
+Right.
+
+288
+00:16:53,420 --> 00:16:57,860
+And that's what I'm saying is the packing technique is most important.
+
+289
+00:16:57,860 --> 00:16:58,860
+Yeah.
+
+290
+00:16:58,860 --> 00:17:04,300
+So get in there, identify that source of bleeding, pack, pack, pack, get a good pressure
+
+291
+00:17:04,300 --> 00:17:05,900
+rest on top of that.
+
+292
+00:17:05,900 --> 00:17:12,380
+Try not to create such a significant venous tronic kit whenever you do kind of the pressure
+
+293
+00:17:12,380 --> 00:17:18,140
+resting, but you should be able to at least control the hemorrhage from with effective
+
+294
+00:17:18,140 --> 00:17:19,140
+packing techniques.
+
+295
+00:17:19,140 --> 00:17:20,140
+Right on.
+
+296
+00:17:20,140 --> 00:17:22,540
+I want to change gears a little bit.
+
+297
+00:17:22,540 --> 00:17:27,300
+What are your thoughts on keeping a jiggly saw in a kit or something comparable in the
+
+298
+00:17:27,300 --> 00:17:30,380
+event that you had to do a field amputation?
+
+299
+00:17:30,380 --> 00:17:36,620
+Why can't you just use a regular saw like maybe the fire department has or?
+
+300
+00:17:36,620 --> 00:17:41,260
+I guess the question comes from that I used to work for a program that carried a saw in
+
+301
+00:17:41,260 --> 00:17:44,580
+our kits because we were in an area that didn't have extrication.
+
+302
+00:17:44,580 --> 00:17:49,740
+Although I guess cutters or saw the fire department has in most places works just fine.
+
+303
+00:17:49,740 --> 00:17:52,420
+I'm not saying that's the best method to go about.
+
+304
+00:17:52,420 --> 00:17:57,300
+Hey, I'm going to break out these big ass saw here.
+
+305
+00:17:57,300 --> 00:18:00,260
+Pay no attention while I saw your leg off.
+
+306
+00:18:00,260 --> 00:18:05,580
+I think it's a great option.
+
+307
+00:18:05,580 --> 00:18:06,580
+All right.
+
+308
+00:18:06,580 --> 00:18:12,100
+What are we talking about?
+
+309
+00:18:12,100 --> 00:18:14,060
+We were talking about field amputations.
+
+310
+00:18:14,060 --> 00:18:20,100
+I think that field amputations are necessary intervention that may be required from counter
+
+311
+00:18:20,100 --> 00:18:21,300
+time.
+
+312
+00:18:21,300 --> 00:18:25,620
+How you go about it is totally dependent on what you have available.
+
+313
+00:18:25,620 --> 00:18:29,540
+You know, if you have a jiggly saw fantastic.
+
+314
+00:18:29,540 --> 00:18:34,420
+If you have a saw saw, I mean, whatever you got to use.
+
+315
+00:18:34,420 --> 00:18:35,420
+You got to do the job.
+
+316
+00:18:35,420 --> 00:18:40,660
+I think the most important part is, you know, making sure your patient's stable and probably
+
+317
+00:18:40,660 --> 00:18:43,660
+sedated for the procedure.
+
+318
+00:18:43,660 --> 00:18:50,060
+I've done, you know, amputations and pre-alpha setting were so mangled that it's just like
+
+319
+00:18:50,060 --> 00:18:51,660
+it's almost like sniffing skin.
+
+320
+00:18:51,660 --> 00:18:53,300
+Can you really even count that as amputation?
+
+321
+00:18:53,300 --> 00:18:56,660
+You can't, but you know, it's just like snipping off some soft tissues.
+
+322
+00:18:56,660 --> 00:19:03,180
+But yeah, if you need to go through bone due to mangled extremity, I think you should have
+
+323
+00:19:03,180 --> 00:19:05,940
+something that has been demonstrated to work.
+
+324
+00:19:05,940 --> 00:19:11,820
+I know there's been, you know, some pre-hospital studies done on different, I guess, improvised
+
+325
+00:19:11,820 --> 00:19:13,940
+techniques.
+
+326
+00:19:13,940 --> 00:19:16,300
+And they all seem to work effectively.
+
+327
+00:19:16,300 --> 00:19:19,940
+It's just, I think people are pretty smart in the pre-hospital setting.
+
+328
+00:19:19,940 --> 00:19:25,060
+And you know, people are going to show up that have this, some sort of, I think, base
+
+329
+00:19:25,060 --> 00:19:30,380
+knowledge, whether it be a medical director or more experienced paramedic, they can say,
+
+330
+00:19:30,380 --> 00:19:34,940
+hey, you know, this is what we have available because this is what, you know, we've been
+
+331
+00:19:34,940 --> 00:19:38,420
+demonstrated to kind of work in our situations.
+
+332
+00:19:38,420 --> 00:19:39,420
+Right on.
+
+333
+00:19:39,420 --> 00:19:40,420
+Cool.
+
+334
+00:19:40,420 --> 00:19:43,100
+Next question I have is about airway management and trauma.
+
+335
+00:19:43,100 --> 00:19:49,140
+What are your thoughts on an awake crike versus an RSI or like a delayed sequence intubation?
+
+336
+00:19:49,140 --> 00:19:53,180
+I think they were, those are different things.
+
+337
+00:19:53,180 --> 00:19:55,620
+I think we're talking about a situation where.
+
+338
+00:19:55,860 --> 00:20:00,740
+Yeah, I guess I can give some context where you have a severely injured person who is
+
+339
+00:20:00,740 --> 00:20:08,020
+at risk for like cardiac arrest or hemodynamic collapse with agents we normally use intubation.
+
+340
+00:20:08,020 --> 00:20:12,380
+If you think there's ever a reason to go straight for a crike for somebody versus pushing drugs
+
+341
+00:20:12,380 --> 00:20:15,140
+and having a bad outcome.
+
+342
+00:20:15,140 --> 00:20:16,460
+And the answer can totally be no.
+
+343
+00:20:16,460 --> 00:20:20,860
+I think, I just think the idea that somehow you're going to do an awake crike and it's
+
+344
+00:20:20,860 --> 00:20:24,140
+just going to be this calm sort of like, oh, instead of doing RSI, I'm just going to do
+
+345
+00:20:24,140 --> 00:20:25,340
+an awake crike.
+
+346
+00:20:26,060 --> 00:20:28,660
+I think it's a little bit of a fantasy world.
+
+347
+00:20:28,660 --> 00:20:36,980
+But I also think that RSI and hemorrhagic shocks based upon the, you know, the war RDC
+
+348
+00:20:36,980 --> 00:20:44,820
+are saying that probably Phil Spinella or Gares Janison came up with this, you know,
+
+349
+00:20:44,820 --> 00:20:47,540
+really stupid ID or really stupid intervention.
+
+350
+00:20:47,540 --> 00:20:52,340
+You know, it's like there are certain people that absolutely need some sort of airway in
+
+351
+00:20:52,340 --> 00:20:54,300
+the pre-hospital setting hemorrhagic shock.
+
+352
+00:20:54,300 --> 00:20:59,900
+But I also believe that you should hold off to the, you know, to the very last moment,
+
+353
+00:20:59,900 --> 00:21:05,260
+not many last moment, but, you know, to reasonable to say, okay, it's time to innovate this person.
+
+354
+00:21:05,260 --> 00:21:13,220
+I think probably doing one thing you didn't mention was, you know, the supergloc airway.
+
+355
+00:21:13,220 --> 00:21:16,380
+So you know, is that also an option, right?
+
+356
+00:21:16,380 --> 00:21:20,020
+So does someone get to the point to where is it easier to do supergloc airway?
+
+357
+00:21:20,020 --> 00:21:26,220
+And I think, you know, your target audience is, you know, a lot higher skilled and better
+
+358
+00:21:26,220 --> 00:21:32,180
+educated than, you know, say like the, you know, the combat medic that's, you know, sitting
+
+359
+00:21:32,180 --> 00:21:33,180
+the point of injury.
+
+360
+00:21:33,180 --> 00:21:38,420
+And that's just the fact that, you know, you guys are critical care paramedics, you guys
+
+361
+00:21:38,420 --> 00:21:47,900
+are nurses and, you know, even PAs or whatever that, you know, take these in-house skills
+
+362
+00:21:47,900 --> 00:21:51,140
+to the pre-hospital setting, which is a little bit different.
+
+363
+00:21:51,140 --> 00:21:54,700
+And like there's nothing wrong with being a combat medic, but you guys definitely have
+
+364
+00:21:54,700 --> 00:21:56,100
+a higher level of skill.
+
+365
+00:21:56,100 --> 00:22:07,500
+So SGA, yeah, could be, but RSI, DSI is probably overall, I don't even know if there's any
+
+366
+00:22:07,500 --> 00:22:11,180
+data even to support it, but I would think it would probably be just overall just maybe
+
+367
+00:22:11,180 --> 00:22:12,180
+a little bit better.
+
+368
+00:22:12,180 --> 00:22:13,180
+Yeah.
+
+369
+00:22:13,180 --> 00:22:16,860
+And I know that's something that in the hem scene, there's a lot of, I don't know if you
+
+370
+00:22:16,860 --> 00:22:21,780
+call it pressure, but like everyone wants to intubate, but in most cases, you'd probably
+
+371
+00:22:21,780 --> 00:22:24,100
+be fine with BLS airways.
+
+372
+00:22:24,100 --> 00:22:27,580
+We're super glad to keep it got to that point, as long as the face is intact.
+
+373
+00:22:27,580 --> 00:22:31,700
+I mean, what, what, which always fascinates me because I remember being a paramedic and
+
+374
+00:22:31,700 --> 00:22:39,620
+it was like, it seems like maybe the most, the biggest procedure you do, right?
+
+375
+00:22:39,620 --> 00:22:41,620
+You're going to take someone's airway.
+
+376
+00:22:41,620 --> 00:22:46,380
+And so I think that has to, has a little bit to do with it, but I'm so fascinated by the
+
+377
+00:22:46,380 --> 00:22:51,380
+idea that, you know, the pre-hospital setting, we get, we get so focused on airway.
+
+378
+00:22:51,380 --> 00:22:56,460
+And the fact that it's a time tag, do I, you know, am I going to do this?
+
+379
+00:22:56,460 --> 00:23:02,780
+And I guess I don't, looking back now, I think it's because it seems like it's such a big
+
+380
+00:23:02,780 --> 00:23:08,620
+commitment and you're like, this is a big procedure and I'm going to own this.
+
+381
+00:23:08,620 --> 00:23:14,540
+But I think if we overall look at it, it's, you don't necessarily need to do it in a lot
+
+382
+00:23:14,540 --> 00:23:15,540
+of settings.
+
+383
+00:23:15,700 --> 00:23:16,700
+Right.
+
+384
+00:23:16,700 --> 00:23:17,700
+Yeah.
+
+385
+00:23:17,700 --> 00:23:18,900
+I think that's like a valuable lesson.
+
+386
+00:23:18,900 --> 00:23:23,260
+And also this makes me think of that guy we brought to you in the ER a couple of weeks
+
+387
+00:23:23,260 --> 00:23:24,460
+ago.
+
+388
+00:23:24,460 --> 00:23:29,980
+He was a guy who was stuck on an 18 wheeler for like two hours and we could only see like
+
+389
+00:23:29,980 --> 00:23:32,420
+half his face and a shoulder.
+
+390
+00:23:32,420 --> 00:23:34,860
+So we had all the things set up to manage airway.
+
+391
+00:23:34,860 --> 00:23:37,740
+And like, as soon as he came out, we did it real quick and then left.
+
+392
+00:23:37,740 --> 00:23:40,780
+And in hindsight, he probably would have been just fine.
+
+393
+00:23:40,780 --> 00:23:41,980
+He was altered.
+
+394
+00:23:41,980 --> 00:23:43,620
+He maybe couldn't protect his airway.
+
+395
+00:23:44,180 --> 00:23:46,700
+But, you know, we probably would have been okay with the BLS airway.
+
+396
+00:23:47,660 --> 00:23:52,340
+You know that famous picture that's been floating around the internet for, you know, 20
+
+397
+00:23:52,340 --> 00:23:55,780
+years about the guy that's kind of leaning forward in the ED?
+
+398
+00:23:55,860 --> 00:23:56,460
+Oh yeah.
+
+399
+00:23:56,460 --> 00:23:57,740
+With his face blown off.
+
+400
+00:23:57,900 --> 00:23:58,420
+Right.
+
+401
+00:23:58,420 --> 00:23:58,860
+Right.
+
+402
+00:23:58,860 --> 00:24:04,660
+So I was actually, you know, I was like, I can't identify the patient because it's been 20
+
+403
+00:24:04,660 --> 00:24:08,860
+years, but that was actually at Methodist at Indianapolis.
+
+404
+00:24:09,580 --> 00:24:13,940
+And it was in, you know, there's two trauma bays there.
+
+405
+00:24:13,940 --> 00:24:18,540
+But I mean, that's an excellent example that's consistently shown throughout the past 20
+
+406
+00:24:18,540 --> 00:24:18,780
+years.
+
+407
+00:24:18,780 --> 00:24:26,140
+It's like here's a guy who clearly has some significant trauma, but he's maintaining his
+
+408
+00:24:26,140 --> 00:24:26,460
+airway.
+
+409
+00:24:26,460 --> 00:24:30,820
+And it's always talked about this is a guy who's maintaining his airway because he worked the
+
+410
+00:24:30,820 --> 00:24:33,460
+proper positioning and he was stable.
+
+411
+00:24:33,460 --> 00:24:35,060
+He did not require intervention.
+
+412
+00:24:35,060 --> 00:24:41,020
+And I think, you know, as I said, I still look back now and I'm like, there are a lot of
+
+413
+00:24:41,020 --> 00:24:43,060
+things that I probably felt like I should have done.
+
+414
+00:24:43,060 --> 00:24:49,540
+But was it, you know, we back in the day, I mean, you're not quite as old as me, but, you
+
+415
+00:24:49,540 --> 00:24:52,220
+know, we didn't have RSI back in the day.
+
+416
+00:24:52,220 --> 00:24:57,700
+And so you either have to like nasally innovate or, you know, do the Kentucky innovation if
+
+417
+00:24:57,700 --> 00:24:59,020
+you're going to do it on someone.
+
+418
+00:24:59,460 --> 00:25:01,620
+I'm not familiar with the Kentucky innovation.
+
+419
+00:25:02,140 --> 00:25:05,140
+I'd say right handed innovation from the face.
+
+420
+00:25:05,980 --> 00:25:06,900
+What do you guys call it here?
+
+421
+00:25:08,340 --> 00:25:10,620
+You don't know when you do that right hand innovation.
+
+422
+00:25:11,100 --> 00:25:13,300
+You throw down when you're facing the patient.
+
+423
+00:25:13,340 --> 00:25:13,980
+Oh yeah.
+
+424
+00:25:14,060 --> 00:25:15,100
+Like the Tomahawk you mean?
+
+425
+00:25:15,260 --> 00:25:16,940
+See, you guys call it the Tomahawk scene.
+
+426
+00:25:17,180 --> 00:25:17,580
+Yeah.
+
+427
+00:25:17,660 --> 00:25:19,060
+See, I guess we're from Indiana.
+
+428
+00:25:19,060 --> 00:25:20,220
+You call it the Kentucky innovation.
+
+429
+00:25:20,220 --> 00:25:22,660
+I bet people from Kentucky call it the.
+
+430
+00:25:22,700 --> 00:25:24,460
+Yeah, I think there's a technical name for it.
+
+431
+00:25:24,820 --> 00:25:29,020
+Like in the walls book, it's like a Mueller technique or something like that.
+
+432
+00:25:29,500 --> 00:25:29,900
+Okay.
+
+433
+00:25:30,380 --> 00:25:31,300
+Kentucky innovation.
+
+434
+00:25:32,180 --> 00:25:34,860
+I think we should just bring back nasal intubation.
+
+435
+00:25:35,980 --> 00:25:36,340
+Yeah.
+
+436
+00:25:36,420 --> 00:25:37,740
+Um, yeah, sure.
+
+437
+00:25:37,860 --> 00:25:43,420
+Do that because I was never, ever, ever successful at doing ever a single nasal
+
+438
+00:25:43,420 --> 00:25:43,900
+animation.
+
+439
+00:25:43,980 --> 00:25:44,820
+Yeah, me neither.
+
+440
+00:25:45,180 --> 00:25:50,140
+I just like, like, um, and if I can think back some of the paramedics I used to work
+
+441
+00:25:50,140 --> 00:25:55,700
+with, uh, work with at the wish or at the whiz and, uh, dad and, uh, book me 10.
+
+442
+00:25:55,940 --> 00:26:00,940
+I used to always get a small, small, small town, uh, EMS service called
+
+443
+00:26:00,940 --> 00:26:03,220
+blooming in the hospital, a remote service by IU.
+
+444
+00:26:03,220 --> 00:26:06,580
+But he was a guy named named Brian Gay.
+
+445
+00:26:06,580 --> 00:26:09,820
+There he used to just like, cause I have the trigger, right?
+
+446
+00:26:09,900 --> 00:26:12,020
+And the trigger on the tube, you do like pull that.
+
+447
+00:26:12,380 --> 00:26:15,420
+If you had the ones with the trigger, that was ideal, but we used to just take
+
+448
+00:26:15,420 --> 00:26:19,340
+them and well, I was never successful at this, but you could curl it around your
+
+449
+00:26:19,340 --> 00:26:25,100
+finger to have like a hyperangulated tip and you slide it in and the thought was
+
+450
+00:26:25,100 --> 00:26:28,220
+that it'd stay interior, but I never had any luck either.
+
+451
+00:26:28,740 --> 00:26:32,340
+I, you know, I could, I could probably name off a list of paramedics that, uh,
+
+452
+00:26:32,340 --> 00:26:33,780
+were just really great at it.
+
+453
+00:26:33,780 --> 00:26:36,260
+Uh, I could, I was never successful.
+
+454
+00:26:36,260 --> 00:26:37,580
+I'm Shane Hardwick.
+
+455
+00:26:37,580 --> 00:26:39,380
+If you're listening to you probably got more than me.
+
+456
+00:26:39,420 --> 00:26:42,860
+He was a old roommate of mine who was, uh, probably more
+
+457
+00:26:42,860 --> 00:26:44,180
+talented with the airway than me.
+
+458
+00:26:44,500 --> 00:26:44,980
+That's all right.
+
+459
+00:26:45,260 --> 00:26:46,260
+You can't be great at everything.
+
+460
+00:26:46,540 --> 00:26:47,620
+Uh, yeah.
+
+461
+00:26:48,780 --> 00:26:49,140
+Funny.
+
+462
+00:26:49,140 --> 00:26:54,380
+You can't be, you can also not be good at much, but, uh, showing up.
+
+463
+00:26:55,740 --> 00:26:56,020
+All right.
+
+464
+00:26:56,100 --> 00:27:00,220
+My next question is about how we do traumatic arrest in a pre-hospital
+
+465
+00:27:00,220 --> 00:27:04,540
+setting, because for me, it's like fairly different from how things are run in a
+
+466
+00:27:04,540 --> 00:27:05,300
+hospital setting.
+
+467
+00:27:06,260 --> 00:27:08,940
+I don't think, I don't think it's much different at all outside of, outside
+
+468
+00:27:08,940 --> 00:27:10,300
+of doing an emergency, through our economy.
+
+469
+00:27:10,300 --> 00:27:11,180
+What's the difference?
+
+470
+00:27:12,100 --> 00:27:16,700
+What are you going to, are you going to confirm that is, uh, compressible
+
+471
+00:27:16,700 --> 00:27:18,940
+hemorrhage, you have an airway.
+
+472
+00:27:19,660 --> 00:27:21,140
+I mean, I guess that's the way we could do it.
+
+473
+00:27:21,860 --> 00:27:25,820
+There are like two approaches in the, so I think, yeah, I think the,
+
+474
+00:27:25,860 --> 00:27:29,820
+the issue lies is like, you know, do we want a lot of paramedics to do the
+
+475
+00:27:29,820 --> 00:27:33,900
+exact same thing and I'm not suggesting at all that we should ever, ever do
+
+476
+00:27:33,940 --> 00:27:35,020
+emergency through our economies.
+
+477
+00:27:35,460 --> 00:27:40,620
+What I am suggesting that, uh, uh, you know, a lot of places got away from
+
+478
+00:27:40,620 --> 00:27:41,980
+things like doing CPR.
+
+479
+00:27:42,500 --> 00:27:47,780
+Um, so now, you know, if I have, I show up, I can open up an airway.
+
+480
+00:27:48,300 --> 00:27:48,740
+All right.
+
+481
+00:27:48,780 --> 00:27:49,820
+So I can open up a fair way.
+
+482
+00:27:49,820 --> 00:27:50,980
+I can do that manually.
+
+483
+00:27:51,300 --> 00:27:56,260
+I can, I mean, I can have Joe, whatever bystander do that or a law
+
+484
+00:27:56,260 --> 00:28:01,660
+enforcement firefighter, uh, my partner, whoever, whoever it is open up their way.
+
+485
+00:28:01,740 --> 00:28:02,660
+The breathing is spontaneous.
+
+486
+00:28:02,660 --> 00:28:03,500
+Yes or no.
+
+487
+00:28:03,540 --> 00:28:08,060
+Uh, I can, you know, I can do bilateral simple tort cost to me.
+
+488
+00:28:08,580 --> 00:28:11,020
+Uh, and I can put an ultrasound on the heart.
+
+489
+00:28:11,420 --> 00:28:19,340
+You know, if you accomplish those things and nothing is, you know, working
+
+490
+00:28:19,620 --> 00:28:20,940
+wire, what are we doing?
+
+491
+00:28:21,060 --> 00:28:25,740
+I mean, overall the outcomes are terrible for traumatic arrests and that sucks,
+
+492
+00:28:25,780 --> 00:28:27,020
+but that's just the way it is.
+
+493
+00:28:27,620 --> 00:28:31,460
+I guess I see that most, uh, like pre-hospital providers are still managing
+
+494
+00:28:31,940 --> 00:28:33,540
+a pre-hospital traumatic arrest.
+
+495
+00:28:33,540 --> 00:28:34,820
+Like they would the medical ones.
+
+496
+00:28:35,340 --> 00:28:37,140
+Like the focus is still on compressions.
+
+497
+00:28:37,580 --> 00:28:38,940
+Do you really see that a lot?
+
+498
+00:28:39,340 --> 00:28:39,620
+Yeah.
+
+499
+00:28:39,980 --> 00:28:45,940
+I think, um, yeah, in a pre-hospital setting, I think I've seen a lot of
+
+500
+00:28:45,940 --> 00:28:47,660
+change over the past three years.
+
+501
+00:28:47,660 --> 00:28:50,140
+And, uh, for the good.
+
+502
+00:28:50,380 --> 00:28:53,780
+And I think we're seeing a lot of, uh, holding CPR.
+
+503
+00:28:54,260 --> 00:28:57,980
+Um, I would like to see more simple tort cost to me.
+
+504
+00:28:57,980 --> 00:29:04,140
+I don't think needle tort cost to me is necessarily the, well, I know it's not,
+
+505
+00:29:04,500 --> 00:29:08,380
+it's not the most effective, but I don't think it's essentially effective at all.
+
+506
+00:29:08,900 --> 00:29:14,740
+Uh, you know, across the country, we've seen, or you can even say around the
+
+507
+00:29:14,740 --> 00:29:18,780
+world, we've seen that, you know, needle tort cost to me isn't necessarily the
+
+508
+00:29:18,780 --> 00:29:19,980
+greatest intervention.
+
+509
+00:29:20,700 --> 00:29:24,900
+And if someone's dead, they're not really getting more dead.
+
+510
+00:29:25,180 --> 00:29:29,420
+And I, I know it's a cliche and sometimes often kind of, you know, you look at the
+
+511
+00:29:29,420 --> 00:29:32,620
+things I see in social media, I'm like, that's just a terrible way to go about it.
+
+512
+00:29:33,300 --> 00:29:37,100
+Um, but in traumatic arrest, um, you know, what do we do?
+
+513
+00:29:37,340 --> 00:29:44,260
+You know, you, you, you, you should make, I think, uh, bold, uh, decisions, uh, bold
+
+514
+00:29:44,260 --> 00:29:49,820
+interventions and either do something and transport and they get to a surgeon or
+
+515
+00:29:49,820 --> 00:29:55,740
+they don't, uh, and again, I think it goes back to opening up an airway, um,
+
+516
+00:29:55,780 --> 00:29:58,900
+venting the chest and then putting all the time on the heart.
+
+517
+00:30:00,420 --> 00:30:06,060
+If those three things provide nothing, then your patient, uh, like, I think likely
+
+518
+00:30:06,060 --> 00:30:09,300
+survival, survival is slim and none.
+
+519
+00:30:10,020 --> 00:30:10,660
+And that's it.
+
+520
+00:30:10,660 --> 00:30:12,300
+I mean, that's just, that's not an opinion.
+
+521
+00:30:12,300 --> 00:30:14,420
+I mean, that's just what the data suggests.
+
+522
+00:30:15,020 --> 00:30:17,460
+At the moment, there's not at least here in New Mexico.
+
+523
+00:30:17,860 --> 00:30:19,860
+I don't know to anyone on the ground who's carrying ultrasound.
+
+524
+00:30:21,220 --> 00:30:24,140
+I know there's some flight crews, but the majority of folks on the ground don't
+
+525
+00:30:24,140 --> 00:30:28,180
+have ultrasound in the field, but we're constantly bullying everyone that works
+
+526
+00:30:28,180 --> 00:30:29,900
+above us in these agencies to change that.
+
+527
+00:30:30,460 --> 00:30:30,700
+Yeah.
+
+528
+00:30:30,700 --> 00:30:32,980
+And it's not like it's a cheap intervention, right?
+
+529
+00:30:32,980 --> 00:30:36,100
+It's not like, Oh, I'm going to, I'm going to stick, I'm going to give someone a
+
+530
+00:30:36,140 --> 00:30:38,820
+14 gauge angio-catholic, but like she sticks us in the chest.
+
+531
+00:30:38,820 --> 00:30:40,580
+I mean, this is a significant investment.
+
+532
+00:30:40,940 --> 00:30:41,860
+And a lot of training.
+
+533
+00:30:41,900 --> 00:30:42,220
+Yeah.
+
+534
+00:30:42,540 --> 00:30:45,660
+I, I get, maybe I disagree a little bit.
+
+535
+00:30:45,740 --> 00:30:46,900
+A lot of training.
+
+536
+00:30:47,180 --> 00:30:48,460
+I don't know if it's a lot of training.
+
+537
+00:30:48,460 --> 00:30:55,700
+I think it is a little bit training with some, uh, overall just kind of follow up.
+
+538
+00:30:55,780 --> 00:30:57,740
+Just be like, Hey, come in a couple of times a year.
+
+539
+00:30:57,740 --> 00:31:00,580
+Just make sure you can still find the heart and you can still
+
+540
+00:31:00,580 --> 00:31:02,100
+identify whether it's beating or not.
+
+541
+00:31:02,740 --> 00:31:03,100
+Right.
+
+542
+00:31:03,620 --> 00:31:09,060
+But the cost of the, uh, the intervention, uh, certainly be pricey.
+
+543
+00:31:09,220 --> 00:31:10,420
+You mean like buying the machines?
+
+544
+00:31:10,580 --> 00:31:10,820
+Yeah.
+
+545
+00:31:11,140 --> 00:31:12,300
+But it's coming down every year.
+
+546
+00:31:12,380 --> 00:31:13,500
+It's getting cheaper and cheaper.
+
+547
+00:31:13,620 --> 00:31:14,300
+I own one.
+
+548
+00:31:14,580 --> 00:31:16,540
+I haven't bought one yet, but I've been tempted.
+
+549
+00:31:16,580 --> 00:31:17,420
+My butterfly out.
+
+550
+00:31:17,420 --> 00:31:18,980
+We can watch the sound each other.
+
+551
+00:31:20,300 --> 00:31:21,220
+Can we record a video?
+
+552
+00:31:23,460 --> 00:31:25,420
+Um, what about a TXA?
+
+553
+00:31:25,580 --> 00:31:29,580
+Cause everyone carries TXA because it's super cheap and readily available.
+
+554
+00:31:30,580 --> 00:31:34,380
+Uh, I guess in general, we'll start with general thoughts on TXA in
+
+555
+00:31:34,380 --> 00:31:35,260
+the pre-hospital setting.
+
+556
+00:31:35,580 --> 00:31:35,860
+Yeah.
+
+557
+00:31:36,500 --> 00:31:36,900
+Sweet.
+
+558
+00:31:36,940 --> 00:31:37,100
+Yeah.
+
+559
+00:31:37,100 --> 00:31:37,700
+It's getting great.
+
+560
+00:31:37,780 --> 00:31:38,500
+The TXA is there.
+
+561
+00:31:38,540 --> 00:31:40,900
+And do you think it matters so much that we give it right away?
+
+562
+00:31:41,420 --> 00:31:45,900
+Like as close to the point of injury as possible, or is it okay to give it on the
+
+563
+00:31:45,900 --> 00:31:46,220
+way?
+
+564
+00:31:46,740 --> 00:31:50,740
+I think, I think it was most important that a lot of people to kind of
+
+565
+00:31:50,740 --> 00:31:55,580
+overall federal recognizes not necessarily when, when the mess gets it,
+
+566
+00:31:55,580 --> 00:31:59,380
+they get to the scene or when they meet the patient or when they end up
+
+567
+00:31:59,380 --> 00:32:03,220
+give the OR or to the ER, but when was the patient injured?
+
+568
+00:32:03,340 --> 00:32:03,700
+Right.
+
+569
+00:32:03,740 --> 00:32:07,320
+So when was the patient injured and what did, how does that play into, you
+
+570
+00:32:07,320 --> 00:32:12,480
+know, overall, you know, how we treat and treat our trauma patients.
+
+571
+00:32:13,280 --> 00:32:19,560
+And, uh, you know, TXA is one of those drugs that, you know, over time, obviously
+
+572
+00:32:19,560 --> 00:32:24,080
+we know after three hours is, you know, we lose that mortality benefit, uh,
+
+573
+00:32:24,200 --> 00:32:28,760
+for in hospital, uh, you know, I know there's some more recent data that may
+
+574
+00:32:28,760 --> 00:32:37,000
+suggest that TXA may be more, may be beneficial than I'm willing to
+
+575
+00:32:37,000 --> 00:32:40,520
+overall, you know, give us a complete thumbs up.
+
+576
+00:32:41,720 --> 00:32:46,320
+Um, but I think it's important for, for EMS to get on scene when was the patient
+
+577
+00:32:46,320 --> 00:32:51,200
+injured, we also know this from, from the military is like, when we're, if we're
+
+578
+00:32:51,200 --> 00:32:55,760
+going to do a blood transfusion, uh, you know, if you look at, uh, um, Colonel
+
+579
+00:32:55,760 --> 00:33:01,280
+Shackelford and, and what she did, uh, they said, Hey, 34 minutes from injury,
+
+580
+00:33:01,280 --> 00:33:02,440
+34 minutes from injury.
+
+581
+00:33:03,080 --> 00:33:08,320
+If I get blood on board, I know I'm going to, you know, potentially have some sort
+
+582
+00:33:08,320 --> 00:33:13,360
+of significant impact that's going to, um, sway, um, you know, those patients.
+
+583
+00:33:13,440 --> 00:33:15,600
+And you need to give it within 34 minutes of injury.
+
+584
+00:33:16,280 --> 00:33:16,560
+Yeah.
+
+585
+00:33:17,400 --> 00:33:20,320
+And I think we don't, we don't really appreciate that in EMS because
+
+586
+00:33:20,320 --> 00:33:24,560
+often we're just like, Oh, well, someone comes on the lawn, we're going to show up.
+
+587
+00:33:24,560 --> 00:33:25,720
+I don't take it to the hospital.
+
+588
+00:33:26,440 --> 00:33:29,840
+But how do we know that person wouldn't lay out there for an hour or so?
+
+589
+00:33:30,160 --> 00:33:30,480
+Right.
+
+590
+00:33:31,480 --> 00:33:35,000
+And so I think, I think we should evaluate, you know, when are we going to give
+
+591
+00:33:35,000 --> 00:33:38,400
+TXA, um, and when was the patient injured?
+
+592
+00:33:38,960 --> 00:33:44,760
+Overall, uh, I'm, I've been, I've been pretty vocal about this for many years.
+
+593
+00:33:45,080 --> 00:33:50,600
+Uh, I'm not a super huge fan of TXA without using blood products.
+
+594
+00:33:51,280 --> 00:33:57,440
+Uh, I think, uh, we need a, especially in someone who's continues to bleed.
+
+595
+00:33:57,920 --> 00:34:03,240
+And so, so, so when you continues to bleed, we're, we're already coagulopathic
+
+596
+00:34:03,280 --> 00:34:05,560
+and we're not giving blood products.
+
+597
+00:34:06,080 --> 00:34:11,400
+You know, is that TXA is going to bleed the body because what's it, what's it really
+
+598
+00:34:11,400 --> 00:34:11,720
+doing?
+
+599
+00:34:11,720 --> 00:34:16,200
+And I'm sure I could, you know, catch a lot of flack from, you know, people
+
+600
+00:34:16,200 --> 00:34:19,840
+who are much smarter than I am on this topic and this, this opinion.
+
+601
+00:34:19,840 --> 00:34:25,920
+But I mean, show, show me the data that suggests that pre-hospital TXA, uh,
+
+602
+00:34:26,000 --> 00:34:28,960
+outside of a couple of studies is super useful.
+
+603
+00:34:29,280 --> 00:34:29,520
+Yeah.
+
+604
+00:34:29,520 --> 00:34:34,240
+I think the big holdup here is that TXA is super cheap and blood is super expensive.
+
+605
+00:34:34,520 --> 00:34:35,560
+But what else does it cost?
+
+606
+00:34:35,560 --> 00:34:35,920
+Right?
+
+607
+00:34:36,320 --> 00:34:36,640
+Yeah.
+
+608
+00:34:36,920 --> 00:34:40,200
+I mean, do you get venous thromboembolisms?
+
+609
+00:34:40,640 --> 00:34:41,640
+Do you get PEs?
+
+610
+00:34:41,680 --> 00:34:45,960
+Do you get, uh, you know, other vascular issues?
+
+611
+00:34:46,480 --> 00:34:47,960
+Those are your problems in the hospital.
+
+612
+00:34:48,240 --> 00:34:48,800
+Right.
+
+613
+00:34:48,840 --> 00:34:49,200
+Right.
+
+614
+00:34:49,200 --> 00:34:49,480
+Yeah.
+
+615
+00:34:49,520 --> 00:34:54,040
+Hey, just, just, just give it and, and just go with it.
+
+616
+00:34:54,360 --> 00:35:01,560
+And I think that's, I'm not, I'm not going to do bag on EMS for, for, for something
+
+617
+00:35:01,560 --> 00:35:05,920
+like that, that is going to, you know, where they did thinking about what are we
+
+618
+00:35:05,920 --> 00:35:06,920
+going to do in the hospital?
+
+619
+00:35:07,320 --> 00:35:07,640
+Right.
+
+620
+00:35:07,640 --> 00:35:07,840
+Right.
+
+621
+00:35:07,840 --> 00:35:11,040
+But I, I guess I put it back on the medicine.
+
+622
+00:35:11,040 --> 00:35:16,160
+Like, I mean, it's still me, uh, you know, we continue to read rate very smart
+
+623
+00:35:16,160 --> 00:35:22,000
+people out there, they're much better than I am that work on EMS, uh, that, that, you
+
+624
+00:35:22,000 --> 00:35:24,760
+know, could help kind of put that thought out there.
+
+625
+00:35:25,200 --> 00:35:25,520
+Right.
+
+626
+00:35:25,680 --> 00:35:26,600
+What are we doing?
+
+627
+00:35:26,840 --> 00:35:28,640
+What's going to happen when they get to the hospital?
+
+628
+00:35:29,240 --> 00:35:32,760
+And maybe, maybe it's because EMS doesn't know because they're not really taught
+
+629
+00:35:32,760 --> 00:35:34,880
+that in their, in their education pipeline.
+
+630
+00:35:34,880 --> 00:35:35,160
+Right.
+
+631
+00:35:35,480 --> 00:35:35,640
+Yeah.
+
+632
+00:35:35,640 --> 00:35:37,960
+We don't have exposure to what goes on in the hospital.
+
+633
+00:35:38,040 --> 00:35:38,880
+It's pretty limited.
+
+634
+00:35:40,000 --> 00:35:45,080
+Like all medics, which I'm sure you remember go do shifts in school, but it's
+
+635
+00:35:45,080 --> 00:35:46,640
+not to understand how the system works.
+
+636
+00:35:46,680 --> 00:35:47,680
+It's to get skills.
+
+637
+00:35:47,720 --> 00:35:48,720
+So it's a different story.
+
+638
+00:35:48,960 --> 00:35:49,200
+Yeah.
+
+639
+00:35:49,280 --> 00:35:53,040
+And yeah, you work in the ED and you can do some skills.
+
+640
+00:35:53,080 --> 00:35:57,080
+Uh, you kind of see maybe they, the trauma team comes down and they take me to OR
+
+641
+00:35:57,080 --> 00:35:59,760
+and that's like, all right, you know, all right, I'm out.
+
+642
+00:36:00,360 --> 00:36:02,400
+Uh, even as you go to the OR, what do you do?
+
+643
+00:36:02,400 --> 00:36:03,720
+You go on there to innovate.
+
+644
+00:36:03,760 --> 00:36:09,880
+And a lot of times people, you know, after that they may scrub out or they, or maybe
+
+645
+00:36:09,880 --> 00:36:15,280
+they don't feel comfortable asking, but I, but I think offering, uh, EMS, uh, kind
+
+646
+00:36:15,280 --> 00:36:20,200
+of insight into what happens in trauma surgery, uh, after they get to the
+
+647
+00:36:20,200 --> 00:36:24,480
+hospital and after they leave the ER, what's that, what happens and what decisions
+
+648
+00:36:24,480 --> 00:36:25,040
+are made.
+
+649
+00:36:25,520 --> 00:36:25,800
+Yeah.
+
+650
+00:36:25,800 --> 00:36:27,120
+I think that's a good point you bring up.
+
+651
+00:36:27,440 --> 00:36:29,400
+That is something that doesn't happen a lot.
+
+652
+00:36:29,720 --> 00:36:35,000
+Um, I don't know how it is in other places, but in New Mexico for hospitals to maintain
+
+653
+00:36:35,000 --> 00:36:39,800
+their status as a trauma center, they have to do those types of case reviews or
+
+654
+00:36:39,800 --> 00:36:42,560
+presentations from like start to finish.
+
+655
+00:36:42,840 --> 00:36:44,200
+Uh, so it does happen.
+
+656
+00:36:44,720 --> 00:36:48,760
+But I would imagine like the percentage of pre-hospital providers that participate in
+
+657
+00:36:48,760 --> 00:36:51,840
+those things, myself included, like I've never gone.
+
+658
+00:36:52,280 --> 00:36:55,520
+Like I know it exists, but in my mind I framed it like it's another meeting that
+
+659
+00:36:55,520 --> 00:36:56,280
+I don't want to go to.
+
+660
+00:36:56,400 --> 00:36:58,960
+But you see them when they show up in the ICU, right?
+
+661
+00:36:58,960 --> 00:37:00,360
+And then you're like, whoa.
+
+662
+00:37:00,480 --> 00:37:00,680
+Yeah.
+
+663
+00:37:00,680 --> 00:37:02,400
+My situation is a little different.
+
+664
+00:37:02,760 --> 00:37:04,800
+I also work in the trauma surgical ICU.
+
+665
+00:37:05,560 --> 00:37:08,840
+So yeah, it has worked out a couple of times where I've had a patient on scene
+
+666
+00:37:09,280 --> 00:37:11,560
+and then I've had them or at least seen them on the unit.
+
+667
+00:37:11,720 --> 00:37:12,960
+That's, that's kind of cool.
+
+668
+00:37:13,200 --> 00:37:13,400
+Yeah.
+
+669
+00:37:13,720 --> 00:37:14,120
+That's nice.
+
+670
+00:37:14,120 --> 00:37:15,480
+And that's nice continuity care.
+
+671
+00:37:16,080 --> 00:37:16,280
+Yeah.
+
+672
+00:37:16,280 --> 00:37:20,240
+I think that's pretty unique, but in general, most folks don't have that opportunity.
+
+673
+00:37:20,880 --> 00:37:26,440
+I guess if I were to pick one area of EMS that would improve, it would be something
+
+674
+00:37:26,440 --> 00:37:26,880
+like that.
+
+675
+00:37:27,080 --> 00:37:30,360
+And, uh, you know, hopefully I don't get myself in trouble with, you know, I've
+
+676
+00:37:31,680 --> 00:37:35,440
+taken a couple of paramedic students up to the OR be like, yeah, you know, put on
+
+677
+00:37:35,440 --> 00:37:37,560
+some scrubs, come in and watch what we do.
+
+678
+00:37:38,120 --> 00:37:41,600
+And, uh, yeah, it's, it's, uh, I think it's a great opportunity for them.
+
+679
+00:37:41,760 --> 00:37:45,480
+You know, they're not, they're not, you know, doing much, you know, the bed debate,
+
+680
+00:37:45,560 --> 00:37:47,880
+you know, they're, they're wearing the scrubs and they're scrubbed in.
+
+681
+00:37:47,880 --> 00:37:51,520
+They can at least look over and kind of see what we're doing and kind of
+
+682
+00:37:51,520 --> 00:37:53,240
+see how we kind of approach things.
+
+683
+00:37:53,720 --> 00:37:54,000
+Yeah.
+
+684
+00:37:54,040 --> 00:37:54,800
+No, that's awesome.
+
+685
+00:37:55,440 --> 00:37:58,600
+I definitely think that would be good for more providers to have that sort of
+
+686
+00:37:58,600 --> 00:38:01,160
+follow-up and exposure to what goes on in the hospital.
+
+687
+00:38:01,440 --> 00:38:04,480
+That gives them a whole EMS education, which is on our list.
+
+688
+00:38:05,920 --> 00:38:07,080
+We'll say that for another time.
+
+689
+00:38:07,120 --> 00:38:07,520
+Yeah.
+
+690
+00:38:07,520 --> 00:38:08,120
+Right.
+
+691
+00:38:08,960 --> 00:38:13,000
+Um, I guess the other questions I have are just general questions.
+
+692
+00:38:13,560 --> 00:38:15,560
+I'm curious to know a little bit about you.
+
+693
+00:38:16,080 --> 00:38:17,480
+You've worked in a number of settings.
+
+694
+00:38:17,800 --> 00:38:22,720
+You were in the military and worked as a civilian medic and then back in
+
+695
+00:38:22,920 --> 00:38:25,960
+when you got your PA, now you're working on becoming a surgeon.
+
+696
+00:38:26,760 --> 00:38:28,960
+Uh, how has that transition worked out for you?
+
+697
+00:38:29,480 --> 00:38:32,160
+Like, what are your thoughts on that trajectory and the different
+
+698
+00:38:32,160 --> 00:38:33,720
+roles you've had a chance to work in?
+
+699
+00:38:34,080 --> 00:38:38,600
+I think, I think each step is significantly challenging because, um,
+
+700
+00:38:38,680 --> 00:38:39,880
+every, every role is different.
+
+701
+00:38:40,480 --> 00:38:47,200
+Um, I could not say enough amazing things about what we have for the
+
+702
+00:38:47,200 --> 00:38:50,640
+APPs we have in, you know, at our hospital.
+
+703
+00:38:50,680 --> 00:38:53,320
+You don't have to say that just because I'm in an AP school.
+
+704
+00:38:54,440 --> 00:38:54,920
+Okay.
+
+705
+00:38:54,960 --> 00:38:55,280
+All right.
+
+706
+00:38:55,360 --> 00:38:58,960
+They're all terrible, but no, they're, they're really fantastic.
+
+707
+00:38:58,960 --> 00:39:03,040
+And, and, uh, they do an amazing job and, and I always try to at least
+
+708
+00:39:03,040 --> 00:39:04,720
+recognize the role they play.
+
+709
+00:39:05,200 --> 00:39:10,840
+Uh, but you know, my first year of PA school, um, you know, I went through
+
+710
+00:39:10,840 --> 00:39:17,080
+the iPad program, uh, I didn't find it super challenging that that portion.
+
+711
+00:39:17,520 --> 00:39:19,800
+Um, you know, probably a little more challenges.
+
+712
+00:39:19,800 --> 00:39:22,840
+I think maybe once we got to the clinical setting, because it's different, you know,
+
+713
+00:39:22,840 --> 00:39:26,640
+you look at it from pre-hospital setting and no, I am here to take care of
+
+714
+00:39:26,640 --> 00:39:29,840
+emergencies as well, you know, when you're a PA, you're, you're, you're not.
+
+715
+00:39:30,440 --> 00:39:34,360
+You may take care of emergencies, but your goal is not to simply learn
+
+716
+00:39:34,360 --> 00:39:38,640
+emergency medicine, your, your goal is to learn how to be the PA and how to
+
+717
+00:39:38,640 --> 00:39:40,360
+learn in all aspects of medicine.
+
+718
+00:39:40,960 --> 00:39:44,000
+And so from there it was, you know, you had to make that jump.
+
+719
+00:39:45,120 --> 00:39:49,800
+And, uh, you know, I think took me a bit to be able to recognize that.
+
+720
+00:39:50,000 --> 00:39:57,360
+Um, uh, the jump from PA to medical school was, uh, seeing the
+
+721
+00:39:57,360 --> 00:40:01,640
+empirically emotional event, uh, super challenging.
+
+722
+00:40:01,720 --> 00:40:08,720
+Uh, medical school is a challenging self-surgery residency is, um, it's
+
+723
+00:40:08,720 --> 00:40:12,960
+just, I don't know how to describe it other than it's hard.
+
+724
+00:40:13,160 --> 00:40:19,280
+And you know, I work a lot, a lot of hours and a lot of hours that, you
+
+725
+00:40:19,280 --> 00:40:23,720
+know, I don't log, right, because I come home and you can, you're, we're
+
+726
+00:40:23,720 --> 00:40:28,480
+in my house right now and we can see, I have one, two, three, four, five,
+
+727
+00:40:28,960 --> 00:40:36,040
+five, six books, six books that, that, um, that have out, um, I mainly use
+
+728
+00:40:36,160 --> 00:40:41,560
+two of them, um, but, uh, you know, I have a whole book on, you know,
+
+729
+00:40:41,560 --> 00:40:44,920
+dictation and, uh, it's that blue book right there.
+
+730
+00:40:44,920 --> 00:40:49,160
+And, you know, I look in there, you know, I look up cases beforehand.
+
+731
+00:40:49,680 --> 00:40:51,840
+I read about the patient, I read about the procedure.
+
+732
+00:40:52,120 --> 00:40:56,920
+I'll go back and I'll look at the, the, uh, attending previous operations
+
+733
+00:40:56,920 --> 00:40:58,640
+and see how he did that operation.
+
+734
+00:40:59,000 --> 00:41:03,360
+And so I have an understanding about how this surgeon male and female
+
+735
+00:41:03,360 --> 00:41:05,080
+may approach it, may approach it.
+
+736
+00:41:05,800 --> 00:41:07,920
+Uh, and that's just their specific thing.
+
+737
+00:41:08,080 --> 00:41:11,080
+I also have to know about, you know, what's the pathophysiology, what's the
+
+738
+00:41:11,080 --> 00:41:17,240
+anatomy, what's, uh, what's the overall risk of things like leaks or, you know,
+
+739
+00:41:17,240 --> 00:41:22,520
+adverse outcomes or, uh, other significant events that really kind of
+
+740
+00:41:22,520 --> 00:41:24,480
+impact morbidity and mortality.
+
+741
+00:41:25,080 --> 00:41:31,600
+Uh, being a, being trained to be a surgeon is something completely different.
+
+742
+00:41:31,880 --> 00:41:32,800
+It's not impossible.
+
+743
+00:41:32,840 --> 00:41:34,480
+Um, many people do it.
+
+744
+00:41:34,520 --> 00:41:38,920
+I'm a knuckle dragger, you know, and I'm, I'm quote unquote making it.
+
+745
+00:41:39,920 --> 00:41:44,880
+But, you know, I, I'm not, I'm not dumb, but I'm not the sharpest off in the drawer.
+
+746
+00:41:45,360 --> 00:41:50,160
+Uh, I think each step you should recognize what you're going, what you, what
+
+747
+00:41:50,160 --> 00:41:55,480
+you're, what is your goal and if you want to be a nurse practitioner or PA, fantastic.
+
+748
+00:41:56,200 --> 00:42:01,120
+Uh, but also think if you have ever thought about being, becoming a physician,
+
+749
+00:42:01,320 --> 00:42:05,120
+D O or MD, um, you should think about that.
+
+750
+00:42:05,280 --> 00:42:09,680
+Um, take some time to think about it before you kind of decide what you're
+
+751
+00:42:09,680 --> 00:42:16,080
+doing, PA MP or, uh, or D O MD and, uh, and make your decision based upon what
+
+752
+00:42:16,080 --> 00:42:18,240
+you think you want to do a lot.
+
+753
+00:42:18,560 --> 00:42:22,600
+Again, our amazing APPs do fantastic job every single day.
+
+754
+00:42:23,120 --> 00:42:28,800
+Uh, I chose to jump from PA to, uh, become a physician because I wanted to operate.
+
+755
+00:42:29,520 --> 00:42:35,360
+And even though there's a lot of great APPs that work in surgery, um, I wanted
+
+756
+00:42:35,360 --> 00:42:37,080
+to be the one that was doing the operation.
+
+757
+00:42:37,440 --> 00:42:39,000
+I want to be the person that was making a decision.
+
+758
+00:42:39,800 --> 00:42:44,560
+Uh, I'm working a little bit haphazardly here and I'm digressing a little bit.
+
+759
+00:42:45,040 --> 00:42:50,200
+Um, I went to EMT school when I, or an EMT course when I was enlisted, that when
+
+760
+00:42:50,200 --> 00:42:53,920
+I was an infantry guy, and that was the thing that said, Oh man, I really like
+
+761
+00:42:53,920 --> 00:42:54,440
+medicine.
+
+762
+00:42:54,800 --> 00:43:01,880
+It was a really, I mean, I was successful as, um, I am free ranger, uh, but, um,
+
+763
+00:43:02,040 --> 00:43:05,400
+I really kind of kind of, it's kind of stuck to me and it was like one of the
+
+764
+00:43:05,400 --> 00:43:07,440
+first things I was like, man, I really enjoy it.
+
+765
+00:43:08,040 --> 00:43:12,000
+And I'm not, I'm not terrible if that makes sense.
+
+766
+00:43:12,480 --> 00:43:17,920
+Uh, you know, I didn't necessarily have a, um, a regular pathway.
+
+767
+00:43:17,920 --> 00:43:21,080
+Obviously you don't end up being a middle-aged man, being a fourth year
+
+768
+00:43:21,240 --> 00:43:25,440
+surgery resident, but you know, it was like, it was something I enjoyed doing.
+
+769
+00:43:25,440 --> 00:43:31,480
+And, um, I kind of pursued things as I, as I found them, uh, if I had to go back,
+
+770
+00:43:31,840 --> 00:43:36,600
+I'd probably go, you know, I had to go go into medical school when I got out of the
+
+771
+00:43:36,600 --> 00:43:39,320
+army and, you know, life takes you in different directions.
+
+772
+00:43:39,640 --> 00:43:44,880
+I wouldn't give up my PA time and the army and, and December hits the range
+
+773
+00:43:44,880 --> 00:43:48,400
+regiment for anything, uh, but I've had to do it again.
+
+774
+00:43:48,680 --> 00:43:50,320
+And, uh, you know, hindsight.
+
+775
+00:43:50,520 --> 00:43:54,520
+Yeah, I probably go straight to medical school and, uh, go that route, but I
+
+776
+00:43:54,520 --> 00:43:57,560
+probably actually would end up in emergency medicine, which I probably
+
+777
+00:43:57,560 --> 00:43:59,560
+eventually would have disliked a little bit.
+
+778
+00:43:59,960 --> 00:44:01,000
+Nothing wrong with it.
+
+779
+00:44:01,080 --> 00:44:01,920
+Um, it's just.
+
+780
+00:44:02,720 --> 00:44:07,280
+Uh, after moonlighting doing as a PA, I'm like, I don't want to do this as a
+
+781
+00:44:07,280 --> 00:44:07,800
+position.
+
+782
+00:44:08,480 --> 00:44:10,400
+And so I was like, I really want to be a surgeon.
+
+783
+00:44:10,960 --> 00:44:15,120
+And, uh, man, it's, it's, it's an amazing, uh, pathway I've been on.
+
+784
+00:44:15,680 --> 00:44:18,800
+Uh, but I would recommend that everyone kind of take the opportunity, especially
+
+785
+00:44:18,800 --> 00:44:21,560
+if you're an EMS, you know, become a physician, do it.
+
+786
+00:44:21,960 --> 00:44:23,720
+There's nothing to stop you from doing it.
+
+787
+00:44:24,160 --> 00:44:27,880
+And you know, I've talked to Jason picket about this, um, or Jr.
+
+788
+00:44:27,880 --> 00:44:28,240
+Pickett.
+
+789
+00:44:28,480 --> 00:44:31,840
+I've talked to a lot of people about this and I've, I've tried to kind
+
+790
+00:44:31,840 --> 00:44:35,560
+of put that a little bit of wisdom out there.
+
+791
+00:44:35,560 --> 00:44:39,640
+And I understand like, uh, we've all been, you know, in our early 20s, late
+
+792
+00:44:39,640 --> 00:44:43,160
+twenties, early thirties, whoever were like, ah, I think I know best.
+
+793
+00:44:43,800 --> 00:44:49,280
+Uh, I would just take the opportunity to the pause for a second, figure out what
+
+794
+00:44:49,280 --> 00:44:53,480
+you really want to do, and then you should go for it because I, I have little
+
+795
+00:44:53,480 --> 00:44:58,520
+doubt that every single paramedic out there, uh, every single paramedic
+
+796
+00:44:58,520 --> 00:45:02,640
+out there, uh, you know, if you're an EMT, you become a physician, you become a
+
+797
+00:45:02,640 --> 00:45:07,360
+P.A. You become a paramedic, uh, recognize that, uh, know what your goals are and go
+
+798
+00:45:07,360 --> 00:45:07,840
+for it.
+
+799
+00:45:08,680 --> 00:45:09,120
+Awesome.
+
+800
+00:45:09,680 --> 00:45:11,600
+Well, that's all the questions I had.
+
+801
+00:45:12,280 --> 00:45:15,120
+I don't know if there's anything else you had or if we'll just stop there.
+
+802
+00:45:15,560 --> 00:45:15,760
+Yeah.
+
+803
+00:45:15,760 --> 00:45:18,800
+I'm, I'm so happy that we were finally able to start talking to you.
+
+804
+00:45:18,800 --> 00:45:24,640
+I'm so happy that you're able to, um, to, to, to, to, to, to, to, to, to, to, to, to,
+
+805
+00:45:24,640 --> 00:45:28,320
+to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to,
+
+806
+00:45:28,400 --> 00:45:35,320
+to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to, to,
+
+807
+00:45:35,760 --> 00:45:36,000
+to let that goal go.
+
+808
+00:45:37,200 --> 00:45:37,840
+Thank you very much.
+
+809
+00:45:37,840 --> 00:45:38,360
+My pleasure.
+
+810
+00:45:39,520 --> 00:45:39,840
+Thanks to Dr.
+
+811
+00:45:42,720 --> 00:45:46,160
+A most sweet Comey in.
+
+812
+00:45:47,440 --> 00:45:51,080
+Last quarter, in season three, I had not heard about her question on me,
+
+813
+00:45:51,080 --> 00:45:56,200
+but primarily she makes things various about her powers.
+
+814
+00:45:56,220 --> 00:45:58,220
+We were able to showcase it to brothers and sisters regardingiff,
+
+815
+00:45:58,220 --> 00:46:02,180
+St. Fisher folks have been instrumental in getting our stuff out there into the world
+
+816
+00:46:02,180 --> 00:46:04,460
+and we truly appreciate that.
+
+817
+00:46:04,460 --> 00:46:08,360
+And then we'll end things with a shout out to my good friend Josh Pittman and his buddy
+
+818
+00:46:08,360 --> 00:46:09,860
+Kevin Pons.
+
+819
+00:46:09,860 --> 00:46:11,880
+They put the music together for the show.
+
+820
+00:46:11,880 --> 00:46:12,880
+Until next time.

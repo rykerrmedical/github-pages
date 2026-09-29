@@ -1,0 +1,759 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,720
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,720 --> 00:00:15,360
+care medicine.
+
+4
+00:00:15,360 --> 00:00:20,440
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,440 --> 00:00:23,960
+use of technology can facilitate that effort.
+
+6
+00:00:23,960 --> 00:00:29,960
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,960 --> 00:00:37,040
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:37,040 --> 00:00:40,800
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,800 --> 00:00:43,800
+do.
+
+10
+00:00:43,800 --> 00:01:11,800
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:13,800 --> 00:01:20,080
+In this introductory episode of the podcast, we just want to take some time to explain
+
+12
+00:01:20,080 --> 00:01:23,200
+what's going on here at Riker Medical.
+
+13
+00:01:23,200 --> 00:01:26,040
+We'll start with a review of how we got here.
+
+14
+00:01:26,040 --> 00:01:30,760
+We'll explain where things are at and how this podcast fits into the picture.
+
+15
+00:01:30,760 --> 00:01:35,080
+We'll paint a vision of what we hope this project to become and then we'll end it with
+
+16
+00:01:35,080 --> 00:01:40,080
+a discussion about how you can get involved.
+
+17
+00:01:40,080 --> 00:01:45,320
+Riker Medical started with a book on ventilator management for pre-hospital folks.
+
+18
+00:01:45,320 --> 00:01:49,640
+We self-published that resource to help clinicians in the field gain a basic understanding of
+
+19
+00:01:49,640 --> 00:01:51,760
+ventilators and transport.
+
+20
+00:01:51,760 --> 00:01:56,040
+The idea from the beginning was to make that a free resource for everyone.
+
+21
+00:01:56,040 --> 00:02:00,800
+We got set up as an LLC and started the webpage to have a place to host it.
+
+22
+00:02:00,800 --> 00:02:03,600
+You can access and download that book for free.
+
+23
+00:02:03,600 --> 00:02:10,440
+Just head over to RikerMedical.com and navigate to this section on vent management.
+
+24
+00:02:10,440 --> 00:02:15,280
+Once we had the website started, we slowly began to add other bits of content there,
+
+25
+00:02:15,280 --> 00:02:18,280
+various resources for clinicians in the field.
+
+26
+00:02:18,280 --> 00:02:23,600
+We've got some drug references, examples of protocols, cheat sheets, that sort of thing.
+
+27
+00:02:23,600 --> 00:02:28,320
+There's lots more in the works, but it takes time and we got distracted by another idea
+
+28
+00:02:28,320 --> 00:02:30,720
+that brought us to where we are now.
+
+29
+00:02:30,720 --> 00:02:35,040
+The thought struck us that there are lots of people out there working in the field that
+
+30
+00:02:35,040 --> 00:02:40,240
+have insight to offer, but there's not a good way for those motivated individuals to share
+
+31
+00:02:40,240 --> 00:02:44,040
+what they know without a lot of upfront effort to make it happen.
+
+32
+00:02:44,040 --> 00:02:48,480
+Our vent book, for example, has been out for over a year now and the reach we've been able
+
+33
+00:02:48,480 --> 00:02:50,760
+to achieve is pretty limited.
+
+34
+00:02:50,760 --> 00:02:55,200
+That seems unfortunate as we imagine there are great many medics and nurses out there
+
+35
+00:02:55,200 --> 00:02:58,560
+who would be stoked to come across this type of thing.
+
+36
+00:02:58,560 --> 00:03:03,920
+Our solution for that is to try and use this platform, which is slowly gaining attention,
+
+37
+00:03:03,920 --> 00:03:08,800
+to allow others to publicize what they have to offer to the greater community.
+
+38
+00:03:08,800 --> 00:03:13,440
+Taking that idea one step further, we thought it'd be pretty rad to make it happen via a
+
+39
+00:03:13,440 --> 00:03:15,960
+continuing education exchange.
+
+40
+00:03:15,960 --> 00:03:21,400
+We could build out a CE program to give hours back to people who contribute their work.
+
+41
+00:03:21,400 --> 00:03:27,040
+The idea is to foster some sense of community that both provides valuable content and gives
+
+42
+00:03:27,040 --> 00:03:29,680
+a benefit back to those who do the work.
+
+43
+00:03:29,680 --> 00:03:32,440
+Of course, we want the thing to be free.
+
+44
+00:03:32,440 --> 00:03:37,580
+Now if you follow us on social media, you may already know that we did get granted organizational
+
+45
+00:03:37,580 --> 00:03:41,000
+accreditation for a CE program through CAPSIE.
+
+46
+00:03:41,000 --> 00:03:45,600
+That's the Commission on Accreditation for Pre-Hospital Continuing Education.
+
+47
+00:03:45,600 --> 00:03:49,920
+Unfortunately and for a variety of reasons that we don't need to get into, CAPSIE has
+
+48
+00:03:49,920 --> 00:03:54,600
+revoked that accreditation until we add a few more pieces to the puzzle and resubmit
+
+49
+00:03:54,600 --> 00:03:56,600
+our application.
+
+50
+00:03:56,600 --> 00:03:59,080
+That's where we're at for now.
+
+51
+00:03:59,080 --> 00:04:03,160
+This podcast will eventually be part of that CE program.
+
+52
+00:04:03,160 --> 00:04:06,280
+Listeners will be able to pitch ideas to us for episodes.
+
+53
+00:04:06,280 --> 00:04:12,040
+We will work with them to make it happen and then CE credit will be awarded in the exchange.
+
+54
+00:04:12,040 --> 00:04:16,560
+In addition, there will be an option for the community at large to get credit for listening
+
+55
+00:04:16,560 --> 00:04:21,840
+to certain episodes and taking quizzes or some sort of competency assessment that accompany
+
+56
+00:04:21,840 --> 00:04:23,520
+those episodes.
+
+57
+00:04:23,520 --> 00:04:27,480
+For now, we don't have the capacity to award credit, but we are still looking for content
+
+58
+00:04:27,480 --> 00:04:32,680
+contributors to work with us through the process so that we can demonstrate to CAPSIE exactly
+
+59
+00:04:32,680 --> 00:04:37,440
+how the quality control aspects work on our end.
+
+60
+00:04:37,440 --> 00:04:41,360
+So if you're interested in that sort of thing, here's how it would happen.
+
+61
+00:04:41,360 --> 00:04:46,840
+Head on over to rightgormedical.com, follow the links to the ConEd program development
+
+62
+00:04:46,840 --> 00:04:50,520
+page and submit an activity application.
+
+63
+00:04:50,520 --> 00:04:54,880
+You will review that application and then get back to you on next steps for making it
+
+64
+00:04:54,880 --> 00:04:56,160
+happen.
+
+65
+00:04:56,160 --> 00:05:01,240
+In the meantime, we here at Riker Medical have a few ideas for episodes and will try
+
+66
+00:05:01,240 --> 00:05:03,360
+to contribute regularly to the show.
+
+67
+00:05:03,360 --> 00:05:07,760
+Now, it is worth noting that not all of the stuff we host on the show or on the website
+
+68
+00:05:07,760 --> 00:05:09,880
+fall into the CE program.
+
+69
+00:05:09,880 --> 00:05:14,680
+We may choose to share things that are non-clinical or otherwise non-testable and therefore can't
+
+70
+00:05:14,680 --> 00:05:18,000
+really be worked into the continuing education side of things.
+
+71
+00:05:18,000 --> 00:05:20,320
+So the show will be a mix of both.
+
+72
+00:05:20,320 --> 00:05:23,920
+That said, if you have an idea for an episode that probably won't meet criteria for the
+
+73
+00:05:23,920 --> 00:05:27,160
+CE program, we're also game for that as well.
+
+74
+00:05:27,160 --> 00:05:32,500
+You can use the very same application to get in touch and we'll take it from there.
+
+75
+00:05:32,500 --> 00:05:38,440
+As far as what sorts of things fall into the CE model, that takes a bit of explaining.
+
+76
+00:05:38,440 --> 00:05:42,720
+Our initial pitch to CAPSIE included seven activities.
+
+77
+00:05:42,720 --> 00:05:46,040
+First are the podcast and blog, which are pretty self-explanatory.
+
+78
+00:05:46,040 --> 00:05:50,040
+We'd give credit to folks for contributing episodes or posts.
+
+79
+00:05:50,060 --> 00:05:54,400
+We also envisioned a mentorship activity in which we could give credit to an experienced
+
+80
+00:05:54,400 --> 00:05:59,480
+clinician for building out a mentorship program for someone new to the field or with less
+
+81
+00:05:59,480 --> 00:06:00,480
+experience.
+
+82
+00:06:00,480 --> 00:06:05,960
+Then there was the idea of annotated illustrations, offering credit for explaining concepts visually
+
+83
+00:06:05,960 --> 00:06:06,960
+or graphically.
+
+84
+00:06:06,960 --> 00:06:11,880
+We also had a reflection activity in which someone could share an experience via the
+
+85
+00:06:11,880 --> 00:06:17,880
+platform in an active reflection or debrief, whether that be text, audio, or video.
+
+86
+00:06:17,880 --> 00:06:22,040
+Another idea was the critique, essentially a way for someone to informally peer-reviewed
+
+87
+00:06:22,040 --> 00:06:26,440
+content produced by someone else and to provide constructive feedback on whatever it might
+
+88
+00:06:26,440 --> 00:06:27,440
+be.
+
+89
+00:06:27,440 --> 00:06:32,120
+Lastly, was the instructional design activity in which we give credit to people for building
+
+90
+00:06:32,120 --> 00:06:34,800
+out courses or lessons.
+
+91
+00:06:34,800 --> 00:06:39,360
+The hope moving forward is to find a way to make all of these activities work.
+
+92
+00:06:39,360 --> 00:06:43,960
+The catch is that we now also have to have a mechanism to offer the community at large
+
+93
+00:06:43,960 --> 00:06:49,600
+the opportunity to earn credit for participating in or consuming whatever content we put out
+
+94
+00:06:49,600 --> 00:06:52,200
+through the CE program.
+
+95
+00:06:52,200 --> 00:06:56,520
+Just to be clear, this is at the request of CAPSIE as the accrediting body, so there's
+
+96
+00:06:56,520 --> 00:06:58,800
+no real workaround for us there.
+
+97
+00:06:58,800 --> 00:07:04,480
+The plan is to get content up on a learning management system or LMS so that anyone can
+
+98
+00:07:04,480 --> 00:07:10,160
+access those final projects and participate in them for credit, which is cool.
+
+99
+00:07:10,160 --> 00:07:14,480
+That means that we'll eventually have a library of stuff to meet whatever CE needs you might
+
+100
+00:07:14,480 --> 00:07:16,440
+have.
+
+101
+00:07:16,440 --> 00:07:21,060
+The downside or the problem to be overcome is that not all of these activities we initially
+
+102
+00:07:21,060 --> 00:07:23,580
+envisioned are readily testable.
+
+103
+00:07:23,580 --> 00:07:28,520
+So let's say you want to do a reflection on a run you had and how it affected you personally.
+
+104
+00:07:28,520 --> 00:07:32,400
+That's not something that lends itself to educational goals or learning outcomes that
+
+105
+00:07:32,400 --> 00:07:37,360
+we could put down on a lesson plan for others to get credit from, which is totally okay
+
+106
+00:07:37,360 --> 00:07:39,640
+and we're still down to host your story.
+
+107
+00:07:39,640 --> 00:07:43,680
+It just means that we've got to sort out which contributions will be part of the CE
+
+108
+00:07:43,680 --> 00:07:47,480
+program and which will be just for the sake of getting it out there into the universe
+
+109
+00:07:47,480 --> 00:07:50,560
+and sharing the experience.
+
+110
+00:07:50,560 --> 00:07:54,000
+Another problematic example is the mentorship program.
+
+111
+00:07:54,000 --> 00:07:59,120
+It's a bit tough to test outsiders on a one-on-one mentorship session.
+
+112
+00:07:59,120 --> 00:08:04,740
+That said, we can work to design those plans to focus on specific goals or objectives.
+
+113
+00:08:04,740 --> 00:08:10,660
+We could then record those sessions and share via the LMS like any other asynchronous course.
+
+114
+00:08:10,660 --> 00:08:15,380
+In fact, there's also the option to live stream them so that participants can get credit
+
+115
+00:08:15,380 --> 00:08:16,900
+in real time.
+
+116
+00:08:16,900 --> 00:08:21,620
+In that scenario, we'd be able to give credit to the mentor for developing and guiding the
+
+117
+00:08:21,620 --> 00:08:27,140
+session, to the live audience for participating synchronously, and then to the stragglers
+
+118
+00:08:27,140 --> 00:08:31,180
+who watch it asynchronously via the LMS.
+
+119
+00:08:31,180 --> 00:08:35,300
+We've been toying with this idea along with some of our partners, so more on that whenever
+
+120
+00:08:35,300 --> 00:08:37,180
+we get it worked out.
+
+121
+00:08:37,180 --> 00:08:41,620
+But to summarize where things are at currently, we're going to make this CE program happen
+
+122
+00:08:41,620 --> 00:08:45,180
+one way or another and when we do, it'll be badass.
+
+123
+00:08:45,180 --> 00:08:49,460
+In the meantime, we'll work on getting this podcast and the blog going and are open to
+
+124
+00:08:49,460 --> 00:08:52,180
+any help we can get.
+
+125
+00:08:52,180 --> 00:08:56,940
+The end goal or vision for it all is that we will exist as a home for high-quality learning
+
+126
+00:08:56,940 --> 00:09:01,500
+opportunities created for and by a community of clinicians.
+
+127
+00:09:01,500 --> 00:09:05,860
+We can help hash out ideas and refine projects to meet industry standards and requirements
+
+128
+00:09:05,860 --> 00:09:10,700
+of accreditation, but our hope is to eventually become a host and let you guys keep the things
+
+129
+00:09:10,700 --> 00:09:11,940
+going.
+
+130
+00:09:11,940 --> 00:09:16,740
+We're here to get it all started, to do the logistics and maintain accreditation, and
+
+131
+00:09:16,740 --> 00:09:19,620
+then we'll probably still want to pitch in every now and again with new thoughts and
+
+132
+00:09:19,620 --> 00:09:21,660
+ideas as they come up.
+
+133
+00:09:21,900 --> 00:09:26,860
+Basically, we want to break the mold that keeps ground-level providers from pitching
+
+134
+00:09:26,860 --> 00:09:29,340
+in on the full-med community.
+
+135
+00:09:29,340 --> 00:09:34,380
+Lots of folks have stuff to offer, but not everyone has an in to make it happen.
+
+136
+00:09:34,380 --> 00:09:38,480
+And then oftentimes it's the case that someone has an idea in the works, but not a good way
+
+137
+00:09:38,480 --> 00:09:41,580
+to collaborate on and develop that idea.
+
+138
+00:09:41,580 --> 00:09:44,700
+That for sure was the case when we put the vent book together.
+
+139
+00:09:44,700 --> 00:09:49,180
+There wasn't an established mechanism to work with peers on those ideas.
+
+140
+00:09:49,180 --> 00:09:53,220
+Hopefully, Reicher Medical can be that supportive community for others.
+
+141
+00:09:53,220 --> 00:09:58,900
+We want to both give clinicians a way to contribute and support them in that effort via constructive
+
+142
+00:09:58,900 --> 00:10:01,620
+and cooperative approach.
+
+143
+00:10:01,620 --> 00:10:06,380
+And then to take that concept just a bit further, we're hoping to make the CE program as affordable
+
+144
+00:10:06,380 --> 00:10:07,900
+as possible.
+
+145
+00:10:07,900 --> 00:10:12,420
+The content development side of the house will for sure be put out for free, and all
+
+146
+00:10:12,420 --> 00:10:16,940
+the things we create will be openly available to anyone with a computer.
+
+147
+00:10:16,940 --> 00:10:21,140
+We're going to try and make the CEs that go with those things free also, but that's
+
+148
+00:10:21,140 --> 00:10:23,720
+dependent on a handful of factors.
+
+149
+00:10:23,720 --> 00:10:29,460
+So it might end up just being ridiculously cheap until we can get funding worked out.
+
+150
+00:10:29,460 --> 00:10:32,300
+And then there's one other part of the vision.
+
+151
+00:10:32,300 --> 00:10:37,020
+CAPSI is the accrediting body for EMS stuff, and that's where we're starting.
+
+152
+00:10:37,020 --> 00:10:41,220
+But there are also avenues to get CEs for our nursing colleagues, and there are specialty
+
+153
+00:10:41,220 --> 00:10:44,780
+boards that many of us use for maintenance of certifications.
+
+154
+00:10:44,780 --> 00:10:49,460
+We'll get there eventually, but for now it's one step at a time.
+
+155
+00:10:49,460 --> 00:10:51,180
+So that's the general idea.
+
+156
+00:10:51,180 --> 00:10:56,100
+Now you know how we got here, where things are at with us, and what we're hoping to make
+
+157
+00:10:56,100 --> 00:10:57,340
+happen.
+
+158
+00:10:57,340 --> 00:10:59,620
+Next step is how you can get involved.
+
+159
+00:10:59,620 --> 00:11:01,780
+First and foremost, check out the website.
+
+160
+00:11:01,780 --> 00:11:06,420
+You can always get in touch with us there, or on social media, or by adding comments
+
+161
+00:11:06,420 --> 00:11:09,180
+here, wherever you happen to be listening to this.
+
+162
+00:11:09,180 --> 00:11:13,220
+We are open to any and all ideas or suggestions.
+
+163
+00:11:13,220 --> 00:11:17,860
+But more specifically, we need to get some content up in order to resubmit our application
+
+164
+00:11:17,860 --> 00:11:18,860
+at CAPSI.
+
+165
+00:11:18,860 --> 00:11:24,220
+We've got details about that on the website, but we need examples of each of the activities
+
+166
+00:11:24,220 --> 00:11:28,660
+we want to include in the program, and the more the merrier.
+
+167
+00:11:28,660 --> 00:11:33,220
+So if any of them sound appealing to you, hit us up and we can make it happen.
+
+168
+00:11:33,220 --> 00:11:38,220
+We also need help figuring out exactly how to host all the things and track users in
+
+169
+00:11:38,220 --> 00:11:39,540
+the system.
+
+170
+00:11:39,540 --> 00:11:43,300
+So if you have experience working with the LMS side of things and want to share what
+
+171
+00:11:43,300 --> 00:11:46,820
+you know, we could use some help there too.
+
+172
+00:11:46,820 --> 00:11:51,600
+And then lastly, we also need people to lend a hand as content reviewers.
+
+173
+00:11:51,600 --> 00:11:56,020
+As activities get rolling, we have a cadre of volunteers that maintain a dialogue with
+
+174
+00:11:56,020 --> 00:12:01,380
+participants to offer feedback and guidance as the projects start to take form.
+
+175
+00:12:01,380 --> 00:12:06,180
+And then once submitted, we review them internally to make sure everything is copacetic and meets
+
+176
+00:12:06,180 --> 00:12:08,380
+all the standards we are held to.
+
+177
+00:12:08,380 --> 00:12:12,300
+If that sounds like something you're into, just let us know and we can set up a time
+
+178
+00:12:12,300 --> 00:12:15,000
+to discuss.
+
+179
+00:12:15,000 --> 00:12:16,660
+And that's pretty much it.
+
+180
+00:12:16,660 --> 00:12:18,060
+Thanks for tuning in.
+
+181
+00:12:18,060 --> 00:12:21,860
+But real quick before we go, just a few shout outs.
+
+182
+00:12:21,860 --> 00:12:26,940
+First is to Pragmatic Paramedics, another awesome podcast that we highly recommend.
+
+183
+00:12:26,940 --> 00:12:30,260
+Next is to the St. Fisher Church of Evidence-Based Medicine.
+
+184
+00:12:30,260 --> 00:12:33,500
+If you don't follow them already, definitely check them out.
+
+185
+00:12:33,500 --> 00:12:38,280
+These guys, both Pragmatic Paramedics and the St. Fisher folks, have been instrumental
+
+186
+00:12:38,280 --> 00:12:42,140
+in getting our stuff out there into the world and we truly appreciate that.
+
+187
+00:12:42,140 --> 00:12:46,060
+And then we'll end things with a shout out to my good friend Josh Pittman and his buddy
+
+188
+00:12:46,060 --> 00:12:47,540
+Kevin Pons.
+
+189
+00:12:47,540 --> 00:12:49,700
+They put the music together for the show.
+
+190
+00:12:49,700 --> 00:13:02,620
+Until next time.

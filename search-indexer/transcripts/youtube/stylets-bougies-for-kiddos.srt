@@ -1,0 +1,895 @@
+1
+00:00:00,000 --> 00:00:05,060
+Sup, friends.
+
+2
+00:00:05,060 --> 00:00:11,360
+This here is a short video on the use of stylets and bougies for pediatric intubations.
+
+3
+00:00:11,360 --> 00:00:16,480
+Quick disclaimer, this isn't our main jam and our experience is limited in this area,
+
+4
+00:00:16,480 --> 00:00:20,700
+but we do think there are some important things to discuss and hope it's of value.
+
+5
+00:00:20,700 --> 00:00:23,960
+If there are any specialists in this area that want to collaborate on some other stuff
+
+6
+00:00:23,960 --> 00:00:26,680
+in the future, definitely reach out.
+
+7
+00:00:26,680 --> 00:00:29,720
+Alright, let's dig in on this.
+
+8
+00:00:29,720 --> 00:00:33,080
+Bougies are all the craze these days and we imagine many people are using them in the
+
+9
+00:00:33,080 --> 00:00:36,440
+field routinely, which is awesome.
+
+10
+00:00:36,440 --> 00:00:40,480
+Bougies have been around for a hot minute as a backup tool for difficult airways, but
+
+11
+00:00:40,480 --> 00:00:44,440
+they're gaining popularity in both the hospital and pre-hospital scenes.
+
+12
+00:00:44,440 --> 00:00:49,760
+Most resources on airway management and EMS these days at least discuss their use in the
+
+13
+00:00:49,760 --> 00:00:51,640
+adult population.
+
+14
+00:00:51,640 --> 00:00:56,360
+Initial data on the routine use of bougies was limited to certain settings and researchers
+
+15
+00:00:56,360 --> 00:01:01,880
+noted that findings about increased first-pass success could not be generalized across the
+
+16
+00:01:01,880 --> 00:01:06,960
+board and that's fair, especially when it comes to EMS and out-of-hospital medicine.
+
+17
+00:01:06,960 --> 00:01:09,480
+Things don't always translate.
+
+18
+00:01:09,480 --> 00:01:13,280
+Subsequent studies, however, have gone on to demonstrate the efficacy of bougies in
+
+19
+00:01:13,280 --> 00:01:17,200
+the out-of-hospital setting in increasing first-pass success.
+
+20
+00:01:17,200 --> 00:01:20,620
+So now there's no excuse not to use a bougie on the adult patient.
+
+21
+00:01:20,620 --> 00:01:26,120
+The data is there, most of us have access to them, and there's all kinds of techniques.
+
+22
+00:01:26,120 --> 00:01:29,600
+That said, be aware that there is some confounding data.
+
+23
+00:01:29,600 --> 00:01:34,340
+As with all things in medicine, it can be tough to know what actual best practice is.
+
+24
+00:01:34,340 --> 00:01:41,340
+The BEAM study in 2018 essentially said bougie's best in the ER setting.
+
+25
+00:01:41,340 --> 00:01:48,040
+This 2021 study focused on patient populations in both the MICU and ER and headed by the
+
+26
+00:01:48,040 --> 00:01:54,200
+same lead researcher failed to arrive at a similar conclusion.
+
+27
+00:01:54,200 --> 00:01:59,460
+But anyways, the general consensus is that bougie use is fairly well supported for EMS
+
+28
+00:01:59,460 --> 00:02:04,060
+folks and in the adult population, but it isn't as simple as grabbing the thing and
+
+29
+00:02:04,060 --> 00:02:08,740
+using it within an airway management framework that we were all taught in medical school.
+
+30
+00:02:08,740 --> 00:02:12,540
+Bouges require specific knowledge and techniques to be effective.
+
+31
+00:02:12,540 --> 00:02:16,700
+We put some short videos up a while back showing three different ways in which the bougie could
+
+32
+00:02:16,700 --> 00:02:18,820
+be used by a single provider.
+
+33
+00:02:18,820 --> 00:02:22,940
+We collectively labeled them one human bougie techniques.
+
+34
+00:02:22,960 --> 00:02:27,920
+If our take on it isn't enough, Foamfratt recently did a podcast blog combo explaining
+
+35
+00:02:27,920 --> 00:02:31,380
+a few more of the techniques that are out there and included a thorough overview of
+
+36
+00:02:31,380 --> 00:02:35,680
+current research and a discussion of application in the field.
+
+37
+00:02:35,680 --> 00:02:40,320
+There's also the OG approach using two providers, with one of them feeding the E2 tube over
+
+38
+00:02:40,320 --> 00:02:43,520
+the bougie while the other performs laryngoscopy.
+
+39
+00:02:43,520 --> 00:02:46,880
+And that's almost always possible to do in the pre-hospital setting.
+
+40
+00:02:46,880 --> 00:02:50,280
+It's quite rare that we don't have extra hands on scene.
+
+41
+00:02:50,300 --> 00:02:54,320
+This video is from the Protected Airway channel on Instagram.
+
+42
+00:02:54,320 --> 00:02:58,940
+So we have all the school stuff, but does it translate to pediatric patients?
+
+43
+00:02:58,940 --> 00:03:02,060
+What works for adults may not work for kids.
+
+44
+00:03:02,060 --> 00:03:04,580
+And what about neonates and infants specifically?
+
+45
+00:03:04,580 --> 00:03:09,100
+We'll try and answer those questions over the next few minutes and then we'll eventually
+
+46
+00:03:09,100 --> 00:03:14,340
+follow up with a neonatal specific video at a later date.
+
+47
+00:03:14,340 --> 00:03:18,980
+First thing to note is that the bougie may not fit in smaller sized ET tubes.
+
+48
+00:03:19,000 --> 00:03:26,120
+The 10 French pediatric bougie will fit snugly inside a 402 but won't work for smaller sizes.
+
+49
+00:03:26,120 --> 00:03:32,640
+If all that is available are the 15 French adult ones, those go down to a 5.5 tube.
+
+50
+00:03:32,640 --> 00:03:38,160
+Set a different way, the adult 15 French bougie will work down to a 5.5 tube or for kids of
+
+51
+00:03:38,160 --> 00:03:39,960
+about 6 years old.
+
+52
+00:03:39,960 --> 00:03:46,800
+The pediatric 10 French bougie will work down to a 402 or for an infant of about 4 months.
+
+53
+00:03:46,800 --> 00:03:48,840
+And these ages are approximate.
+
+54
+00:03:48,840 --> 00:03:53,060
+Use a braso tape on scene to size things out right.
+
+55
+00:03:53,060 --> 00:03:58,020
+Now the argument could be made to just use a pediatric 10 French bougie for all the tube
+
+56
+00:03:58,020 --> 00:04:03,140
+sizes as both the 15 French and 10 French often come in the same length.
+
+57
+00:04:03,140 --> 00:04:08,460
+The issue with that however is that the 10 French pediatric bougie is a bit less rigid.
+
+58
+00:04:08,460 --> 00:04:13,620
+This makes the thing more difficult to control and also throws a wrench in the utilization
+
+59
+00:04:13,620 --> 00:04:16,020
+of some of our preloaded techniques.
+
+60
+00:04:16,020 --> 00:04:21,560
+The weight of an adult tube may be too much for the pediatric bougie to support.
+
+61
+00:04:21,560 --> 00:04:23,680
+More on that later.
+
+62
+00:04:23,680 --> 00:04:29,880
+Now they do make smaller bougies for neonates that can fit inside 2.0 or 2.5 tubes but those
+
+63
+00:04:29,880 --> 00:04:32,760
+are tough to come by and not all that common.
+
+64
+00:04:32,760 --> 00:04:36,880
+We hope to get our hands on one soon and we'll post a subsequent video when that happens.
+
+65
+00:04:36,880 --> 00:04:42,120
+There's also the thought that most of us won't be intubating neonates or infants and a 402
+
+66
+00:04:42,120 --> 00:04:46,340
+which is compatible with the standard 10 French pediatric bougie will work for nearly
+
+67
+00:04:46,340 --> 00:04:48,300
+all of our patients.
+
+68
+00:04:48,300 --> 00:04:51,860
+And then there are also some concerns and issues about all that which we'll get to
+
+69
+00:04:51,860 --> 00:04:54,380
+soon so let's move on.
+
+70
+00:04:54,380 --> 00:04:58,460
+Another thing to note when using a smaller bougie is that some of the preloaded techniques
+
+71
+00:04:58,460 --> 00:05:00,060
+don't work.
+
+72
+00:05:00,060 --> 00:05:04,980
+For example the Murphy's eye at the end of the tube may not accommodate the bougie.
+
+73
+00:05:04,980 --> 00:05:10,780
+The size of the eye varies a tad by manufacturer so just know how the stuff in a given kit
+
+74
+00:05:10,780 --> 00:05:12,720
+fits.
+
+75
+00:05:12,720 --> 00:05:17,500
+And as mentioned before we may also find that the system ends up being a bit top heavy when
+
+76
+00:05:17,500 --> 00:05:19,480
+compared to the adult technique.
+
+77
+00:05:19,480 --> 00:05:22,600
+This is because the adult bougie is a bit more robust and can support the weight of
+
+78
+00:05:22,600 --> 00:05:24,060
+the E2 tube.
+
+79
+00:05:24,060 --> 00:05:27,060
+That may not be the case with a smaller bougie.
+
+80
+00:05:27,060 --> 00:05:30,320
+Not an absolute game changer but just something to be aware of.
+
+81
+00:05:30,320 --> 00:05:36,340
+This is also one of the reasons why we don't use the pediatric 10 French size for all patients
+
+82
+00:05:36,340 --> 00:05:40,000
+just with tubes that don't fit on the adult one.
+
+83
+00:05:40,000 --> 00:05:41,260
+And that's totally fine.
+
+84
+00:05:41,260 --> 00:05:43,760
+There are other ways to make the thing happen.
+
+85
+00:05:43,760 --> 00:05:46,540
+Use a friend to load the tube on the bougie.
+
+86
+00:05:46,540 --> 00:05:51,500
+Figure out a way to do it alone without preloading the thing or just get used to the differences
+
+87
+00:05:51,500 --> 00:05:54,440
+with whatever technique gets used.
+
+88
+00:05:54,440 --> 00:05:56,660
+Let's summarize up to this point.
+
+89
+00:05:56,660 --> 00:06:01,380
+Bougies have demonstrable value in increasing first pass success in grownups.
+
+90
+00:06:01,380 --> 00:06:05,220
+There's lots of ways to look cool using the bougie so everyone should be able to find
+
+91
+00:06:05,220 --> 00:06:07,940
+a way that works for him or her.
+
+92
+00:06:07,960 --> 00:06:13,720
+Some techniques aren't awesome with or may need to be modified for pediatrics.
+
+93
+00:06:13,720 --> 00:06:17,460
+But what does the data have to say about all of this?
+
+94
+00:06:17,460 --> 00:06:22,480
+First thing to consider is that the younger a patient is, i.e. as age approaches zero,
+
+95
+00:06:22,480 --> 00:06:25,600
+the more of a difference there is from adult anatomy.
+
+96
+00:06:25,600 --> 00:06:29,480
+We've all seen graphics similar to this one that notate the differences between adult
+
+97
+00:06:29,480 --> 00:06:31,120
+and pediatric airways.
+
+98
+00:06:31,120 --> 00:06:35,760
+The point to make is that these differences are most apparent at the neonate or infant
+
+99
+00:06:35,760 --> 00:06:40,860
+end of the spectrum and less marked for pediatrics as age goes up.
+
+100
+00:06:40,860 --> 00:06:45,180
+So let's take a moment and focus on the left end of the spectrum and talk about neonatal
+
+101
+00:06:45,180 --> 00:06:46,580
+and infant airway management.
+
+102
+00:06:46,580 --> 00:06:51,260
+We'll come back to this middle area of children in just a little bit.
+
+103
+00:06:51,260 --> 00:06:57,940
+Now this may be news to some but not all neonatal and infant airway people use stilets.
+
+104
+00:06:57,940 --> 00:07:01,940
+There is some concern that the rigid stilets can cause damage to the airway.
+
+105
+00:07:01,960 --> 00:07:06,760
+There is also concern that the plastic at the distal tip of the stilets can shear off
+
+106
+00:07:06,760 --> 00:07:08,880
+into the airway.
+
+107
+00:07:08,880 --> 00:07:14,160
+Because of this, most guidelines for neonatal or infant airway management mention the stilets
+
+108
+00:07:14,160 --> 00:07:16,560
+as an optional piece of equipment.
+
+109
+00:07:16,560 --> 00:07:22,160
+There was a 2017 Cochrane review in the infant population and then a 2021 study on the neonatal
+
+110
+00:07:22,160 --> 00:07:27,240
+population, both of which compared the use of a stilets with a no-stilets approach and
+
+111
+00:07:27,240 --> 00:07:31,880
+neither study could confirm that stilets use yields better outcomes.
+
+112
+00:07:31,900 --> 00:07:35,900
+The takeaway here is that stilets use with the neonatal or infant is at the provider's
+
+113
+00:07:35,900 --> 00:07:41,180
+discretion, unless for those of us in the EMS field we have more specific instruction
+
+114
+00:07:41,180 --> 00:07:44,260
+provided to us by medical direction.
+
+115
+00:07:44,260 --> 00:07:48,560
+That said, there are some potential advantages to using a stilets and therefore a bougie
+
+116
+00:07:48,560 --> 00:07:52,140
+as well for these patient populations.
+
+117
+00:07:52,140 --> 00:07:56,980
+One idea is that the stilets allow the clinician to shape a bend in the end of the tube.
+
+118
+00:07:57,000 --> 00:08:01,800
+A shallow angle is often preferred with younger patients, while a more defined hockey stick
+
+119
+00:08:01,800 --> 00:08:05,480
+shape is often the norm for adult patients.
+
+120
+00:08:05,480 --> 00:08:10,560
+Given that nearly all ET tubes come packaged with a notable bend in them, using a tool
+
+121
+00:08:10,560 --> 00:08:16,400
+to reshape them into a shallower angle, i.e. a stilet, or using a tool that presents with
+
+122
+00:08:16,400 --> 00:08:20,920
+a shallower angle, i.e. a bougie, may make more sense.
+
+123
+00:08:20,920 --> 00:08:23,240
+And what about the bougie specifically?
+
+124
+00:08:23,260 --> 00:08:28,940
+There was a 2015 simulation study that showed promise of bougie use in shortening the time
+
+125
+00:08:28,940 --> 00:08:34,060
+to a definitive airway, as well as success in some difficult airway scenarios.
+
+126
+00:08:34,060 --> 00:08:39,620
+And note that this was specific to infants and done in simulation on mannequins.
+
+127
+00:08:39,620 --> 00:08:44,980
+That said, progress has been slow and confounded by case studies of complications related to
+
+128
+00:08:44,980 --> 00:08:46,440
+bougie use.
+
+129
+00:08:46,440 --> 00:08:52,020
+For example, pneumothoraces caused by bougies, as shown in this chest X-ray, can be quite
+
+130
+00:08:52,020 --> 00:08:53,020
+discouraging.
+
+131
+00:08:53,280 --> 00:08:58,640
+It is worth noting, however, that neonatal bougies are sometimes straight in design and
+
+132
+00:08:58,640 --> 00:09:01,940
+without the coup d'etat tip we typically see.
+
+133
+00:09:01,940 --> 00:09:06,240
+That coup d'etat tip provides protection against the distal end of the device going beyond
+
+134
+00:09:06,240 --> 00:09:08,640
+the carina and into the bronchi.
+
+135
+00:09:08,640 --> 00:09:13,360
+This mechanism is known and well-established for adults and presumed for infants.
+
+136
+00:09:13,360 --> 00:09:16,900
+If anyone has for sure data on that, just let us know.
+
+137
+00:09:16,900 --> 00:09:22,000
+In the meantime, consider using coup d'etat bougies when possible.
+
+138
+00:09:22,000 --> 00:09:24,540
+One more point on this prior set of images.
+
+139
+00:09:24,540 --> 00:09:29,140
+We have not seen a coup d'etat tip neo-bougie that fits in a 2.02.
+
+140
+00:09:29,140 --> 00:09:32,980
+The one pictured here on the bottom fits down to a 2.5.
+
+141
+00:09:32,980 --> 00:09:38,620
+And that one on the top that does fit a 2.0 has the straight tip that isn't ideal.
+
+142
+00:09:38,620 --> 00:09:41,260
+We imagine they're out there, they're just not that common.
+
+143
+00:09:41,260 --> 00:09:42,340
+If you have one, let us know.
+
+144
+00:09:42,340 --> 00:09:44,900
+We'd love to get our hands on one and make some more videos.
+
+145
+00:09:45,900 --> 00:09:52,080
+Alright, let's summarize the neonate infant discussion up to this point.
+
+146
+00:09:52,080 --> 00:09:57,240
+Some folks don't use stylets at all due to concern with sticking a rigid metal rod down
+
+147
+00:09:57,240 --> 00:09:58,240
+the baby's throat.
+
+148
+00:09:58,240 --> 00:10:02,880
+There's also the possibility of shearing the plastic off the distal end of the stylet
+
+149
+00:10:02,880 --> 00:10:08,680
+and into the airways, especially when that end extends past the ET tube.
+
+150
+00:10:08,680 --> 00:10:14,360
+That said, stylets do allow the clinician to dictate the shape of the tool and may facilitate
+
+151
+00:10:14,360 --> 00:10:16,460
+the correct placement.
+
+152
+00:10:16,460 --> 00:10:22,040
+As for bougies, data is scant at this point, but the use of a coup d'etat bougie likely
+
+153
+00:10:22,040 --> 00:10:26,340
+eliminates the number one concern of causing a pneumothorax.
+
+154
+00:10:26,340 --> 00:10:31,220
+Takeaway here is that there's no right or wrong, just a handful of options, each with
+
+155
+00:10:31,220 --> 00:10:34,820
+positives and negatives.
+
+156
+00:10:34,820 --> 00:10:37,140
+And then what about the middle ground we mentioned earlier?
+
+157
+00:10:37,140 --> 00:10:42,300
+The data is clearer for adults, not so clear for neonates and infants, but what about pediatric
+
+158
+00:10:42,300 --> 00:10:44,640
+patients in between those two extremes?
+
+159
+00:10:44,640 --> 00:10:49,040
+Again, the data here is pretty inconclusive.
+
+160
+00:10:49,040 --> 00:10:50,600
+Let's start with stylets.
+
+161
+00:10:50,600 --> 00:10:56,440
+We already mentioned that the ability to shape the ET tube using a rigid stylet may facilitate
+
+162
+00:10:56,440 --> 00:10:58,640
+tube placement in general.
+
+163
+00:10:58,640 --> 00:11:04,600
+More specifically, Lee and friends in a recent study demonstrated the value of using a specific
+
+164
+00:11:04,600 --> 00:11:08,840
+technique when performing laryngoscopy with a hyperangulated blade.
+
+165
+00:11:09,300 --> 00:11:14,140
+They used a much deeper angle that matches the shape of the blade and then bent the distal
+
+166
+00:11:14,140 --> 00:11:16,420
+tip to the left just a smidge.
+
+167
+00:11:16,420 --> 00:11:23,880
+These modifications resulted in improved success in patients aged 1 to 5 years old.
+
+168
+00:11:23,880 --> 00:11:28,240
+So that's cool, and there may be advantages to the stylet, whether with a standard blade
+
+169
+00:11:28,240 --> 00:11:33,220
+or with a hyperangulated blade, but know that the data isn't solid and for now it's at
+
+170
+00:11:33,220 --> 00:11:36,840
+each clinician's discretion.
+
+171
+00:11:36,840 --> 00:11:41,460
+As for bougies, there is some consensus that they do have a place in difficult pediatric
+
+172
+00:11:41,460 --> 00:11:46,560
+airways, but adoption for routine use is still up in the air.
+
+173
+00:11:46,560 --> 00:11:50,420
+For those on the fence about bougie use for children, here's a few things to consider
+
+174
+00:11:50,420 --> 00:11:55,180
+when trying to proactively plan an airway strategy for pediatric patients that aren't
+
+175
+00:11:55,180 --> 00:12:00,860
+on that extremely low end age of the spectrum where anatomical difference are most extreme.
+
+176
+00:12:00,860 --> 00:12:04,200
+The technique doesn't have to be all that different from whatever technique is used
+
+177
+00:12:04,200 --> 00:12:06,480
+for adult patients.
+
+178
+00:12:06,480 --> 00:12:10,820
+And in the case that a preferred technique isn't compatible with all size ranges, using
+
+179
+00:12:10,820 --> 00:12:15,560
+the equipment on hand at a given service, there are valid alternatives available.
+
+180
+00:12:15,560 --> 00:12:20,720
+Having a bougie on hand also offers some flexibility if things get weird.
+
+181
+00:12:20,720 --> 00:12:23,780
+Consider for example the need to place a backup airway.
+
+182
+00:12:23,780 --> 00:12:28,040
+It can be exchanged for an ET tube via a blind insertion technique.
+
+183
+00:12:28,040 --> 00:12:32,340
+There's not much in the literature about this technique with pediatrics, but we imagine it's
+
+184
+00:12:32,340 --> 00:12:35,060
+only a matter of time until it catches on.
+
+185
+00:12:35,060 --> 00:12:39,260
+It's also good to have the bougie immediately available if a crec needs to be performed,
+
+186
+00:12:39,260 --> 00:12:41,220
+or a chest tube.
+
+187
+00:12:41,220 --> 00:12:45,180
+All that said, here's where we stand on the issue at this point in time.
+
+188
+00:12:45,180 --> 00:12:49,620
+If bougies are available, use them during the initial intubation attempt.
+
+189
+00:12:49,620 --> 00:12:52,940
+If pediatric ones are available, use them.
+
+190
+00:12:52,940 --> 00:12:56,520
+If the itty bitty ones are there too, use them also.
+
+191
+00:12:56,520 --> 00:12:59,340
+But a couple of caveats here.
+
+192
+00:12:59,340 --> 00:13:03,500
+Follow these steps for best practice.
+
+193
+00:13:03,500 --> 00:13:08,080
+Practice using the thing in all its different size iterations so that time isn't lost when
+
+194
+00:13:08,080 --> 00:13:09,780
+push comes to shove.
+
+195
+00:13:09,780 --> 00:13:14,740
+Some trials have shown that bougie use adds time to establishing a definitive airway,
+
+196
+00:13:14,740 --> 00:13:20,340
+and this is likely due to a deficit in familiarity and training with the device.
+
+197
+00:13:20,340 --> 00:13:26,500
+Specifically, know how to manipulate the distal tip of the bougie while using various techniques.
+
+198
+00:13:26,500 --> 00:13:30,660
+Also consider adjusting the intubation technique so that the blade, whichever kind is being
+
+199
+00:13:30,660 --> 00:13:34,620
+used, stays in the mouth until the ET tube is passed.
+
+200
+00:13:34,620 --> 00:13:39,980
+Railroading the tube blindly can lead to injury, especially if the bougie fits snugly inside
+
+201
+00:13:39,980 --> 00:13:41,380
+of the ET tube.
+
+202
+00:13:41,380 --> 00:13:46,700
+Check out this article at the AirwayJetta website for complete discussion of this idea.
+
+203
+00:13:46,700 --> 00:13:47,900
+Next idea.
+
+204
+00:13:47,900 --> 00:13:51,140
+Know that there may still be a place for rigid stilets.
+
+205
+00:13:51,140 --> 00:13:54,900
+One example is when using a hyper-angulated video laryngoscope.
+
+206
+00:13:54,900 --> 00:13:59,860
+It may be tough to maneuver a bougie, or even an ET tube without a stilet at all, between
+
+207
+00:13:59,860 --> 00:14:05,060
+the cords due to the geometry of the device and the approach afforded by the blade.
+
+208
+00:14:05,060 --> 00:14:08,980
+If using a hyper-angulated blade, consider using a stilet and get familiar with shaping
+
+209
+00:14:08,980 --> 00:14:12,700
+it just right to facilitate tube placement.
+
+210
+00:14:12,700 --> 00:14:16,600
+Another thought here is that the bougie or stilet, or lack thereof, none of these things
+
+211
+00:14:16,600 --> 00:14:18,580
+help with visualization.
+
+212
+00:14:18,580 --> 00:14:23,100
+Remember to incorporate other techniques to facilitate that part of it all.
+
+213
+00:14:23,100 --> 00:14:28,020
+Examples would be external laryngil manipulation or lifting the head during laryngoscopy.
+
+214
+00:14:28,020 --> 00:14:31,460
+For more on this idea, check out that MCRIT video.
+
+215
+00:14:31,460 --> 00:14:33,340
+And then last bit of advice.
+
+216
+00:14:33,340 --> 00:14:36,380
+Don't get roped into any one technique or preference.
+
+217
+00:14:36,380 --> 00:14:39,540
+Recognize that practice changes and stay up to date on things.
+
+218
+00:14:39,540 --> 00:14:44,040
+We do think that the bougie should be in hand on the first attempt when possible, regardless
+
+219
+00:14:44,040 --> 00:14:49,900
+of age, and imagine that data to support this idea will continue to grow in the coming years,
+
+220
+00:14:49,900 --> 00:14:52,380
+especially as it relates to pediatric airway management.
+
+221
+00:14:52,380 --> 00:14:56,780
+The biggest holdup to successful use of the bougie at this point is clinician familiarity
+
+222
+00:14:56,780 --> 00:14:57,780
+with the tool.
+
+223
+00:14:57,780 --> 00:15:02,620
+We'll do our best to keep everyone updated as new things come out, and in the meantime,
+
+224
+00:15:02,620 --> 00:15:04,660
+definitely let us know if there's stuff that we need to know.

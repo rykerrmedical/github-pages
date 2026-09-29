@@ -1,0 +1,2127 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,680
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,680 --> 00:00:15,360
+care medicine.
+
+4
+00:00:15,360 --> 00:00:20,400
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,400 --> 00:00:23,920
+use of technology can facilitate that effort.
+
+6
+00:00:23,920 --> 00:00:29,200
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,200 --> 00:00:37,020
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:37,020 --> 00:00:40,760
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,760 --> 00:00:45,920
+do.
+
+10
+00:00:45,920 --> 00:01:15,360
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:15,360 --> 00:01:17,800
+So welcome back to the show everyone.
+
+12
+00:01:17,800 --> 00:01:22,680
+Today we have a guest called or goes by Mando Medic.
+
+13
+00:01:22,680 --> 00:01:25,240
+So welcome to the show Mando.
+
+14
+00:01:25,240 --> 00:01:27,600
+Thank you sir, I appreciate it.
+
+15
+00:01:27,600 --> 00:01:31,920
+And just to get things started, since many of our listeners may not be familiar with
+
+16
+00:01:31,920 --> 00:01:38,060
+you, what is or who is Mando Medic and how did that persona get going?
+
+17
+00:01:38,060 --> 00:01:41,360
+So essentially, I've been an EMS for about 10 years now.
+
+18
+00:01:41,360 --> 00:01:44,880
+I'm a paramedic down here in South Texas.
+
+19
+00:01:44,880 --> 00:01:53,080
+And a few years ago, I had a pretty heavy mental health struggle that resulted in some
+
+20
+00:01:53,080 --> 00:01:58,880
+realizations that I had to leave the field and no longer work on the truck full time.
+
+21
+00:01:58,880 --> 00:02:03,080
+I moved up into the office and started my own mental health journey.
+
+22
+00:02:03,080 --> 00:02:07,800
+And over the years, I've started doing things like critical incident debriefings and peer
+
+23
+00:02:07,800 --> 00:02:13,420
+support for multiple EMS agencies and a county government.
+
+24
+00:02:13,420 --> 00:02:17,580
+And what I found was that there were a lot of people that were going through the same
+
+25
+00:02:17,580 --> 00:02:23,700
+struggle I did, and had just as few tools I did to get through it in the first place.
+
+26
+00:02:23,700 --> 00:02:27,140
+And what I realized then I'm in the midst of a career change now.
+
+27
+00:02:27,140 --> 00:02:31,180
+And I have this moment where I realized that there were probably a lot of people out there
+
+28
+00:02:31,180 --> 00:02:37,040
+who may be able to save their own careers, if they just had some information and tools
+
+29
+00:02:37,040 --> 00:02:38,920
+they could put into place.
+
+30
+00:02:38,920 --> 00:02:45,340
+So I created this kind of person, I'm a Star Wars geek, and I'm a really big fan of Mandalore
+
+31
+00:02:45,340 --> 00:02:46,340
+and all that.
+
+32
+00:02:46,340 --> 00:02:52,100
+And it just came to me, I made the username for the YerMed discord, and then it transferred
+
+33
+00:02:52,100 --> 00:02:53,100
+into Instagram.
+
+34
+00:02:53,100 --> 00:02:57,860
+The guys over there finally bullied me into making an Instagram to make the posts a little
+
+35
+00:02:57,860 --> 00:03:01,100
+bit more accessible by people.
+
+36
+00:03:01,100 --> 00:03:03,440
+So yeah, that's what I do.
+
+37
+00:03:03,440 --> 00:03:07,760
+I do crisis intervention and peer support and education on the Instagram, but I also
+
+38
+00:03:07,760 --> 00:03:14,240
+do it in real life and go to classes and seminars and conventions and all that good stuff.
+
+39
+00:03:14,240 --> 00:03:15,920
+So that's pretty much it.
+
+40
+00:03:15,920 --> 00:03:18,400
+You just keep the persona to try to keep it anonymous.
+
+41
+00:03:18,400 --> 00:03:22,640
+It's not about me, it's about the information and that's the goal.
+
+42
+00:03:22,640 --> 00:03:23,640
+Right on.
+
+43
+00:03:23,640 --> 00:03:28,680
+And that's actually how I came across your persona, I guess, was through the European
+
+44
+00:03:28,680 --> 00:03:30,680
+Medics discord channel.
+
+45
+00:03:30,680 --> 00:03:35,440
+I think we had an exchange there about sleep in general.
+
+46
+00:03:35,440 --> 00:03:38,080
+And that's kind of what led us to recording today.
+
+47
+00:03:38,080 --> 00:03:42,880
+So our focus today is we're going to talk about sleep in general, but specifically for
+
+48
+00:03:42,880 --> 00:03:46,960
+how it applies to folks working 24 and 40 outer shifts.
+
+49
+00:03:46,960 --> 00:03:50,920
+There's a lot of data these days about or a lot of discussion these days about sleep
+
+50
+00:03:50,920 --> 00:03:52,400
+in general.
+
+51
+00:03:52,400 --> 00:03:55,480
+But most of it seems to be founded on routine.
+
+52
+00:03:55,480 --> 00:04:01,400
+And that's a little bit difficult for those of us that work in this environment.
+
+53
+00:04:01,400 --> 00:04:06,480
+But before we dive into that, one other thing I wanted to ask you about before we get into
+
+54
+00:04:06,480 --> 00:04:12,720
+specifics, you talk a lot in your content about different influence you have, one of
+
+55
+00:04:12,720 --> 00:04:13,720
+those being stoicism.
+
+56
+00:04:13,720 --> 00:04:18,120
+Do you mind expanding on that just a little bit to give us a little more context about
+
+57
+00:04:18,120 --> 00:04:22,300
+where you're coming from with your approach to all things mental health for the first
+
+58
+00:04:22,300 --> 00:04:23,800
+responder community?
+
+59
+00:04:23,800 --> 00:04:24,800
+Absolutely.
+
+60
+00:04:24,920 --> 00:04:30,800
+Yeah, I, I found stoicism when I was going through my own mental health issues.
+
+61
+00:04:30,800 --> 00:04:35,920
+And what I found was that a lot of the issues I was personally running into and I found
+
+62
+00:04:35,920 --> 00:04:43,120
+many others to experience the same problems was that we strive to put an explanation on
+
+63
+00:04:43,120 --> 00:04:47,840
+everything around us, and whether that be blame or just a generic description of why
+
+64
+00:04:47,840 --> 00:04:48,840
+something happened.
+
+65
+00:04:48,840 --> 00:04:51,600
+So you take something like a pediatric arrest.
+
+66
+00:04:51,600 --> 00:04:56,280
+And I think a lot of us have the tendency to to ask that question of why and then put
+
+67
+00:04:56,280 --> 00:05:00,800
+guilt upon ourselves, where we're kind of pushed into this area.
+
+68
+00:05:00,800 --> 00:05:04,640
+I think where we're told how good we are as paramedics or how progressive we are as an
+
+69
+00:05:04,640 --> 00:05:09,760
+agency and then when we can't solve the problems that are in front of us, I think it shakes
+
+70
+00:05:09,760 --> 00:05:11,200
+our confidence.
+
+71
+00:05:11,200 --> 00:05:16,140
+And if you don't have coping skills, then they can really impact your entire career.
+
+72
+00:05:16,140 --> 00:05:22,060
+So what I found was awesome about stoicism and that I feel it's very applicable to the
+
+73
+00:05:22,060 --> 00:05:28,520
+military and first responders mentality is that realization that you cannot control anything
+
+74
+00:05:28,520 --> 00:05:30,840
+but your own actions.
+
+75
+00:05:30,840 --> 00:05:37,500
+And that basically this philosophy that the world is going to be the world and rotate
+
+76
+00:05:37,500 --> 00:05:39,340
+in the way it rotates.
+
+77
+00:05:39,340 --> 00:05:44,420
+And you can only really control yourself, and not what happens around you at every turn.
+
+78
+00:05:44,420 --> 00:05:48,900
+So I think when we we live in a society now where we have control over so many things
+
+79
+00:05:48,900 --> 00:05:50,460
+that are day to day lives.
+
+80
+00:05:50,460 --> 00:05:56,660
+So accepting that we don't truly have control over most things around us on a daily basis,
+
+81
+00:05:56,660 --> 00:05:59,340
+I found a certain level of peace in that.
+
+82
+00:05:59,340 --> 00:06:04,620
+So I've been trying to expand upon that and bring that to people that I think it would
+
+83
+00:06:04,620 --> 00:06:05,620
+help.
+
+84
+00:06:05,620 --> 00:06:06,620
+Right on.
+
+85
+00:06:06,620 --> 00:06:12,300
+Yeah, I think one of the ideas that I've taken away from the philosophy, which kind of leads
+
+86
+00:06:12,300 --> 00:06:16,700
+us into our conversation is just differentiating between the things that you can and can't
+
+87
+00:06:16,700 --> 00:06:19,060
+control.
+
+88
+00:06:19,060 --> 00:06:22,660
+So in the context of what we're going to talk about the day of sleep, like we can't control
+
+89
+00:06:22,660 --> 00:06:25,940
+like when you're going to get woken up at night, like some of the stress you might experience
+
+90
+00:06:25,940 --> 00:06:30,420
+from like that disruption in your normal habits and routines.
+
+91
+00:06:30,420 --> 00:06:33,100
+But there are actionable things, there are things that are within our control that we
+
+92
+00:06:33,100 --> 00:06:38,980
+can do to like make the most of what available like time we have to put towards rest and
+
+93
+00:06:38,980 --> 00:06:40,560
+recovery.
+
+94
+00:06:40,560 --> 00:06:44,400
+So that's like a good framework to start from as we move into this conversation about
+
+95
+00:06:44,400 --> 00:06:45,400
+sleep in general.
+
+96
+00:06:45,400 --> 00:06:46,400
+Absolutely, I agree.
+
+97
+00:06:46,400 --> 00:06:50,760
+I think it's very applicable to the topic.
+
+98
+00:06:50,760 --> 00:06:51,760
+Cool.
+
+99
+00:06:51,760 --> 00:07:00,280
+So I guess to begin with the basics, like why is it important for us to even think about
+
+100
+00:07:00,280 --> 00:07:04,200
+sleep like everyone does it?
+
+101
+00:07:04,200 --> 00:07:08,360
+What is the purpose for putting so much effort into like focusing on the idea if it's something
+
+102
+00:07:08,360 --> 00:07:10,040
+that we all do anyways?
+
+103
+00:07:10,040 --> 00:07:11,360
+Yeah, absolutely.
+
+104
+00:07:11,360 --> 00:07:17,720
+I think that I kind of equate this with an analogy to the ABCs on the medical side, right?
+
+105
+00:07:17,720 --> 00:07:22,880
+So we always kind of go back to our ABCs, our basics and everything we do that is like
+
+106
+00:07:22,880 --> 00:07:25,480
+on an ALS level is super cool and sexy.
+
+107
+00:07:25,480 --> 00:07:29,400
+But realistically, those ABCs are what are or keeping people going.
+
+108
+00:07:29,400 --> 00:07:31,120
+And it's really the same with sleep.
+
+109
+00:07:31,120 --> 00:07:35,440
+And I think we fall into this habit of neglecting it.
+
+110
+00:07:35,440 --> 00:07:40,620
+After a lot of studies have been done that show how awful the sleep is for the United
+
+111
+00:07:40,620 --> 00:07:44,520
+States in particular, I think we have this whole hustle culture and things like that.
+
+112
+00:07:44,520 --> 00:07:48,600
+So people have kind of gotten into that habit of neglecting it and not paying attention
+
+113
+00:07:48,600 --> 00:07:49,600
+to it.
+
+114
+00:07:49,600 --> 00:07:54,280
+You know, we think of sleep as like this thing where we just go, our head hits the pillow,
+
+115
+00:07:54,280 --> 00:07:58,320
+you know, we get off our phone, we go right to sleep and then we wake up and do it again.
+
+116
+00:07:58,320 --> 00:08:05,140
+But there are a lot of bodily functions that absolutely require quality sleep.
+
+117
+00:08:05,140 --> 00:08:07,460
+So I think we look past those a lot.
+
+118
+00:08:07,460 --> 00:08:08,460
+Yeah.
+
+119
+00:08:08,460 --> 00:08:12,540
+And I know that stuff is related to mental health.
+
+120
+00:08:12,540 --> 00:08:17,260
+Is there a component there where like sleep hygiene, if we want to throw this term out
+
+121
+00:08:17,260 --> 00:08:20,580
+there, like has an impact on someone's mental health?
+
+122
+00:08:20,580 --> 00:08:22,100
+Yeah, for sure.
+
+123
+00:08:22,100 --> 00:08:29,220
+I mean, I would argue all aspects of the really what's going to affect mental health directly,
+
+124
+00:08:29,220 --> 00:08:30,220
+your REM sleep.
+
+125
+00:08:30,220 --> 00:08:34,300
+I think that's what people are kind of getting hot about right now.
+
+126
+00:08:34,300 --> 00:08:37,900
+That's the basically the final roughly, you know, if we're talking about an eight hour
+
+127
+00:08:37,900 --> 00:08:42,220
+night, that's your last four hours of sleep or generally deep REM.
+
+128
+00:08:42,220 --> 00:08:47,420
+And what your brain is doing is it's using that rapid eye movement to process your emotions
+
+129
+00:08:47,420 --> 00:08:49,760
+and everything that happened during the day.
+
+130
+00:08:49,760 --> 00:08:56,260
+So if we aren't getting proper REM sleep, not only are we reducing our longevity of
+
+131
+00:08:56,260 --> 00:09:01,620
+our lives, but we're also increasing the likelihood of mental health issues simply because we
+
+132
+00:09:01,620 --> 00:09:04,260
+are not able to process those things.
+
+133
+00:09:04,260 --> 00:09:10,120
+But another thing that's lesser known, I suppose, REM actually also regulates your hormones.
+
+134
+00:09:10,120 --> 00:09:14,820
+So things like testosterone production, growth hormone production, estrogen production, all
+
+135
+00:09:14,820 --> 00:09:17,220
+of that typically occurs during your REM cycle.
+
+136
+00:09:17,220 --> 00:09:21,660
+I know there was a study I was looking at a few weeks ago that was something along the
+
+137
+00:09:21,660 --> 00:09:32,740
+lines of 70% to 75% reduction in human growth hormone release if you just have alcohol before
+
+138
+00:09:32,740 --> 00:09:33,740
+bed.
+
+139
+00:09:33,740 --> 00:09:38,140
+So it's all these little things we do through our day affect the entire cycle.
+
+140
+00:09:38,140 --> 00:09:42,740
+And then, you know, conversely, that ends up affecting our day to day lives.
+
+141
+00:09:42,740 --> 00:09:48,540
+Yeah, I imagine it carries over also into performance, whether that be like physical
+
+142
+00:09:48,540 --> 00:09:52,940
+performance if that's your thing or, you know, cognitive performance for those of us
+
+143
+00:09:52,940 --> 00:09:58,740
+working in like, like the critical care transport setting that comes up a lot, like how do you
+
+144
+00:09:58,740 --> 00:10:03,780
+mentally navigate things that are quite difficult when you have lots of various inputs?
+
+145
+00:10:03,780 --> 00:10:04,780
+Absolutely.
+
+146
+00:10:04,780 --> 00:10:05,780
+Yeah.
+
+147
+00:10:05,780 --> 00:10:10,100
+And I mean, especially if you start to bring in things like decision fatigue alongside
+
+148
+00:10:10,100 --> 00:10:15,460
+that and then you're you have poor sleep, that's going to lead to things like lesser
+
+149
+00:10:15,460 --> 00:10:22,180
+focus and like improvised improvisation has been shown to be reduced and things like that,
+
+150
+00:10:22,180 --> 00:10:26,660
+which I think in critical care, especially that's something that's fairly important,
+
+151
+00:10:26,660 --> 00:10:31,700
+being able to in a split second figure out what is going on and calculate a plan to move
+
+152
+00:10:31,700 --> 00:10:32,700
+forward.
+
+153
+00:10:32,700 --> 00:10:37,100
+So lacking sleep is definitely going to impair all of that.
+
+154
+00:10:37,100 --> 00:10:38,580
+All right.
+
+155
+00:10:38,580 --> 00:10:44,220
+So if we take as a given that sleep is important for all these various reasons, in general,
+
+156
+00:10:44,220 --> 00:10:47,900
+like in very general terms, like what, what is the current research?
+
+157
+00:10:47,900 --> 00:10:53,580
+What does data have to say about what we can do to get more out of our sleep to improve
+
+158
+00:10:53,580 --> 00:10:56,300
+our sleep quality?
+
+159
+00:10:56,300 --> 00:10:57,300
+So I have a few things.
+
+160
+00:10:57,300 --> 00:11:01,060
+Would you want me to go one topic by topic and kind of address them as we go down?
+
+161
+00:11:01,060 --> 00:11:02,660
+Yeah, it'd be perfect.
+
+162
+00:11:02,660 --> 00:11:03,660
+Awesome.
+
+163
+00:11:03,660 --> 00:11:04,660
+Okay.
+
+164
+00:11:04,660 --> 00:11:10,260
+So I typically prescribe to a few, a core group, essentially of doctors at this because
+
+165
+00:11:10,260 --> 00:11:17,020
+I find that there's a ton of sleep studies everywhere, but all of them are really telling
+
+166
+00:11:17,020 --> 00:11:21,620
+you what the problem is and not really coming up with great solutions to that.
+
+167
+00:11:21,620 --> 00:11:25,180
+And Dr. Andrew Huberman is a neuroscientist.
+
+168
+00:11:25,180 --> 00:11:28,540
+He's actually a professor of neurobiology at the Stanford School of Medicine.
+
+169
+00:11:28,540 --> 00:11:33,620
+He has a podcast, the Huberman Lab podcast, and he's been a huge source of information
+
+170
+00:11:33,620 --> 00:11:34,620
+for me.
+
+171
+00:11:34,620 --> 00:11:36,580
+The Softleap Performance podcast.
+
+172
+00:11:37,220 --> 00:11:43,420
+Dr. Matt Walker is a sleep scientist at UC Berkeley, and they all have these wonderful
+
+173
+00:11:43,420 --> 00:11:48,980
+information and they, and they try to prescribe what you can do, especially for first responders
+
+174
+00:11:48,980 --> 00:11:54,020
+and military or austere environments where you can bring this into play.
+
+175
+00:11:54,020 --> 00:12:00,660
+So the first thing that they talk about is setting yourself up for success basically
+
+176
+00:12:00,660 --> 00:12:02,260
+in the morning.
+
+177
+00:12:02,260 --> 00:12:08,860
+So I think we all think about sleep as just, you know, like our bedtime routine or whatever,
+
+178
+00:12:08,860 --> 00:12:11,820
+you know, you take your shower, you get in bed and maybe play on your phone for a little
+
+179
+00:12:11,820 --> 00:12:14,180
+bit, which is horrible, and then go to sleep.
+
+180
+00:12:14,180 --> 00:12:19,580
+But realistically, all of these chemicals and everything that's firing off in our brain
+
+181
+00:12:19,580 --> 00:12:21,980
+to get us ready for sleep is all starting in that morning.
+
+182
+00:12:21,980 --> 00:12:28,860
+So my first thing is developing that routine, which again, can be difficult with shift work,
+
+183
+00:12:28,860 --> 00:12:33,500
+but waking up at the same time every day and going to bed at the same time every day
+
+184
+00:12:33,500 --> 00:12:36,660
+is really feeding your circadian clock.
+
+185
+00:12:36,660 --> 00:12:42,340
+And that is what's going to trigger things like adenosine actually, ironically, is released
+
+186
+00:12:42,340 --> 00:12:45,220
+in the brain and that's what makes you sleepy.
+
+187
+00:12:45,220 --> 00:12:51,380
+So adenosine is sort of the natural actor for the circadian clock that will start to
+
+188
+00:12:51,380 --> 00:12:54,340
+bring you down and deregulate.
+
+189
+00:12:55,220 --> 00:13:01,220
+The next thing that a lot of people neglect is immediately inundating yourself with light.
+
+190
+00:13:01,220 --> 00:13:05,460
+So if they're really all of these routines are centering around getting that circadian
+
+191
+00:13:05,460 --> 00:13:09,640
+clock reset and making your body aware that it's time to wake up.
+
+192
+00:13:09,640 --> 00:13:14,020
+So waking up at the same time immediately getting light in your eyes and artificial
+
+193
+00:13:14,020 --> 00:13:15,020
+is okay.
+
+194
+00:13:15,020 --> 00:13:19,420
+I think it's more beneficial with sunlight, but realistically, you're just trying to make
+
+195
+00:13:19,420 --> 00:13:23,240
+your body realize that you're awake and it's time to move.
+
+196
+00:13:23,240 --> 00:13:27,440
+And then the cold shower is another thing that I do in the mornings.
+
+197
+00:13:27,440 --> 00:13:32,040
+And what you're trying to do is your hypothalamus actually has a significant impact on your
+
+198
+00:13:32,040 --> 00:13:33,640
+circadian clock.
+
+199
+00:13:33,640 --> 00:13:38,080
+And what it does is it's telling your body that it's time to wake up and warm up.
+
+200
+00:13:38,080 --> 00:13:42,720
+And so by getting into a cold shower, you're actually encouraging the hypothalamus to heat
+
+201
+00:13:42,720 --> 00:13:46,960
+your core temperature, which can help reinforce that time.
+
+202
+00:13:46,960 --> 00:13:52,880
+And then another one is viewing sunlight within 10 to 30 minutes of waking up if possible
+
+203
+00:13:52,880 --> 00:13:54,760
+for 10 to 30 minutes.
+
+204
+00:13:54,760 --> 00:13:58,320
+I think up to two and a half hours has shown pretty significant improvement.
+
+205
+00:13:58,320 --> 00:14:01,480
+So anytime you're able to, that could be really hard for us, right?
+
+206
+00:14:01,480 --> 00:14:05,280
+And shift work, we get up at, you know, 4 30 in the morning, we're at on shift by six
+
+207
+00:14:05,280 --> 00:14:10,000
+and whether we see the sun or not is negotiable, I suppose.
+
+208
+00:14:10,000 --> 00:14:15,360
+But that that morning routine is kind of how we we can get started in the day.
+
+209
+00:14:15,360 --> 00:14:18,400
+No, that's awesome.
+
+210
+00:14:18,400 --> 00:14:25,600
+I tend to have the, I have in the past focused my sleep hygiene interventions, I guess you
+
+211
+00:14:25,600 --> 00:14:28,640
+could call them on an evening routine.
+
+212
+00:14:28,640 --> 00:14:31,640
+I never thought to like extend that to starting early in the days.
+
+213
+00:14:31,640 --> 00:14:37,760
+That's definitely could take away from me personally as I adjust my strategy going forward.
+
+214
+00:14:37,760 --> 00:14:38,760
+I have the same thing.
+
+215
+00:14:38,760 --> 00:14:42,320
+I never thought anything in the morning could help because you're so far away from sleep,
+
+216
+00:14:42,320 --> 00:14:43,320
+right?
+
+217
+00:14:43,320 --> 00:14:44,320
+You don't even think about it.
+
+218
+00:14:44,320 --> 00:14:48,360
+But I noticed when I changed my own routine to include these, I mean, I was having a
+
+219
+00:14:48,360 --> 00:14:51,960
+great, incredible sleep in general.
+
+220
+00:14:51,960 --> 00:14:56,000
+I mean, I've actually woke up feeling rested, something that I don't think many of us are
+
+221
+00:14:56,000 --> 00:14:58,600
+used to, especially in our careers.
+
+222
+00:14:58,600 --> 00:14:59,600
+Definitely.
+
+223
+00:14:59,600 --> 00:15:04,200
+And if you if you'd like, I do have some stuff before bed, if you'd like me to go over that.
+
+224
+00:15:04,200 --> 00:15:05,480
+Yeah, for sure.
+
+225
+00:15:05,480 --> 00:15:06,480
+Awesome.
+
+226
+00:15:06,480 --> 00:15:10,360
+So once you set yourself up in the morning, one thing I would like to add on there, which
+
+227
+00:15:10,360 --> 00:15:16,440
+we can get into substances later if you'd like, but waiting for your caffeine, about
+
+228
+00:15:16,440 --> 00:15:19,200
+90 minutes is actually pretty helpful.
+
+229
+00:15:19,200 --> 00:15:24,040
+I know a lot of us I used to drive to work with a rain or a bang in my hand, already
+
+230
+00:15:24,040 --> 00:15:26,080
+getting the caffeine flowing.
+
+231
+00:15:26,080 --> 00:15:30,220
+But realistically, if you wait about 90 minutes for that caffeine, you're letting your body
+
+232
+00:15:30,220 --> 00:15:33,680
+start to burn off some of that adenosine naturally.
+
+233
+00:15:33,680 --> 00:15:37,160
+And the more adenosine is burned off the least tired you are.
+
+234
+00:15:37,160 --> 00:15:41,680
+So what I found is that actually waiting that 90 minutes for caffeine is prolongs the time
+
+235
+00:15:41,680 --> 00:15:45,320
+you actually need the caffeine so you can go later in the day without it.
+
+236
+00:15:45,680 --> 00:15:51,640
+But it also kind of promotes that adenosine burn off and find that you can do it naturally
+
+237
+00:15:51,640 --> 00:15:52,640
+without it.
+
+238
+00:15:52,640 --> 00:15:59,720
+So onto the before bed routine, I will usually take a warm shower or borderline hot shower
+
+239
+00:15:59,720 --> 00:16:02,680
+about 30 minutes before I lay down in bed.
+
+240
+00:16:02,680 --> 00:16:04,720
+And I use that as my cutoff for phones.
+
+241
+00:16:04,720 --> 00:16:09,800
+So I put my phone on do not disturb, I turn the brightness all the way down and then my
+
+242
+00:16:09,800 --> 00:16:14,520
+charger, my charging stand is actually faced away from my bed.
+
+243
+00:16:14,520 --> 00:16:18,800
+There's been a lot of studies out that the blue light and the overall light from the
+
+244
+00:16:18,800 --> 00:16:21,240
+phone promotes wakefulness.
+
+245
+00:16:21,240 --> 00:16:23,120
+But not only that, it's a distraction.
+
+246
+00:16:23,120 --> 00:16:27,720
+And realistically, we need to be committing to some time where we go to sleep.
+
+247
+00:16:27,720 --> 00:16:31,820
+And that's our only focus is to get to sleep and get good sleep.
+
+248
+00:16:31,820 --> 00:16:33,720
+So I'll start that warm shower.
+
+249
+00:16:33,720 --> 00:16:39,920
+I put it on Instagram the other day, I there's a lot of studies about red light being not
+
+250
+00:16:39,920 --> 00:16:45,160
+as promoting of wakefulness as the blue light and artificial like white light.
+
+251
+00:16:45,160 --> 00:16:49,120
+So what I actually did is I went and found some like $10 like hiking headlamp and I hang
+
+252
+00:16:49,120 --> 00:16:53,320
+it from my door when I take a shower so I can still see everything but it's red light.
+
+253
+00:16:53,320 --> 00:16:55,000
+Yeah, it's so nice.
+
+254
+00:16:55,000 --> 00:16:59,280
+And it's actually there's, there's a few studies I don't think they have like a bunch of traction,
+
+255
+00:16:59,280 --> 00:17:04,080
+but there were some studies that came out that actually showed that the red light can
+
+256
+00:17:04,080 --> 00:17:07,080
+assist with serotonin production.
+
+257
+00:17:07,080 --> 00:17:09,800
+So I don't know if that's partially that I don't know.
+
+258
+00:17:10,000 --> 00:17:13,200
+It's super relaxing and soothing take that shower.
+
+259
+00:17:15,200 --> 00:17:19,300
+Keeping everything dark and cool is the key here because that light is going to promote
+
+260
+00:17:19,300 --> 00:17:24,200
+that wakefulness in your brain and mess with your circadian clock and the coolness is going
+
+261
+00:17:24,200 --> 00:17:29,400
+to encourage your your body to essentially stay cool.
+
+262
+00:17:29,400 --> 00:17:31,800
+So that's what we're doing that warm shower in the morning.
+
+263
+00:17:31,800 --> 00:17:35,800
+We're trying to get our hypothalamus to warm our body for wakefulness.
+
+264
+00:17:36,000 --> 00:17:40,000
+But at night, we're taking a warm shower to try to cool our body to sleep.
+
+265
+00:17:41,200 --> 00:17:44,200
+And then the only other thing I have is I just don't I don't check my phone.
+
+266
+00:17:44,200 --> 00:17:49,000
+I keep those clock faces completely out of view blackout curtains if you can anything
+
+267
+00:17:49,000 --> 00:17:52,000
+to keep the room cool, dark and free of light.
+
+268
+00:17:53,500 --> 00:17:54,700
+Yeah, totally makes sense.
+
+269
+00:17:57,800 --> 00:18:04,500
+Now, did you you mentioned that you had like a core group of sleep doctrines is this your
+
+270
+00:18:04,500 --> 00:18:09,200
+routine like encompasses that or were there other other specific factors you wanted to mention?
+
+271
+00:18:10,400 --> 00:18:12,900
+That is actually that's my exact routine right there.
+
+272
+00:18:13,100 --> 00:18:19,100
+Okay, they they go over a lot the Huberman lab podcast really there's a specific episode.
+
+273
+00:18:19,100 --> 00:18:20,400
+I don't recall which one it is.
+
+274
+00:18:20,400 --> 00:18:26,400
+There's Dr. Matt Walker and they talk about different sleep routines and supplements and
+
+275
+00:18:26,400 --> 00:18:27,400
+things like that.
+
+276
+00:18:27,400 --> 00:18:29,300
+So I don't I don't supplement my sleep.
+
+277
+00:18:29,300 --> 00:18:34,400
+I don't I don't really do anything else with it the way I I guess my philosophy on
+
+278
+00:18:34,400 --> 00:18:38,800
+sleep itself is that like we talked about earlier something we do it's something the
+
+279
+00:18:38,800 --> 00:18:45,300
+brain has evolved to do and so I try to I try to leave everything to my own brain and
+
+280
+00:18:45,300 --> 00:18:48,600
+just kind of make it as easy as possible for it to do its job.
+
+281
+00:18:49,200 --> 00:18:55,000
+But I try not to regulate it with any substances like melatonin or magnesium or anything like
+
+282
+00:18:55,000 --> 00:18:55,400
+that.
+
+283
+00:18:55,800 --> 00:18:56,300
+Right.
+
+284
+00:18:57,300 --> 00:19:01,600
+Yeah, I have a I have a similar routine that I think we'll get to share in a little bit.
+
+285
+00:19:02,300 --> 00:19:08,000
+But before that I had a couple things I wanted to mention we'll put links to like the Huberman
+
+286
+00:19:08,000 --> 00:19:13,500
+lab episodes the softly podcast episodes and then Matt Walker one as well.
+
+287
+00:19:14,000 --> 00:19:17,800
+But another one that I've found recently is called wild health.
+
+288
+00:19:18,300 --> 00:19:22,800
+It's a group of physicians who you know, they focus on like health optimization and like
+
+289
+00:19:23,300 --> 00:19:27,700
+personalized medicine, but they have a little bit of content on sleep.
+
+290
+00:19:27,700 --> 00:19:32,400
+And one of the things they've talked about on their show is for folks working 12-hour shifts or
+
+291
+00:19:32,400 --> 00:19:39,400
+like rotating shifts and they specific to that idea of like exposing yourself to sunlight in
+
+292
+00:19:39,400 --> 00:19:41,500
+the morning to facilitate waking up.
+
+293
+00:19:41,700 --> 00:19:44,500
+They also recommend though if you're working nights and you've been up all night.
+
+294
+00:19:45,700 --> 00:19:50,000
+If you're going home when it's light outside to wear sunglasses on your way home so that you
+
+295
+00:19:50,000 --> 00:19:54,800
+don't like wake up further so you can like facilitate going back to sleep when you get off
+
+296
+00:19:54,800 --> 00:19:55,300
+shift.
+
+297
+00:19:56,300 --> 00:20:03,600
+So the idea there is that like there's a lot of data out there and a lot of like protocols and
+
+298
+00:20:03,600 --> 00:20:08,100
+strategies for people who are working in normal like day night schedule like their wake during
+
+299
+00:20:08,100 --> 00:20:09,400
+the day and they go to sleep at night.
+
+300
+00:20:11,000 --> 00:20:15,400
+That said we have to make some modifications if we're working shift work whether that be like 12 24
+
+301
+00:20:15,400 --> 00:20:16,300
+or 48 hour shifts.
+
+302
+00:20:16,300 --> 00:20:23,200
+That's kind of like the next thing that I want to transition into if we have some kind of routine
+
+303
+00:20:23,200 --> 00:20:27,500
+that we're using like a full day routine both like our morning habits or am habits in our p.m.
+
+304
+00:20:27,500 --> 00:20:28,300
+or evening habits.
+
+305
+00:20:28,800 --> 00:20:33,800
+How might we have to modify that if we're working extended shifts whether that be 24 or 40 hour
+
+306
+00:20:33,800 --> 00:20:36,300
+shifts that a lot of folks in EMS tend to work.
+
+307
+00:20:37,900 --> 00:20:44,500
+So ironically what what I've heard in podcast would have seen in a few studies and what I've actually
+
+308
+00:20:44,500 --> 00:20:49,800
+experienced myself is that I've actually found that trying to stick to your normal routine on
+
+309
+00:20:49,800 --> 00:20:54,500
+shift is the best I've found to kind of help that sleep out.
+
+310
+00:20:54,800 --> 00:21:01,000
+I think that what we do is we we develop these good habits and these good routines that we do off
+
+311
+00:21:01,000 --> 00:21:01,400
+duty.
+
+312
+00:21:01,400 --> 00:21:07,400
+But then when we come on duty now all of a sudden even if we're not running calls constantly we still
+
+313
+00:21:07,400 --> 00:21:08,500
+throw it out the window.
+
+314
+00:21:08,900 --> 00:21:14,000
+I think it's kind of like if you think about trying to make a lifestyle change with food right.
+
+315
+00:21:14,000 --> 00:21:19,300
+You have one poor meal and then you just say screw it for the rest of the day and you eat like garbage
+
+316
+00:21:19,800 --> 00:21:21,500
+and I almost feel like it's the same way.
+
+317
+00:21:21,500 --> 00:21:27,200
+We just automatically assume that we can't make it the best sleep we can on duty.
+
+318
+00:21:27,600 --> 00:21:28,700
+And so we throw it out.
+
+319
+00:21:30,400 --> 00:21:36,000
+The waking up like if we're talking 24 and 48 hour shifts for 24 obviously you're probably going to be
+
+320
+00:21:36,000 --> 00:21:39,000
+waking up at the same time to get ready for work.
+
+321
+00:21:39,000 --> 00:21:40,400
+That's that's what I will do.
+
+322
+00:21:40,700 --> 00:21:46,800
+I'll actually I would did I would set my alarm to the same day same time every single day whether I was
+
+323
+00:21:46,800 --> 00:21:47,800
+going to work or not.
+
+324
+00:21:47,800 --> 00:21:49,500
+I still kept that wake up time.
+
+325
+00:21:49,800 --> 00:21:54,500
+So if you're going to work staying with that time and then if you're coming off shift I would wake up a
+
+326
+00:21:54,500 --> 00:22:00,200
+little bit earlier than everyone else with my own alarm rather than the shift change alarm and start start
+
+327
+00:22:00,200 --> 00:22:04,100
+my routine that way and that kind of prepares you for the sleep on your off day.
+
+328
+00:22:04,200 --> 00:22:06,400
+It's the most important 48.
+
+329
+00:22:06,400 --> 00:22:07,500
+It's the same thing.
+
+330
+00:22:08,200 --> 00:22:16,400
+I you know you start your wake up in your bedtime at the same time but mimicking those am and pm routines as
+
+331
+00:22:16,400 --> 00:22:20,600
+much as you can is probably going to be the best and they may be delayed by a few hours.
+
+332
+00:22:22,000 --> 00:22:23,500
+It depends on how busy you are.
+
+333
+00:22:23,500 --> 00:22:26,900
+I mean I worked a very busy urban truck on 24.
+
+334
+00:22:26,900 --> 00:22:30,000
+So I know how it is where you're running from 8 a.m.
+
+335
+00:22:30,000 --> 00:22:31,000
+to 3 in the morning.
+
+336
+00:22:33,000 --> 00:22:37,600
+But once you do get to sleep that's what you're really going to be looking at for for optimization.
+
+337
+00:22:37,600 --> 00:22:42,000
+So you want to try to get as many of those little routine things in as possible.
+
+338
+00:22:42,000 --> 00:22:49,200
+So keeping your room dark keeping like I used to have a fan that I would blow on because we all can't control the thermostat.
+
+339
+00:22:49,700 --> 00:22:53,400
+So I'd have like a fan or two running in my room to keep it cool.
+
+340
+00:22:53,700 --> 00:22:54,700
+Keep it super dark.
+
+341
+00:22:54,700 --> 00:22:58,800
+Don't plan your phone for a long time after calls things like that.
+
+342
+00:22:59,100 --> 00:23:06,700
+One thing that I actually really like for this is there have been studies that have shown that some of the biggest problems we have
+
+343
+00:23:06,700 --> 00:23:09,000
+falling asleep is not actually a chemical issue.
+
+344
+00:23:09,300 --> 00:23:13,800
+It's more of an anxiety issue that we just don't really realize is happening.
+
+345
+00:23:14,200 --> 00:23:17,800
+And I think it's things like running through thought process from the day.
+
+346
+00:23:17,800 --> 00:23:25,700
+So what I started doing is doing a little a little journal where I go over quick 10 minutes about what happened during the day
+
+347
+00:23:26,100 --> 00:23:31,200
+and then actually list out things that I'm anxious about and I'm worried about and write down a little plan for how I'm going to deal with them.
+
+348
+00:23:32,100 --> 00:23:34,900
+And that can kind of reduce that amount of time that you're you're thinking.
+
+349
+00:23:35,300 --> 00:23:46,100
+So ultimately what I have kind of found is that trying to keep the same routine as much as possible and not trying to overcompensate for anything
+
+350
+00:23:46,100 --> 00:23:53,400
+is actually kind of the best thing we can do and let our brain do the rest because like we're talking about the stoicism,
+
+351
+00:23:53,400 --> 00:23:59,100
+you know, you can't control how many calls you're running and the only thing you can control is what you're doing with that downtime, right?
+
+352
+00:23:59,800 --> 00:24:00,100
+Right.
+
+353
+00:24:00,400 --> 00:24:02,200
+Yeah, I tend to have a similar approach.
+
+354
+00:24:02,200 --> 00:24:09,300
+So like for example, I try and maintain the habit of like every evening when it's getting close to bedtime.
+
+355
+00:24:10,700 --> 00:24:18,900
+I make a cup of tea and then I turn my phone off and that's kind of like my mentally preparing for going to sleep and I'll even do that at work.
+
+356
+00:24:18,900 --> 00:24:24,500
+Like I'll you know, put my phone on the charger and put my sleep sounds on and then I'll make make a cup of tea and you get funny looks at work.
+
+357
+00:24:24,500 --> 00:24:32,600
+But that way like I maintain that habit through my work days and then it's like, you know, just for me, it makes it way easier to maintain
+
+358
+00:24:32,600 --> 00:24:39,700
+because I'm not like a totally separate set of habits for when I'm away to work and a totally separate habit set of habits when I'm at home.
+
+359
+00:24:40,400 --> 00:24:47,900
+I just try and maintain that consistency and then like if I miss a night like it it's also okay to like not be at 100%.
+
+360
+00:24:47,900 --> 00:24:57,400
+So like if we're did a late afternoon flight or an evening flight and then I come back to base and it's 10 o'clock like I'm not going to stay up later just to like make that routine happen.
+
+361
+00:24:57,700 --> 00:24:58,200
+I'm like, all right.
+
+362
+00:24:58,200 --> 00:24:59,700
+Well, I can I can go straight to bed.
+
+363
+00:24:59,700 --> 00:25:03,400
+I don't need to like prolong my time to sleep just to have my cup of tea.
+
+364
+00:25:04,600 --> 00:25:06,700
+So you can have a little bit of flexibility there.
+
+365
+00:25:06,700 --> 00:25:08,600
+But in general, I do try and stick with my routine.
+
+366
+00:25:10,000 --> 00:25:10,900
+Yeah, absolutely.
+
+367
+00:25:10,900 --> 00:25:13,000
+I think that's the best we can do.
+
+368
+00:25:13,000 --> 00:25:17,800
+I mean, we're already if you think about the career in itself, we're already overloaded with so many.
+
+369
+00:25:17,900 --> 00:25:22,300
+Things we have to decide and and work through on a daily basis.
+
+370
+00:25:22,300 --> 00:25:27,500
+And the last thing I think I want to have to think about is how I'm going to spend my downtime.
+
+371
+00:25:27,500 --> 00:25:32,000
+I would rather just already have that routine and procedure in place and knock it out.
+
+372
+00:25:32,700 --> 00:25:43,700
+Right now one other idea that I think is specific to our community is that not only do we have like sleep disruptions, but we do fall asleep at work every once in a while.
+
+373
+00:25:43,700 --> 00:25:52,800
+We get woken up out of that sleep and then we are expected to be able to perform at like a comparative level to what would be expected in daylight hours.
+
+374
+00:25:53,800 --> 00:26:03,200
+So I think that is sometimes a problem where like our sleep quality is already like down from whatever a baseline is and then we have to wake up out of sleep to be able to perform.
+
+375
+00:26:03,600 --> 00:26:13,500
+What are some strategies folks can use to like to get into the zone like to get ready from sleep to be able to perform in a relatively short time?
+
+376
+00:26:14,700 --> 00:26:19,200
+So I like breath work personally.
+
+377
+00:26:19,200 --> 00:26:26,100
+I think that jumping to things like I'm just going to get ahead of everybody here because you already know where our co-workers are going with this.
+
+378
+00:26:26,100 --> 00:26:29,900
+If you immediately know it's going to be a big call and you start chugging caffeine, please stop.
+
+379
+00:26:30,900 --> 00:26:36,500
+Like you're going to destroy your your sleep and and probably not be functioning that well anyway.
+
+380
+00:26:37,500 --> 00:26:43,500
+But what I found is that breath work is a is this amazing thing.
+
+381
+00:26:43,500 --> 00:26:48,100
+I don't think we talk about enough for your your respiratory drive is really connected to your brain, right?
+
+382
+00:26:48,100 --> 00:26:50,100
+And so we can turn that into a tool for us.
+
+383
+00:26:50,600 --> 00:26:58,700
+And so there's different types of breath work you can do, but there's something called like active cycle breathing is essentially what you're doing.
+
+384
+00:26:58,700 --> 00:27:13,400
+And rather than doing like a down regulating breath where you're taking two in quickly than holding and then exhaling slowly, you're actually sort of hyperventilating yourself in a way.
+
+385
+00:27:15,100 --> 00:27:27,100
+The cycle is typically like I'll do like 15 slow breaths and then 15 fast breaths and then I'll do like 15 breaths and then I'll hold for five to 10 seconds
+
+386
+00:27:27,100 --> 00:27:30,100
+and then exhale over like three different parts.
+
+387
+00:27:30,100 --> 00:27:32,700
+So like a third exhale, a third exhale, a third exhale.
+
+388
+00:27:32,700 --> 00:27:42,400
+And what that has been shown is that that that quick breath actually starts to activate your synthetic nervous system in a more procedural and safer way than that.
+
+389
+00:27:42,400 --> 00:27:46,700
+That noxious arousal that you get from that gnarly tone going off in the middle of the night.
+
+390
+00:27:46,700 --> 00:27:48,400
+So I personally use the breath work.
+
+391
+00:27:48,400 --> 00:27:50,900
+I think it's pretty non-invasive.
+
+392
+00:27:50,900 --> 00:27:52,900
+You know, it's a natural thing that you're doing.
+
+393
+00:27:52,900 --> 00:27:57,000
+You're not having to supplement yourself and it can start to improve that.
+
+394
+00:27:57,100 --> 00:28:00,300
+Cognitive performance that you're about to have to be utilizing.
+
+395
+00:28:01,300 --> 00:28:06,200
+Okay, so not caffeine, but maybe try breath work.
+
+396
+00:28:06,200 --> 00:28:16,300
+What about any like physical movements like doing something that's like physically active, you know, a couple jumping jacks or something like that to get your sympathetic system going?
+
+397
+00:28:17,300 --> 00:28:18,000
+Absolutely.
+
+398
+00:28:18,000 --> 00:28:19,400
+I could absolutely see that.
+
+399
+00:28:19,400 --> 00:28:24,800
+I mean, if you I know this is a little bit, it depends on where you're at, right?
+
+400
+00:28:24,800 --> 00:28:33,800
+And it depends on I guess if your flight or ground or what your even your distances to your truck, you can do something like lunges on your way over.
+
+401
+00:28:33,800 --> 00:28:36,600
+You could do a couple quick jumping jacks.
+
+402
+00:28:36,600 --> 00:28:41,700
+The station I was at, we were fairly, you know, we were dual house at the fire department.
+
+403
+00:28:41,700 --> 00:28:45,300
+We were on the complete other side of the Bay from the bedrooms.
+
+404
+00:28:45,300 --> 00:28:49,600
+And so I would do like a quick jog over there with some high knees and stuff like that.
+
+405
+00:28:49,600 --> 00:28:52,800
+And it looks super goofy and you will absolutely get made fun of a little bit for it.
+
+406
+00:28:53,300 --> 00:28:57,800
+But I have definitely found that it gets you a little bit more wakeful.
+
+407
+00:28:57,800 --> 00:29:04,000
+And then once you I mean, I think we all once we said this call notes and start figuring out what we're going into, you start to have activation there.
+
+408
+00:29:04,000 --> 00:29:07,800
+But I think that a little bit of physical activation is definitely helpful as well.
+
+409
+00:29:08,800 --> 00:29:17,500
+Right on. And then I guess this this waking up at night is like mitigating fatigue is kind of broken up into I guess in my mind, like two different pieces.
+
+410
+00:29:17,500 --> 00:29:23,000
+One is like when you're initially going to the call, so you get to go from like a rest state into being able to perform.
+
+411
+00:29:23,000 --> 00:29:30,500
+And then in the flight side of things, we also have a deadline where you're like you're on the come down from whatever you were doing on the call.
+
+412
+00:29:30,500 --> 00:29:36,500
+And you need to stay awake to be like a, you know, like an air crew member on your way home.
+
+413
+00:29:36,500 --> 00:29:40,500
+But it's trying to stay awake during that leg is sometimes a little bit different.
+
+414
+00:29:40,500 --> 00:29:45,500
+I think like a lot of these techniques, I can't really do jumping jacks in the in most aircraft.
+
+415
+00:29:45,500 --> 00:29:57,500
+But the breath word thing would help. One thing that I also do is I always try and like keep a conversation going, which I know probably like annoys the hell out of my partner sometime because they're over on the other side trying to try to get some shut eye.
+
+416
+00:29:57,500 --> 00:30:03,500
+But I think that's a good way to just stay engaged. It also like, you know, keeps the pilot engaged.
+
+417
+00:30:03,500 --> 00:30:16,500
+It's like a kind of a team approach to keeping everyone awake and and focus on the mission at hand because I think it's not that uncommon for folks just to like rack out in the back of the aircraft and leave the pilot to do the piloting.
+
+418
+00:30:16,500 --> 00:30:22,500
+But I would argue that it is pretty important that we all try and stay awake and facilitate that process as a team.
+
+419
+00:30:22,500 --> 00:30:40,500
+Yeah, for sure. I think that implementing any of those could could really kind of help out and I'm right there with you at the conversational piece on the I'm the guy that like especially if you know like over here, you know, we run downtown, which is a pretty it's about 45 minute transport driving back at two in the morning.
+
+420
+00:30:40,500 --> 00:30:54,500
+Yeah, it could be retired, but I'm in the same thing, even though I'm ground in that air like, you know, I think that maintaining awareness of both both partners in the truck and stuff, you know, you can really like I would rather be awake and notice that my partner is drifting off, you know, things like that.
+
+421
+00:30:54,500 --> 00:31:02,500
+For sure. So I'm in the same boat, man. I'm usually talking quite a bit all the way back and it helps.
+
+422
+00:31:02,500 --> 00:31:15,500
+Okay, and then the next thing that I wanted to talk about was so let's say we have this, like our set of habits. So we've got our morning and our evening habit. We're trying to keep up with it on our 24 or 40 at our shifts.
+
+423
+00:31:15,500 --> 00:31:27,500
+What if we end up in a situation where we're coming off shift and we're down sleep, right? Like we haven't, we haven't gotten the sleep that we wanted for whatever reason, whether we're running calls or we just, you know, we're not sleeping well because we're not familiar habit.
+
+424
+00:31:27,500 --> 00:31:43,500
+What is your approach to like recovering on your off day? Are there any recommendations for like sleeping as soon as you get home, trying to catch up on sleep and then like getting back into routine or try and stay awake until the next night and, you know, get back on schedule that way.
+
+425
+00:31:43,500 --> 00:31:45,500
+What are your thoughts on that?
+
+426
+00:31:45,500 --> 00:32:03,500
+So this is actually one that I was pretty excited about listening to. I believe it was the Matt Walker podcast, but I was very excited about it because this is something I've been doing for years now. And it was actually my father was a state trooper for about 30 years and he worked nights and this is something that he had taught me.
+
+427
+00:32:03,500 --> 00:32:14,500
+And it's always worked for me. So I was very excited to see sleep doctors were actually, you know, prescribing to it as well. And so what I actually do is I again, I don't change anything.
+
+428
+00:32:14,500 --> 00:32:30,500
+I will stay awake. I'll have a cup of coffee or like an energy drink or something in the morning and then go about my day. Normally, for the most part, what I'll do is I'll usually take a nap about the like maybe late morning, but I try to keep it to about 30 minutes.
+
+429
+00:32:30,500 --> 00:32:41,500
+And the key with this, there are studies that have come out that have actually really shown that there is no way to make up for the sleep you have lost.
+
+430
+00:32:41,500 --> 00:32:56,500
+So I think that's something that we unfortunately have to accept if we're going to be working those 24 or 48 where that that sleep potential is gone because with your circadian clock, it actually this is so cool to me.
+
+431
+00:32:57,500 --> 00:33:11,500
+It doesn't it's not a routine your sleep. So your sleep isn't a checkbox that your your brain goes through. It's actually time based based on that circadian clock. So if you let's say you go, you usually sleep eight to five or whatever.
+
+432
+00:33:11,500 --> 00:33:21,500
+8pm to 5am, you know, eight to about midnight 30 is going to be your non REM deep sleep and then about midnight 30 to five is going to be a REM sleep.
+
+433
+00:33:21,500 --> 00:33:30,500
+So if you go to bed at one in the morning, you're not restarting at that non REM deep sleep, you're starting in the REM sleep where you would normally be in that cycle.
+
+434
+00:33:30,500 --> 00:33:41,500
+And so your brain isn't really going to be able to get much restful true true restful sleep rather, if you come home from shift and you start sleeping at a time you don't normally sleep.
+
+435
+00:33:42,500 --> 00:33:52,500
+So I will try to stay awake. I try not to supplement with too much caffeine after about noon. I'm planning to go to bed at about nine if I'm on shift the next day.
+
+436
+00:33:53,500 --> 00:34:10,500
+So I find that by keeping keeping awake and taking that quick nap, you're not messing with your circadian clock, you're allowing that identity to build back up and allow yourself to get to sleep better because I think that if we start to mess with that routine too much, that's when well now if you're going to sleep at night,
+
+437
+00:34:11,500 --> 00:34:21,500
+if you take a three hour nap now instead of going to bed at nine for shift, you're going to bed at 1130 and now everything starts to kind of pile up and jackknife if you will.
+
+438
+00:34:22,500 --> 00:34:36,500
+That totally makes sense. I guess the way I've tend to do it is like when I work my I work 24 hour shifts and I often do like 24 hour shifts with a day off like you know in a long sequence I'll be like 24 on 24 off 24 on 24 off, etc.
+
+439
+00:34:36,500 --> 00:34:58,500
+And I always try and leave you know I could make a concerted effort to like not have things planned all my days off in between my shifts. And then if I am down on sleep, I do generally take a nap in the morning but I try and keep it short and I do it earlier so that like I still have that whole like a long stretch of awake time for that fatigue to build up over the day and then I'll you know restart.
+
+440
+00:34:59,500 --> 00:35:07,500
+But given what you had to say, like maybe that's something that I will consider doing different in the future. Yeah.
+
+441
+00:35:07,500 --> 00:35:22,500
+I think that's actually perfect. Honestly, I mean, knocking out that nap in the morning, you're, you know, you're burning off some adenosine, maybe just enough of that adenosine to keep you awake, but you're not burning off so much you know I think that nap issue is usually you know if you come home from shift,
+
+442
+00:35:22,500 --> 00:35:40,500
+and then you sleep for two hours, and then you do stuff until 230 in the afternoon, and then you sleep for two hours, like for starting to inundate with naps I think that's when it starts to be a problem but I think I would, I would say at least from the research I've seen, I think allow yourself about eight to 10 hours of awake time
+
+443
+00:35:40,500 --> 00:35:52,500
+between between your nap and your yeah and your and your sleep time that way it'll your identity can kind of build back up and not make you a lay in bed with your staring at the ceiling and all that.
+
+444
+00:35:52,500 --> 00:35:53,500
+Yeah, that makes sense.
+
+445
+00:35:54,500 --> 00:36:07,500
+Okay, just to backtrack a little bit on some just general concepts and then we'll dive into like my specific approach and I'll get some feedback from you on that. What are your thoughts on using devices to track sleeping.
+
+446
+00:36:08,500 --> 00:36:16,500
+So I think this is, I'm not here to tell anybody what to do or do not to do I mean it gives if you want to use them.
+
+447
+00:36:16,500 --> 00:36:34,500
+That's awesome. I don't because I overthink and I tend to dwell on things and I found that if I I've used my Fitbit in the past you know they're way better sleep trackers when you have like or ring and there's there's others but like I've used a Fitbit in the past to do it and I found that I've like
+
+448
+00:36:34,500 --> 00:36:46,500
+gotten overly concerned with this natural process that my brain is going to already coax me into and I think it could be a good thing for confirming maybe that your habits are working.
+
+449
+00:36:46,500 --> 00:36:50,500
+And if that's something you need like a little bit of validation. I think they could be awesome.
+
+450
+00:36:51,500 --> 00:37:07,500
+One of the issues I actually have heard is that there's about a 10% rate of inaccuracy on those and I mean any of us with you know our experience kind of looking into medical studies things like that like a 10% variance is pretty high.
+
+451
+00:37:07,500 --> 00:37:25,500
+But they were comparing different sleep trackers compared to an EEG and what they found was that like I think the EEG reported seven hours and 54 minutes or something like that of restful sleep which is accurate and the the or a ring actually showed something like six hours and 10 minutes of sleep.
+
+452
+00:37:25,500 --> 00:37:39,500
+So you're missing out on this pretty large portions that my only concern with that is people who maybe you're getting more restful sleep than they think they are and then start to go to things like supplements and stuff that actually is going to to impact it.
+
+453
+00:37:39,500 --> 00:37:49,500
+So I guess I think it's up to the person but I personally stick with kind of my own body's natural process as the tracker if you will. But what are your thoughts? Do you think they're something that could be helpful for people?
+
+454
+00:37:50,500 --> 00:38:03,500
+Yeah, so first of all, I think you make a good point that like it would be unrealistic to expect that you can take all the technology of a sleep lab and put it into a device that you wear on your wrist or your ring like there's that just not going to happen.
+
+455
+00:38:03,500 --> 00:38:08,500
+So first thing is just recognizing that there are some limits to these devices.
+
+456
+00:38:09,500 --> 00:38:29,500
+But that said, I think that they can give you a baseline for you as an individual. So I've I currently have a or a ring and I in the past have used a Fitbit and it has been beneficial for me at times to like track my trends because even if like the data that I'm getting on my Fitbit doesn't compare necessarily to the data that you're getting on your Fitbit.
+
+457
+00:38:29,500 --> 00:38:49,500
+The data for me if I use that consistently over time is like a good baseline for comparison for me. So I think it does have value. I do think there's also a component where it can like it can cause stress like it can negatively impact your sleep quality if you're like overly focused on the specific numbers that data collection.
+
+458
+00:38:49,500 --> 00:39:03,500
+I also this is a recommendation from the guys over at Wild Health like they recommend that like if you're going in to a set of shifts or like a certain time in your life where you know you're not going to get good sleep maybe like don't wear the device because you already know your sleep is going to suck.
+
+459
+00:39:03,500 --> 00:39:16,500
+So just acknowledging and looking at those numbers like it's unnecessary stressor. So maybe like you can selectively use the device for when you're trying to like maximize sleep on your days off.
+
+460
+00:39:16,500 --> 00:39:31,500
+So yeah, I guess I don't have like a I'm still in the experimental phase of this myself like I have a ring that I wear and I've been using it consistently for a while in the past with the Fitbit I would use it like here and there when I when I wanted to focus on sleep.
+
+461
+00:39:31,500 --> 00:39:38,500
+But I think just being aware of all these like limitations and the potential for negative is the most important thing.
+
+462
+00:39:38,500 --> 00:39:54,500
+Absolutely, and I think that now that you kind of bring that up to you, I would bet I would argue that the sleep trackers are probably awesome if you were trying to develop a routine in a raw way, like almost as you know, experimenting on yourself.
+
+463
+00:39:54,500 --> 00:40:02,500
+So if you don't have a routine or your routine is really bad and you're trying to establish one, you know, like you and I have pretty established routines.
+
+464
+00:40:02,500 --> 00:40:16,500
+I think whether we wear one or not, we're probably going to be fine. But I think that could be an awesome source of validation of someone's having a hard time working around getting a routine and then say they get one day with a good routine and they see their sleep was amazing.
+
+465
+00:40:16,500 --> 00:40:20,500
+I think that actually might be really helpful for developing that.
+
+466
+00:40:20,500 --> 00:40:39,500
+Yeah, the other thing worth keeping in mind for folks who are interested in these devices is that you can like transfer the device like let's say like I have a or ring someone else, you know, like I use it for a couple months, I can like give that ring to someone else as long as like the size fits like the sizing with the ring is a little bit different, whereas like a Fitbit you can just get a different band.
+
+467
+00:40:40,500 --> 00:40:56,500
+But you could share a device. So like let's say your crew like you have like six people on your shift, you wanted to like pitch in like on get a whoop and a Fitbit and just like take turns using them like as long as everyone has their own like account on their device like they're not like unique to an individual.
+
+468
+00:40:56,500 --> 00:41:00,500
+Such as something to keep in mind as well.
+
+469
+00:41:00,500 --> 00:41:11,500
+Yeah, I like that especially considering they're they're fairly expensive. So that would be that would be kind of an interesting thing to share between careers or for agencies trying to determine the wellness of their employees sleep.
+
+470
+00:41:11,500 --> 00:41:14,500
+Yeah, they're not going to like the results of that one.
+
+471
+00:41:14,500 --> 00:41:27,500
+Yeah, one other neat feature that I really liked in the Fitbit and I actually don't know like how well it actually works. But in theory, it seemed pretty cool is that they have this function on your alarm where it's got like a little buzzing alarm.
+
+472
+00:41:27,500 --> 00:41:38,500
+And it just like buzzes on your wrist and wakes you up, which is pretty cool because then like your alarm doesn't wake other people up. The other thing you can do on it, which I'm interested to get your thoughts on is you can set it.
+
+473
+00:41:38,500 --> 00:41:48,500
+So let's say you set your alarm at six o'clock, you can set it so within like the 30 minutes leading up to your 6am alarm, if it senses that you're in a light sleep cycle, it'll wake you up early.
+
+474
+00:41:48,500 --> 00:42:04,500
+And that way you don't go back into a deep sleep cycle and have like this like extra foggy brain when you wake up. That's the theory behind it. Yeah, that's the theory behind it. But I'm not I'm not sure how you know, like how accurate the Fitbit was it like tracking my sleep cycles.
+
+475
+00:42:04,500 --> 00:42:17,500
+Like anecdotally, like I like the feature like maybe it was all placebo, but I liked you know, like sometimes being woken up like 15 minutes early and be like, Oh, yeah, like if I had slept 15 minutes longer, like I wouldn't be as awake now.
+
+476
+00:42:17,500 --> 00:42:25,500
+So I thought that was pretty cool. I would be interested in like learning more about that or if like other devices have similar functions like I thought that was pretty neat.
+
+477
+00:42:26,500 --> 00:42:54,500
+I would love that. And that's kind of so when I was trying to figure out like my wake up time, and I had this conversation with someone the other day, like a lot of us will wake up, you know, so sleepy, but we slept like nine hours. And I think a big part of that, I believe was on the Softly podcast and Matt and George are talking about was that you're actually probably waking up toward the end of a sleep cycle or in the middle of one like you're talking about. And so, so like when I had just like a little bit of a
+
+478
+00:42:54,500 --> 00:43:17,500
+little bit of a sleep cycle, so like when I adjust it, like I wake up at four, four o'clock, like on the dot, and I find that that's perfect. If I go to bed at about nine. And what I found was if I like slept in 30 minutes, I felt like garbage. And so I think that the ability to have the device doing that for you, I'd be really curious to see on a subjective basis, what that would be like.
+
+479
+00:43:17,500 --> 00:43:47,500
+Now I thought it was I thought it was a cool feature. And I think it, I think in theory, it makes a lot of sense. I mean, a limiting factor would be like how well the tech actually like senses your cycles. But that that stuff is only going to get better with time. So I think in the future, that may be a more routine thing, you're seeing devices at the moment, the only one I know that does something like that would be the Fitbit. And for what it's worth, the Fitbit is like super cheap, they're like, you know, $80 versus like a couple hundred for like a ring device. So that, that's
+
+480
+00:43:47,500 --> 00:43:49,780
+is within the realm of possibility for many people.
+
+481
+00:43:51,180 --> 00:43:52,340
+Oh, yeah, I love that Fitbit.
+
+482
+00:43:53,100 --> 00:44:16,660
+So one other thing I wanted to ask about is we've been talking a lot about sleep and like specific, you know, things you can do to optimize your sleep. But do you think there's any like prerequisites to getting good sleep? So for example, like, let's say we're doing all these things to optimize our sleep, but we're like in like our state of fitness is like subpar or like we're eating a shitty diet.
+
+483
+00:44:17,380 --> 00:44:33,780
+Do you think all that sleep stuff goes out the window? Or is there like, I guess the question is, like, do you think like certain components, whether that's like fitness and diet or something else? Do you think those are like genuine prerequisites for getting good sleep? Or do you think you can still focus on your sleep and then
+
+484
+00:44:35,340 --> 00:44:46,100
+you know, like separate those concepts into like different factors to focus on? Or do you have to do something first before moving on to optimizing your sleep? I don't know if I did a great job of framing that question.
+
+485
+00:44:46,820 --> 00:45:00,980
+I totally understand what you're asking. I think that I, I would argue that you don't. I think that anything you do to optimize your sleep is going to help you in the long run. Because realistically, I mean,
+
+486
+00:45:01,580 --> 00:45:07,940
+sleep is, is it's dependent, but it's also independent, right? So it depends on other things to make it better or worse. But like,
+
+487
+00:45:08,580 --> 00:45:27,180
+if you can make a few things better, and then but you're maybe you're still eating like garbage and not working out, that's still better than like eating like garbage, not working out and having crappy sleep. So I think that like, anything you can do to optimize that sleep is going to help. I will say though, that exercise can really help.
+
+488
+00:45:27,980 --> 00:45:38,420
+I think the best thing it helps with ironically, at least for me with my routine, I work out in the morning. And I find that I don't have to use my caffeine for longer. If at all, usually not at all.
+
+489
+00:45:39,460 --> 00:45:55,500
+And that can kind of help with that adenosine, right? But it also like it regulates your hormones and all the core functions in your body, you know, you have increased cardiovascular health, increased, like respiratory health and all that is going to come into play in your sleep. Because if you're like, if you look at sleep apnea,
+
+490
+00:45:56,500 --> 00:46:12,660
+I did eg's before as like a little kind of side gig while I was in medical school. And that was something we noticed a lot with these patients is they would lose 10 15 pounds and all of a sudden, you know, they didn't have a sleep apnea anymore. So I think that
+
+491
+00:46:13,660 --> 00:46:23,460
+this fitness aspect can really have a huge impact on your sleep. And the diet with that the nutrients man, I mean, if all you're eating is, you know, processed garbage, and
+
+492
+00:46:23,940 --> 00:46:36,820
+it doesn't really have any of the actual like vitamins and minerals you need on a daily basis, your brain is probably not getting the nutrition it needs. And it's gonna have a harder time processing, as well as getting yourself to sleep and staying asleep.
+
+493
+00:46:37,460 --> 00:46:53,060
+So I would I would argue that yeah, you can you can definitely I definitely would make sleep changes before you're in shape or eating well, but I would I would not under stress the importance of those aspects to sleep either, if that makes sense.
+
+494
+00:46:53,460 --> 00:47:17,980
+Right. And I think ideally, we could focus on all these things. But if you're like writing someone a prescription for doing like, lots of life changing interventions, that can get overwhelming. And then you're like, your, your rate of compliance is for sure going to go down. So the point, I guess that I'm making is that, like, even if you still have other things that you'd like to focus on in your life, like you can still get benefit about from you, you can still derive some benefit from focusing on your sleep habits.
+
+495
+00:47:17,980 --> 00:47:47,940
+Oh, absolutely. I would actually I would say that if you had to choose one to start with, I would start with your sleep. I think that it's, I think it's honestly probably the easiest. It sounds bad. But I mean, as someone who was overweight at one time and lost a bunch of weight and got into everything with fitness and diet, like sleep adjustments were way easier than any of that. So I would start with sleep because that's regulating all of your all your functions. Anyway, it has the biggest effect on your sleep.
+
+496
+00:47:47,980 --> 00:48:00,940
+And then you're going to be able to do that in your overall health, if you ask me. So I think it's starting with sleep will actually be a good point to give you a little bit of confidence in a new routine and maybe move you into the other ones later on. You're feeling better.
+
+497
+00:48:00,940 --> 00:48:16,940
+Yeah, I like that take. Cool. I guess the last thing I wanted to pitch out there is I just wrote some notes about like, my general approach to sleep note, like given that I work 24 hour shifts. So I'll just kind of run through like my bullet points that I jotted down.
+
+498
+00:48:16,940 --> 00:48:37,900
+I'm interested to see what your thoughts are on that. So I guess the things that I wrote down the first one was just my evening habit, which I already talked about, I guess moving forward, I'll probably extend that to just like my daily habits in general, like include my waking up, am I going with my going to sleep. So my evening habit is the first thing.
+
+499
+00:48:37,900 --> 00:49:06,780
+The next thing I noted was like using a tracking device, although I have a side note here, this is probably not forever. Like I think using it intermittently when you're like trying to dial these things in is good. But like, you know, there's no need to track things if you're already on track, it helps you get on track. And after that, you can let it go. Plus, I don't typically like wearing like a bracelet or a ring, it's not really, I don't do that often. So it's like a little bit of a distraction for me.
+
+500
+00:49:07,660 --> 00:49:20,780
+The next thing I have on there is like, I don't take routine naps, I put no routine naps. But I recognize that varies by individuals. So some people like, you know, take a nap after every afternoon, and that's totally fine. But for me, like I don't, I don't routinely nap.
+
+501
+00:49:20,780 --> 00:49:45,780
+That said, on my gap days in between shifts, I do leave time open for recovery and sleep. So I try not to schedule anything on, like my days in between shifts or my day after like the last one of my hitch. And that way, if I do need to catch up on sleep, I can take a nap. And I tend to do that earlier in the day. So as soon as I get off shift, I will take a nap. And that way, like I'm awake for a prolonged period of time before I go to sleep the next night.
+
+502
+00:49:46,780 --> 00:50:13,780
+The next thing I mentioned on here is that, like I tailor my like exercise and fitness stuff like around my sleep versus the other way around. So if I'm tired for a day, I will, you know, tailor back my exercise and fitness. I don't want to like force it because then you can run into a situation where you're just not fully recovered enough. So that's, that's my approach. I know that people have different approaches, but that's kind of how I approached that part of it.
+
+503
+00:50:13,780 --> 00:50:42,780
+And then my last thing that I do that we haven't really touched on yet is I, I track my compliance with routine. So I have an app I use on my phone. It's called streaks. It's like a couple bucks for a lifetime membership. If I remember, right. And you can like program in like little check boxes for a day. So like both my morning routine and my evening routine, like I track that for myself to see like, you know, did I do all of the components of this routine and all the components in that routine and like, you know, like, I do all the things that I do.
+
+504
+00:50:44,780 --> 00:50:53,780
+How am I doing in general? And this is something that I've been doing, you know, for a while now, maybe less than a year. Yeah, definitely less than a year, but not more than a year.
+
+505
+00:50:54,780 --> 00:51:08,780
+And I don't think I'll do it forever, but it's been really helpful for me to kind of get these things dialed in. I think if I ever like look back on my date and see like, oh, you've gone like two, three, four months, like with 100% compliance in these things. And like, I probably don't need to use the tracking app anymore.
+
+506
+00:51:09,780 --> 00:51:32,780
+But as it stands, there are some days where I like, you know, be super down on sleep and I'll like skip my morning routine or like, I'll just be busier. I like go out for a beer or something. And so it's a nice reminder for me to be like, Hey, like just check in before you go to bed at the end of each day before you power your phone down and just see how you're doing both today and the last week. And just in general, and that's been helpful for me.
+
+507
+00:51:33,780 --> 00:51:43,780
+And that's, yeah, that's kind of the summary of like my approach to getting good sleep. And if you had any thoughts on that or any adjustments you'd make or whatever you have.
+
+508
+00:51:43,780 --> 00:52:12,780
+I love it. I mean, I think that they're all every single thing you listed on there is a proactive approach to sleep. And I think that's really what we need to focus on as a career and as a lifestyle, you know, working in, you know, whatever it is, fire, EMS, law enforcement, the military, shifting that proactive approach. So I love all of that. I'm definitely going to check out streaks. I'm a habit nerd. I don't know why. I think it's a good idea.
+
+509
+00:52:13,780 --> 00:52:42,780
+I think that's one of the things I had no habits growing up at all. I mean, it was all just kind of like free flowing. So I think now I'm like really attached to getting my habits knocked out. So the idea of tracking on an app is super cool. And I think that would be really helpful for people developing in the beginning. But every single one of those things is helping you optimize your sleep. And the wonderful part about all this is that if you really look at those activities, most of those things are so simple to include into your day, that all you really have to do is think about what you're doing.
+
+510
+00:52:43,780 --> 00:52:48,780
+And you can make it happen. So I love that. I think keeping it simple is the best way to stay on track.
+
+511
+00:52:48,780 --> 00:53:12,780
+For sure. Okay, and then along those lines, like I recognize that my approach, I think I just read off like seven or eight bullet points. There's quite a lot of things. They're all simple things, but it can be overwhelming. If you had to, as a closing thought, just like recommend to folks, like one thing they could do to better their sleep, knowing that they might be working 24 or 40 hours a day.
+
+512
+00:53:12,780 --> 00:53:20,780
+And if you're working 24 or 40 hour shifts, what's the what's the simplest thing like a starting point for folks to get on board this idea with?
+
+513
+00:53:20,780 --> 00:53:35,780
+I would say getting up and going to bed at the same time. I think if you had to pick one thing that may not necessarily be the easiest. I think it's the simplest. But as we all know, simple does not automatically mean easy.
+
+514
+00:53:35,780 --> 00:53:54,780
+I think that's probably going to be the most impactful is keeping your circadian clock as intact as you can. Because everything really is based on that circadian clock, like literally everything. I mean, you're you're non REM deep sleep, your REM deep sleep, your liver metabolizes based on your circadian clock.
+
+515
+00:53:55,780 --> 00:54:12,780
+Your immune system, you know, you have like inflammatory cytokines are reduced. You have like natural killer cells are higher with people with regulated REM sleep and stuff like that. So I think that sticking to that circadian clock as much as you can is probably going to be the most effective.
+
+516
+00:54:12,780 --> 00:54:20,780
+Everything else can come later. But I think as long as you establish that waking and sleeping time, I think that's probably going to be the biggest impact for you.
+
+517
+00:54:21,780 --> 00:54:46,780
+Awesome. And I know I mentioned that that was going to be my last question, but I actually have one more thing that I didn't mention earlier that I actually didn't even put in my notes. But along those lines about like maintaining this circadian rhythm, one approach that I've adopted in the last year or two is that when I am awake at night, let's say like I do get called up, I try to keep my normal like feeding schedule.
+
+518
+00:54:46,780 --> 00:55:00,780
+So even though there's like tasty treats at all the hospitals and FBOs that we go to trying not to eat because like consuming calories like in your normal sleep time, I think does throw a wrench in your normal like circadian rhythm.
+
+519
+00:55:00,780 --> 00:55:16,780
+So I didn't know if you had like come across similar findings or if you haven't approached that I don't know if you're still working on nights as well. But that's one thing that I think also like contributes that same ideas of keeping that same like sleep-wake cycle going.
+
+520
+00:55:17,780 --> 00:55:32,780
+It definitely does. I mean, the first thing is going to be your sugar because if you look at, I mean, I don't, I don't know about you, you, but with me, even in my healthiest like there's something about that 2.30 a.m. like strawberry cheesecake ice cream bar in the freezer.
+
+521
+00:55:32,780 --> 00:55:50,780
+It's just for sure. It's different. And so like I don't think any of us are really eating like anything worth it. It's all just kind of empty goodness. But unfortunately, that also spikes your glucose, which which can have kind of wakefulness effects like, you know, that whole sugar high thing.
+
+522
+00:55:50,780 --> 00:56:03,780
+We all got yelled at for when we were kids. It's kind of the same applicable here. So I agree. I think things like spurring digestion on top of that glucose spike and stuff like that is definitely going to kind of keep you awake.
+
+523
+00:56:03,780 --> 00:56:15,780
+It's really what you're doing is you're keeping your body busy and you don't want to do that when you're trying to deregulate and start to head down into sleep. So I agree. I think avoiding that stuff is probably best.
+
+524
+00:56:15,780 --> 00:56:26,780
+Drink some water. Be careful with all that stuff, though, too, because, you know, you have to wake up and pee and do whatever if you do. But yeah, I agree. Probably limiting is a good idea on that.
+
+525
+00:56:26,780 --> 00:56:37,780
+Awesome. Well, this man, this has been this has been great. I hope folks get some valuable information out of all this. I don't know if you have any closing thoughts, but that's all I've got on my end.
+
+526
+00:56:37,780 --> 00:56:47,780
+That sounds good. I think it was a great conversation. I think that I think the more we have these conversations, the better we're going to fare. You know, we don't think working 24 hour shifts.
+
+527
+00:56:47,780 --> 00:57:01,780
+There's been a lot of studies that, you know, it can take up to 10 years off your life. You work a 20 year career. And I think it optimizing the sleep the best we can. And then agencies doing what they can to make the well being of their people better.
+
+528
+00:57:01,780 --> 00:57:12,780
+That's all we can really ask for. So if anybody has any questions, obviously they can come find me and reach out and we'll figure it out.
+
+529
+00:57:12,780 --> 00:57:24,780
+And that's pretty much it. Thanks for tuning in. But real quick before we go, just a few shout outs. First is to pragmatic paramedics, another awesome podcast that we highly recommend.
+
+530
+00:57:24,780 --> 00:57:39,780
+Next is to the St. Fisher Church of evidence based medicine. If you don't follow them already, definitely check them out. These guys, both pragmatic paramedics and the St. Fisher folks have been instrumental in getting our stuff out there into the world. And we truly appreciate that.
+
+531
+00:57:39,780 --> 00:57:48,780
+And then we'll end things with a shout out to my good friend, Josh Pittman and his buddy, Kevin Pons. They put the music together for the show. Until next time.
+
+532
+00:57:54,780 --> 00:58:20,780
+Thank you.

@@ -1,0 +1,315 @@
+1
+00:00:00,000 --> 00:00:05,900
+This video is going to demonstrate how we do our podcast hosting over here at
+
+2
+00:00:05,900 --> 00:00:10,620
+Ryker Medical. There is a written set of notes that goes along with it that is
+
+3
+00:00:10,620 --> 00:00:15,500
+posted on our blog over on the web page. We'll also add a link in the notes of
+
+4
+00:00:15,500 --> 00:00:20,640
+this video. As a quick summary, we used to use a third-party service to do the
+
+5
+00:00:20,640 --> 00:00:25,940
+podcast, but the issue is that is that if that service ever goes away or if there's
+
+6
+00:00:25,940 --> 00:00:31,340
+an issue with our account, we'd have to start all over. Creating our own RSS feed
+
+7
+00:00:31,340 --> 00:00:34,900
+allows us to manage the thing independently. If a given host ever goes
+
+8
+00:00:34,900 --> 00:00:39,500
+away, we simply port the thing over to another host without much headache. We
+
+9
+00:00:39,500 --> 00:00:42,540
+held off on doing this for a while because we didn't know how to do it and
+
+10
+00:00:42,540 --> 00:00:47,500
+didn't know how to code or host the thing. We've got it all worked out now and
+
+11
+00:00:47,500 --> 00:00:52,980
+here we are sharing it with you and the world. So these are the steps we'll work
+
+12
+00:00:52,980 --> 00:00:57,580
+through. No need to discuss them now, let's just move on to number one. Hosting
+
+13
+00:00:57,580 --> 00:01:04,020
+our files on archive.org. Archive.org and the Internet Archive is a cool project
+
+14
+00:01:04,020 --> 00:01:09,580
+that seeks to save things on the Internet for future generations. Another
+
+15
+00:01:09,580 --> 00:01:14,020
+cool thing you can do on archive.org is upload and save files to their program,
+
+16
+00:01:14,020 --> 00:01:18,100
+which is perfect for our podcast situation because we need to get our
+
+17
+00:01:18,100 --> 00:01:24,140
+podcast files from our devices up onto the Internet so others can access them.
+
+18
+00:01:24,140 --> 00:01:28,820
+The video is showing the super simple process of uploading an audio file, a
+
+19
+00:01:28,820 --> 00:01:34,820
+podcast episode, along with a photo onto the platform. Of course you'll need to
+
+20
+00:01:34,820 --> 00:01:38,220
+become a user and make a free account, but we've omitted showing all the
+
+21
+00:01:38,220 --> 00:01:43,900
+details simply to save space and time. And then as you can see it allows us to
+
+22
+00:01:43,900 --> 00:01:48,620
+enter metadata, although we don't necessarily have to, and now we have our
+
+23
+00:01:48,620 --> 00:01:55,060
+files hosted on a page at archive.org, which is rad. There are specific ways in
+
+24
+00:01:55,060 --> 00:02:00,500
+which archive.org hosts these files that is fundamentally different from say
+
+25
+00:02:00,500 --> 00:02:06,260
+OneDrive or Google Drive and allows us to use this process for podcast hosting.
+
+26
+00:02:06,260 --> 00:02:10,540
+We've discussed that a bit in the blog post that goes with this so take a look
+
+27
+00:02:10,540 --> 00:02:15,380
+there if you're interested. And all of the clips of us doing things are screen
+
+28
+00:02:15,380 --> 00:02:22,300
+captures on an iPad, but you can also do this in a browser just as easy. Sweet.
+
+29
+00:02:22,300 --> 00:02:28,660
+So files on the Internet. Next step is to build and host an XML file on GitHub.
+
+30
+00:02:28,660 --> 00:02:36,140
+First sub step here is to set up the GitHub page. Now GitHub is a platform for
+
+31
+00:02:36,140 --> 00:02:43,140
+software developers and programmers to host, share, collaborate on code. We have
+
+32
+00:02:43,140 --> 00:02:48,060
+found a way to use it for our podcast hosting needs, but that's not necessarily
+
+33
+00:02:48,060 --> 00:02:53,900
+what the thing was intended for. That said, it works pretty well. So go make an
+
+34
+00:02:53,900 --> 00:03:00,940
+account, log in to this main page. We have to set the system up from a web browser,
+
+35
+00:03:00,940 --> 00:03:05,060
+but once it's all good to go, we can edit the thing and publish episodes from the
+
+36
+00:03:05,060 --> 00:03:13,380
+GitHub app on any device. Let's start by making a new repository called landing.
+
+37
+00:03:13,380 --> 00:03:19,620
+We'll then make the following pages. Read me, feed and landing. The read me will
+
+38
+00:03:19,620 --> 00:03:25,660
+probably be created or prompted automatically by GitHub when you create the landing repository.
+
+39
+00:03:25,660 --> 00:03:32,420
+You can type whatever you want here and that description will show on the repository page.
+
+40
+00:03:32,420 --> 00:03:39,660
+Then you create the feed dot XML and index dot HTML files by clicking add file and create
+
+41
+00:03:39,660 --> 00:03:45,580
+new file as shown. We'll talk more about the feed dot XML file in just a moment.
+
+42
+00:03:45,580 --> 00:03:51,780
+That's the code that makes this thing work. And the index file we think allows the page
+
+43
+00:03:51,780 --> 00:03:56,420
+to get found on the Internet. But to be honest, we're not exactly sure how that works.
+
+44
+00:03:56,420 --> 00:04:02,700
+Just that it's a necessary ingredient to this whole thing without it, the system won't work.
+
+45
+00:04:02,700 --> 00:04:07,980
+And then the next step is to enable GitHub pages as outlined in these steps, which were
+
+46
+00:04:07,980 --> 00:04:14,580
+provided by chat GPT because we couldn't figure out how to make it all go once we got this far.
+
+47
+00:04:14,580 --> 00:04:23,620
+And then we'll have a URL for our GitHub page. All right. Next step is to create the XML file,
+
+48
+00:04:23,620 --> 00:04:30,300
+which as I already mentioned is the code portion of the RSS feed. Go back to the repository,
+
+49
+00:04:30,300 --> 00:04:38,140
+click on the feed dot XML file, then hit the edit tab up in the top right. From here on out,
+
+50
+00:04:38,140 --> 00:04:44,260
+you can always edit the feed dot XML file from either the browser or from the GitHub
+
+51
+00:04:44,260 --> 00:04:50,820
+app or whatever device you're on. This specific example shows how it looks on an iPad.
+
+52
+00:04:50,820 --> 00:04:56,260
+Now the text or body of the feed dot XML file contains all the information about the podcast.
+
+53
+00:04:56,260 --> 00:05:01,300
+Up top is general information. Then each episode will have its own entry. And then the bottom,
+
+54
+00:05:01,300 --> 00:05:07,900
+we just have to remember to close all the open tabs for everything. There are general rules for
+
+55
+00:05:07,900 --> 00:05:12,740
+what needs to be in an RSS feed for it to work across platforms. And then there are specific
+
+56
+00:05:12,740 --> 00:05:19,020
+rules for different hosts. We recommend following Apple podcast rules, as they've pretty much
+
+57
+00:05:19,220 --> 00:05:24,420
+monopolized the space. And most other hosts will work just fine if you follow the more stringent
+
+58
+00:05:24,420 --> 00:05:31,900
+requirements of Apple. And then this is what the feed dot XML code or file looks like. If you open
+
+59
+00:05:31,900 --> 00:05:39,780
+your RSS feed URL in a browser, to get you started on this part, simply copy the code shown here from
+
+60
+00:05:39,780 --> 00:05:45,060
+our write up or blog post, we included a text version of our feed. And also like a made up
+
+61
+00:05:45,060 --> 00:05:51,820
+example, you can just copy that and then edit to add your specific content. One thing to point out
+
+62
+00:05:51,820 --> 00:05:58,860
+here is the URL in the screenshot, your URL for your XML file will be similar, except that will
+
+63
+00:05:58,860 --> 00:06:04,180
+have your username on GitHub in place of record medical, you'll need this URL in the next step,
+
+64
+00:06:04,180 --> 00:06:13,620
+which then takes us to validating our RSS feed. This step basically allows us to see if the XML
+
+65
+00:06:13,620 --> 00:06:22,260
+file works as it's supposed to. You basically use an RSS validator tool, drop in your feeds URL,
+
+66
+00:06:22,260 --> 00:06:28,980
+and it gives you a report on any issues. There are many of these, these are two that we use. And
+
+67
+00:06:28,980 --> 00:06:36,220
+then here's how it looks. Now, if you run into an issue, and you can't sort it out with the feed
+
+68
+00:06:36,220 --> 00:06:40,300
+validator tool, for example, if it gives you something to change, and you're not quite sure
+
+69
+00:06:40,300 --> 00:06:46,180
+what it says, you can use chat GBT or any other AI tool, share your feed with them and they can
+
+70
+00:06:46,180 --> 00:06:51,820
+help troubleshoot, which is exactly what we did with our feed when we first swapped to the system.
+
+71
+00:06:51,820 --> 00:06:58,300
+So that's what the video is showing. And then of course, once you make a change, just be sure to
+
+72
+00:06:58,300 --> 00:07:06,740
+go validate it again, until it's all good to go. Last step, we'll show you how to host the RSS feed
+
+73
+00:07:06,740 --> 00:07:13,500
+on both Spotify, which is what we use at right grammatical and Apple, which is also totally just
+
+74
+00:07:13,500 --> 00:07:19,420
+fine to use. And we've used it for other things in the past. In either case, you make an account,
+
+75
+00:07:19,420 --> 00:07:25,500
+and then you have to manually add the URL you want instead of the one that they assign to you. The
+
+76
+00:07:25,500 --> 00:07:30,940
+steps here are pretty self explanatory. As you can see in the videos, it's mostly a matter of just
+
+77
+00:07:30,940 --> 00:07:39,860
+knowing where to find the space to insert your RSS feed. And that's it. Now you can fulfill all
+
+78
+00:07:39,860 --> 00:07:44,860
+your podcasting dreams and carry the fruits of your labor from platform to platform without
+
+79
+00:07:44,860 --> 00:07:47,660
+ever having to worry about needing to rebuild it all over again.

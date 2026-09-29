@@ -1,0 +1,2175 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,640
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,640 --> 00:00:15,280
+care medicine.
+
+4
+00:00:15,280 --> 00:00:20,360
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,360 --> 00:00:23,860
+use of technology can facilitate that effort.
+
+6
+00:00:23,860 --> 00:00:29,060
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,060 --> 00:00:36,960
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:36,960 --> 00:00:40,700
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,700 --> 00:00:45,860
+do.
+
+10
+00:00:45,860 --> 00:01:15,100
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:15,100 --> 00:01:17,060
+Hey friends and welcome back.
+
+12
+00:01:17,060 --> 00:01:22,180
+Today's episode is an informal chat with two awesome humans that I met over in Ukraine
+
+13
+00:01:22,180 --> 00:01:26,260
+earlier this year, Jason Evans and Sarah Parsons.
+
+14
+00:01:26,260 --> 00:01:30,540
+We sort of drop into the middle of a conversation, so I'll just provide a bit of context and
+
+15
+00:01:30,540 --> 00:01:33,780
+explain a few things before we get there.
+
+16
+00:01:33,780 --> 00:01:38,460
+Ukraine is a big country that can loosely be described geographically as a rectangle,
+
+17
+00:01:38,460 --> 00:01:43,540
+long edge on the x-axis, short end on the y-axis, like a normal piece of paper tilted
+
+18
+00:01:43,540 --> 00:01:45,100
+at 90 degrees.
+
+19
+00:01:45,100 --> 00:01:49,220
+On the left side of the paper, or the west end of Ukraine, is the border with Poland
+
+20
+00:01:49,220 --> 00:01:51,940
+and the city of Zheshov.
+
+21
+00:01:51,940 --> 00:01:55,340
+Across the border into Ukraine is Lviv.
+
+22
+00:01:55,340 --> 00:02:00,220
+Lviv is where Sarah and Jason were working back when I met them.
+
+23
+00:02:00,220 --> 00:02:03,140
+And then way over on the right side of the paper, where the east side of the country,
+
+24
+00:02:03,140 --> 00:02:04,140
+is a river.
+
+25
+00:02:04,140 --> 00:02:08,660
+At the top or north of the river is Kiev, which is the capital of Ukraine.
+
+26
+00:02:08,660 --> 00:02:11,660
+Further down the river is a spot called Nipro.
+
+27
+00:02:11,660 --> 00:02:17,060
+Nipro, which is where Sarah is calling in from, is sort of an access point from the
+
+28
+00:02:17,060 --> 00:02:22,500
+east side of Ukraine, where the conflict is, to the west side of the country.
+
+29
+00:02:22,500 --> 00:02:27,660
+We explain in the episode who or what GRM is, but the other group we mentioned and who
+
+30
+00:02:27,660 --> 00:02:32,300
+Sarah is currently working with is Katus, C-A-D-U-S.
+
+31
+00:02:32,300 --> 00:02:36,780
+They're based out of Berlin and also do humanitarian work around the world.
+
+32
+00:02:36,780 --> 00:02:40,300
+And then very last thing, there's one tiny bit of this conversation that got covered
+
+33
+00:02:40,300 --> 00:02:42,060
+with white noise.
+
+34
+00:02:42,060 --> 00:02:46,300
+That's just because we decided as an afterthought not to name one specific thing.
+
+35
+00:02:46,300 --> 00:02:48,660
+Hey guys!
+
+36
+00:02:48,660 --> 00:02:51,740
+What's up?
+
+37
+00:02:51,740 --> 00:02:56,180
+Not much, you.
+
+38
+00:02:56,180 --> 00:03:02,180
+I'm just chilling, sitting by a pool in Roswell, New Mexico, even though it's too cold to swim
+
+39
+00:03:02,180 --> 00:03:04,340
+in the pool.
+
+40
+00:03:04,340 --> 00:03:07,060
+I'm a little jealous.
+
+41
+00:03:07,060 --> 00:03:08,780
+It's below freezing here already.
+
+42
+00:03:08,860 --> 00:03:09,860
+Oh damn.
+
+43
+00:03:09,860 --> 00:03:10,860
+Yeah.
+
+44
+00:03:10,860 --> 00:03:13,220
+You guys are going to have a rough winter, huh?
+
+45
+00:03:13,220 --> 00:03:16,340
+Yeah, it turns out Ukraine is cold.
+
+46
+00:03:16,340 --> 00:03:20,020
+Yeah, I've heard.
+
+47
+00:03:20,020 --> 00:03:23,900
+Rumor has it.
+
+48
+00:03:23,900 --> 00:03:25,260
+Where are you guys at now?
+
+49
+00:03:25,260 --> 00:03:26,260
+You're out east?
+
+50
+00:03:26,260 --> 00:03:30,700
+Yeah, we're based in Nipro.
+
+51
+00:03:30,700 --> 00:03:36,780
+Mostly doing transports from further east, but we're also moving on to doing training.
+
+52
+00:03:36,780 --> 00:03:39,100
+So we're running a training program as well.
+
+53
+00:03:39,100 --> 00:03:40,100
+Nice.
+
+54
+00:03:40,100 --> 00:03:44,860
+And is that for TDS?
+
+55
+00:03:44,860 --> 00:03:57,020
+So we are mostly working with local NGOs doing trauma stabilization, T-tropsey kind of stuff.
+
+56
+00:03:57,020 --> 00:04:02,820
+Ian, as I was telling you the other day, he's working on some ventilation training.
+
+57
+00:04:02,820 --> 00:04:05,500
+And we just brought in our ICU bus.
+
+58
+00:04:05,500 --> 00:04:10,460
+So from tomorrow, we're going to start training locally MS in operating that.
+
+59
+00:04:10,460 --> 00:04:13,020
+So that's going to be really cool.
+
+60
+00:04:13,020 --> 00:04:14,020
+That's awesome.
+
+61
+00:04:14,020 --> 00:04:21,100
+Yeah, we've already done a couple of transports with it and it's kind of crazy and intense.
+
+62
+00:04:21,100 --> 00:04:24,260
+It's a lot of patients at the same time.
+
+63
+00:04:24,260 --> 00:04:26,900
+How many people can it hold?
+
+64
+00:04:26,900 --> 00:04:34,260
+So it has four ICU beds, but we haven't had like four critical patients at the same time.
+
+65
+00:04:34,260 --> 00:04:42,500
+We've more had like two or three and then a bunch more stable patients that can be transported
+
+66
+00:04:42,500 --> 00:04:43,820
+sitting.
+
+67
+00:04:43,820 --> 00:04:48,300
+So I think the first time we used it, we had 13 patients.
+
+68
+00:04:48,300 --> 00:04:54,660
+Second time, maybe seven, but one of them intubated that time.
+
+69
+00:04:54,660 --> 00:04:55,660
+Thanks.
+
+70
+00:04:55,660 --> 00:04:56,660
+That's awesome.
+
+71
+00:04:56,660 --> 00:04:57,660
+So yeah.
+
+72
+00:04:57,660 --> 00:05:00,020
+You should send pictures of it.
+
+73
+00:05:00,020 --> 00:05:03,300
+Yeah, I can do that.
+
+74
+00:05:03,300 --> 00:05:07,500
+That's brilliant.
+
+75
+00:05:07,500 --> 00:05:10,020
+Let's back up and go to the beginning if you guys are all right.
+
+76
+00:05:10,020 --> 00:05:14,700
+I want to know how, well first, I guess I can introduce you guys.
+
+77
+00:05:14,700 --> 00:05:22,740
+This is Sarah and Jason and I'll let you guys tell us how you guys met.
+
+78
+00:05:22,740 --> 00:05:28,580
+What's the story there?
+
+79
+00:05:28,580 --> 00:05:37,580
+So I kind of, I pretty much ended up working in Ukraine by weird chance.
+
+80
+00:05:37,580 --> 00:05:44,140
+My last humanitarian job before I worked for GRM was as a humanitarian logistician and
+
+81
+00:05:44,140 --> 00:05:46,660
+I saw an advert that GRM was looking for a logistician.
+
+82
+00:05:46,660 --> 00:05:48,740
+I was like, I'm a logistician.
+
+83
+00:05:48,740 --> 00:05:50,700
+I want to go to Ukraine.
+
+84
+00:05:50,700 --> 00:05:57,580
+So I put in an application 48 hours later, I am on a plane to Poland.
+
+85
+00:05:57,580 --> 00:06:02,540
+And when I got there, there was kind of actually less need for a logistician.
+
+86
+00:06:02,540 --> 00:06:09,980
+So after kind of kicking it around a little bit, I ended up somehow put in charge of the
+
+87
+00:06:09,980 --> 00:06:15,420
+Medevac program and in Lviv.
+
+88
+00:06:15,420 --> 00:06:21,900
+And that's where I met Jason as one of my first two awesome volunteers.
+
+89
+00:06:21,900 --> 00:06:24,900
+Awesome.
+
+90
+00:06:24,900 --> 00:06:31,900
+And just to give some context, GRM is a nonprofit called Global Response Management and they
+
+91
+00:06:31,900 --> 00:06:38,620
+do disaster response and humanitarian work around the world.
+
+92
+00:06:38,620 --> 00:06:41,900
+And Jason, how'd you end up over there?
+
+93
+00:06:41,900 --> 00:06:47,860
+Well I'm lucky enough to have a job where I work for a little bit and then I'm off for
+
+94
+00:06:47,860 --> 00:06:48,980
+a little bit.
+
+95
+00:06:48,980 --> 00:06:56,780
+And it just so happened to be that one of my little bit of times off was in May, June
+
+96
+00:06:56,780 --> 00:07:01,660
+and July of I guess that's still this year, 2022.
+
+97
+00:07:01,660 --> 00:07:08,320
+So I was looking for a way to volunteer in Ukraine and I believe I saw it on LinkedIn.
+
+98
+00:07:08,320 --> 00:07:12,920
+There was an ad for GRM looking for transport medics.
+
+99
+00:07:12,920 --> 00:07:16,500
+So at the time they were just looking for paramedics.
+
+100
+00:07:16,500 --> 00:07:20,540
+And even though technically I'm a nurse, I don't like to really say that I'm a medic.
+
+101
+00:07:20,540 --> 00:07:25,420
+I'll use that medic license when I have to and this was one of those times, right?
+
+102
+00:07:25,420 --> 00:07:26,420
+I hate being a poser.
+
+103
+00:07:26,420 --> 00:07:29,380
+That's what I tell people in interviews like, hey look, I'm not a medic.
+
+104
+00:07:29,380 --> 00:07:31,940
+Okay, I'm a nurse, but I have a medic license.
+
+105
+00:07:31,940 --> 00:07:33,500
+And that is 2022.
+
+106
+00:07:33,500 --> 00:07:36,740
+You can identify however you want to.
+
+107
+00:07:36,740 --> 00:07:38,820
+Well it all depends on who you say it around.
+
+108
+00:07:38,820 --> 00:07:41,500
+You say it around that crusty old medic that you're a paramedic.
+
+109
+00:07:41,500 --> 00:07:43,060
+They all flip out.
+
+110
+00:07:43,060 --> 00:07:48,380
+But anyway, so I was a paramedic at the time so I was like, okay, I'll go to Ukraine as
+
+111
+00:07:48,380 --> 00:07:49,380
+a paramedic.
+
+112
+00:07:49,380 --> 00:07:56,820
+Which was sort of weird because the critical care transport world, most everyone's doing
+
+113
+00:07:56,820 --> 00:07:59,980
+the same job no matter what your license is.
+
+114
+00:07:59,980 --> 00:08:02,140
+But they were looking for medics at the time.
+
+115
+00:08:02,140 --> 00:08:06,940
+So I was able to go there and I flew back from my job.
+
+116
+00:08:06,940 --> 00:08:13,300
+I was working in the Gulf of Mexico at the time and I had I think 48 hours to switch
+
+117
+00:08:13,300 --> 00:08:19,300
+out my gear, get my body armor all settled, pulled stuff out of storage and ran around
+
+118
+00:08:19,300 --> 00:08:20,580
+like a chick with my head cut off.
+
+119
+00:08:20,580 --> 00:08:28,380
+And then next thing you know, I'm on my way to Poland and touchdown in Poland which was
+
+120
+00:08:28,380 --> 00:08:33,340
+a very weird experience because I think we're okay to talk about this.
+
+121
+00:08:33,340 --> 00:08:34,460
+I'm sure it's on the news.
+
+122
+00:08:34,460 --> 00:08:42,340
+But yeah, you land in that airport in Zzajau which is not spelled like Zzajau sounds.
+
+123
+00:08:42,340 --> 00:08:47,260
+You land there and there's like Patriot missiles and all this anti-air stuff and you're like,
+
+124
+00:08:47,260 --> 00:08:49,580
+my landing in a war zone?
+
+125
+00:08:49,580 --> 00:08:50,580
+And you sort of are.
+
+126
+00:08:50,580 --> 00:08:54,760
+So yeah, that was really an interesting experience and a good eye opener.
+
+127
+00:08:54,760 --> 00:08:59,180
+So like you are leaving the safe zone.
+
+128
+00:08:59,180 --> 00:09:04,060
+And then I think I ran into Sarah, I can't remember if I ran into you there in Poland
+
+129
+00:09:04,060 --> 00:09:05,780
+or in Ukraine.
+
+130
+00:09:05,780 --> 00:09:06,780
+It's sort of all.
+
+131
+00:09:06,780 --> 00:09:12,100
+Yeah, we met in Poland, grabbed the ambulance and then we all went over the next day.
+
+132
+00:09:12,100 --> 00:09:13,100
+Oh, that's right.
+
+133
+00:09:13,100 --> 00:09:14,100
+That's right.
+
+134
+00:09:14,100 --> 00:09:15,100
+Yeah.
+
+135
+00:09:15,100 --> 00:09:16,100
+Thank goodness someone doesn't have Alzheimer's.
+
+136
+00:09:16,100 --> 00:09:23,860
+And yeah, so that's how I ended up with the GRM and I ended up staying there for a month.
+
+137
+00:09:23,860 --> 00:09:26,980
+What exactly was the project you guys were doing?
+
+138
+00:09:27,180 --> 00:09:32,260
+I know, Jirim had like a more general mission, but what was the specific aspect that you
+
+139
+00:09:32,260 --> 00:09:38,260
+guys were working on?
+
+140
+00:09:38,260 --> 00:09:41,000
+So we were doing medical evacuation.
+
+141
+00:09:41,000 --> 00:09:44,820
+One of the, especially early on, one of the few things that the Ministry of Health had
+
+142
+00:09:44,820 --> 00:09:53,020
+actually asked for support with was bringing patients from Lviv to Zzajau, mostly because
+
+143
+00:09:53,140 --> 00:09:59,280
+the majority of their crews couldn't cross the border because the majority of their medics
+
+144
+00:09:59,280 --> 00:10:02,940
+and their techs are fighting age men.
+
+145
+00:10:02,940 --> 00:10:08,740
+So they had a very, very, very small number of personnel who could drive patients to these
+
+146
+00:10:08,740 --> 00:10:10,420
+evacuation planes.
+
+147
+00:10:10,420 --> 00:10:13,540
+And the planes had capacity of about 30 patients each.
+
+148
+00:10:13,540 --> 00:10:15,540
+So these would be huge convoys.
+
+149
+00:10:15,540 --> 00:10:21,940
+And actually, even later on in the conflict, when they did figure out being able to get
+
+150
+00:10:22,180 --> 00:10:29,180
+fighting age men to be able to cross the border in that context, it still was a huge pull
+
+151
+00:10:29,180 --> 00:10:35,740
+on their resources for a city to be able to provide like 30 ambulances in the same day
+
+152
+00:10:36,020 --> 00:10:37,020
+for an entire day.
+
+153
+00:10:37,980 --> 00:10:46,540
+So one of the things they asked for support from international NGOs and also from some
+
+154
+00:10:46,540 --> 00:10:53,420
+of the other countries in the EU was just to drive patients on that transport.
+
+155
+00:10:53,980 --> 00:10:59,740
+And that was about a, it took about six hours, including messing around at the border.
+
+156
+00:11:01,300 --> 00:11:06,060
+Right on. So it was the MOH as a Ministry of Health in Ukraine.
+
+157
+00:11:06,460 --> 00:11:14,340
+They were having you guys help ambulance patients from Lviv, which is a city in Ukraine
+
+158
+00:11:14,340 --> 00:11:15,780
+across the border into Poland.
+
+159
+00:11:15,780 --> 00:11:17,700
+And then they would get flown out from there.
+
+160
+00:11:18,020 --> 00:11:19,420
+And where were they getting flown out to?
+
+161
+00:11:19,900 --> 00:11:21,700
+How did that side of the operation look?
+
+162
+00:11:22,940 --> 00:11:24,260
+Predominantly Germany.
+
+163
+00:11:25,060 --> 00:11:29,540
+But so the really big transport plane came from Germany.
+
+164
+00:11:30,100 --> 00:11:35,020
+But there were smaller planes going through a lot of other countries in the EU.
+
+165
+00:11:36,580 --> 00:11:39,820
+There's this whole EU Medivac system.
+
+166
+00:11:40,140 --> 00:11:43,980
+So a lot of countries in the European Union were accepting patients.
+
+167
+00:11:44,940 --> 00:11:48,100
+Primarily patients with traumatic injuries, but also
+
+168
+00:11:51,700 --> 00:11:56,620
+and it was often people requiring rehabilitation or requiring prosthesis.
+
+169
+00:11:58,380 --> 00:12:03,500
+Or another big one was patients with limbs and external fixation
+
+170
+00:12:05,100 --> 00:12:08,260
+because they pretty much don't do internal fixation in Ukraine.
+
+171
+00:12:08,460 --> 00:12:13,580
+So once the patients were brought out, then they would have additional surgery and get
+
+172
+00:12:14,180 --> 00:12:16,900
+internal fixation in another country in the EU.
+
+173
+00:12:18,460 --> 00:12:23,220
+Right on. And most of the patients you were transporting, at least the ones with
+
+174
+00:12:23,220 --> 00:12:25,740
+traumatic injuries, those were related to the conflict, I assume.
+
+175
+00:12:27,260 --> 00:12:28,780
+Yeah, all conflict related.
+
+176
+00:12:29,660 --> 00:12:33,620
+Awesome. And then Jason, what kind of capabilities do you guys have on the
+
+177
+00:12:34,500 --> 00:12:36,420
+what did it look like when you were actually doing the transfers?
+
+178
+00:12:37,700 --> 00:12:43,180
+Well, we we'll be at the two ambulances, the one that we purchased there in Poland
+
+179
+00:12:43,180 --> 00:12:46,940
+and then the one that was donated by the Finnish, I believe, Finland.
+
+180
+00:12:47,340 --> 00:12:49,500
+And what were those ambulance names?
+
+181
+00:12:51,540 --> 00:12:53,220
+Let's see. One was Homer.
+
+182
+00:12:53,220 --> 00:12:54,540
+That was the big yellow one.
+
+183
+00:12:54,540 --> 00:12:57,540
+And the other was Vinny.
+
+184
+00:12:57,980 --> 00:12:59,980
+That's strong. Very strong names.
+
+185
+00:13:01,340 --> 00:13:02,940
+Really glad to remember the names.
+
+186
+00:13:04,980 --> 00:13:08,900
+So the smaller ambulance, you know, both had oxygen.
+
+187
+00:13:09,380 --> 00:13:15,980
+We had one ventilator, lots of medicines, lots of
+
+188
+00:13:17,060 --> 00:13:18,220
+donated medicines.
+
+189
+00:13:18,220 --> 00:13:19,580
+So it was all types of stuff.
+
+190
+00:13:19,580 --> 00:13:21,140
+We had to sort of look up the names.
+
+191
+00:13:22,380 --> 00:13:25,660
+We we had a lot enough for, you know, running a couple.
+
+192
+00:13:27,700 --> 00:13:28,580
+Couple of codes.
+
+193
+00:13:28,580 --> 00:13:33,300
+We had quite a bit of medicine and equipment where we could have done really
+
+194
+00:13:33,300 --> 00:13:34,300
+critical patients.
+
+195
+00:13:34,780 --> 00:13:38,820
+But the issue is, if you look on a map, it I wasn't until I was there,
+
+196
+00:13:38,820 --> 00:13:41,260
+if you're really humbled is how big Ukraine is.
+
+197
+00:13:41,300 --> 00:13:45,060
+Right. So to drive from one side to the other would take
+
+198
+00:13:46,540 --> 00:13:48,500
+18 hours. I'm just pulling that number out.
+
+199
+00:13:48,500 --> 00:13:50,220
+But it's a it's a huge country.
+
+200
+00:13:51,940 --> 00:13:55,380
+So, yes, we did have capabilities to do some crazy stuff.
+
+201
+00:13:55,820 --> 00:14:00,180
+But if you had to do a long transport, you really had to factor in your
+
+202
+00:14:00,940 --> 00:14:07,180
+your medical equipment that you had oxygen as well as any type of drips
+
+203
+00:14:07,180 --> 00:14:11,140
+or anything you had, because what I found out later was, you know, here in
+
+204
+00:14:11,140 --> 00:14:14,140
+the US, if you're doing a transport and you're running into trouble, you know,
+
+205
+00:14:14,140 --> 00:14:16,980
+you have an airway issue or you're running law and medicine, you can
+
+206
+00:14:16,980 --> 00:14:19,260
+enjoy pulling into an ER and be helped out.
+
+207
+00:14:19,460 --> 00:14:20,940
+That's not quite the same.
+
+208
+00:14:20,980 --> 00:14:22,220
+I believe in Ukraine.
+
+209
+00:14:22,220 --> 00:14:24,820
+The way it was explained to me is that if you have trouble and you pull into the
+
+210
+00:14:24,820 --> 00:14:26,980
+ambulance, they don't have to necessarily help you.
+
+211
+00:14:27,460 --> 00:14:32,860
+So whatever you whatever you have might be what you need to get you to all
+
+212
+00:14:32,860 --> 00:14:33,900
+the way where you're going.
+
+213
+00:14:33,980 --> 00:14:38,940
+And, you know, we definitely heard stories about other ambulances running
+
+214
+00:14:38,940 --> 00:14:42,780
+really sick patients and they have having issues and having to pull to another
+
+215
+00:14:42,780 --> 00:14:44,580
+hospital. But luckily they were in another country.
+
+216
+00:14:44,580 --> 00:14:46,740
+I think they were in Belgium at the time.
+
+217
+00:14:46,740 --> 00:14:49,420
+So it was a it was an interesting situation.
+
+218
+00:14:50,140 --> 00:14:51,660
+I think I over answered your question there.
+
+219
+00:14:51,660 --> 00:14:52,340
+So I'm sorry.
+
+220
+00:14:52,340 --> 00:14:53,700
+I'm sorry.
+
+221
+00:14:54,500 --> 00:15:01,460
+So you guys had two ambulances and were part of like an overall operation.
+
+222
+00:15:01,460 --> 00:15:02,980
+Who else? Who else was there?
+
+223
+00:15:02,980 --> 00:15:06,700
+Who else was like contributing resources or how did it look on a macro level?
+
+224
+00:15:08,780 --> 00:15:10,620
+So there are a few other NGOs.
+
+225
+00:15:12,060 --> 00:15:16,020
+There is Kaddas, who I now work for, as it happens.
+
+226
+00:15:17,220 --> 00:15:23,420
+There was a large Polish team who at the time, I don't think they were actually
+
+227
+00:15:23,780 --> 00:15:25,380
+registered as an NGO.
+
+228
+00:15:25,420 --> 00:15:31,780
+They are now called Humanos, I believe these days because this still is going on.
+
+229
+00:15:31,780 --> 00:15:33,980
+And this is also going on in Lviv.
+
+230
+00:15:34,220 --> 00:15:37,740
+Humanos basically run that entire thing themselves.
+
+231
+00:15:39,340 --> 00:15:45,500
+And then there was another group called from Germany, who
+
+232
+00:15:47,980 --> 00:15:48,660
+well, at the time,
+
+233
+00:15:51,500 --> 00:15:56,500
+there's now a group called Artesian Medical with some of the same people
+
+234
+00:15:56,700 --> 00:15:58,500
+who they're also still working in Lviv.
+
+235
+00:15:59,460 --> 00:16:02,060
+And there was a French team on occasion.
+
+236
+00:16:02,060 --> 00:16:06,460
+I mean, people from Italy, I think the Italians were doing a different job,
+
+237
+00:16:06,460 --> 00:16:07,660
+but we saw them there.
+
+238
+00:16:08,660 --> 00:16:12,140
+It was basically, I seem like every country in Europe had some sort of team
+
+239
+00:16:12,140 --> 00:16:13,140
+representative.
+
+240
+00:16:14,660 --> 00:16:15,340
+Yeah, that's true.
+
+241
+00:16:15,340 --> 00:16:16,860
+I'd actually forgotten about that.
+
+242
+00:16:16,860 --> 00:16:24,180
+There was all of these small teams from most of the EU member states had sent
+
+243
+00:16:24,180 --> 00:16:25,260
+a small team.
+
+244
+00:16:25,260 --> 00:16:28,700
+And I believe the Sexiest Uniform Award went to the Italians.
+
+245
+00:16:28,860 --> 00:16:30,980
+I don't know if they still are rocking it there.
+
+246
+00:16:30,980 --> 00:16:32,980
+Yeah, I don't remember the Italians.
+
+247
+00:16:32,980 --> 00:16:36,180
+I remember the French, but they also wore all white and it just seemed
+
+248
+00:16:36,180 --> 00:16:37,340
+incredibly impractical.
+
+249
+00:16:37,540 --> 00:16:42,540
+Yeah, no, the Italians, they had this, I think, light purple uniform.
+
+250
+00:16:42,540 --> 00:16:44,700
+I believe we saw them on the Polish side.
+
+251
+00:16:44,700 --> 00:16:47,060
+They were doing the psychiatric transport, I think.
+
+252
+00:16:48,060 --> 00:16:49,900
+But yeah, they had some great uniforms.
+
+253
+00:16:50,220 --> 00:16:52,540
+Yeah. So learning, learning point number one,
+
+254
+00:16:52,540 --> 00:16:56,500
+from the whole experience is that the United States could do way better
+
+255
+00:16:56,500 --> 00:16:57,700
+with our EMS uniforms.
+
+256
+00:17:00,700 --> 00:17:02,060
+Yeah, I believe so.
+
+257
+00:17:02,060 --> 00:17:04,300
+Because they're definitely more safety oriented there.
+
+258
+00:17:06,300 --> 00:17:07,660
+Everything was reflective.
+
+259
+00:17:07,660 --> 00:17:11,260
+I don't know if you've ever seen anybody in Europe.
+
+260
+00:17:11,260 --> 00:17:13,780
+They all have reflective stuff on their uniforms, which I think is pretty,
+
+261
+00:17:13,780 --> 00:17:14,780
+pretty practical.
+
+262
+00:17:14,780 --> 00:17:17,500
+We just throw on our vests and say that's okay.
+
+263
+00:17:17,500 --> 00:17:18,500
+Yeah, interior.
+
+264
+00:17:18,500 --> 00:17:19,660
+Yeah, that's a good question.
+
+265
+00:17:19,660 --> 00:17:20,660
+We carry them.
+
+266
+00:17:20,660 --> 00:17:21,660
+Yes.
+
+267
+00:17:21,660 --> 00:17:22,660
+I don't know.
+
+268
+00:17:23,660 --> 00:17:27,660
+Was it problematic at all or like challenging to work with people from so
+
+269
+00:17:27,660 --> 00:17:28,660
+many different countries?
+
+270
+00:17:28,660 --> 00:17:32,660
+I imagine there were some language barriers and just like managing the
+
+271
+00:17:32,660 --> 00:17:34,660
+logistics of so many different entities.
+
+272
+00:17:37,660 --> 00:17:42,660
+I think from most teams, there was at least one or two people that spoke
+
+273
+00:17:42,660 --> 00:17:45,660
+English and it was kind of fun just seeing how they were doing.
+
+274
+00:17:45,660 --> 00:17:48,660
+There was at least one or two people that spoke English and it was kind of
+
+275
+00:17:48,660 --> 00:17:51,660
+fun just seeing all the different ways in which people did stuff.
+
+276
+00:17:54,660 --> 00:17:55,660
+Right on.
+
+277
+00:17:55,660 --> 00:17:56,660
+Yeah, 100%.
+
+278
+00:17:56,660 --> 00:17:59,660
+Yeah, we definitely had to use Google translate on occasion, but that was
+
+279
+00:17:59,660 --> 00:18:00,660
+mostly with the patients.
+
+280
+00:18:01,660 --> 00:18:06,660
+Yeah, since medicine is such a universal language using English that I don't
+
+281
+00:18:06,660 --> 00:18:08,660
+think we had that many problems.
+
+282
+00:18:08,660 --> 00:18:12,660
+Nothing that, you know, pointing and yelling didn't figure out.
+
+283
+00:18:13,660 --> 00:18:14,660
+Awesome.
+
+284
+00:18:16,660 --> 00:18:20,660
+So for me, from my perspective, looking in, I think the coolest part about this
+
+285
+00:18:20,660 --> 00:18:25,660
+whole experience is that somehow it managed to convince Sarah that she needed
+
+286
+00:18:25,660 --> 00:18:26,660
+to get into medicine.
+
+287
+00:18:28,660 --> 00:18:30,660
+So how did how did that end up, Sarah?
+
+288
+00:18:31,660 --> 00:18:37,660
+Well, I guess from probably about a month in, I was thinking like, maybe I should
+
+289
+00:18:37,660 --> 00:18:38,660
+do an EMT course.
+
+290
+00:18:39,660 --> 00:18:43,660
+And I sort of sat on that thought for a while.
+
+291
+00:18:43,660 --> 00:18:50,660
+And then maybe about three months ago, I found I was like, you know what, let's
+
+292
+00:18:50,660 --> 00:18:51,660
+let's do an EMT course.
+
+293
+00:18:52,660 --> 00:18:56,660
+I looked into it and I found some that were mixed formats so that I could do all
+
+294
+00:18:56,660 --> 00:18:57,660
+the theory portion online.
+
+295
+00:18:58,660 --> 00:19:00,660
+And then just next time I went to the U.S.
+
+296
+00:19:01,660 --> 00:19:02,660
+Knock out the Skills Week.
+
+297
+00:19:02,660 --> 00:19:06,660
+So that's what I did maybe about three weeks ago now.
+
+298
+00:19:07,660 --> 00:19:09,660
+So, yeah, I'm a brand new EMT.
+
+299
+00:19:10,660 --> 00:19:12,660
+Awesome. And what school did you go through?
+
+300
+00:19:12,660 --> 00:19:13,660
+What program did you use?
+
+301
+00:19:16,660 --> 00:19:17,660
+Now I'm going to mess with my.
+
+302
+00:19:17,660 --> 00:19:21,660
+I think it was American Safety Programs out of Rhode Island.
+
+303
+00:19:22,660 --> 00:19:23,660
+Awesome.
+
+304
+00:19:24,660 --> 00:19:25,660
+What did you think about it?
+
+305
+00:19:26,660 --> 00:19:27,660
+Yeah, I thought it was really good.
+
+306
+00:19:30,660 --> 00:19:35,660
+It was I think it's a little bit weird now because I did so much online that I'm
+
+307
+00:19:35,660 --> 00:19:44,660
+then trying to kind of put those things into into like practice and because I
+
+308
+00:19:44,660 --> 00:19:48,660
+didn't get that much kind of hands on skill time.
+
+309
+00:19:51,660 --> 00:19:59,660
+So, yeah, but now I'm in quite a good position just being able to like play
+
+310
+00:19:59,660 --> 00:20:03,660
+around with stuff and ask the medics around me like, hey, can you show me how to
+
+311
+00:20:03,660 --> 00:20:04,660
+use this thing?
+
+312
+00:20:04,660 --> 00:20:09,660
+Because I think I technically am allowed to do this, but I've never done it.
+
+313
+00:20:10,660 --> 00:20:13,660
+And I'm in a good environment where people can just like show me how to do stuff one
+
+314
+00:20:13,660 --> 00:20:15,660
+evening. I'm like, OK, cool.
+
+315
+00:20:15,660 --> 00:20:17,660
+I feel much better about CPAP now.
+
+316
+00:20:18,660 --> 00:20:19,660
+Yeah, that's awesome.
+
+317
+00:20:19,660 --> 00:20:20,660
+That really is awesome.
+
+318
+00:20:21,660 --> 00:20:22,660
+Yeah, I imagine.
+
+319
+00:20:23,660 --> 00:20:28,660
+I mean, I did like my EMT program like a pretty normal way.
+
+320
+00:20:28,660 --> 00:20:32,660
+Right. Like I was volunteering with the fire department when I was in high school.
+
+321
+00:20:32,660 --> 00:20:34,660
+And then they sent me to EMT school.
+
+322
+00:20:34,660 --> 00:20:37,660
+So for a couple of months, I went to like night classes and like wrote a lot of
+
+323
+00:20:37,660 --> 00:20:42,660
+the ideas. But when I was done, like I was like riding around on a fire truck like
+
+324
+00:20:42,660 --> 00:20:47,660
+once a week. So I didn't have a lot of time to focus specifically on like the
+
+325
+00:20:47,660 --> 00:20:50,660
+EMS side of things on the EMT skills.
+
+326
+00:20:50,660 --> 00:20:54,660
+But I imagine like your situation being over there like doing that full time in a
+
+327
+00:20:54,660 --> 00:20:57,660
+very like unique situation.
+
+328
+00:20:58,660 --> 00:21:02,660
+It gives you like an experience that most people don't have access to, which I
+
+329
+00:21:02,660 --> 00:21:03,660
+imagine is pretty cool.
+
+330
+00:21:03,660 --> 00:21:05,660
+Yeah, I mean, it's definitely very cool.
+
+331
+00:21:05,660 --> 00:21:09,660
+It's it is a bit it is a bit weird.
+
+332
+00:21:09,660 --> 00:21:16,660
+And you know, some in the context, it's kind of interesting how, you know, there's
+
+333
+00:21:16,660 --> 00:21:23,660
+some things that I've learned like a certain way and there'll be like, for
+
+334
+00:21:24,660 --> 00:21:31,660
+instance, something like administering epinephrine.
+
+335
+00:21:32,660 --> 00:21:35,660
+I was always like, hey, this is an auto injector.
+
+336
+00:21:35,660 --> 00:21:38,660
+And now it's like, this is an ampule.
+
+337
+00:21:39,660 --> 00:21:41,660
+Yes.
+
+338
+00:21:42,660 --> 00:21:50,660
+And someone just told me earlier today that the that like on the fancy
+
+339
+00:21:50,660 --> 00:21:54,660
+fancy cardiac monitors we've got, they also have an AED setting.
+
+340
+00:21:54,660 --> 00:21:57,660
+I was like, oh, they have they have done people setting.
+
+341
+00:21:57,660 --> 00:21:59,660
+You're going to need to show me how to do that tonight.
+
+342
+00:22:03,660 --> 00:22:06,660
+I love that. And you know what you brought up about the epinephrine is such a
+
+343
+00:22:06,660 --> 00:22:11,660
+common thing you see when you volunteer overseas is that you're exposed to
+
+344
+00:22:11,660 --> 00:22:16,660
+medicines and names and different ways to give you medicines that you just don't
+
+345
+00:22:16,660 --> 00:22:21,660
+normally see in the US and the US were so safety conscious and we don't like to
+
+346
+00:22:21,660 --> 00:22:25,660
+break open glass files and we don't like to have people measure their own
+
+347
+00:22:25,660 --> 00:22:27,660
+medicines because, you know, we'll kill someone.
+
+348
+00:22:27,660 --> 00:22:30,660
+So, yeah, you go overseas and the safeties are off.
+
+349
+00:22:30,660 --> 00:22:35,660
+So that was that was a great experience there in the Ukraine to not so much with
+
+350
+00:22:35,660 --> 00:22:36,660
+the IV medicines.
+
+351
+00:22:36,660 --> 00:22:39,660
+We didn't give a lot of IV medicines, but the the Pio medicines that they had
+
+352
+00:22:39,660 --> 00:22:45,660
+available were concoctions of narcotics that were we had never seen before.
+
+353
+00:22:45,660 --> 00:22:46,660
+So it was really interesting to see that.
+
+354
+00:22:48,660 --> 00:22:53,660
+Yeah, it's definitely one cool thing about the Medevac program that Jaren had going on
+
+355
+00:22:53,660 --> 00:22:58,660
+is that there aren't that many opportunities available to folks who exclusively do
+
+356
+00:22:58,660 --> 00:23:01,660
+EMS to get some kind of experience in that setting overseas.
+
+357
+00:23:01,660 --> 00:23:07,660
+Like there tends to be a lot more opportunities for like folks in nursing or like them
+
+358
+00:23:07,660 --> 00:23:11,660
+in levels and positions because that's like a little more universal.
+
+359
+00:23:11,660 --> 00:23:14,660
+But in the EMS scene, it's pretty tough to come by opportunities.
+
+360
+00:23:14,660 --> 00:23:18,660
+But I definitely think like branching out and seeing how other places do things is
+
+361
+00:23:18,660 --> 00:23:19,660
+super valuable.
+
+362
+00:23:21,660 --> 00:23:29,660
+Yeah. And I know later in the project on the next group that came in where at the
+
+363
+00:23:29,660 --> 00:23:32,660
+end of May, most of the people there, I think three out of four of them had never
+
+364
+00:23:32,660 --> 00:23:34,660
+done overseas volunteering.
+
+365
+00:23:34,660 --> 00:23:36,660
+And I think they all got the bug.
+
+366
+00:23:36,660 --> 00:23:41,660
+They were all real hit by the program and how how it was to help people and, you
+
+367
+00:23:41,660 --> 00:23:44,660
+know, do the things that they had signed up to do years ago.
+
+368
+00:23:44,660 --> 00:23:47,660
+And so that was a really great experience.
+
+369
+00:23:47,660 --> 00:23:50,660
+I think it ended up being a real positive experience for people.
+
+370
+00:23:50,660 --> 00:23:55,660
+And, you know, 10 years from now when they're grizzled vets in the international
+
+371
+00:23:55,660 --> 00:23:59,660
+volunteering world, they'll point back to the GRM experiences.
+
+372
+00:23:59,660 --> 00:24:00,660
+This is where it started, you know.
+
+373
+00:24:01,660 --> 00:24:07,660
+Yeah, actually, of that group of four, two out of four of them have since come back
+
+374
+00:24:07,660 --> 00:24:09,660
+to you since.
+
+375
+00:24:09,660 --> 00:24:10,660
+So that's really cool.
+
+376
+00:24:11,660 --> 00:24:12,660
+Got them.
+
+377
+00:24:12,660 --> 00:24:13,660
+Good job, Sarah.
+
+378
+00:24:13,660 --> 00:24:14,660
+That's all you.
+
+379
+00:24:18,660 --> 00:24:23,660
+And then how what's the status of the the Medivac program now?
+
+380
+00:24:23,660 --> 00:24:29,660
+You said that it's now pretty much all being done by one organization based out of
+
+381
+00:24:29,660 --> 00:24:30,660
+Poland.
+
+382
+00:24:30,660 --> 00:24:32,660
+Yeah. So that's over in Lviv.
+
+383
+00:24:34,660 --> 00:24:40,660
+We as in Kaddas, who I now work for, we have a Medivac program based in Nipro.
+
+384
+00:24:41,660 --> 00:24:47,660
+So instead of doing that that cross border piece where there was kind of the.
+
+385
+00:24:48,660 --> 00:24:55,660
+I think early on, it's like that was a very clear, specific need, whereas the need of
+
+386
+00:24:55,660 --> 00:24:58,660
+transports out east, that was more of.
+
+387
+00:24:59,660 --> 00:25:06,660
+People could observe that there was kind of a resource gap here, which it's apparent
+
+388
+00:25:06,660 --> 00:25:07,660
+that to an extent there is.
+
+389
+00:25:08,660 --> 00:25:16,660
+But it wasn't quite as easy as stepping into a system and being effectively dispatched.
+
+390
+00:25:18,660 --> 00:25:23,660
+We now will get work from various different hospitals.
+
+391
+00:25:24,660 --> 00:25:27,660
+We will get work from locally, MS.
+
+392
+00:25:28,660 --> 00:25:31,660
+We'll get transport requests from the Ministry of Health.
+
+393
+00:25:31,660 --> 00:25:34,660
+These kind of all come from very different places.
+
+394
+00:25:34,660 --> 00:25:40,660
+It's a lot more chaotic in a way than that system was in Lviv.
+
+395
+00:25:40,660 --> 00:25:43,660
+But it is it is where the gap is right now.
+
+396
+00:25:44,660 --> 00:25:48,660
+Right on. So there's no central dispatch if we wanted to call it something like that.
+
+397
+00:25:49,660 --> 00:25:57,660
+No, it's just this kind of a bunch of ad hoc teams out here doing essentially what we're
+
+398
+00:25:57,660 --> 00:25:58,660
+doing.
+
+399
+00:26:00,660 --> 00:26:02,660
+Right on. And what exactly is it that you guys are doing?
+
+400
+00:26:02,660 --> 00:26:07,660
+Is it mostly helping out with transfers from one hospital to another?
+
+401
+00:26:07,660 --> 00:26:10,660
+Are you taking patients back to Lviv?
+
+402
+00:26:11,660 --> 00:26:14,660
+Are you coordinating with the train that's running patients?
+
+403
+00:26:14,660 --> 00:26:15,660
+What is it?
+
+404
+00:26:15,660 --> 00:26:18,660
+What is your work you're doing look like at the moment?
+
+405
+00:26:19,660 --> 00:26:25,660
+So primarily, we are getting patients from further out east and bringing them back to
+
+406
+00:26:25,660 --> 00:26:30,660
+Nipro. But that's primarily but not exclusively.
+
+407
+00:26:31,660 --> 00:26:35,660
+We were for a time working with MSF.
+
+408
+00:26:36,660 --> 00:26:42,660
+So we were they had convoys bringing patients to the train at the Nipro end.
+
+409
+00:26:45,660 --> 00:26:52,660
+We had some we had some requests to we had did have some requests to bring patients to
+
+410
+00:26:52,660 --> 00:26:58,660
+Lviv. We brought someone actually from Nikolai to Lviv.
+
+411
+00:26:59,660 --> 00:27:03,660
+And that was just a very, very long, long transport by road.
+
+412
+00:27:04,660 --> 00:27:05,660
+Right. Yeah, I can imagine.
+
+413
+00:27:06,660 --> 00:27:07,660
+Yeah.
+
+414
+00:27:07,660 --> 00:27:12,660
+Can you talk a little bit about the train situation that MSF has going if it's still going?
+
+415
+00:27:13,660 --> 00:27:19,660
+Yeah, totally. So because it is such a huge country and the air is still going, it's
+
+416
+00:27:19,660 --> 00:27:24,660
+because it is such a huge country and the airspace is effectively totally closed at this point.
+
+417
+00:27:25,660 --> 00:27:30,660
+The most sensible way really to get patients across that long distance is by rail.
+
+418
+00:27:31,660 --> 00:27:45,660
+So MSF, I think it started running at the end of March, started this medical evacuation train, which is effectively like a hospital on rails.
+
+419
+00:27:45,660 --> 00:27:51,660
+Off the top of my head, I think they have either four or six ICU beds.
+
+420
+00:27:53,660 --> 00:27:59,660
+And it's from Nipro to Lviv. I think it's still about a 16 hour transport.
+
+421
+00:28:00,660 --> 00:28:09,660
+But it's much more comfortable for the patients. The train is decked out with actual hospital beds rather than stretchers.
+
+422
+00:28:10,660 --> 00:28:13,660
+They've got their own oxygen condenser, things like that.
+
+423
+00:28:14,660 --> 00:28:17,660
+So they don't need to worry about running out of bottled oxygen.
+
+424
+00:28:18,660 --> 00:28:25,660
+So we have been involved with bringing patients to the train at the Nipro end.
+
+425
+00:28:26,660 --> 00:28:34,660
+And then back in the day when we were in Lviv, we would also bring patients from the MSF train in Lviv when it arrived there to local hospitals.
+
+426
+00:28:34,660 --> 00:28:39,660
+And they'd usually wait there a night or two before then going on to the EU.
+
+427
+00:28:40,660 --> 00:28:42,660
+For some of them, Lviv would actually be their own destination.
+
+428
+00:28:43,660 --> 00:28:49,660
+But a lot of them were brought there in order to ultimately get taken into the EU.
+
+429
+00:28:50,660 --> 00:28:55,660
+And Jason, you were involved in that when you were over there on the Lviv end of the operation.
+
+430
+00:28:56,660 --> 00:28:59,660
+So you got to see the train and help get patients off the train to the hospitals.
+
+431
+00:29:00,660 --> 00:29:13,660
+Right, correct. Yeah, that was a great experience to just to go to the train station and you're just lined up with all these European ambulances, people from all over.
+
+432
+00:29:14,660 --> 00:29:19,660
+It was a really cool experience. That was also I think the only time I personally transported a vented patient.
+
+433
+00:29:20,660 --> 00:29:25,660
+The patient had deteriorated in route and had to be intubated for ultimate status.
+
+434
+00:29:26,660 --> 00:29:29,660
+And so we just did a little transport with that. So that was cool because we actually got to use everything.
+
+435
+00:29:30,660 --> 00:29:39,660
+But when we actually went inside to pick them up, they had their ICU, great monitor, monitoring and title, had a doctor and nurse there.
+
+436
+00:29:40,660 --> 00:29:43,660
+I think that's where we ran into an issue that I wish I would have seen fixed.
+
+437
+00:29:44,660 --> 00:29:46,660
+And I'm sure they have ways of fixing it now.
+
+438
+00:29:47,660 --> 00:29:54,660
+But during transport, one of the most important thing I feel we do is we get a good report and we hand off that information to the patient.
+
+439
+00:29:55,660 --> 00:30:10,660
+And we have a good receiving facility. And when somebody is speaking, say French to me, and then I have to give that French report to a Ukrainian doctor, like this important things like in that case, he was like, why exactly was this patient intubated?
+
+440
+00:30:11,660 --> 00:30:14,660
+And I was like, yes, and I pointed down.
+
+441
+00:30:15,660 --> 00:30:22,660
+There was more to it. And that's very, very important because he's going through the paperwork and he may not understand what exactly happened.
+
+442
+00:30:22,660 --> 00:30:35,660
+So that's a tough thing. So the solution I came up with and I never got to implement it was to actually just have the people record on my phone, a head to toe report.
+
+443
+00:30:36,660 --> 00:30:43,660
+I'll get as much as I can out of it, whatever I need for the transport. And then when I arrive, I can either WhatsApp or play it for that report.
+
+444
+00:30:44,660 --> 00:30:46,660
+So that way I'm just sort of a hander of his report.
+
+445
+00:30:46,660 --> 00:30:57,660
+So but yeah, that train report or the train situation was a really cool experience other than, you know, we have a bunch of injured people in a train with a whole bunch of ambulances.
+
+446
+00:30:58,660 --> 00:31:04,660
+I'm like, you know, is Putin going to accidentally shoot one of those rockets this way? So but never did. So it worked out well.
+
+447
+00:31:05,660 --> 00:31:22,660
+And does it does seem I remember feeling that it was like kind of a like a risky endeavor, like a train is a very predictable target and we're essentially moving like a hospital on a train track like back and forth across the country.
+
+448
+00:31:23,660 --> 00:31:40,660
+But I guess that would be like a very like high visibility strike and it would garner a lot of attention. So I think that was probably a contributing factor to on the safety side of the operation is that everyone was like disincentivized to make strikes against that kind of thing.
+
+449
+00:31:41,660 --> 00:31:42,660
+At least at the time when we were there.
+
+450
+00:31:43,660 --> 00:32:03,660
+Yeah, I think a lot of people were back in sort of April, May, a lot of people were expecting that with the rail infrastructure targeting, even if the train itself wasn't directly targeted that that Ukraine just wouldn't be able to keep open the rail infrastructure with the amount that it was getting hit.
+
+451
+00:32:03,660 --> 00:32:13,660
+So I think it's I think a lot of people are kind of pleasantly surprised that that was still able to run for this long. And also just the normal rail services are still able to run for this long.
+
+452
+00:32:15,660 --> 00:32:30,660
+Yeah, I mean, I was pretty impressed when I was over there that this has been quite a while. So I imagine things may be different now. But just the fact that so much infrastructure was still intact like, you know, self service was, you know, just as reliable over there as it is here in home.
+
+453
+00:32:30,660 --> 00:32:44,660
+Although arguably, I mean, New Mexico, it's not always that great. But like, self service was fine. Like, riding the train was super easy, like getting around at that point was like, yeah, pretty easy, pretty manageable.
+
+454
+00:32:45,660 --> 00:32:57,660
+Yeah, I mean, I'd say definitely still similar. Now, there's going further east of Nipro, you start running into challenges with some of those things. Self service starts becoming spotty or non existent.
+
+455
+00:32:58,660 --> 00:33:18,660
+And there's only trains, I think, as far east as Kramatorsk now, especially getting around access to the newly liberated areas that can be quite challenging. It's been okay for us so far. But I think it's a lot easier to get through checkpoints and ambulances.
+
+456
+00:33:19,660 --> 00:33:26,660
+For sure, for sure. Yeah, they put them all tough cocktails down when they see license sirens. Just sort of nice.
+
+457
+00:33:28,660 --> 00:33:36,660
+Yeah, and I think that's relatively universal, like around the world is that you get a little bit of more leeway with things when you're in a vehicle with lights and sirens.
+
+458
+00:33:37,660 --> 00:33:52,660
+Yeah, I actually was under the impression that Ukrainians were just incredibly courteous drivers until I spent about six weeks working on another one of our programs and we just had a van and a rental car.
+
+459
+00:33:53,660 --> 00:33:57,660
+And I was like, wait, Ukrainians are not courteous drivers, Ukrainians just yield to ambulances.
+
+460
+00:33:58,660 --> 00:34:16,660
+Going back to your idea about the train, I know that Kaddis had this idea about the big bus or the ICU bus kind of to fill a gap for transporting like larger quantities of patience back and forth.
+
+461
+00:34:17,660 --> 00:34:25,660
+Are there other folks doing something similar or is it essentially just the big bus that you guys have, the ICU bus and the train?
+
+462
+00:34:26,660 --> 00:34:32,660
+What are the available options for moving patients around in more than one-off situations like you do in an ambulance?
+
+463
+00:34:33,660 --> 00:34:41,660
+So there's also a series of buses that have come or are in the process of coming from Norway.
+
+464
+00:34:42,660 --> 00:34:50,660
+I think they are ultimately going to end up delivering six buses to Ukraine that will be based in various cities.
+
+465
+00:34:53,660 --> 00:34:58,660
+I couldn't tell you how many of those have already arrived. I know there's one currently working out of Lviv.
+
+466
+00:34:59,660 --> 00:35:14,660
+But I guess the Norwegians kind of had the same thought that we did, that there was potentially going to be a little bit of gap in regards to the train if rail infrastructure continued to be targeted.
+
+467
+00:35:15,660 --> 00:35:28,660
+And so there was this decision to provide a lot of buses. I think that I would say that the train is probably still the primary way that patients get moved long distance.
+
+468
+00:35:29,660 --> 00:35:47,660
+There's also a number of other, and I can't really speak to their capacities, but I know that in addition to the MSF train, there are other patient transport trains, some of which I think are being run by the government.
+
+469
+00:35:48,660 --> 00:36:03,660
+I don't know what kind of capacities for patient care they have on them, but they exist as well. I mean, rail infrastructure is kind of just, I guess, the best way to be moving people or things in a country this size when you can't do air travel.
+
+470
+00:36:04,660 --> 00:36:14,660
+Right. Yeah, I know there was also concerns when I was over there about the fuel situation, which made it a little bit problematic with vehicles.
+
+471
+00:36:15,660 --> 00:36:24,660
+Yeah, the fuel situation got a lot better to the point that it was really no different from trying to buy fuel anywhere else.
+
+472
+00:36:25,660 --> 00:36:42,660
+I haven't had a problem buying fuel at all up until last week, like two days ago, and I found myself getting shut down at like four gas stations in a row trying to buy diesel and then eventually got just 20 litres out of one of them.
+
+473
+00:36:43,660 --> 00:36:46,660
+And I think we only got 20 litres because we were an ambulance.
+
+474
+00:36:47,660 --> 00:36:57,660
+But I don't know whether that was just kind of a weird blip on that area on that day, or whether that's a sign of something more difficult and challenging to come.
+
+475
+00:36:58,660 --> 00:37:02,660
+Right on. Well, hopefully you can still find fuel or you have some stockpiled somewhere.
+
+476
+00:37:05,660 --> 00:37:11,660
+Yeah, I mean, it's been pretty easy in Nipro. We were further out east when we were having those problems.
+
+477
+00:37:12,660 --> 00:37:25,660
+Nice. And then at the moment, like with your role there, are you are you involved in direct patient care? Are you more helping out with like the admin side of things and the organisational level?
+
+478
+00:37:26,660 --> 00:37:40,660
+Admin and organisational things, really. So I kind of I'm kind of overseeing everything that we're doing on the ground here. So the Medivac portion to an extent, I think, is a really good thing.
+
+479
+00:37:41,660 --> 00:37:46,660
+And also the training programme. We're also doing a lot of equipment distribution at the moment.
+
+480
+00:37:47,660 --> 00:38:03,660
+So providing things like ambulances and ventilators to various local groups, local NGOs, local EMS services that are that, you know, have a need.
+
+481
+00:38:04,660 --> 00:38:13,660
+So I'm kind of just overseeing all of those different threads right now. It's pretty interesting, actually. I've kind of got my hand in a lot of pies.
+
+482
+00:38:14,660 --> 00:38:24,660
+Nice. And are you I know with GRM, you were sort of managing volunteers, a germ of like bring volunteers over and you kind of put them to work. Are you doing something similar with caddis?
+
+483
+00:38:25,660 --> 00:38:38,660
+Yeah, right now we only actually have the one volunteer because we are sort of because we're slowing down what we're doing with Medivac to focus more on the training and the distribution.
+
+484
+00:38:39,660 --> 00:38:49,660
+And then there are a few other staff members out here that are also paramedics. So we can handle calls that we get just by kind of pulling them away from their other obligations.
+
+485
+00:38:50,660 --> 00:39:00,660
+But we think that we are actually a little bit busy to maintain that. So we might scale up volunteers again.
+
+486
+00:39:01,660 --> 00:39:09,660
+But generally, up to about now, our programmes have been have been run through working with volunteers the same as they were at GRM.
+
+487
+00:39:10,660 --> 00:39:14,660
+Right on. Well, maybe you can recruit Jason to get back over there after his next work hitch.
+
+488
+00:39:15,660 --> 00:39:22,660
+Well, yeah, I'll speak to some of the volunteer greatness that happened when I I volunteered in lots of places around the world.
+
+489
+00:39:23,660 --> 00:39:33,660
+And a lot of the times you have to pay for your own flight there, pay for your own place to stay, meals and all that. And I mean, I felt like a king working for GRM.
+
+490
+00:39:34,660 --> 00:39:45,660
+They actually took care of the flights and I believe they use that company Airlink, which is probably one of the unsung euros of this whole medical response to Ukraine.
+
+491
+00:39:46,660 --> 00:39:55,660
+They do advertise and tooth or own horn on occasion, but really, they're they're finding ways to get people over there. So the companies don't have to pay.
+
+492
+00:39:56,660 --> 00:40:04,660
+And, you know, they gave us a little bit of money for food every day, which is more than enough for what we needed and gave us a place to sleep every night.
+
+493
+00:40:05,660 --> 00:40:14,660
+So that was very nice. You know, we didn't have to sleep in the ambulance. So of all the place I volunteered, it was one of the nicest, you know, and other than the occasional air raid alarm.
+
+494
+00:40:15,660 --> 00:40:17,660
+And you guys had a pretty cool apartment there in the D's.
+
+495
+00:40:18,660 --> 00:40:25,660
+You know what? I actually still have I rented that same apartment again on behalf of I liked it.
+
+496
+00:40:26,660 --> 00:40:28,660
+That's awesome. Great. It was really great.
+
+497
+00:40:30,660 --> 00:40:32,660
+Yeah, that was definitely a super cool spot.
+
+498
+00:40:35,660 --> 00:40:41,660
+Okay, so the most important question I have for you, Sarah, is when when are you going to go to medical school?
+
+499
+00:40:42,660 --> 00:40:43,660
+I was waiting for that one.
+
+500
+00:40:44,660 --> 00:40:45,660
+What's the game plan?
+
+501
+00:40:46,660 --> 00:40:51,660
+It's not it's not something that's I'm specifically looking to do at this point in time.
+
+502
+00:40:52,660 --> 00:40:56,660
+Wait, I can't hear you. I think you said that you're not looking to do it.
+
+503
+00:40:58,660 --> 00:41:07,660
+Right now, I think my long term goals are sort of sticking around with humanitarianism, doing project management, things like that.
+
+504
+00:41:07,660 --> 00:41:13,660
+However, you probably could argue that I've got a little bit of the medical bug now.
+
+505
+00:41:14,660 --> 00:41:18,660
+So I guess come back and ask me in two years and we'll see.
+
+506
+00:41:19,660 --> 00:41:20,660
+All right. Perfect.
+
+507
+00:41:22,660 --> 00:41:25,660
+Well, I think those are all the questions that I had specifically for you guys.
+
+508
+00:41:26,660 --> 00:41:34,660
+I don't know if either of you had anything else you wanted to mention about the experience over there in Ukraine or just like working abroad in this capacity in general.
+
+509
+00:41:34,660 --> 00:41:37,660
+August, I guess I'll just open up to you guys.
+
+510
+00:41:40,660 --> 00:41:45,660
+I'll go first. I think it was it was a positive experience.
+
+511
+00:41:47,660 --> 00:41:53,660
+Maybe too much so because I don't I don't even talk about this experience with anyone.
+
+512
+00:41:56,660 --> 00:41:59,660
+Yeah, it just really it really touched me.
+
+513
+00:42:00,660 --> 00:42:01,660
+I mean, yeah, so
+
+514
+00:42:01,660 --> 00:42:07,660
+they had a great leadership over there, believe it or not. It was an organization. I think GRM and
+
+515
+00:42:09,660 --> 00:42:19,660
+you know, you guys saw a lot more behind the scenes. But for the for the grunt on the ground, which is what I was, we had really good leadership there. So good job, Sarah.
+
+516
+00:42:20,660 --> 00:42:23,660
+You did a great job. And you're really
+
+517
+00:42:24,660 --> 00:42:30,660
+you're really obviously from the from the people that want to come back and keep working. You did a great job. So
+
+518
+00:42:32,660 --> 00:42:37,660
+but yeah, I would if you can make it over there and help out in some way, it'll it'll change your life for sure.
+
+519
+00:42:38,660 --> 00:42:41,660
+See that the suffering that was going on.
+
+520
+00:42:43,660 --> 00:42:45,660
+Yeah, it touched me.
+
+521
+00:42:46,660 --> 00:42:49,660
+Yeah, it's definitely a definitely cool experience.
+
+522
+00:42:50,660 --> 00:42:57,660
+And I think it's awesome that we managed to recruit another human into the EMS family via the whole thing.
+
+523
+00:42:58,660 --> 00:42:59,660
+Brad.
+
+524
+00:43:01,660 --> 00:43:08,660
+Yeah, I guess I'll just mirror what Jason was saying. It's been it's been just a really, really rewarding experience.
+
+525
+00:43:09,660 --> 00:43:13,660
+And it's being out here, it really feels like you can actually
+
+526
+00:43:14,660 --> 00:43:22,660
+see this objective tangible benefit to the work in which you're doing. And it's just really, really awesome.
+
+527
+00:43:25,660 --> 00:43:28,660
+Yeah, for some really, really appreciative people.
+
+528
+00:43:29,660 --> 00:43:42,660
+You know, here in the US, we're used to working for people that expect good, good health care. They expect when they call 911 that they're going to have somebody show up that knows what they're doing. It can take them to a higher level of care. And those people are going to know what they're doing.
+
+529
+00:43:44,660 --> 00:43:50,660
+They don't always have those expectations there. They'll take what they can get because they know their country's in a war.
+
+530
+00:43:51,660 --> 00:44:08,660
+So over there, any type of little help, it just blew their minds, you know, that they would. Oh, you actually have medicines for us to help us out with the pain on this long transport that it blew their mind because they weren't expecting that. They were expecting to have an ex fix bouncing down the road in a lot of pain, you know.
+
+531
+00:44:09,660 --> 00:44:20,660
+Yeah, there's this, I think there's this cultural tolerance of pain. I had my wisdom teeth removed out here and they were just like, take ibuprofen.
+
+532
+00:44:23,660 --> 00:44:26,660
+Where did you have it done? I remember you talking about that.
+
+533
+00:44:27,660 --> 00:44:29,660
+I got it done at some place in Lviv.
+
+534
+00:44:30,660 --> 00:44:31,660
+Awesome.
+
+535
+00:44:32,660 --> 00:44:34,660
+And I think it costs about $300 in the end.
+
+536
+00:44:35,660 --> 00:44:37,660
+That's sweet. And you didn't die?
+
+537
+00:44:38,660 --> 00:44:39,660
+I didn't die.
+
+538
+00:44:40,660 --> 00:44:41,660
+Perfect.
+
+539
+00:44:41,660 --> 00:44:42,660
+Surprise, surprise.
+
+540
+00:44:42,660 --> 00:44:53,660
+And that's pretty much it. Thanks for tuning in. But real quick before we go, just a few shout outs. First is to Pragmatic Paramedics, another awesome podcast that we highly recommend.
+
+541
+00:44:54,660 --> 00:45:00,660
+Next is to the St. Fisher Church of Evidence-Based Medicine. If you don't follow them already, definitely check them out.
+
+542
+00:45:00,660 --> 00:45:09,660
+These guys, both Pragmatic Paramedics and the St. Fisher folks, have been instrumental in getting our stuff out there into the world and we truly appreciate that.
+
+543
+00:45:10,660 --> 00:45:18,660
+And then we'll end things with a shout out to my good friend Josh Pittman and his buddy Kevin Pons. They put the music together for the show. Until next time.
+
+544
+00:45:30,660 --> 00:45:31,660
+Thanks for watching.

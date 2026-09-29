@@ -1,0 +1,3623 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,640
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,640 --> 00:00:15,280
+care medicine.
+
+4
+00:00:15,280 --> 00:00:20,360
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,360 --> 00:00:23,860
+use of technology can facilitate that effort.
+
+6
+00:00:23,860 --> 00:00:29,060
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,060 --> 00:00:36,960
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:36,960 --> 00:00:40,700
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,700 --> 00:00:45,860
+do.
+
+10
+00:00:45,860 --> 00:01:12,500
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:15,860 --> 00:01:17,900
+Jessica, thanks for coming on with me.
+
+12
+00:01:17,900 --> 00:01:19,900
+I appreciate you being here.
+
+13
+00:01:19,900 --> 00:01:22,900
+Thank you so much Ryan, I appreciate you inviting me.
+
+14
+00:01:22,900 --> 00:01:23,900
+For sure.
+
+15
+00:01:23,900 --> 00:01:29,780
+So for those who don't know, Jessica goes by the handle on social media, the Combat
+
+16
+00:01:29,780 --> 00:01:31,340
+Midwife.
+
+17
+00:01:31,340 --> 00:01:35,140
+She is both, and you can correct me if I'm wrong here, but you're a paramedic and also
+
+18
+00:01:35,140 --> 00:01:36,140
+a midwife.
+
+19
+00:01:36,140 --> 00:01:37,420
+Yes.
+
+20
+00:01:37,420 --> 00:01:43,820
+And you do content and education based on helping teach both paramedics and lay people
+
+21
+00:01:43,820 --> 00:01:46,580
+how to work in women's health.
+
+22
+00:01:46,580 --> 00:01:52,220
+Yeah, so my background in education is teaching the military and I have been doing that for
+
+23
+00:01:52,220 --> 00:01:53,220
+years.
+
+24
+00:01:53,220 --> 00:01:59,780
+So I've taken my lessons learned from teaching those great guys and gals, and I have kind
+
+25
+00:01:59,780 --> 00:02:05,060
+of turned it into a really awesome workshop for people of all backgrounds, whether it's
+
+26
+00:02:05,060 --> 00:02:11,940
+law enforcement, EMS, layperson, someone that's going to be working overseas and kind of filling
+
+27
+00:02:11,940 --> 00:02:18,580
+in the gap of women and children's healthcare education since that's a huge deficit in all
+
+28
+00:02:18,580 --> 00:02:21,620
+aspects of medicine.
+
+29
+00:02:21,620 --> 00:02:23,900
+And how did you end up where you are?
+
+30
+00:02:23,900 --> 00:02:29,220
+Did you start as a paramedic and then transition into midwifery or the other way around?
+
+31
+00:02:29,220 --> 00:02:30,900
+How did it work?
+
+32
+00:02:30,900 --> 00:02:37,940
+EMS was first, but my desire to deliver babies was before that.
+
+33
+00:02:37,940 --> 00:02:45,940
+I kind of had a very, a personality first born daughter, a midlife crisis at like 12.
+
+34
+00:02:45,940 --> 00:02:50,220
+And so I kind of freaked out and went, what if I go through medical school and I can't
+
+35
+00:02:50,220 --> 00:02:51,900
+stand blood?
+
+36
+00:02:51,900 --> 00:02:57,420
+Because I knew that you don't really touch humans until much later on in medical school.
+
+37
+00:02:57,420 --> 00:03:01,540
+And so I had uncles that were firefighters and they said, if you can become a firefighter
+
+38
+00:03:01,540 --> 00:03:03,980
+and a medic, you can do anything.
+
+39
+00:03:03,980 --> 00:03:07,300
+So that's what I did in high school.
+
+40
+00:03:07,300 --> 00:03:09,340
+So I had a great career.
+
+41
+00:03:09,340 --> 00:03:15,500
+It started in high school working for the fire department in my area that provided EMS.
+
+42
+00:03:15,500 --> 00:03:21,620
+And then I was headhunted by the military when we went to war and they said, hey, we
+
+43
+00:03:21,620 --> 00:03:24,500
+need some instructors to teach the combat medic course.
+
+44
+00:03:24,500 --> 00:03:29,460
+And I had no idea what that was, but I have a rule that's still in place today.
+
+45
+00:03:29,460 --> 00:03:36,220
+And that is always say yes to an interview because you never know what type of relationship
+
+46
+00:03:36,220 --> 00:03:40,140
+you're going to cultivate with that experience.
+
+47
+00:03:40,140 --> 00:03:44,180
+And so I said yes and got hired on the spot and started, that was a Friday and started
+
+48
+00:03:44,180 --> 00:03:47,420
+on a Monday and the rest is kind of history.
+
+49
+00:03:47,420 --> 00:03:49,300
+Right on.
+
+50
+00:03:49,300 --> 00:03:54,700
+So did you teach for the military, but are you also in the military or is it separate?
+
+51
+00:03:54,700 --> 00:03:57,780
+No, so I'm a civilian instructor.
+
+52
+00:03:57,780 --> 00:03:59,780
+Okay, awesome.
+
+53
+00:03:59,780 --> 00:04:03,380
+And you're still actively teaching for the military at the moment, right?
+
+54
+00:04:03,380 --> 00:04:04,380
+Right.
+
+55
+00:04:04,380 --> 00:04:05,380
+Cool.
+
+56
+00:04:05,380 --> 00:04:11,100
+So are there specific courses or curriculum that you that you work with or is it more
+
+57
+00:04:11,100 --> 00:04:17,100
+based on like specific needs that come up within groups within the military?
+
+58
+00:04:17,100 --> 00:04:18,340
+A little of both.
+
+59
+00:04:18,340 --> 00:04:23,700
+So it's everything from initial education, recertification and pre-deployment needs,
+
+60
+00:04:23,700 --> 00:04:31,860
+depending on what's going on in the medic community for either special warfare, ground,
+
+61
+00:04:31,860 --> 00:04:33,100
+flight.
+
+62
+00:04:33,100 --> 00:04:37,540
+So I've taught everything from the whiskeys to the flight medics to special operations.
+
+63
+00:04:37,540 --> 00:04:44,860
+So it kind of depends on what's going on in the, you know, whatever skirmish we're involved
+
+64
+00:04:44,860 --> 00:04:50,300
+in at the time that that kind of dictates a lot of the education.
+
+65
+00:04:50,300 --> 00:04:52,620
+But I've taught those entire programs.
+
+66
+00:04:52,620 --> 00:04:54,340
+I just happened to be a midwife.
+
+67
+00:04:54,340 --> 00:05:01,940
+And so my specialty is women and children's health care in austere environments.
+
+68
+00:05:01,940 --> 00:05:08,180
+However, I mean, if you want to go over, you know, sonography or or throwing in some
+
+69
+00:05:08,180 --> 00:05:10,420
+chest tubes, we can do that too.
+
+70
+00:05:10,420 --> 00:05:11,420
+Right.
+
+71
+00:05:11,420 --> 00:05:17,620
+So it's important to know how all of those skills, even if that's not your specialty,
+
+72
+00:05:17,620 --> 00:05:19,780
+because you never know when you're going to need them.
+
+73
+00:05:19,780 --> 00:05:21,060
+For sure.
+
+74
+00:05:21,060 --> 00:05:24,860
+And then I think most of the folks who listen to this probably are familiar with the pathway
+
+75
+00:05:24,860 --> 00:05:27,700
+for the ems side of things.
+
+76
+00:05:27,700 --> 00:05:32,580
+But how does the path work for midwifery?
+
+77
+00:05:32,580 --> 00:05:34,700
+Like how does one go about becoming a midwife?
+
+78
+00:05:34,700 --> 00:05:41,660
+Oh, so I wrote an entire article for ems world because that's a common question in ems where
+
+79
+00:05:41,660 --> 00:05:45,580
+they're not quite sure what that even looks like.
+
+80
+00:05:45,580 --> 00:05:53,220
+But believe it or not, there's so many similarities between the ems creation, right?
+
+81
+00:05:53,220 --> 00:05:54,220
+And the midwifery.
+
+82
+00:05:54,220 --> 00:05:55,220
+There's always been around.
+
+83
+00:05:55,220 --> 00:05:59,540
+There's always been someone that's been the medical person in a community, whether that's
+
+84
+00:05:59,540 --> 00:06:02,860
+a tribe or or modern day, right?
+
+85
+00:06:02,860 --> 00:06:06,980
+There's always been someone that's kind of worn that hat and midwifery is the same way.
+
+86
+00:06:06,980 --> 00:06:09,740
+So we've always been around in the United States.
+
+87
+00:06:09,740 --> 00:06:14,300
+There are three different pathways to becoming a midwife.
+
+88
+00:06:14,300 --> 00:06:19,820
+And in the rest of the world, there's one with the US likes to make things a little
+
+89
+00:06:19,820 --> 00:06:20,900
+complicated.
+
+90
+00:06:20,900 --> 00:06:25,860
+So there's two non nursing pathways and there's one nursing pathway.
+
+91
+00:06:25,860 --> 00:06:31,440
+So I happen to have taken the one where I have a medical background in something else.
+
+92
+00:06:31,440 --> 00:06:36,360
+So I had a lot of that foundation already and I just wanted to, you know, become a midwife.
+
+93
+00:06:36,360 --> 00:06:39,460
+And then there's the I don't have a background in medicine at all.
+
+94
+00:06:39,460 --> 00:06:41,620
+And you can take that pathway.
+
+95
+00:06:41,620 --> 00:06:45,100
+And then otherwise you can do the nursing route.
+
+96
+00:06:45,100 --> 00:06:47,380
+I just never wanted to work in a hospital.
+
+97
+00:06:47,380 --> 00:06:49,380
+I have a paramedic heart, right?
+
+98
+00:06:49,380 --> 00:06:54,980
+And you don't really want me in a brick and mortar building.
+
+99
+00:06:54,980 --> 00:06:57,180
+That's just not my personality.
+
+100
+00:06:57,180 --> 00:07:00,720
+And so I prefer to be outside of the hospital.
+
+101
+00:07:00,720 --> 00:07:06,540
+So I'm familiar with working in birth centers, home births, and even I worked in refugee
+
+102
+00:07:06,540 --> 00:07:07,540
+camps.
+
+103
+00:07:07,540 --> 00:07:13,940
+I've done work as a midwife for natural disasters and a whole host of other fun things.
+
+104
+00:07:13,940 --> 00:07:14,940
+Awesome.
+
+105
+00:07:15,500 --> 00:07:17,860
+Fun for us, not fun for them.
+
+106
+00:07:17,860 --> 00:07:20,020
+Yeah, I can relate.
+
+107
+00:07:20,020 --> 00:07:21,020
+Yeah.
+
+108
+00:07:21,020 --> 00:07:22,020
+Yeah.
+
+109
+00:07:22,020 --> 00:07:23,220
+So can we talk a little bit about that?
+
+110
+00:07:23,220 --> 00:07:27,740
+Like the humanitarian and international medicine that you have done in the past or that you
+
+111
+00:07:27,740 --> 00:07:28,740
+do?
+
+112
+00:07:28,740 --> 00:07:29,740
+Yeah.
+
+113
+00:07:29,740 --> 00:07:34,620
+So I worked when Afghanistan fell in August of 21.
+
+114
+00:07:34,620 --> 00:07:41,900
+And when we pulled out of Afghanistan, there was a measure to bring those that have helped
+
+115
+00:07:41,900 --> 00:07:44,980
+us in the past over to the United States.
+
+116
+00:07:44,980 --> 00:07:46,780
+So there's a huge process with that.
+
+117
+00:07:46,780 --> 00:07:52,180
+And so the military and the government didn't realize that there might be women and children
+
+118
+00:07:52,180 --> 00:07:55,020
+and there also might be women that are pregnant.
+
+119
+00:07:55,020 --> 00:08:01,140
+So I got a phone call in the middle of the night from actually one of my previous soldiers.
+
+120
+00:08:01,140 --> 00:08:07,220
+And he said, hey, do you know anybody who can set up a women and children's tent?
+
+121
+00:08:07,220 --> 00:08:08,220
+Like yesterday?
+
+122
+00:08:08,220 --> 00:08:11,660
+And I went, yeah.
+
+123
+00:08:11,660 --> 00:08:15,180
+They're talking to the person that can do that.
+
+124
+00:08:15,180 --> 00:08:17,260
+He goes, well, I thought you might be already on a mission.
+
+125
+00:08:17,260 --> 00:08:19,620
+I was like, I actually am between things.
+
+126
+00:08:19,620 --> 00:08:20,620
+What do you need?
+
+127
+00:08:20,620 --> 00:08:23,340
+And he goes, well, we have a bunch of pregnant women.
+
+128
+00:08:23,340 --> 00:08:25,820
+We don't really know how to take care of them.
+
+129
+00:08:25,820 --> 00:08:30,460
+So I packed up and met them out there to take care of that situation.
+
+130
+00:08:30,460 --> 00:08:34,460
+So we had over 1500 pregnant women to care for.
+
+131
+00:08:34,460 --> 00:08:38,620
+And that's before we could place them wherever they were going to be living in the United
+
+132
+00:08:38,620 --> 00:08:39,620
+States.
+
+133
+00:08:39,620 --> 00:08:40,620
+Right.
+
+134
+00:08:40,620 --> 00:08:45,620
+That's a big process to bring in a lot of people and then also place them in different
+
+135
+00:08:45,620 --> 00:08:47,580
+states on where they were going to be living.
+
+136
+00:08:47,580 --> 00:08:50,500
+So that's not something you can just do overnight.
+
+137
+00:08:50,500 --> 00:08:53,660
+So I was working in kind of a holding pattern situation.
+
+138
+00:08:53,660 --> 00:08:58,020
+So they still have to get care and some of them were going to have babies and they did.
+
+139
+00:08:58,020 --> 00:09:03,420
+And some of them are going to have breastfeeding problems and babies with anomalies and all
+
+140
+00:09:03,420 --> 00:09:04,420
+sorts of stuff.
+
+141
+00:09:04,420 --> 00:09:08,820
+So it was it was kind of it was it was exciting.
+
+142
+00:09:08,820 --> 00:09:13,140
+And it was great to be on the other side of military medicine.
+
+143
+00:09:13,140 --> 00:09:14,140
+Right.
+
+144
+00:09:14,140 --> 00:09:16,540
+I send out a lot of guys to do death and destruction.
+
+145
+00:09:16,540 --> 00:09:20,940
+So it was kind of nice to be on the flip side of that and and providing that community with
+
+146
+00:09:20,940 --> 00:09:24,500
+care and love and resources.
+
+147
+00:09:24,500 --> 00:09:27,540
+And that was that specific experience.
+
+148
+00:09:27,540 --> 00:09:33,460
+That was when that was stateside once people were coming over after we had that good amount.
+
+149
+00:09:33,460 --> 00:09:34,460
+OK.
+
+150
+00:09:34,460 --> 00:09:35,460
+Right.
+
+151
+00:09:35,460 --> 00:09:36,660
+And everybody thinks, oh, you had a ton of resources.
+
+152
+00:09:36,660 --> 00:09:38,780
+So it's really not a humanitarian mission.
+
+153
+00:09:38,780 --> 00:09:39,780
+And I beg to differ.
+
+154
+00:09:39,780 --> 00:09:41,820
+We had no running water.
+
+155
+00:09:41,820 --> 00:09:45,500
+So I had to do pelvic exams, cervical checks.
+
+156
+00:09:45,500 --> 00:09:46,820
+And I had no running water.
+
+157
+00:09:46,820 --> 00:09:52,380
+So my nurse is like dousing me with bottles of water so I can wash my hands so I can go
+
+158
+00:09:52,380 --> 00:09:53,500
+to the next patient.
+
+159
+00:09:53,500 --> 00:09:55,660
+We had intermittent electricity.
+
+160
+00:09:55,660 --> 00:09:58,220
+We hardly ever had heat.
+
+161
+00:09:58,220 --> 00:09:59,220
+We were.
+
+162
+00:09:59,220 --> 00:10:04,940
+So yeah, we may have been in the United States, but it was absolutely a FEMA camp.
+
+163
+00:10:04,940 --> 00:10:06,300
+Like there was nothing.
+
+164
+00:10:06,300 --> 00:10:07,300
+There was no resources.
+
+165
+00:10:07,300 --> 00:10:13,620
+I had to be very creative with how to get treat things like preeclampsia and all sorts
+
+166
+00:10:13,620 --> 00:10:14,620
+of different stuff.
+
+167
+00:10:14,620 --> 00:10:15,820
+I just didn't have resources.
+
+168
+00:10:15,820 --> 00:10:17,740
+I barely had access to meds.
+
+169
+00:10:17,740 --> 00:10:24,420
+I did do a DNC on somebody with no pain medication that was catastrophic.
+
+170
+00:10:24,420 --> 00:10:26,180
+It was it was horrible.
+
+171
+00:10:26,180 --> 00:10:28,900
+Yeah, that's interesting.
+
+172
+00:10:28,900 --> 00:10:35,300
+I think you and I must have just barely missed one another because I was kind of tied up
+
+173
+00:10:35,300 --> 00:10:37,580
+in something similar.
+
+174
+00:10:37,580 --> 00:10:42,300
+And then the group that I was working with on the overseas side, they sent a bunch of
+
+175
+00:10:42,300 --> 00:10:46,260
+people to help facilitate intakes for just like general practice stuff.
+
+176
+00:10:46,260 --> 00:10:47,260
+Oh, sure.
+
+177
+00:10:47,260 --> 00:10:48,260
+But I didn't end up going.
+
+178
+00:10:48,260 --> 00:10:52,300
+I'm just it didn't it didn't work out when I came back home to the States.
+
+179
+00:10:52,300 --> 00:10:55,700
+That's interesting that maybe we would have met in the past at some point.
+
+180
+00:10:55,700 --> 00:10:56,940
+We probably would have.
+
+181
+00:10:57,100 --> 00:10:59,100
+Yeah, things had aligned just slightly differently.
+
+182
+00:10:59,100 --> 00:11:00,100
+Absolutely.
+
+183
+00:11:00,460 --> 00:11:06,700
+It's EMS is a very small world and medicine is a very small world, especially if you if
+
+184
+00:11:06,700 --> 00:11:13,700
+you fit in this austere kind of grid down type of it's a very it's a very tight knit
+
+185
+00:11:13,700 --> 00:11:16,420
+community that fit in this category.
+
+186
+00:11:17,020 --> 00:11:23,180
+Yeah, the more I've like worked in the international and humanitarian medicine space,
+
+187
+00:11:23,180 --> 00:11:25,940
+like I keep running into the same faces over and over.
+
+188
+00:11:26,380 --> 00:11:27,380
+For sure.
+
+189
+00:11:27,420 --> 00:11:28,420
+Yeah, it takes a long time.
+
+190
+00:11:28,420 --> 00:11:32,620
+Well, at least for me, it took like a long time to get myself into the fold, into the
+
+191
+00:11:32,620 --> 00:11:37,940
+network. But like now that I'm here, like I do run into a lot of the same people all
+
+192
+00:11:37,940 --> 00:11:39,260
+over the world, which is cool.
+
+193
+00:11:39,260 --> 00:11:40,420
+That is super cool.
+
+194
+00:11:40,420 --> 00:11:44,700
+Yeah, it's nice to see a familiar face when you're in an entirely different country.
+
+195
+00:11:45,340 --> 00:11:46,340
+For sure.
+
+196
+00:11:47,140 --> 00:11:50,500
+And then one one other thing in general, before we dive into some specific clinical
+
+197
+00:11:50,500 --> 00:11:54,980
+things that I wanted to ask you about is you do some like teaching and you've designed a
+
+198
+00:11:54,980 --> 00:11:59,020
+couple of courses and I understand you're coming out with a book before too long.
+
+199
+00:12:00,420 --> 00:12:04,100
+We'll circle back around to this at the end because I don't want people to like to miss
+
+200
+00:12:04,100 --> 00:12:06,420
+that. But do you want to talk about that just a bit before we dive in?
+
+201
+00:12:07,580 --> 00:12:15,820
+Yeah, so I recognize in military medicine and EMS that we have a kind of a mentality of
+
+202
+00:12:15,820 --> 00:12:18,540
+just drive faster or just take them to the hospital.
+
+203
+00:12:18,540 --> 00:12:23,660
+And that's a really bad mindset for any patient.
+
+204
+00:12:23,660 --> 00:12:27,700
+But specifically, when we're talking about women and children, because we are going to
+
+205
+00:12:27,700 --> 00:12:34,260
+come in contact with them, we are going to treat them whether that's in a major metropolitan
+
+206
+00:12:34,420 --> 00:12:39,660
+area and you have all the resources available at your fingertips or or you're in a rural
+
+207
+00:12:39,660 --> 00:12:44,620
+area of the United States or you're overseas, you are going to 50 percent of the population
+
+208
+00:12:44,620 --> 00:12:51,380
+is female. You're going to see them and their childbearing age is wide and varying.
+
+209
+00:12:51,380 --> 00:12:56,460
+And there's a plethora of different situations that can transpire during a woman's lifespan,
+
+210
+00:12:56,460 --> 00:12:59,100
+whether it is pregnancy related or not.
+
+211
+00:12:59,140 --> 00:13:05,300
+And so the whole mindset of if there's abdominal situations and it's a female, just drive
+
+212
+00:13:05,300 --> 00:13:09,060
+fast. The hospital is really poor medicine on our part.
+
+213
+00:13:09,060 --> 00:13:14,260
+And it's really awful for the patient because they're thinking that we're going to know
+
+214
+00:13:14,260 --> 00:13:15,060
+what to do.
+
+215
+00:13:17,100 --> 00:13:21,340
+And then we have this mentality of just pack them up and go because I don't want to do
+
+216
+00:13:21,340 --> 00:13:23,340
+it like it's a game of hot potato.
+
+217
+00:13:23,980 --> 00:13:28,420
+I just think that's really poor medicine and it's just awful experience for the patient.
+
+218
+00:13:29,020 --> 00:13:38,460
+So kind of getting over our fear of OBGYN calls and just dealing with them by having the
+
+219
+00:13:38,460 --> 00:13:39,860
+best knowledge possible.
+
+220
+00:13:39,860 --> 00:13:44,180
+And so that's that's kind of the conception of the combat midwife course is really all
+
+221
+00:13:44,180 --> 00:13:49,940
+about starting at this is what a menstrual cycle is and that and why is it important to
+
+222
+00:13:49,940 --> 00:13:50,780
+know what that is?
+
+223
+00:13:50,780 --> 00:13:56,340
+Well, because it dictates the outcome of labor, it dictates her cycle, it dictates how she's
+
+224
+00:13:56,340 --> 00:13:59,980
+going to respond to medication and a whole bunch of other things.
+
+225
+00:13:59,980 --> 00:14:04,780
+So we go all the way through the first year of a baby's life and some things that can
+
+226
+00:14:04,780 --> 00:14:07,700
+go right and wrong and everything in between.
+
+227
+00:14:07,700 --> 00:14:11,740
+So it's an all day, hands on, really fun class.
+
+228
+00:14:11,740 --> 00:14:13,860
+I bring mannequins, we get our hands dirty.
+
+229
+00:14:13,860 --> 00:14:17,140
+There's, you know, the fake blood scenario based education.
+
+230
+00:14:17,140 --> 00:14:22,340
+And so you can kind of walk away going, yeah, I may never want to see a patient like that.
+
+231
+00:14:22,340 --> 00:14:24,180
+Like that's not my that's not my bread and butter.
+
+232
+00:14:24,180 --> 00:14:25,940
+And I don't really enjoy those calls.
+
+233
+00:14:25,940 --> 00:14:32,980
+I'm more of a trauma person or I really love cardiology or I really love respiratory calls.
+
+234
+00:14:32,980 --> 00:14:33,980
+That's great.
+
+235
+00:14:33,980 --> 00:14:38,860
+You can have your bread and butter, but you should be able to know how to do those skills.
+
+236
+00:14:38,860 --> 00:14:40,820
+I don't really enjoy doing crikes.
+
+237
+00:14:40,820 --> 00:14:41,900
+They're not my favorite thing.
+
+238
+00:14:41,900 --> 00:14:44,500
+I don't I don't love them.
+
+239
+00:14:44,500 --> 00:14:48,180
+But I know how to do it and I practice those skills because should I need to know how to
+
+240
+00:14:48,180 --> 00:14:49,180
+do that?
+
+241
+00:14:49,180 --> 00:14:52,620
+You'd want me to be able to be accountable for that.
+
+242
+00:14:52,620 --> 00:14:53,620
+Right.
+
+243
+00:14:53,620 --> 00:14:59,740
+So I understand that not everybody loves OBGYN or pediatrics, but you should be able to know
+
+244
+00:14:59,740 --> 00:15:04,180
+how to handle those calls and not do so in fear.
+
+245
+00:15:04,180 --> 00:15:09,460
+And that's what happens in EMS is we just get planted these little seeds of fear of
+
+246
+00:15:09,460 --> 00:15:13,540
+oh, kids compensate until they just don't write.
+
+247
+00:15:13,540 --> 00:15:15,060
+Like I don't know what I'm supposed to do.
+
+248
+00:15:15,060 --> 00:15:18,060
+Like, well, how is that helpful information to me?
+
+249
+00:15:18,060 --> 00:15:20,300
+That's that's not a resource.
+
+250
+00:15:20,300 --> 00:15:23,540
+That's nothing but practicing medicine based in fear.
+
+251
+00:15:23,540 --> 00:15:25,260
+And I'd like to just get rid of that.
+
+252
+00:15:25,260 --> 00:15:31,100
+So the whole goal is to squash all of those silly little jingles that we've all been told
+
+253
+00:15:31,100 --> 00:15:37,820
+our whole career, get rid of them and and put in the appropriate information that's actually
+
+254
+00:15:37,820 --> 00:15:38,820
+beneficial.
+
+255
+00:15:38,820 --> 00:15:44,540
+And whether you're stateside or overseas, you will walk away feeling like, wow, I can
+
+256
+00:15:44,540 --> 00:15:46,580
+totally handle this now.
+
+257
+00:15:46,580 --> 00:15:47,580
+Yeah.
+
+258
+00:15:47,580 --> 00:15:53,200
+And then is the the course that you teach the combat midlife course, is that specific
+
+259
+00:15:53,200 --> 00:15:57,740
+for EMS providers or is it more generalized?
+
+260
+00:15:57,740 --> 00:16:01,420
+Absolutely anyone can and should take this class.
+
+261
+00:16:01,420 --> 00:16:06,300
+So when people sign up, I always ask if you're a health care professional.
+
+262
+00:16:06,300 --> 00:16:12,700
+That way I know to talk about the TXA, right, or lab eta law.
+
+263
+00:16:12,700 --> 00:16:13,700
+Right.
+
+264
+00:16:13,700 --> 00:16:17,020
+So I throw all of that stuff in and you can walk away with your CEOs.
+
+265
+00:16:17,020 --> 00:16:19,020
+It's kind of cool.
+
+266
+00:16:19,020 --> 00:16:20,020
+Awesome.
+
+267
+00:16:20,020 --> 00:16:21,020
+Cool.
+
+268
+00:16:21,020 --> 00:16:22,020
+Yeah.
+
+269
+00:16:22,020 --> 00:16:24,580
+Well, like I said, we'll mention that again at the end in case people are interested in
+
+270
+00:16:24,580 --> 00:16:27,740
+like looking more into that or potentially taking it.
+
+271
+00:16:27,740 --> 00:16:30,460
+We can also do that.
+
+272
+00:16:30,460 --> 00:16:35,500
+But I had a couple clinical things I wanted to talk about if so we can make a little transition
+
+273
+00:16:35,500 --> 00:16:36,500
+here.
+
+274
+00:16:36,500 --> 00:16:42,100
+So one of the reasons why we got in touch is because I heard you on I think it was
+
+275
+00:16:42,100 --> 00:16:44,380
+the prolonged field care podcast.
+
+276
+00:16:44,380 --> 00:16:45,380
+Yeah.
+
+277
+00:16:45,380 --> 00:16:48,660
+Talking about postpartum hemorrhage.
+
+278
+00:16:48,660 --> 00:16:55,060
+And that's one thing that we spend a decent amount of time talking about in transport
+
+279
+00:16:55,060 --> 00:16:58,780
+like on the EMS side or in critical care transport in general.
+
+280
+00:16:58,780 --> 00:17:02,820
+So I'll make sure we put a link to that in case people are interested on that subject.
+
+281
+00:17:02,820 --> 00:17:09,380
+So that kind of reminded me that years ago I kind of put together this like a field reference
+
+282
+00:17:09,380 --> 00:17:13,340
+guide or a protocol for an agency that I was working for.
+
+283
+00:17:13,340 --> 00:17:18,320
+And one of the things that we covered was like how to facilitate an abnormal delivery.
+
+284
+00:17:18,320 --> 00:17:24,100
+So I think my impression is that most EMS clinicians can manage fairly well like with
+
+285
+00:17:24,100 --> 00:17:26,580
+a straightforward delivery.
+
+286
+00:17:26,580 --> 00:17:29,780
+Like we know how to keep the baby warm.
+
+287
+00:17:29,780 --> 00:17:30,780
+We know how to do an assessment.
+
+288
+00:17:30,780 --> 00:17:35,540
+We can like resuscitate baby fairly well, mom sometimes depending on how bad things
+
+289
+00:17:35,540 --> 00:17:36,540
+are.
+
+290
+00:17:36,540 --> 00:17:41,980
+But when things get weird when we have like a breach delivery or like a shoulder dystocia
+
+291
+00:17:41,980 --> 00:17:47,480
+things like that, that's kind of where at least in my impression like our ability to
+
+292
+00:17:47,480 --> 00:17:51,860
+manage things sort of breaks down and kind of pushes us to just drive fast.
+
+293
+00:17:51,860 --> 00:17:54,940
+That's not always an option.
+
+294
+00:17:54,940 --> 00:17:58,540
+In the setting where I was working when I put this protocol set together that wasn't
+
+295
+00:17:58,540 --> 00:17:59,540
+always available to us.
+
+296
+00:17:59,980 --> 00:18:07,420
+So I was trying to like rethink of like how we present like different maneuvers and like
+
+297
+00:18:07,420 --> 00:18:09,900
+ways to facilitate a more complicated delivery.
+
+298
+00:18:09,900 --> 00:18:15,740
+And the way that I found which I don't know how well it worked out was instead of like
+
+299
+00:18:15,740 --> 00:18:19,580
+doing text based descriptions of like these different maneuvers which is like I find pretty
+
+300
+00:18:19,580 --> 00:18:21,500
+hard to like wrap my mind around.
+
+301
+00:18:21,500 --> 00:18:29,660
+I came across this free reference online called the Alarm or textbook which has like
+
+302
+00:18:29,660 --> 00:18:34,060
+very simple sketches of all these different maneuvers to facilitate delivery.
+
+303
+00:18:34,060 --> 00:18:36,980
+So I kind of like embedded those into our protocol.
+
+304
+00:18:36,980 --> 00:18:41,580
+And that was you know that was years ago like I don't know maybe like 2018 2019.
+
+305
+00:18:41,580 --> 00:18:45,820
+And I never did come across someone who I would consider like a subject matter expert
+
+306
+00:18:45,820 --> 00:18:50,020
+in that field to ask about who has experience like you do in both the pre hospital setting
+
+307
+00:18:50,100 --> 00:18:54,340
+and in on the delivery and like the OBGYN side of things.
+
+308
+00:18:54,340 --> 00:18:57,300
+So that's how we got in touch as I just reached out and was like hey what do you think about
+
+309
+00:18:57,300 --> 00:19:02,820
+this and maybe we could spend some time talking about it on a podcast.
+
+310
+00:19:02,820 --> 00:19:07,580
+But with that kind of as the framework what are your thoughts about like this in general
+
+311
+00:19:07,580 --> 00:19:15,220
+like how we present and how we prepare EMS providers to deal with complicated deliveries
+
+312
+00:19:15,220 --> 00:19:16,220
+in the field.
+
+313
+00:19:17,220 --> 00:19:22,020
+So your question is how should we prepare EMS providers to be ready for complications.
+
+314
+00:19:23,180 --> 00:19:27,140
+Yeah I guess that's part of it and the other part is just like what is your impression
+
+315
+00:19:27,140 --> 00:19:28,980
+of like how we already do it.
+
+316
+00:19:28,980 --> 00:19:33,180
+And then I imagine you might have a proposal for how to do it better.
+
+317
+00:19:34,140 --> 00:19:41,380
+Yeah so how we're currently doing it is very fear based and is the drive fast model instead
+
+318
+00:19:41,380 --> 00:19:42,980
+of really diving into.
+
+319
+00:19:42,980 --> 00:19:48,860
+I mean we EMS education spends less than 2 percent on women's health in their entire
+
+320
+00:19:48,860 --> 00:19:50,420
+education.
+
+321
+00:19:50,420 --> 00:19:56,180
+So that's just a disservice already at the beginning.
+
+322
+00:19:56,180 --> 00:20:00,460
+We're not spending enough time talking about these things.
+
+323
+00:20:00,460 --> 00:20:10,340
+And instead of looking at the woman's life cycle as a whole and going these are the complications
+
+324
+00:20:10,340 --> 00:20:13,900
+that can arise and these are the variations and normal.
+
+325
+00:20:13,900 --> 00:20:18,540
+We just kind of lump everything into oh it's OBJEN and we'll just we're going past the
+
+326
+00:20:18,540 --> 00:20:20,860
+ER we're going straight to the fifth floor.
+
+327
+00:20:20,860 --> 00:20:21,860
+Right.
+
+328
+00:20:21,860 --> 00:20:22,860
+Right.
+
+329
+00:20:22,860 --> 00:20:27,740
+Like everybody just kind of focuses on that rather than going OK let's just do our normal
+
+330
+00:20:27,740 --> 00:20:29,780
+differentials.
+
+331
+00:20:29,780 --> 00:20:33,620
+Let's gather all of our information like we would with any other patient again whether
+
+332
+00:20:33,620 --> 00:20:35,940
+it's a cardiac or nothing just a sick call.
+
+333
+00:20:35,940 --> 00:20:36,940
+Right.
+
+334
+00:20:36,940 --> 00:20:38,300
+We'd have no idea it's a sick call patient.
+
+335
+00:20:38,300 --> 00:20:39,820
+We don't know what the heck's going on.
+
+336
+00:20:39,820 --> 00:20:43,180
+We have nothing but a variety of really weird symptoms and signs.
+
+337
+00:20:43,180 --> 00:20:45,380
+Let's go through them.
+
+338
+00:20:45,380 --> 00:20:49,940
+So we really need to go back to the beginning and back to the basics like we would with
+
+339
+00:20:49,940 --> 00:20:54,780
+any other patient and gather all the data and all the information because a lot of times
+
+340
+00:20:54,780 --> 00:20:58,980
+there's things we can do and resources we have on our ambulance.
+
+341
+00:20:58,980 --> 00:21:04,140
+We just aren't thinking that far in advance because we're going oh my God not not women
+
+342
+00:21:04,140 --> 00:21:05,140
+problems.
+
+343
+00:21:05,140 --> 00:21:07,460
+I don't want to do that.
+
+344
+00:21:07,460 --> 00:21:12,820
+So I think that's kind of the overall are there education systems out there that probably
+
+345
+00:21:12,820 --> 00:21:14,140
+do a really great job.
+
+346
+00:21:14,140 --> 00:21:16,180
+Yes I would assume there are.
+
+347
+00:21:16,180 --> 00:21:19,300
+I obviously don't know every school in the nation.
+
+348
+00:21:19,300 --> 00:21:20,300
+Right.
+
+349
+00:21:20,300 --> 00:21:24,020
+So I obviously don't know that there's some awesome school system that's spending a lot
+
+350
+00:21:24,020 --> 00:21:25,380
+of time.
+
+351
+00:21:25,380 --> 00:21:31,100
+But the other thing is that birth in general in America is very fear based.
+
+352
+00:21:31,100 --> 00:21:35,780
+If you go to any other country and you kind of dip into what their thought process on
+
+353
+00:21:35,780 --> 00:21:40,820
+on labor delivery birth postpartum breastfeeding it's just a normal physiological process
+
+354
+00:21:40,820 --> 00:21:44,300
+that takes place in a woman's life.
+
+355
+00:21:44,300 --> 00:21:47,220
+That's not our mentality in the states.
+
+356
+00:21:47,220 --> 00:21:48,340
+Everything's catastrophic.
+
+357
+00:21:48,340 --> 00:21:50,420
+The whole world is on fire.
+
+358
+00:21:50,420 --> 00:21:55,980
+Everyone's dying is normally our thought process when it comes to those things.
+
+359
+00:21:55,980 --> 00:22:02,580
+Coming from the midwifery side of stuff we always think that birth postpartum labor everything
+
+360
+00:22:02,580 --> 00:22:04,700
+is normal until it's not.
+
+361
+00:22:04,700 --> 00:22:11,020
+So this is all normal stuff until it proves that it is no longer normal.
+
+362
+00:22:11,020 --> 00:22:17,540
+So having that same mentality just like we would with any other patient is super important.
+
+363
+00:22:17,540 --> 00:22:19,380
+And then how do we fix that.
+
+364
+00:22:19,380 --> 00:22:22,700
+Well we've kind of got to get rid of a lot of the silly things that have been hanging
+
+365
+00:22:22,700 --> 00:22:27,060
+around in our textbooks since Nancy Caroline wrote the first one.
+
+366
+00:22:27,060 --> 00:22:28,060
+Right.
+
+367
+00:22:28,060 --> 00:22:34,060
+Like let's get rid of keeping the baby level with the vagina until the cord stops pulsating.
+
+368
+00:22:34,540 --> 00:22:35,900
+Why is that still in there.
+
+369
+00:22:35,900 --> 00:22:39,300
+There's no physiological reason for that to be there.
+
+370
+00:22:39,300 --> 00:22:44,620
+As soon as baby's born baby needs to go straight to mom and you need to stop touching them.
+
+371
+00:22:44,620 --> 00:22:46,840
+Leave them alone.
+
+372
+00:22:46,840 --> 00:22:50,580
+Or the whole clamping and cutting the cord right away.
+
+373
+00:22:50,580 --> 00:22:52,340
+Leave the cord alone.
+
+374
+00:22:52,340 --> 00:22:54,800
+It is giving the baby oxygen.
+
+375
+00:22:54,800 --> 00:22:59,320
+So if the baby's struggling to transition from being an underwater creature to a land
+
+376
+00:22:59,320 --> 00:23:02,700
+creature then we need to keep those two together.
+
+377
+00:23:02,740 --> 00:23:10,220
+The cord will stop pulsating because the placenta has received the appropriate hormonal exchange
+
+378
+00:23:10,220 --> 00:23:13,100
+that transpires that says I no longer need you.
+
+379
+00:23:13,100 --> 00:23:14,100
+I'm good.
+
+380
+00:23:14,100 --> 00:23:19,300
+I got this breathing thing down and it will shut down on its own.
+
+381
+00:23:19,300 --> 00:23:20,300
+Leave it be.
+
+382
+00:23:20,300 --> 00:23:26,340
+And to be very honest I even as a midwife I never clamp and cut the cord until way after
+
+383
+00:23:26,340 --> 00:23:31,340
+the placenta is delivered even hours after because I want every drop of blood that's
+
+384
+00:23:31,340 --> 00:23:34,380
+in that placenta to go to that baby.
+
+385
+00:23:34,380 --> 00:23:39,700
+So we don't have a baby with less red blood cells than they're supposed to have.
+
+386
+00:23:39,700 --> 00:23:40,700
+Right.
+
+387
+00:23:40,700 --> 00:23:42,020
+And so that's really important.
+
+388
+00:23:42,020 --> 00:23:45,900
+So just kind of getting rid of some of those really silly things that have been hanging
+
+389
+00:23:45,900 --> 00:23:49,520
+around an EMS for God knows why.
+
+390
+00:23:49,520 --> 00:23:53,620
+Trust me I've written all the textbooks multiple times to say can you please get rid of these
+
+391
+00:23:53,620 --> 00:23:55,580
+things and here's why.
+
+392
+00:23:55,580 --> 00:23:57,300
+But they just hang on.
+
+393
+00:23:57,300 --> 00:24:04,140
+And they again they're back to planting those seeds of fear and mistrust.
+
+394
+00:24:04,140 --> 00:24:08,260
+Like we're not trusting ourselves as EMS providers anymore.
+
+395
+00:24:08,260 --> 00:24:10,980
+If we're going oh my God everything's on fire.
+
+396
+00:24:10,980 --> 00:24:13,420
+Yeah that makes sense.
+
+397
+00:24:13,420 --> 00:24:19,580
+Yeah I wonder if maybe the like the origin or the original motive for that is to like
+
+398
+00:24:19,580 --> 00:24:21,620
+separate the two things.
+
+399
+00:24:21,620 --> 00:24:25,780
+You know now you have like one patient over here and one patient over here.
+
+400
+00:24:25,780 --> 00:24:31,820
+Yeah I mean we teach the same where they teach the same in hospital settings as well.
+
+401
+00:24:31,820 --> 00:24:33,300
+Yeah they do.
+
+402
+00:24:33,300 --> 00:24:41,740
+But the United States ranks really low for mother and maternal mortality rates.
+
+403
+00:24:41,740 --> 00:24:45,220
+Like we have we have we rank 60th.
+
+404
+00:24:45,580 --> 00:24:53,420
+That means there's 59 other countries that have better mother and baby outcomes.
+
+405
+00:24:53,420 --> 00:25:00,060
+We rank last out of all the top 10 industrialized nations.
+
+406
+00:25:00,060 --> 00:25:02,340
+That's not something to write home about.
+
+407
+00:25:02,340 --> 00:25:04,620
+That's awful.
+
+408
+00:25:04,620 --> 00:25:09,620
+If you look at the 59 other countries that have better outcomes a lot of those would
+
+409
+00:25:09,620 --> 00:25:12,020
+be considered third world countries.
+
+410
+00:25:12,020 --> 00:25:16,620
+So the next question you should be asking is well why.
+
+411
+00:25:16,620 --> 00:25:20,260
+Why is the United States ranking so horribly.
+
+412
+00:25:20,260 --> 00:25:24,940
+The answer is we push obstetric care rather than midwifery care.
+
+413
+00:25:24,940 --> 00:25:31,220
+So every other country that is ranking better than us their primary care provider for obstetrics
+
+414
+00:25:31,220 --> 00:25:33,100
+is going to be a midwife.
+
+415
+00:25:33,100 --> 00:25:38,620
+So that's someone that is specifically honed in on what is normal versus what is abnormal.
+
+416
+00:25:38,620 --> 00:25:42,180
+An obstetric physician is a surgeon.
+
+417
+00:25:42,180 --> 00:25:45,260
+Their goal is to get babies out as quickly as possible.
+
+418
+00:25:45,260 --> 00:25:50,260
+It's not to sit there and labor with a mom when everything is going right.
+
+419
+00:25:50,260 --> 00:25:54,500
+Yeah that makes sense.
+
+420
+00:25:54,500 --> 00:25:58,900
+Do you think this is well we'll get back on track with the questions that I had in a moment.
+
+421
+00:25:58,900 --> 00:26:03,580
+But do you think that is changing in any particular direction.
+
+422
+00:26:03,580 --> 00:26:10,380
+Do you think it's getting better getting worse in general in this moment.
+
+423
+00:26:10,380 --> 00:26:14,740
+Is the United States going to have better outcomes in the following years is that what
+
+424
+00:26:14,740 --> 00:26:15,740
+you're asking me.
+
+425
+00:26:15,740 --> 00:26:21,340
+More about the focus on midwifery versus obstetrics.
+
+426
+00:26:21,340 --> 00:26:25,380
+My impression is that it varies a lot depending on where in the country you are.
+
+427
+00:26:25,540 --> 00:26:35,140
+I see a little bit more of a focus on like home births and midwifery in like my limited
+
+428
+00:26:35,140 --> 00:26:36,820
+exposure to that side of things.
+
+429
+00:26:36,820 --> 00:26:43,420
+But I didn't know if that was like if that's nationwide or if that's just in my niche where
+
+430
+00:26:43,420 --> 00:26:45,220
+I live.
+
+431
+00:26:45,220 --> 00:26:52,100
+Yeah so there are particular pockets in the country that do seem more out of hospital
+
+432
+00:26:52,100 --> 00:26:56,780
+birth or midwifery care than obstetric care.
+
+433
+00:26:56,780 --> 00:27:04,380
+So that would be things like pardon me California Oregon Washington some of the Intermountain
+
+434
+00:27:04,380 --> 00:27:08,460
+West states for sure.
+
+435
+00:27:08,460 --> 00:27:12,820
+I think a lot of that has to do with the fact that those those states were very rural for
+
+436
+00:27:12,820 --> 00:27:18,900
+a really long time and you needed community care and midwives are all about providing
+
+437
+00:27:18,900 --> 00:27:20,260
+care in a community.
+
+438
+00:27:20,260 --> 00:27:23,940
+So kind of think back to the little black bag and a horse right.
+
+439
+00:27:23,940 --> 00:27:25,660
+The way doctors used to practice.
+
+440
+00:27:25,660 --> 00:27:31,300
+So I think a lot of that has to do with that set up.
+
+441
+00:27:31,300 --> 00:27:36,780
+But when we look at the nation I did a post about this a couple maybe last week about
+
+442
+00:27:36,780 --> 00:27:45,620
+how the United States is experiencing a huge deficit in obstetric care providers.
+
+443
+00:27:45,620 --> 00:27:47,900
+That's everybody across the board.
+
+444
+00:27:47,900 --> 00:27:53,220
+So that's physicians midwives of all flavor and color.
+
+445
+00:27:53,220 --> 00:27:59,560
+And we have huge pockets of obstetric provider deserts in the United States.
+
+446
+00:27:59,560 --> 00:28:01,260
+We need more care providers.
+
+447
+00:28:01,260 --> 00:28:02,260
+We need more midwives.
+
+448
+00:28:02,260 --> 00:28:11,340
+I don't think in my time frame on this planet I will see more midwifery care in a drastic
+
+449
+00:28:11,340 --> 00:28:18,900
+sense where we're hovering at about 2 percent in the United States are out of hospital births
+
+450
+00:28:18,900 --> 00:28:25,540
+that there was a significant increase during the covid time frame.
+
+451
+00:28:25,540 --> 00:28:29,580
+And that has a lot to do with hospitals saying just drop your wife off at the front door
+
+452
+00:28:29,580 --> 00:28:33,460
+you can see her in three days and dads were like pound sand.
+
+453
+00:28:33,460 --> 00:28:36,260
+I'm not you're that's a you kidding right.
+
+454
+00:28:36,260 --> 00:28:37,980
+I'm not doing that.
+
+455
+00:28:37,980 --> 00:28:41,020
+I'm not just leaving her to labor and deliver on her own.
+
+456
+00:28:41,020 --> 00:28:42,700
+That's insanity.
+
+457
+00:28:42,700 --> 00:28:47,820
+So all of us midwives are our phones were ringing off the hook with a lot of late term
+
+458
+00:28:47,820 --> 00:28:53,300
+transfers which was beautiful and that has sparked a fire because a lot of women have
+
+459
+00:28:53,300 --> 00:28:56,540
+been like why was I doing it that way.
+
+460
+00:28:56,540 --> 00:28:57,540
+That's awful.
+
+461
+00:28:57,540 --> 00:29:01,260
+I'll just have the rest of my kids with a midwife.
+
+462
+00:29:01,260 --> 00:29:08,300
+So that has created a huge surge but it has a lot to do with in the early nineteen hundreds
+
+463
+00:29:08,300 --> 00:29:12,740
+late late eighteen hundreds early nineteen hundreds when the Rockefellers kind of took
+
+464
+00:29:12,740 --> 00:29:17,800
+over all of the education for physicians.
+
+465
+00:29:17,800 --> 00:29:22,020
+They realized that they were missing out on 50 percent of the population and so they created
+
+466
+00:29:22,020 --> 00:29:23,660
+a huge smear campaign.
+
+467
+00:29:23,660 --> 00:29:24,660
+You can look this up.
+
+468
+00:29:24,660 --> 00:29:25,660
+I'm not making it up.
+
+469
+00:29:25,660 --> 00:29:28,540
+You can look up wanted posters for midwives on the Internet.
+
+470
+00:29:28,540 --> 00:29:36,100
+They still exist and you can see how the education system and hospitals were describing
+
+471
+00:29:36,100 --> 00:29:45,220
+midwives as dirty uneducated minorities immigrants et cetera just really awful slanderous things
+
+472
+00:29:45,220 --> 00:29:49,980
+that I'm not going to repeat but you can look them up yourself and that has really stuck.
+
+473
+00:29:49,980 --> 00:29:58,260
+So we've we've imprinted on the culture and the community as a whole of that's dangerous.
+
+474
+00:29:58,260 --> 00:29:59,420
+So don't do that.
+
+475
+00:29:59,420 --> 00:30:05,940
+And the only way you're going to get really good care is in the hospital and the outcomes
+
+476
+00:30:05,940 --> 00:30:13,500
+for babies and moms has drastically decreased as the years have progressed of us having
+
+477
+00:30:13,500 --> 00:30:17,520
+more and more women have babies in the hospital.
+
+478
+00:30:17,520 --> 00:30:26,580
+In fact if you look at the 1970s the C-section rate went up exponentially when we introduced
+
+479
+00:30:26,580 --> 00:30:27,780
+the TOCO monitor.
+
+480
+00:30:27,780 --> 00:30:31,820
+So that's the fetal monitor that stays on mom the whole time she's in the hospital.
+
+481
+00:30:31,820 --> 00:30:36,580
+So when we introduced that the C-section rate skyrocketed.
+
+482
+00:30:36,580 --> 00:30:42,940
+However it did not change the outcome of mother and baby mortality rates and a positive it
+
+483
+00:30:42,940 --> 00:30:45,360
+changed it in a negative.
+
+484
+00:30:45,360 --> 00:30:50,100
+So we're not doing things in the states that are actually really beneficial.
+
+485
+00:30:50,100 --> 00:30:56,420
+Yeah I have I have a few follow-up points and questions on that.
+
+486
+00:30:56,420 --> 00:31:02,060
+One is that I think I think the way that you describe it in that like you either have
+
+487
+00:31:02,060 --> 00:31:07,420
+birth in a hospital with a physician or you have birth at home kind of on your own maybe
+
+488
+00:31:07,420 --> 00:31:11,140
+with a midwife that is often like how people think about it.
+
+489
+00:31:11,140 --> 00:31:15,420
+But there is there are my understanding is there is like a middle ground there are like
+
+490
+00:31:15,420 --> 00:31:20,860
+birthing centers where you can like have like you can deliver with a midwife and also have
+
+491
+00:31:20,860 --> 00:31:26,060
+like the support of a like a greater staff if there is the need for that.
+
+492
+00:31:26,660 --> 00:31:29,900
+Do you have thoughts on that or experience with that?
+
+493
+00:31:29,900 --> 00:31:33,740
+Yes I've worked in several birth centers and there's really no difference between a birth
+
+494
+00:31:33,740 --> 00:31:35,540
+center and home.
+
+495
+00:31:35,540 --> 00:31:39,400
+Everything that's inside of a birth center is going to be in your home.
+
+496
+00:31:39,400 --> 00:31:45,660
+So if you if you want to pay extra money for a facility fee and in a newborn fee that's
+
+497
+00:31:45,660 --> 00:31:48,460
+great knock yourself out that's perfect.
+
+498
+00:31:48,460 --> 00:31:55,740
+But everything that's in that room it's just pretty it's just a pretty space.
+
+499
+00:31:55,740 --> 00:32:00,300
+So if you if you really want to go somewhere to have a baby that's cool that those are
+
+500
+00:32:00,300 --> 00:32:05,220
+options but I don't know about you when I don't feel good I want to be in my own clothes
+
+501
+00:32:05,220 --> 00:32:10,660
+I want to I want to be in my own bathtub in my own bed I want to eat my own food I want
+
+502
+00:32:10,660 --> 00:32:17,060
+to sit on my own couch but that's me that doesn't have to be for everyone and there
+
+503
+00:32:17,060 --> 00:32:22,980
+are lots of people that love birth centers because maybe they live really far from their
+
+504
+00:32:22,980 --> 00:32:29,060
+midwife and so it's a way for them to come into town you know a few weeks before stay
+
+505
+00:32:29,060 --> 00:32:34,420
+at an Airbnb do a babymoon you know kind of hang out for a little bit and eventually have
+
+506
+00:32:34,420 --> 00:32:36,620
+a baby and eventually go home.
+
+507
+00:32:36,620 --> 00:32:40,540
+So I've I've worked at birth centers before and those are really great fits for maybe
+
+508
+00:32:40,540 --> 00:32:46,660
+those types of people and I get that and there's other people that just really have it ingrained
+
+509
+00:32:46,660 --> 00:32:51,220
+in their head that they must go somewhere to have a baby and that's fine too.
+
+510
+00:32:51,220 --> 00:32:57,420
+That's just not my cup of tea I would prefer to be in my own robe at my own house.
+
+511
+00:32:57,420 --> 00:33:01,780
+So I love home birth my favorite part of home birth is tucking the whole family into bed
+
+512
+00:33:01,780 --> 00:33:05,540
+and saying bye bye I'll see you in the morning.
+
+513
+00:33:05,540 --> 00:33:10,100
+That's my favorite part is being able to go that was a really great birth I cleaned your
+
+514
+00:33:10,100 --> 00:33:16,900
+whole house up I put a meal in the oven because I always do that and if there's older kids
+
+515
+00:33:17,140 --> 00:33:23,860
+siblings I make a birthday cake because it's great for kids and bonding and then you know
+
+516
+00:33:23,860 --> 00:33:28,820
+you wake up and there's a stew on the stove that's all ready for you and you're in your
+
+517
+00:33:28,820 --> 00:33:34,020
+own place you're in your own stuff a lot of people love that other people just they really
+
+518
+00:33:34,020 --> 00:33:39,020
+want to go to a birth center but there's nothing different between a hospital a birth center
+
+519
+00:33:39,020 --> 00:33:45,420
+or home regarding the stuffs in the labor and delivery room there's literally no difference
+
+520
+00:33:45,420 --> 00:33:50,820
+I have all of the same things the only thing that's different from those two out of hospital
+
+521
+00:33:50,820 --> 00:34:01,060
+options is a surgical team however we are experiencing a tremendous desert of obstetric
+
+522
+00:34:01,060 --> 00:34:07,460
+care there are many hospitals that are shutting down their entire OB unit they don't even
+
+523
+00:34:07,460 --> 00:34:11,700
+have somebody on standby to do a c-section.
+
+524
+00:34:12,460 --> 00:34:18,780
+Yeah my I guess I have two more follow-up questions might take us out of order but that's
+
+525
+00:34:18,780 --> 00:34:28,700
+okay my my first one was how do you see you think there's a role for EMS providers to like
+
+526
+00:34:28,700 --> 00:34:37,340
+facilitate a mother's like comfort with delivering at home like if for example let's say there's
+
+527
+00:34:37,340 --> 00:34:43,020
+like a community paramedicine program in some rural community and those EMS providers have
+
+528
+00:34:43,020 --> 00:34:46,740
+been through a course like yours or have like above average level of knowledge with like
+
+529
+00:34:46,740 --> 00:34:52,460
+helping facilitate delivery I think there's a role for them to keep those births at home
+
+530
+00:34:52,460 --> 00:34:59,500
+or to help facilitate that process in any way. Well my course doesn't turn you into a midwife
+
+531
+00:34:59,500 --> 00:35:07,660
+in eight hours for sure so that I mean there's gonna be a huge huge deficit in just understanding
+
+532
+00:35:07,660 --> 00:35:15,500
+kind of women's health in general for long term or for prolonged I'm not really sure I guess I'm
+
+533
+00:35:15,500 --> 00:35:20,500
+not I'm not sure what what they're what you're envisioning their role to be. Yeah I guess I guess
+
+534
+00:35:20,500 --> 00:35:26,340
+my that's a good question I guess my understanding is that like many times my impression is that
+
+535
+00:35:26,340 --> 00:35:31,860
+folks are hesitant to deliver at home because like what if something happens like let's say I have
+
+536
+00:35:31,860 --> 00:35:38,580
+a midwife who is on club what if she is too far away or what if weather prevents her from getting
+
+537
+00:35:38,580 --> 00:35:47,660
+here whereas that decision may be impacted somewhat if you know that like the the EMS providers who
+
+538
+00:35:47,660 --> 00:35:56,180
+always have access to get to you have some higher level of training. Right okay so I think what
+
+539
+00:35:56,180 --> 00:36:04,100
+the real question there is is how do midwives handle emergencies? Yeah I mean I think it's
+
+540
+00:36:04,100 --> 00:36:10,740
+different if if a midwife is physically present there versus if they're like not able to and I
+
+541
+00:36:10,740 --> 00:36:15,140
+think they're not able to be their part is what my impression is that what that's what scares people.
+
+542
+00:36:15,140 --> 00:36:21,460
+Yeah maybe my understanding is maybe my understanding of that is off a little bit. Yeah I think we're
+
+543
+00:36:21,460 --> 00:36:26,180
+gonna I think I'm gonna help answer that question that is really good planning like I don't take
+
+544
+00:36:26,180 --> 00:36:34,500
+patients that are five hours from me that that's that's not gonna work right I mean I've had I've
+
+545
+00:36:34,500 --> 00:36:40,260
+had previous clients reach out to me and want me to deliver their second third fourth fifth baby or
+
+546
+00:36:40,260 --> 00:36:44,180
+what because they want to have all their babies with me that's just as some some mamas really love
+
+547
+00:36:44,180 --> 00:36:51,940
+that and and they don't live in the same state as me anymore so I have flown and hung out there
+
+548
+00:36:51,940 --> 00:36:57,060
+and we just wait for a baby to be born right and I live in their guest room until that baby comes
+
+549
+00:36:57,940 --> 00:37:05,300
+so really a really good plan should be set up. I've only missed one baby ever in my whole career
+
+550
+00:37:05,860 --> 00:37:11,700
+and that's because the little thing just came super fast I mean I was I pulled in and dad's
+
+551
+00:37:11,700 --> 00:37:20,660
+still holding the baby you know like we we little one was just born those births that happen super
+
+552
+00:37:20,660 --> 00:37:31,460
+duper fast they're the easiest births ever there's going to not be a problem it I just I've delivered
+
+553
+00:37:31,460 --> 00:37:36,580
+enough babies that that's just and statistically there's lots of papers that are done on precipitous
+
+554
+00:37:36,580 --> 00:37:43,140
+births are super easy birth there's no problems they just pop out because they just pop out so
+
+555
+00:37:43,140 --> 00:37:51,140
+there aren't any issues but yeah having a really good plan in place on on what's going on and then
+
+556
+00:37:51,140 --> 00:37:56,980
+as a midwife it's my job to educate the family on what to do if I'm not there I mean
+
+557
+00:38:00,820 --> 00:38:05,860
+I have broken laws to get to my families okay so like it's not it's not going I'm not going to
+
+558
+00:38:05,860 --> 00:38:14,500
+just not show up right um there's Texas is known for getting really bad winters every so many years
+
+559
+00:38:14,500 --> 00:38:21,940
+right and um the entire city was shut down and I moved the barricades and put drove through put
+
+560
+00:38:21,940 --> 00:38:27,220
+them back and drove some more to go to that mama I wasn't going to just not show up because it was
+
+561
+00:38:27,220 --> 00:38:33,220
+inconvenient and super icy and I basically slid the whole way there right like I'm not going to
+
+562
+00:38:33,220 --> 00:38:41,300
+just leave her so having a really good plan and then also feeling like your midwife is on is part
+
+563
+00:38:41,300 --> 00:38:46,260
+of your birth team I can only speak for myself I can't speak for every midwife in the whole world
+
+564
+00:38:46,820 --> 00:38:51,700
+for sure and then my my other question is you mentioned that the difference between
+
+565
+00:38:52,420 --> 00:38:59,380
+the home birth birthing center and then the hospital delivery is surgical capacity
+
+566
+00:39:00,020 --> 00:39:06,500
+um how often like is that actually needed right that's a great question so the world health
+
+567
+00:39:06,500 --> 00:39:13,140
+organization has a great area on their website where they will actually show you it's a really
+
+568
+00:39:13,140 --> 00:39:18,900
+it's a really cool interactive graph and you can see it on the world health organization's website
+
+569
+00:39:18,900 --> 00:39:27,060
+you go to their obstetric tab and you can see uh nations that report births over decades there's
+
+570
+00:39:27,060 --> 00:39:31,780
+decades and decades of information that you can go back if you just really want to nerd out on a
+
+571
+00:39:31,780 --> 00:39:37,060
+friday night because you have nothing better to do you can totally do that um and you can look at
+
+572
+00:39:37,060 --> 00:39:45,620
+outcomes but they specifically say that less than 10 percent of all births worldwide that's the whole
+
+573
+00:39:45,620 --> 00:39:53,860
+world should ever need intervention and out of that 10 1 should be a c-section rate the united
+
+574
+00:39:53,860 --> 00:40:02,340
+states has over a 50 percent c-section rate in many states like new york uh there there's just
+
+575
+00:40:02,980 --> 00:40:10,740
+that's insanity so the national average is 35 percent for the united states so we're already
+
+576
+00:40:10,740 --> 00:40:17,460
+really really high but there are several multiple states in the union where it's way over 50 percent
+
+577
+00:40:17,460 --> 00:40:23,860
+c-section rates you cannot tell me that 50 percent of the female population is just broken
+
+578
+00:40:23,860 --> 00:40:28,660
+and they don't know how to birth babies but that that's not math thing correctly
+
+579
+00:40:29,780 --> 00:40:36,180
+right yeah that makes sense and that was kind of my yeah my understanding of the situation is that
+
+580
+00:40:36,180 --> 00:40:45,540
+we we default to surgical intervention probably a lot more often than we need to sure and the thing
+
+581
+00:40:45,540 --> 00:40:52,180
+is is that there are signs so in example if we're at home and i'm your midwife i'm not just going to
+
+582
+00:40:52,180 --> 00:40:58,020
+all of us suddenly go ah we have to have a c-section right now everyone's dying the whole world is on
+
+583
+00:40:58,020 --> 00:41:03,380
+fire no there's tons of signs and i'm collecting that data and i'm distributing it to the family
+
+584
+00:41:03,380 --> 00:41:09,300
+going okay so we were supposed to be going on a straight and narrow and we veered to the left now
+
+585
+00:41:09,300 --> 00:41:15,860
+so now we need to talk about what our options are the times that we need emergency cesareans
+
+586
+00:41:15,860 --> 00:41:24,180
+are very sick moms such as she was just in a car accident she's bleeding internally and i'm so happy
+
+587
+00:41:24,180 --> 00:41:31,620
+that there's a you know an ems helicopter that can get her to a level one trauma center that has
+
+588
+00:41:31,620 --> 00:41:37,940
+a NICU and we can take care of everybody that's when we're super happy like trauma is the bomb
+
+589
+00:41:37,940 --> 00:41:43,540
+in the united states right like we really are very good at that and so in situations like that
+
+590
+00:41:43,540 --> 00:41:48,420
+yeah i'm super happy there's a c-section option because then mom and baby are going to walk out
+
+591
+00:41:48,420 --> 00:41:55,780
+of that hospital alive and able to have a really great life i'm that's super awesome but things
+
+592
+00:41:55,780 --> 00:42:03,860
+like breach twins none of those are are c-section necessitated that none i've delivered all of those
+
+593
+00:42:03,860 --> 00:42:10,180
+guys at home yeah yeah that's something that kind of brings us back to where we where we started
+
+594
+00:42:12,180 --> 00:42:17,300
+is that something that you cover in your in your course when you teach folks in the combat mid-wife
+
+595
+00:42:17,300 --> 00:42:23,380
+is like different techniques for managing like a complicated or breach delivery absolutely yeah
+
+596
+00:42:23,380 --> 00:42:30,900
+for sure a lot of it has to do with positioning the mama so in our head we think that moms need
+
+597
+00:42:30,900 --> 00:42:36,020
+to be flat on their back with their you know legs up in stirrups in order to have babies
+
+598
+00:42:36,020 --> 00:42:42,500
+and that's the worst position possible and that position stems all the way back to a really gross
+
+599
+00:42:42,500 --> 00:42:48,820
+king in england he doesn't need to be mentioned because he's a sicko but he wanted his entire
+
+600
+00:42:51,700 --> 00:42:57,140
+you know all of his little minions to watch all of his wives and concubines have babies so he
+
+601
+00:42:57,140 --> 00:43:01,940
+said that they needed to lay flat on their back so everybody could have a front row seat
+
+602
+00:43:01,940 --> 00:43:08,340
+to the action and that just really stuck because it does make it super easy for the provider trust
+
+603
+00:43:08,340 --> 00:43:16,260
+me i don't love crouching down in the catcher position right and and it hurts my back hurts
+
+604
+00:43:16,260 --> 00:43:22,340
+my shoulders hurt my arms it's not comfortable but it is the best position for mom to be in when
+
+605
+00:43:22,340 --> 00:43:29,300
+she's in a squatting or kneeling or hands and knees because it enables the pelvis to open fully
+
+606
+00:43:29,300 --> 00:43:35,540
+both at the inlet and the outlet in order for baby to pass the easiest and so things like
+
+607
+00:43:36,340 --> 00:43:44,420
+breach complication shoulder dystocia that has everything to do with positioning with mom
+
+608
+00:43:44,420 --> 00:43:49,940
+so once you get them in the correct position you'll you'll eliminate the the need for all of those
+
+609
+00:43:50,020 --> 00:43:58,820
+yeah and a lot of those maneuvers that we teach are like with mom in uh like a supine position
+
+610
+00:43:59,460 --> 00:44:03,140
+so the idea is like if we get her out of that position to begin with we can
+
+611
+00:44:03,140 --> 00:44:05,860
+maybe avoid having to to use those maneuvers
+
+612
+00:44:11,060 --> 00:44:16,740
+and hey just as a quick aside we've mentioned these maneuvers a couple times but we never really
+
+613
+00:44:16,740 --> 00:44:21,540
+got into the specifics of what they are so examples of these would be the mick roberts
+
+614
+00:44:21,540 --> 00:44:27,300
+maneuver for shoulder dystocia or a love set maneuver for a breach delivery things like that
+
+615
+00:44:27,940 --> 00:44:31,780
+you can learn more about those in the references cited in the show notes
+
+616
+00:44:38,020 --> 00:44:43,940
+so even helper right which comes from like advanced life support for obstetrics or if you
+
+617
+00:44:43,940 --> 00:44:52,100
+want to a lot of schools are kind of pulling from that helper mnemonic for for shoulder dystocia
+
+618
+00:44:52,100 --> 00:44:56,900
+right and it is all about mom being flat on her back and i'm going to tell you right now if you
+
+619
+00:44:56,900 --> 00:45:02,820
+just get her off her butt you're you're going to open up that that pelvis in a way where you're
+
+620
+00:45:02,820 --> 00:45:11,220
+going to be able to actually facilitate delivery or perform that maneuver much easier and it will
+
+621
+00:45:11,220 --> 00:45:16,020
+be that more successful so the best thing to do is have her on hands and knees and put her in a
+
+622
+00:45:16,020 --> 00:45:24,020
+running start so that's you know knees at a 90 degree angle one forward one back as if you were
+
+623
+00:45:24,020 --> 00:45:28,420
+at the starting point of running a race right and your foot is going to be on the foot block
+
+624
+00:45:29,060 --> 00:45:34,580
+and then shifting those i usually count to three and make her shift count to three and make her
+
+625
+00:45:34,580 --> 00:45:39,860
+shift and i just tell her to kind of get into that position of moving because what you're going to do
+
+626
+00:45:39,940 --> 00:45:45,300
+shoulder dystocia is a shoulder problem and it's an inlet issue it's not an outlet issue
+
+627
+00:45:45,300 --> 00:45:50,980
+so if you go over helper the e is evaluated for an episiotomy we don't have an outlet problem
+
+628
+00:45:50,980 --> 00:45:57,460
+the shoulder is hung up on her pelvis we need to get the shoulder underneath it and again if you
+
+629
+00:45:57,460 --> 00:46:03,380
+can just get her shimmied and up off her butt that pelvis is going to open and baby's going to drop
+
+630
+00:46:03,380 --> 00:46:09,940
+every time and you find that you're often able to do that just with mom shifting her position of
+
+631
+00:46:09,940 --> 00:46:15,220
+her her pelvis and you don't even have to use like manual pressure on the shoulder anything like that
+
+632
+00:46:15,220 --> 00:46:23,140
+yourself no i've never um you're talking about the super pubic rocking you you could do that if if
+
+633
+00:46:23,140 --> 00:46:28,820
+because i'm palpating baby as baby's moving down right like i've got my hand i i'm very good at
+
+634
+00:46:28,820 --> 00:46:34,020
+going oh that's a butt that's a head that's a left shoulder that's a because that's what i
+
+635
+00:46:34,660 --> 00:46:40,100
+practiced in all of my years of education right like we we're very good at palpating babies
+
+636
+00:46:40,660 --> 00:46:46,900
+so i can figure out the position that baby's in and kind of pick my maneuvers that's not something
+
+637
+00:46:46,900 --> 00:46:53,220
+that the average ems person is going to be very skilled and knowledgeable on and i get that so
+
+638
+00:46:53,220 --> 00:46:57,220
+that's what i'm just trying to make it really easy and if you can just get her on hands and
+
+639
+00:46:57,220 --> 00:47:02,820
+knees and have her shimmy and i usually make dad count to three shift to me count to three shift
+
+640
+00:47:02,820 --> 00:47:07,940
+a knee and have them just kind of keep repeating that in their head and that gives dad something
+
+641
+00:47:07,940 --> 00:47:13,620
+to do or the firefighter or your partner i kind of want my partner for me right you know that's
+
+642
+00:47:13,620 --> 00:47:21,540
+we kind of do but give somebody that job and then we just kind of focus on watching the baby pass
+
+643
+00:47:21,620 --> 00:47:28,260
+through the birth canal and and that turtle sign should go away of when they present you know it's
+
+644
+00:47:28,260 --> 00:47:34,020
+a really bad texas two step it's two steps forward and like three steps backwards that's not a texas
+
+645
+00:47:34,020 --> 00:47:38,580
+two step so you want to make sure that they're moving in a positive direction and once you get
+
+646
+00:47:38,580 --> 00:47:46,980
+her off her tush that usually these resolve very very quickly and do you think there's value in like
+
+647
+00:47:46,980 --> 00:47:54,500
+teaching like all these different named maneuvers to ems providers like the way that we tend to do
+
+648
+00:47:54,500 --> 00:48:01,060
+it in like ob gyn like continuing education offerings or do you think like not understanding
+
+649
+00:48:01,060 --> 00:48:04,580
+them fully or not having the opportunity to practice them in real life do you think it
+
+650
+00:48:04,580 --> 00:48:10,340
+potentially like does more harm than good so anything we don't okay so i'm gonna i'm gonna
+
+651
+00:48:10,340 --> 00:48:14,900
+kind of flip the script everybody loves to ask the question what's the best tourniquet in the world
+
+652
+00:48:14,900 --> 00:48:19,060
+like what's the best tourniquet to use and my answer is the one that you have on you and the
+
+653
+00:48:19,060 --> 00:48:26,660
+one you know how to use totally right so the the answer to your question is i can throw mnemonics
+
+654
+00:48:26,660 --> 00:48:32,020
+and acronyms at you all day long but if they don't register in your brain if you're having a
+
+655
+00:48:32,020 --> 00:48:38,340
+hard time understanding them if you haven't used them in a really long time it's pretty useless
+
+656
+00:48:38,340 --> 00:48:43,300
+it's not it's not going to be very helpful however if you have a really good foundation you know how
+
+657
+00:48:43,300 --> 00:48:49,380
+to use it you've practiced it a lot in school or in our ceu class and you have a good grasp on it
+
+658
+00:48:49,380 --> 00:48:55,300
+sometimes those are really really helpful for recall when shit has hit the fan right like
+
+659
+00:48:55,300 --> 00:48:59,860
+everything is blowing up in your face and you're like oh it's three o'clock in the morning i haven't
+
+660
+00:48:59,860 --> 00:49:05,700
+peed in four hours and i have 15 you know run forms to write and oh my gosh now i have this
+
+661
+00:49:06,260 --> 00:49:12,020
+that's a lot that's a lot of pressure a lot of pressure to perform it can cause a lot of anxiety
+
+662
+00:49:12,020 --> 00:49:16,660
+and i think that those are very helpful for even other types of calls right even things like
+
+663
+00:49:16,660 --> 00:49:22,260
+cardiac arrest having all of those acronyms and mnemonics if they create that muscle memory
+
+664
+00:49:23,060 --> 00:49:27,780
+you can hear that still small voice of your instructor or your mentor or someone that's
+
+665
+00:49:27,780 --> 00:49:32,500
+really close to you that you look up to kind of whispering all those things in your head and it is
+
+666
+00:49:32,500 --> 00:49:40,580
+really helpful um but again it's absolutely utterly useless if we're not practicing those things if
+
+667
+00:49:40,580 --> 00:49:47,940
+if they're not creating that muscle memory then they're really not helpful at all yeah and what are
+
+668
+00:49:47,940 --> 00:49:54,420
+your thoughts on there are some mannequins now like some high fidelity sims that we use that's
+
+669
+00:49:55,540 --> 00:49:59,220
+they actually have like pressure sensors in them so that when you practice some of these maneuvers
+
+670
+00:49:59,220 --> 00:50:03,700
+it actually yes it either works or it doesn't do you like what are your what are your thoughts on
+
+671
+00:50:04,660 --> 00:50:14,420
+that um okay so i you i bring mannequins with me to my for my workshop um but i'm using the
+
+672
+00:50:14,420 --> 00:50:22,660
+laredalls um what do they call her oh mama berthy i think is her name and so i love that that
+
+673
+00:50:22,660 --> 00:50:32,020
+particular mannequin was created specifically for overseas low resource training that that is that
+
+674
+00:50:32,020 --> 00:50:38,900
+entire mannequins purpose so i have those and i bring those with me and i love them the reason i
+
+675
+00:50:38,900 --> 00:50:46,100
+like them is because they're low tech i'm not worried about things like sensors plugging in
+
+676
+00:50:46,100 --> 00:50:52,660
+the wi-fi connecting and they fit in backpacks that i can just jump on a plane and fly to mexico
+
+677
+00:50:52,660 --> 00:50:58,500
+teach a class and leave right so i don't have to worry about a pelican box making it or not making
+
+678
+00:50:58,500 --> 00:51:06,900
+it right so i love those the i have used almost i think every one of the cool high fidelity
+
+679
+00:51:06,900 --> 00:51:13,460
+mannequins out there and they are really really great but they do have some downfalls just like
+
+680
+00:51:13,460 --> 00:51:18,900
+every high fidelity mannequin out there and that is if you don't have somebody that knows how to
+
+681
+00:51:18,900 --> 00:51:24,580
+really work the the product you can run into it's just a really beautiful paper weight
+
+682
+00:51:25,540 --> 00:51:30,820
+and that that can be really frustrating when you're someone who wants to really dive into
+
+683
+00:51:30,820 --> 00:51:38,820
+whatever you're learning that day so the military had mom and natalie for a really long time and
+
+684
+00:51:38,820 --> 00:51:44,180
+used her for a really long time i liked that mannequin i thought that it did a very good job
+
+685
+00:51:44,180 --> 00:51:50,580
+for normal birth and i thought it did a really great job overall for breach shoulder dystocia
+
+686
+00:51:51,380 --> 00:51:59,220
+not not so much and i wound up just utilizing because the mannequin i used today didn't exist
+
+687
+00:51:59,220 --> 00:52:04,740
+back in the day but when i was teaching the 68 whiskeys i wound up just pulling out a pelvis
+
+688
+00:52:04,740 --> 00:52:11,060
+and then a soft baby right my from my own stash of education models and i wound up just teaching
+
+689
+00:52:11,060 --> 00:52:16,180
+it that way so that way you could actually visualize the pelvis getting you know and the
+
+690
+00:52:16,180 --> 00:52:22,660
+shoulder not matching correctly and going oh now i understand why i'm doing these particular hand
+
+691
+00:52:22,660 --> 00:52:31,060
+movements all of that to say i think high tech and high fidelity has its place however i don't
+
+692
+00:52:31,060 --> 00:52:38,900
+think that we should always rely on it sometimes analog is super awesome and really fills in the
+
+693
+00:52:38,900 --> 00:52:46,820
+gap and creates a really great learning experience i know that high fidelity is so
+
+694
+00:52:47,620 --> 00:52:53,620
+in right now because you can push a lot of people through very quickly but i'm not that type of
+
+695
+00:52:53,620 --> 00:53:01,140
+educator i keep my classes in my workshop very small for a very particular reason i want everyone
+
+696
+00:53:01,140 --> 00:53:06,100
+to feel like they got hands-on with me that day and i don't want somebody to walk away going
+
+697
+00:53:06,740 --> 00:53:11,380
+okay that was a lot of bells and whistles but i don't know that i really took a lot away from that
+
+698
+00:53:12,260 --> 00:53:18,500
+that's just how i teach um but again i think i think high fidelity has its place i just think
+
+699
+00:53:18,500 --> 00:53:24,580
+that and i'm i'm an analog girl in general um but i just think that analog has its place you know
+
+700
+00:53:24,580 --> 00:53:31,060
+just low tech type of stuff yeah that makes sense okay i want to switch gears and ask you another
+
+701
+00:53:31,620 --> 00:53:37,300
+about another clinical concept that we talk about a lot in management of the obstetric patients
+
+702
+00:53:37,300 --> 00:53:44,580
+and that's the idea of intrauterine resuscitation so you mentioned before like the clinical scenario
+
+703
+00:53:44,580 --> 00:53:50,500
+where you have a mother who was in a car accident and now needs to be like emergently evacuated
+
+704
+00:53:50,500 --> 00:53:56,180
+to a facility that is both the trauma center and also has NICU capabilities right we often like
+
+705
+00:53:56,180 --> 00:54:00,100
+this is like something that like exists at the bottom of our ems algorithms it's like
+
+706
+00:54:00,740 --> 00:54:06,500
+do this thing called intrauterine resuscitation like save mom save baby right and we talk a little
+
+707
+00:54:06,500 --> 00:54:11,780
+bit about like the specifics of that like you know what it is when do we do it how do we go about it
+
+708
+00:54:11,780 --> 00:54:15,780
+that sort of thing it's at the bottom of our algorithm because we hope we don't get that far
+
+709
+00:54:17,460 --> 00:54:24,580
+fair right we we hope everything else before that works maybe just to like talk about the
+
+710
+00:54:24,580 --> 00:54:28,980
+idea in general so my understanding of this concept of like intrauterine resuscitation
+
+711
+00:54:28,980 --> 00:54:37,380
+is like doing all of your like trauma management stuff to keep mother alive and well so that the
+
+712
+00:54:37,380 --> 00:54:44,020
+baby has the maximum potential for survival as well absolutely so everything from oxygen
+
+713
+00:54:44,020 --> 00:54:49,380
+positioning right left lateral recumbent or elevating the pelvis if we're dealing with
+
+714
+00:54:49,860 --> 00:54:55,700
+bleeding or we're dealing with maybe we have a seizure patient maybe we have a mom who has a
+
+715
+00:54:55,700 --> 00:55:01,460
+seizure condition and she happens to be pregnant right that we want to do all of the same seizure
+
+716
+00:55:01,460 --> 00:55:08,340
+things that we would normally do and our normal treatment plan because if we if we can save mom
+
+717
+00:55:08,340 --> 00:55:15,220
+that increases the likelihood that we're going to save baby does it always work that way no
+
+718
+00:55:15,220 --> 00:55:21,220
+we live in a we live in a broken world but the likelihood is going to be exponential so yes focus
+
+719
+00:55:21,220 --> 00:55:30,820
+on mom when mom and baby are one unit because if you can resuscitate mom your your your side quest
+
+720
+00:55:30,820 --> 00:55:43,060
+is you know saving baby yeah makes sense just another transition here we got onto the subject
+
+721
+00:55:43,060 --> 00:55:50,500
+of postpartum hemorrhage and the idea of using a either a Foley catheter or a specifically
+
+722
+00:55:50,500 --> 00:55:56,420
+designed catheter to treat postpartum hemorrhage so if you want to learn more about that you can
+
+723
+00:55:56,420 --> 00:55:59,780
+take a look at an article in the show notes about this specific type of catheter
+
+724
+00:56:00,420 --> 00:56:14,340
+um so I don't I don't know a ton of agencies out there that have the foley's maybe you are more
+
+725
+00:56:14,340 --> 00:56:18,900
+familiar with that than than I am I just I personally haven't worked anywhere that has
+
+726
+00:56:18,900 --> 00:56:27,540
+that carries those and I don't I don't know a lot of agencies that do they are really great devices
+
+727
+00:56:27,540 --> 00:56:34,420
+when they're used for a patient that actually needs them I think going back to what causes
+
+728
+00:56:34,420 --> 00:56:39,460
+bleeding in pregnancy and understanding that physiological process is super helpful
+
+729
+00:56:41,300 --> 00:56:46,420
+so if we're talking about pregnancy and postpartum postpartum hemorrhage is the number one killer
+
+730
+00:56:46,420 --> 00:56:53,780
+of women postpartum all in all countries and it has everything to do with mismanagement of labor
+
+731
+00:56:53,780 --> 00:57:01,620
+and delivery and mismanagement of the placenta a teeny tiny portion is thrombin related so think of
+
+732
+00:57:01,620 --> 00:57:07,140
+blood cascading factors that we just probably didn't even know about and that patient was going
+
+733
+00:57:07,140 --> 00:57:13,220
+to crash on us no matter what even if we have all the bells and whistles right whether inside or
+
+734
+00:57:13,220 --> 00:57:18,980
+outside of the hospital because they have a blood clotting problem so kind of outside of my scope
+
+735
+00:57:18,980 --> 00:57:26,180
+right probably yours too so in those situations you know we need things like platelets and blood
+
+736
+00:57:26,180 --> 00:57:28,980
+and a whole bunch of other stuff that we just typically don't have
+
+737
+00:57:31,940 --> 00:57:39,140
+but mismanagement of labor so pulling on things speeding things up using pitotin for augmentation
+
+738
+00:57:40,180 --> 00:57:45,700
+pulling the placenta out before it needs to come out those are all going to significantly increase
+
+739
+00:57:46,420 --> 00:57:56,420
+your hemorrhage potential after birth then if we look at pre pre delivery that's things like
+
+740
+00:57:56,420 --> 00:58:04,020
+miscarriages fetal demise so again that could be pregnancy related or it could be trauma related
+
+741
+00:58:04,020 --> 00:58:12,100
+it could be pharmaceutical related right prescribed or or street pharmacy it could also be things like
+
+742
+00:58:12,100 --> 00:58:18,020
+miscarriage so we're dealing with someone who's that is labor we need to we need to understand
+
+743
+00:58:18,020 --> 00:58:25,620
+that a miscarriage she is going through labor the baby's just smaller right so she's going to go
+
+744
+00:58:25,620 --> 00:58:31,860
+through the entire same hormonal shift process she's going to be at risk for postpartum hemorrhage
+
+745
+00:58:31,860 --> 00:58:37,460
+she's going to be at risk for postpartum uh pre-eclampsia any clampsia so we need to be thinking
+
+746
+00:58:37,460 --> 00:58:43,380
+that way even if it is just a miscarriage and i'm using air quotes for those that can't see me so
+
+747
+00:58:45,460 --> 00:58:50,980
+switching our thought process and our our brains for understanding again what the physiological
+
+748
+00:58:50,980 --> 00:58:55,860
+process is is going to help us and then from there knowing what our tools are right so if
+
+749
+00:58:55,860 --> 00:59:01,540
+we're dealing with someone who's bleeding and it's eclampsia related we'll fix the dang blood pressure
+
+750
+00:59:02,420 --> 00:59:06,100
+right we're gonna if we fix the dang blood pressure the bleeding is going to stop
+
+751
+00:59:06,580 --> 00:59:14,260
+right so if it's trauma related or postpartum hemorrhage then TXA is going to fix the problem
+
+752
+00:59:14,260 --> 00:59:19,140
+because you don't have to learn a new measurement right you have to learn any new drug distribution
+
+753
+00:59:19,140 --> 00:59:24,260
+on that it's the same dosing so whatever you're doing for a trauma non-pregnant person you can do
+
+754
+00:59:24,260 --> 00:59:29,940
+for postpartum hemorrhage or trauma pregnant person so that's super awesome i like to not have to
+
+755
+00:59:29,940 --> 00:59:35,780
+memorize new meds or new doses right and so that those are the things that we should have
+
+756
+00:59:35,780 --> 00:59:42,340
+accessible to us i know more and more EMS agencies are carrying blood and that's awesome i'm a huge
+
+757
+00:59:42,340 --> 00:59:47,700
+proponent for that for sure because we know the outcomes for our patients are going to be better
+
+758
+00:59:47,700 --> 00:59:52,260
+the sooner they get blood products so if your patient meets the criteria and you have a protocol
+
+759
+00:59:52,260 --> 00:59:59,700
+for pregnant people and blood products that's awesome not everybody does um the other two things
+
+760
+00:59:59,700 --> 01:00:04,500
+i wanted to ask you about are more geared for folks who work in the critical care setting
+
+761
+01:00:05,700 --> 01:00:15,220
+so like critical care ground crews or flight crews um but we not all critical care crews have access
+
+762
+01:00:15,220 --> 01:00:21,380
+to token monitoring but a lot of us are trained in it and do like depending on like if we're on
+
+763
+01:00:21,380 --> 01:00:26,340
+a fixed wing or a truck versus on a helicopter right and that's something that we don't do
+
+764
+01:00:27,300 --> 01:00:34,020
+that often so i find that a lot of us rely on reference cards or cheat sheets or something
+
+765
+01:00:34,020 --> 01:00:38,340
+absolutely to manage like interpretation of those trips and i was just curious if you
+
+766
+01:00:39,140 --> 01:00:43,700
+your thoughts on that approach or if you have specific tips or any references or anything to
+
+767
+01:00:43,700 --> 01:00:54,020
+help us in in that realm uh yes so i use veal chop as a way to kind of remember um my variables
+
+768
+01:00:54,100 --> 01:01:00,660
+my d cells etc i'm assuming you got taught the same thing um and that kind of helps me remember
+
+769
+01:01:00,660 --> 01:01:05,540
+i use a cheat card too because sometimes when you're looking at squiggly lines or listening
+
+770
+01:01:05,540 --> 01:01:11,060
+to a doppler it's nice to have a card in your hand uh don't think that i don't use those just
+
+771
+01:01:11,060 --> 01:01:16,260
+because i'm i'm a midwife who's got a lot of births under her belt i i have all the same flipbooks
+
+772
+01:01:16,260 --> 01:01:22,020
+you guys carry they're in my side pockets of my scrubs or um you know my jump uniform or whatever
+
+773
+01:01:22,020 --> 01:01:28,660
+i'm doing so those are great i pull those out a lot and and use those to help me kind of go
+
+774
+01:01:28,660 --> 01:01:37,300
+through them but you know we're looking for a baby to respond cardiac wise when they're stimulated
+
+775
+01:01:37,300 --> 01:01:42,820
+so i like to take a baby grab a butt and kind of wiggle them and their heart rate should eventually
+
+776
+01:01:42,820 --> 01:01:47,940
+respond to that and come back down again that's great so we're looking at rate rhythm and quality
+
+777
+01:01:47,940 --> 01:01:53,940
+just like we are with any other human because if you kind of think that way you're going oh yeah
+
+778
+01:01:53,940 --> 01:02:00,900
+that that totally makes sense so yeah the rate is important i i want it to be you know 120 to 180
+
+779
+01:02:00,900 --> 01:02:08,020
+if i'm over 180 i'm thinking golly why is is mom in pain and so her her pulse is up so that's
+
+780
+01:02:08,020 --> 01:02:15,620
+going to make babies pulse up is there an underlining fever an underlining infection is there some sort
+
+781
+01:02:15,620 --> 01:02:24,180
+of pregnancy related infection right so bv yeast chircomonus something's going on there that are
+
+782
+01:02:24,180 --> 01:02:31,140
+a uti that's very asymptomatic in women in general and extra asymptomatic in pregnancy which is why
+
+783
+01:02:31,140 --> 01:02:37,220
+we test for it all the time so those things can cause the heart the heart rate to go up because
+
+784
+01:02:37,220 --> 01:02:43,380
+now we're dealing with sepsis right or the risk of that so just kind of thinking the same same
+
+785
+01:02:43,380 --> 01:02:50,340
+process with our our born patients is our our unborn patients they're kind of thinking the same
+
+786
+01:02:50,340 --> 01:02:55,300
+thought process and then using your cards because you don't do this all the time and the toco
+
+787
+01:02:55,300 --> 01:03:02,340
+monitor is great i just for for critical patience it makes sense to use those things i get that i
+
+788
+01:03:02,340 --> 01:03:08,980
+just tend to use intermittent monitoring with my doppler um so i can look at a particular window
+
+789
+01:03:08,980 --> 01:03:15,460
+right and i can listen to just that one to two minute time period because that's just the way
+
+790
+01:03:15,460 --> 01:03:20,100
+my brain kind of processes data and that's also the way i was trained is to use intermittent
+
+791
+01:03:20,100 --> 01:03:26,900
+monitoring and then repositioning patient just because we in we encourage left lateral
+
+792
+01:03:26,900 --> 01:03:34,020
+incumbent doesn't mean you shouldn't try sitting mom up or rotating her to the right or um you know
+
+793
+01:03:34,020 --> 01:03:38,900
+putting her on hands and knees if that is appropriate for your transport situation
+
+794
+01:03:39,860 --> 01:03:44,900
+you got to think kind of outside the box remember our patients don't read the textbook they don't
+
+795
+01:03:44,900 --> 01:03:50,180
+know how they're supposed to present and everybody's internal organs are a little bit funky
+
+796
+01:03:50,740 --> 01:03:55,380
+they're they're not going to follow all the rules all of the time i mean how many times have we
+
+797
+01:03:55,380 --> 01:04:01,380
+been on a cardiac patient who's a female and she didn't have any of those classic signs all the
+
+798
+01:04:01,380 --> 01:04:09,380
+time right so we need to be thinking that way for our pregnant mamas too and then um i think
+
+799
+01:04:09,380 --> 01:04:15,220
+around the time when i reached out to you to try and set something up i was i had i was working on
+
+800
+01:04:16,580 --> 01:04:21,060
+that same set of protocols that i talked about at the very beginning i had put together like a
+
+801
+01:04:21,060 --> 01:04:28,740
+cheat sheet for interpretation of like fetal heart tones like and the main part is like once
+
+802
+01:04:28,820 --> 01:04:34,260
+you identify i think like we're all like pretty decent if we have a cheat sheet like following
+
+803
+01:04:34,260 --> 01:04:39,380
+the algorithm and figuring out like what do we have the next step of that is like what do you do
+
+804
+01:04:39,380 --> 01:04:45,940
+if you find x y or z um so i kind of like put this like and i'll share in the show notes like a
+
+805
+01:04:45,940 --> 01:04:52,340
+document together to like guide folks through um that decision process but a lot of the information
+
+806
+01:04:52,340 --> 01:04:58,420
+i found i got from this free textbook um there's a website called open stacks that has a lot of
+
+807
+01:04:58,820 --> 01:05:02,500
+like free references uh and that was something i shared with you and i was curious if you had a
+
+808
+01:05:02,500 --> 01:05:07,700
+chance to to look and get your thoughts on that i did i looked over it again last night to have
+
+809
+01:05:07,700 --> 01:05:12,500
+it all fresh in my head for this morning and it is a really great resource and i do like the
+
+810
+01:05:12,500 --> 01:05:18,100
+pictures i thought those were extra helpful sometimes it's nice to see oh that's what you
+
+811
+01:05:18,100 --> 01:05:23,700
+meant okay because sometimes reading text you you're creating an image different than what
+
+812
+01:05:23,700 --> 01:05:28,260
+the author wanted you to do so i really liked the images i thought that was great
+
+813
+01:05:28,260 --> 01:05:36,180
+and i did love that it showed what a variable heart rate would look like on the toko monitor
+
+814
+01:05:36,180 --> 01:05:42,180
+i thought that that was really helpful i put those in my class as well um for especially
+
+815
+01:05:42,180 --> 01:05:47,460
+for ems providers because they need they need to know what that looks like um they might have a
+
+816
+01:05:47,460 --> 01:05:54,420
+doppler or they might have sonography on on their ambulance and so it's nice to know how to use those
+
+817
+01:05:54,420 --> 01:06:01,780
+tools while they're probably used to doing a fast exam or using the doppler for other types of
+
+818
+01:06:01,780 --> 01:06:07,220
+treatment plans it's kind of cool to be able to use that equipment for other stuff too so
+
+819
+01:06:07,220 --> 01:06:11,380
+having some knowledge base i thought it was great i loved the images i thought they were really good
+
+820
+01:06:11,940 --> 01:06:15,780
+cool yeah and i'll make sure i share a link to that because i similarly thought it was like
+
+821
+01:06:15,780 --> 01:06:23,060
+a pretty good reference and it's available for free which is rad totally rad i love it um you
+
+822
+01:06:23,060 --> 01:06:30,500
+mentioned also about um that some ems agencies now have access to sonography or point of care
+
+823
+01:06:30,500 --> 01:06:37,940
+ultrasound i was in a class this was through um i'm on a dmat team like a disaster medical
+
+824
+01:06:37,940 --> 01:06:43,380
+resistance team yeah and within that general framework for like you know our national response
+
+825
+01:06:43,460 --> 01:06:48,340
+to emergencies there is some like transport component as well and i was in a class years ago
+
+826
+01:06:49,060 --> 01:06:53,300
+with a woman who talked about a paper that had recently come out of the times this has probably
+
+827
+01:06:53,300 --> 01:06:59,860
+been like five or six years ago about coming up with like a point of care ultrasound like
+
+828
+01:06:59,860 --> 01:07:07,140
+algorithm of sorts for complicated labor to like determine if you had any um life threatening
+
+829
+01:07:07,140 --> 01:07:11,380
+emergencies that would warrant like you know diverting to a more appropriate facility and i
+
+830
+01:07:11,380 --> 01:07:16,580
+for the life of me like didn't keep track of the woman's name or ever managed to track down that
+
+831
+01:07:16,580 --> 01:07:22,740
+paper so i was curious if you either know the paper i'm referring to or in general have like
+
+832
+01:07:23,780 --> 01:07:29,460
+some sort of guidance for folks who do have access to ultrasound how we might like learn a little
+
+833
+01:07:29,460 --> 01:07:35,060
+bit more about applying that tool with our pregnant patients because like you said most of us are
+
+834
+01:07:35,060 --> 01:07:41,220
+trained more on the trauma side and some of us maybe have a little bit of exposure to like cardiac
+
+835
+01:07:41,220 --> 01:07:46,820
+ultrasound in cardiac arrest right that like beyond that most of our understanding of ultrasound
+
+836
+01:07:46,820 --> 01:07:51,940
+in the field is pretty limited but i do know there's an application i'm just not that familiar
+
+837
+01:07:51,940 --> 01:07:58,740
+with like where i would even go to like develop that skill set or to look further yeah okay so uh
+
+838
+01:07:59,700 --> 01:08:06,180
+right so i've had exposure to ultrasound in in the way you mentioned right so cardiac and trauma
+
+839
+01:08:06,180 --> 01:08:11,540
+it's on ems but especially the military because they love that right they they especially the
+
+840
+01:08:12,260 --> 01:08:20,580
+soft teams they they love using that type of tool for those situations but my foundation
+
+841
+01:08:20,580 --> 01:08:28,980
+in sonography is going to be with my midwife hat on and that's really it can be helpful information
+
+842
+01:08:28,980 --> 01:08:38,100
+but it should not be your sole data point and anything outside of the first trimester is pretty
+
+843
+01:08:38,100 --> 01:08:44,420
+useless information other than it's a boy or a girl and i would do 50 50 with that and then
+
+844
+01:08:44,980 --> 01:08:52,660
+what position maybe is what you're going to get in that information but third trimester is pretty
+
+845
+01:08:52,660 --> 01:09:00,980
+useless because you can't even get the full baby on the screen so it's really hard the only thing
+
+846
+01:09:00,980 --> 01:09:08,420
+i'm going to be able to identify is that a butt in the pelvis or is that a head but i can tell you
+
+847
+01:09:08,420 --> 01:09:13,940
+that just by palpit i don't need it i don't need it sonography yeah i guess i was thinking more of
+
+848
+01:09:13,940 --> 01:09:21,060
+like identifying complications like if you had um an abruption or placenta previa like these things
+
+849
+01:09:21,140 --> 01:09:28,180
+that we teach about in like in the critical care transport like these complications that would like
+
+850
+01:09:28,740 --> 01:09:35,220
+warrant the need for a surgical intervention like if they're yeah like my understanding is that
+
+851
+01:09:35,220 --> 01:09:43,380
+there is a way to like readily identify those types of complications not necessarily um to do
+
+852
+01:09:43,380 --> 01:09:53,380
+like the fetal sonography like you would in a follow-up ovi visit right right so yes you you
+
+853
+01:09:53,380 --> 01:09:59,540
+could theoretically identify placenta abruption or previa right because you're going to have fluid
+
+854
+01:09:59,540 --> 01:10:06,420
+behind the placenta with placental abruption um and you're going to have if if you can get the
+
+855
+01:10:06,420 --> 01:10:15,940
+placenta and the cervix in one sweep which that's that's a lot that would be that would be a that
+
+856
+01:10:15,940 --> 01:10:23,140
+would be a lot for an out of hospital sonography system to do i don't i don't know that it i'd
+
+857
+01:10:23,140 --> 01:10:26,980
+have to practice that myself and see if it could but you really should be treating your patient
+
+858
+01:10:26,980 --> 01:10:35,300
+based off of symptoms at that point fair yeah yeah so again it's a tool but it's in in those
+
+859
+01:10:35,380 --> 01:10:42,740
+critical situations such as placental abruption i could care less what the sonogram is telling
+
+860
+01:10:42,740 --> 01:10:49,300
+me because i'm going to go off of the blood pressures in the toilet right uh the patient
+
+861
+01:10:49,300 --> 01:10:56,580
+looks like a hot mess because i can see through her skin and um she's in and out of consciousness
+
+862
+01:10:56,580 --> 01:11:03,940
+i've got a ton of blood or i have an abdomen filling right because maybe baby is blocking
+
+863
+01:11:03,940 --> 01:11:10,740
+the cervix as they should be at that point and the blood's filling in the uterus and in the abdomen
+
+864
+01:11:11,620 --> 01:11:18,180
+so the abdomen's hard you know i can tap it and you've got that funk funk funk rather than the
+
+865
+01:11:18,180 --> 01:11:25,220
+thrill that you should have because if you tap a mama belly you should have that opposite wave
+
+866
+01:11:25,220 --> 01:11:29,380
+right you should feel the wave on the on the other hand but you're not getting that you're
+
+867
+01:11:29,380 --> 01:11:34,900
+getting thud thud thud that's telling me that there's fluid filling in whether it's amniotic
+
+868
+01:11:34,900 --> 01:11:40,580
+blood both i don't necessarily care at that point because i'm going to treat it all as if it's the
+
+869
+01:11:40,580 --> 01:11:46,740
+most catastrophic yeah that makes sense yeah i should maybe i should give it another try to track
+
+870
+01:11:46,740 --> 01:11:54,340
+down this paper because the way it was presented to me um it was like a five or six step like point
+
+871
+01:11:54,340 --> 01:11:59,460
+of care sonography for the pregnant patient to like identify life threats and like rule out those
+
+872
+01:11:59,460 --> 01:12:05,780
+surgical complications right so what you're saying is a fast type exam but it's for obstetrics i'm not
+
+873
+01:12:05,780 --> 01:12:13,220
+familiar with this paper i would love to see it if you find it and should there be a sequential
+
+874
+01:12:13,220 --> 01:12:18,820
+step of what you should be looking for i can't agree more there should like we have fast in our
+
+875
+01:12:18,820 --> 01:12:24,980
+head right like we know how to spell that we know what points of of care to do on the patient um i'm
+
+876
+01:12:24,980 --> 01:12:33,620
+not aware of something like that existing but i don't you know i i'm human yeah fair me too and i
+
+877
+01:12:33,620 --> 01:12:38,100
+can't feel life from your memory but i'll take another look and see if i can dig it up you you
+
+878
+01:12:38,100 --> 01:12:44,420
+find it and then uh we'll talk about it on on on part two yeah and you know maybe maybe there's
+
+879
+01:12:44,420 --> 01:12:47,220
+a reason why i can't find it maybe it's been redacted or something like that because it didn't
+
+880
+01:12:47,300 --> 01:12:52,820
+work out but i think we'll see that that could also be a thing because that does happen often
+
+881
+01:12:52,820 --> 01:12:59,380
+in medicine yeah cool well that's all the questions that i had for you i was curious
+
+882
+01:12:59,380 --> 01:13:04,260
+if there's anything else that you wanted to talk about um that i didn't bring up while we're here
+
+883
+01:13:06,820 --> 01:13:11,780
+i mean we touched on postpartum hemorrhage that's usually people's big number one
+
+884
+01:13:12,740 --> 01:13:18,740
+question when we're when we're discussing this as it should be and then we kind of talked about
+
+885
+01:13:18,740 --> 01:13:24,740
+the differences you know between midwives those are another big thing people love to know that i
+
+886
+01:13:24,740 --> 01:13:29,300
+did i did write an article and i included it in the links that you guys but i gave you this morning
+
+887
+01:13:29,300 --> 01:13:34,900
+but um yeah so i wrote an article if you want to if you want to talk more learn more about that and
+
+888
+01:13:34,900 --> 01:13:40,660
+i created an entire class called ems and midwives um navigating the out of hospital birth so i teach
+
+889
+01:13:40,740 --> 01:13:46,180
+that specifically to midwives and ems providers together at the same time and we run through how
+
+890
+01:13:46,180 --> 01:13:50,660
+to actually do calls together in case there ever does need to be a transfer that's a really
+
+891
+01:13:50,660 --> 01:13:59,540
+stinking fun class too so and then i also included a code for your listeners to get a discount on
+
+892
+01:13:59,540 --> 01:14:06,180
+workshops and if you go to my website which is combatmidwife.com there's a ton of free
+
+893
+01:14:07,140 --> 01:14:12,020
+info on there there's a plethora of fun things there's an open source book and a bunch of other
+
+894
+01:14:12,020 --> 01:14:19,300
+fun stuff and you also have links on your website to all the other podcasts you've been on as well
+
+895
+01:14:19,300 --> 01:14:25,540
+because i'm not the first to uh to recognize that you have a lot to offer here oh thank you yes so
+
+896
+01:14:25,540 --> 01:14:33,860
+on the publications page are all my free resources as well as uh not every podcast i've been on but
+
+897
+01:14:33,860 --> 01:14:39,140
+the the good ones the really the really good ones that i love um those those guys are on there
+
+898
+01:14:39,140 --> 01:14:47,860
+otherwise my i think my website lady would would hate me yeah understandable well cool i really
+
+899
+01:14:47,860 --> 01:14:51,940
+appreciate you taking the time to come on and yeah we'll have to do it again one of these days as i
+
+900
+01:14:51,940 --> 01:14:57,940
+think more questions perfect i i would love to come back and maybe we can get into the nitty-gritty of
+
+901
+01:14:57,940 --> 01:15:03,780
+um like actual calls you've been on and we can maybe dissect those that's also really fun to do
+
+902
+01:15:03,780 --> 01:15:09,700
+too so if you come at me with some calls perfect thanks thanks for having me so much i really
+
+903
+01:15:09,700 --> 01:15:17,620
+appreciate it ryan yeah for sure and that's pretty much it thanks for tuning in just before we hop
+
+904
+01:15:17,620 --> 01:15:22,340
+off here i just want to give a shout out to my friend josh pitman and his buddy kevin pons
+
+905
+01:15:22,340 --> 01:15:29,700
+they're the ones who put the music together for all of this catch you next time
+
+906
+01:15:33,780 --> 01:15:43,700
+so

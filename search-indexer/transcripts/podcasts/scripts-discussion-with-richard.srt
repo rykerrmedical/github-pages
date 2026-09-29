@@ -1,0 +1,659 @@
+1
+00:00:00,000 --> 00:00:04,000
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,000 --> 00:00:11,000
+Riker Medical is a platform for education focused on emergency, transport, and critical care medicine.
+
+3
+00:00:15,000 --> 00:00:23,000
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative use of technology can facilitate that effort.
+
+4
+00:00:23,000 --> 00:00:27,000
+This podcast is just one piece of that whole project.
+
+5
+00:00:31,000 --> 00:00:41,000
+Also, while we may mention medical treatments and interventions along the way, remember that we are just strangers on the internet and don't do things you aren't allowed to do.
+
+6
+00:00:52,000 --> 00:00:57,000
+For more information about the project, visit us at RikerMedical.com
+
+7
+00:01:00,000 --> 00:01:15,000
+Please visit www.RikerMedical.com
+
+8
+00:01:16,000 --> 00:01:20,000
+Alright, today on the show we have my good friend Richard Templeman.
+
+9
+00:01:20,000 --> 00:01:36,000
+He's going to talk about this idea he had for creating scripts and then recording audio versions of them to kind of help work through like an orientation process at a new agency he got hired on with.
+
+10
+00:01:36,000 --> 00:01:42,000
+And then kind of expand on that idea to make it a little more applicable for providers across the board.
+
+11
+00:01:43,000 --> 00:01:49,000
+So Richard, I appreciate you coming on. Why don't you go ahead and introduce yourself and tell us what you've been working on.
+
+12
+00:01:49,000 --> 00:01:55,000
+Well, thanks for having me Ryan. My name is Richard. I'm a flight paramedic currently working in Nevada.
+
+13
+00:01:55,000 --> 00:02:06,000
+Actually, just recently moved down to the area that within the last year with my family, my wife and my kids to be closer to family out here.
+
+14
+00:02:07,000 --> 00:02:30,000
+So I got a new job with another company out here and part of that, you know, I part of what I had to look forward to with the new job is learning a whole new set of protocols and taking all their written tests and sim testing and actually being able to function under their protocols.
+
+15
+00:02:30,000 --> 00:02:35,000
+And most of the stuff is pretty similar to what I've experienced in the past.
+
+16
+00:02:35,000 --> 00:02:43,000
+But there is some some new things that I really had to practice to get to know.
+
+17
+00:02:43,000 --> 00:02:59,000
+So what I did in the past to learn protocols and for paramedic school and all the different classes I've ever taken previously was just, you know, a lot of reading and kind of roping memorization.
+
+18
+00:03:00,000 --> 00:03:09,000
+Through your note cards or just reading the material over and over again and eventually you would stick and that way it works.
+
+19
+00:03:09,000 --> 00:03:14,000
+And I think that's more of the traditional way of how a lot of people learn.
+
+20
+00:03:14,000 --> 00:03:25,000
+But I was hoping to find something a little bit more enjoyable, something that I could I could play with and just experiment with.
+
+21
+00:03:25,000 --> 00:03:33,000
+So I decided on making audio files of all the protocols when they issued my protocol book.
+
+22
+00:03:33,000 --> 00:03:54,000
+And how I did it was just did like a quick once over read over the protocols and over that over going or going over the material, I would highlight certain areas, especially that seemed a little bit different than what I've done.
+
+23
+00:03:54,000 --> 00:04:00,000
+Than what I've known in the past. And I would go through each each one of the protocols.
+
+24
+00:04:00,000 --> 00:04:08,000
+Sometimes I would be highlighting like nearly the whole page because it's it's completely different than what I've done in the past or other protocols.
+
+25
+00:04:08,000 --> 00:04:13,000
+I would do about half the page or maybe just a couple of med doses.
+
+26
+00:04:13,000 --> 00:04:22,000
+But after I collected all of my information that I wanted to use, I made scripts for each one of those protocols.
+
+27
+00:04:22,000 --> 00:04:30,000
+And the scripts would work in like I would kind of run them out in the same style and flow I talk.
+
+28
+00:04:30,000 --> 00:04:34,000
+And I think that helped me to really absorb the information.
+
+29
+00:04:34,000 --> 00:04:44,000
+So I would I'd write down each each protocol in my own script, making sure I have all the highlighted points.
+
+30
+00:04:44,000 --> 00:04:50,000
+And then I would record each one of those scripts on an audio file.
+
+31
+00:04:50,000 --> 00:04:58,000
+And after it was all done, it ended up being about 20 minutes of of information all on their own separate categories.
+
+32
+00:04:58,000 --> 00:05:08,000
+You know, a favor of your heart attack stroke, whatever, you know, whatever protocol we have in there, all the protocols we have in there.
+
+33
+00:05:08,000 --> 00:05:13,000
+And yeah, it's 20 minutes long, each in their own separate category.
+
+34
+00:05:13,000 --> 00:05:24,000
+And I could listen to it any time. And if I was to read the book cover to cover, it probably take me about like two hours, maybe even more.
+
+35
+00:05:24,000 --> 00:05:36,000
+So it's really condensed my speed and the repetitions I could I could use to, I don't know, go through all the protocols.
+
+36
+00:05:36,000 --> 00:06:00,000
+And that's that's great. But I think one of the biggest, the biggest things that like helped me really learn these protocols was actually the process of making the scripts and and figuring out, like, you know, what was certain areas of the protocols that were harder to remember than others and what was different.
+
+37
+00:06:00,000 --> 00:06:13,000
+So the actual process of developing the audio files, I would say, like, is where the majority of my my learning and like the sticking of the protocols happened.
+
+38
+00:06:13,000 --> 00:06:22,000
+But now I have all the protocols and I have a pretty good foundation of all the protocols and I could review them any time I want.
+
+39
+00:06:22,000 --> 00:06:35,000
+So it made it super easy to really get those stuck in my brain and let me forget some of the older stuff I knew and and retain the newer stuff.
+
+40
+00:06:35,000 --> 00:06:39,000
+Awesome. And would you would you be down to share one of those with us?
+
+41
+00:06:39,000 --> 00:06:50,000
+Yeah, I'll do like a separate generic audio file, just because I don't want to give up in your proprietary information or anything like that.
+
+42
+00:06:50,000 --> 00:06:56,000
+But you could kind of get the idea of how I wrote them down.
+
+43
+00:06:56,000 --> 00:07:16,000
+Septic shock assess for fevers, a source of infection, abnormal labs such as elevated white count, hypotension and tachycardia assess CVPs and PA wear form, if available, administer two grams for seven, if no antibiotics are on board and give up to 30 cc's per kilogram,
+
+44
+00:07:16,000 --> 00:07:19,000
+LR for hypotension.
+
+45
+00:07:19,000 --> 00:07:35,000
+Administer 15 milligrams per kilogram to a max single of one gram of acetaminophen for fevers. The goal is to keep map greater than 65. If map is less than 65 after the first liter of fluid, initiate leave at five mics a minute titrating up to 30 mics a minute to target map.
+
+46
+00:07:35,000 --> 00:07:52,000
+If patient remains hypotensive despite high dose leave, initiate vasopressin at 0.03 units a minute. If patient still remains hypotensive, consider steroids and epinephrine drip at two to 10 mics a minute.
+
+47
+00:07:52,000 --> 00:08:03,000
+Yeah, I remember when you first told me about this idea, I kind of thought about it for a bit and then I decided to do something similar for like the RSI procedure where I work.
+
+48
+00:08:03,000 --> 00:08:10,000
+So I just started by writing down in a Google Doc, just like the narrative of the procedure from start to finish.
+
+49
+00:08:11,000 --> 00:08:26,000
+And I went into pretty good level of detail. So as far as like which bag of all the bags we have, I was going into which pocket where I was pulling each device from and then like, you know, laying everything out, working through the step one at a time.
+
+50
+00:08:26,000 --> 00:08:35,000
+I recorded myself like reading our RSI checklist out to myself out loud and then like parroting that back as if I were like actually on a scene.
+
+51
+00:08:35,000 --> 00:08:47,000
+So yeah, I just like wrote this whole narrative down just because it was a couple pages long. And then I did the same thing where I recorded it. And I did that a handful of times. It's like a good recording that I didn't like mess up along the way.
+
+52
+00:08:47,000 --> 00:09:08,000
+And now I have that saved as an audio file on my phone. So I can use that every once in a while and say I'm on my way to work. I can just, you know, play that as a way to practice that procedure as a way to get familiar with all the steps I can not have to think about the details involved when I actually have to do the procedure on a scene.
+
+53
+00:09:09,000 --> 00:09:36,000
+Yeah, that's such an awesome piggyback. Like I couldn't even count the numbers of times where, you know, I've been on scene and like I've had to take a couple seconds to think like, Oh, yeah, where's, where do I keep the bougie or where do I keep the manometer or whatever in the bag, you know, certain things that you just don't pull out very often, or depending on the program you're at.
+
+54
+00:09:36,000 --> 00:09:51,000
+You may not, you may not see that for a month or a few months. Some places not even a year when you're actually in the heat of the moment and and it's easy to go through your bags doing your bag checks and kind of looking through everything and you know where everything is.
+
+55
+00:09:51,000 --> 00:10:14,000
+But when the shit's hitting the fan and and you got a patient crashing on you and you need to grab that, that, you know, really important piece of equipment that you don't pull out all the time. It's nice to have that script you practice, you know, hundreds of times or if you listen to dozens of times and it becomes very automatic.
+
+56
+00:10:15,000 --> 00:10:30,000
+Yeah, definitely. And they I think the the idea is that it's not like the only solution. It's just like one other tool you can use to help them out. Like we also have checklists like organizations are now getting better like setting up their bags in a way that makes intuitive sense.
+
+57
+00:10:31,000 --> 00:10:38,000
+Things are labeled a little bit better. There's like one extra step you can do to make your job a little bit easier so you can focus on like the important things.
+
+58
+00:10:38,000 --> 00:10:43,000
+For sure. And I think part of figuring out what's important for your script, you know, whether whether it's writing one of these protocols down, figuring out how you're going to set up a procedure because it forces you to kind of prioritize your steps and that may vary depending on what patient you have. But it's important to have that
+
+59
+00:11:08,000 --> 00:11:20,000
+It gives you a pretty good idea of like, okay, this would be the best first step. And then this would be the second step, third, fourth, and you you know where where you're heading throughout the entire process.
+
+60
+00:11:21,000 --> 00:11:36,000
+Right. And there's also like little things that I didn't think about until I actually went to write it down. So for example, when I was writing down my script, I have a spot in there where I open a pack of lube and put it next to my ng tube so I can place that after I get the airway.
+
+61
+00:11:37,000 --> 00:11:54,000
+But I also tell myself to set the backup King Airway right next to it as well. And that way, like the lube is there for both things. Yeah, so like little steps like that you wouldn't really think about unless you're like co actively trying to write it all down in a linear stepwise fashion.
+
+62
+00:11:55,000 --> 00:12:10,000
+Yeah, exactly. I mean, you could you could either learn it by, you know, doing something like this and and hopefully having it fairly dialed in before you have to hit that procedure in real life.
+
+63
+00:12:11,000 --> 00:12:25,000
+And maybe you've even done it a dozen times, but there's always these small little details that you know you could have done better next time. And when you actually write things down in order how you would like to do it like textbook perfect.
+
+64
+00:12:26,000 --> 00:12:29,000
+I really think that it goes a long ways in your care.
+
+65
+00:12:30,000 --> 00:12:42,000
+For sure. Yeah, I remember when I was I did my medic school back in Pittsburgh, and like the state of Pennsylvania has statewide protocols. And when I was in medic school we had to do quizzes on them.
+
+66
+00:12:43,000 --> 00:12:51,000
+My way of memorizing those protocols, well, I literally would just like take a blank sheet of paper like computer paper and write down the protocols word for word.
+
+67
+00:12:51,000 --> 00:12:56,000
+And then I'd rip it up and start over again until like I had all the words memorized because I had no idea what they were gonna test me on because I didn't know.
+
+68
+00:12:57,000 --> 00:12:59,000
+And I didn't know how to pick and choose which pieces of information were important.
+
+69
+00:13:00,000 --> 00:13:07,000
+Yeah. So this is like a less work intensive way of getting to the same goal, I think.
+
+70
+00:13:08,000 --> 00:13:17,000
+Yeah, I think that both ways will get you to the same, same place but just like you said if if you if you mix it up.
+
+71
+00:13:18,000 --> 00:13:30,000
+Because you are going to want to write it down and like what I did for my my test was I took the protocol. I scratched out what I didn't need.
+
+72
+00:13:30,000 --> 00:13:42,000
+I wrote it wrote down what I needed and then I wrote it down. Basically, my style of speech like something like the way I would I would be able to do it on scene.
+
+73
+00:13:43,000 --> 00:13:55,000
+And then I read it like that. And then that was recorded so I could listen to as many times as I needed to and it took me a, you know, several times to record it so that helped with members memorizing.
+
+74
+00:13:55,000 --> 00:14:07,000
+And now anytime I want to refer to whatever protocol I could just click on click on the link listen to it and I remember like, you know, from top to bottom, what I need to hit.
+
+75
+00:14:08,000 --> 00:14:13,000
+It's, it's definitely a useful way of memorizing things quickly.
+
+76
+00:14:14,000 --> 00:14:33,000
+Now, given that you wrote these scripts in a in a personalized sort of way. Do you think there's any value of sharing them with other people at your agency, or do you think that it would be better for people to create these kind of things on their own, or maybe a little bit of both.
+
+77
+00:14:34,000 --> 00:14:48,000
+I definitely think both, you know, some people, maybe they're very familiar with the protocols, and it would be, you know, less, less work for them just to listen to it.
+
+78
+00:14:48,000 --> 00:15:09,000
+And, you know, they're already pretty dialed in with, with what their agencies wine other places they, you know, or other people maybe they're brand new to flight or maybe they started with a new company, and they have a lot of different, you know, protocols and procedures and orders of the way they want to do things.
+
+79
+00:15:09,000 --> 00:15:29,000
+And you're kind of learning that from scratch. I think if you're learning it from scratch, it would be best personally to do it yourself. And then that way, it really gets, it gets probably different places in your brain work and where you're having to think, you know, okay, this is what's important.
+
+80
+00:15:29,000 --> 00:15:47,000
+This is what's important. This is what I would remember. And this is what I wouldn't remember the multiple routes that you're kind of attacking, learning the protocols through, you're doing it through reading the protocols themselves, and then recreating in a way that you'd remember.
+
+81
+00:15:47,000 --> 00:16:03,000
+So you're, you're getting a little bit more of your creative mind going. And then speaking it, which is a totally different like muscle for me, and then being able to listen to it so like you're, you're able to learn from all those different.
+
+82
+00:16:03,000 --> 00:16:05,000
+Yeah, I like that.
+
+83
+00:16:05,000 --> 00:16:15,000
+And I also think at some point, you probably won't necessarily need these scripts anymore. So an example of that would be maybe when you're learning how to start IVs.
+
+84
+00:16:15,000 --> 00:16:29,000
+We all went through this stage where you were a little bit nervous about making sure you had all your equipment set up, you know, you want the right size cap there and a backup and your tape cut, you rip the finger off your glove and you did all these things in a very regimented fashion.
+
+85
+00:16:29,000 --> 00:16:37,000
+And like as you get experience, you don't really need to do that. So if you had a script for how to start an IV, eventually you could like retire that and place it with something different.
+
+86
+00:16:37,000 --> 00:16:58,000
+Yeah, 100%. And then, you know, there's those higher risk procedures that you'll, you'll come across where you'll probably want to listen to it every once in a while because the chances are you're not going to be hitting a crack or, you know, a pericardio sentesis or, you know, it is more.
+
+87
+00:16:58,000 --> 00:17:04,000
+More high risk procedures that you just you don't get a lot of practice with.
+
+88
+00:17:04,000 --> 00:17:16,000
+Yeah, for sure. I think those are that that kind of thing is next on my list. Like it would be good to have like a failed airway scripts in my in my toolbox.
+
+89
+00:17:16,000 --> 00:17:26,000
+Also like a chest to placement those things that we don't do that often but pretty time sensitive. So that's definitely that's definitely on my personal agenda to to work on a little bit.
+
+90
+00:17:26,000 --> 00:17:35,000
+The another way I use this was right before the each test that I had to take for my protocols.
+
+91
+00:17:35,000 --> 00:17:55,000
+I would I would listen to my, my audio versions, and then I would try afterwards just to write the entire script from start to finish, and then just see if I forgot anything and and the first couple times of doing that, you know, I noticed I forgot a couple things and I would highlight those things.
+
+92
+00:17:55,000 --> 00:18:01,000
+And it was just it was so fast to really be able to lock those in.
+
+93
+00:18:01,000 --> 00:18:12,000
+Yeah, and I've noticed that the one script that I've like put a lot of work into up to this point is like I mentioned our RSI procedure, but I was just like looking back through it and listening to it.
+
+94
+00:18:12,000 --> 00:18:21,000
+Before we hopped on the phone and I realized that there was something that I had left out as well. You know, we focus a lot on like always doing entitled CO2 monitoring whenever you can.
+
+95
+00:18:22,000 --> 00:18:32,000
+But even before you place an airway like while you're ventilating the patient with a BVM and I like skip that step on there like I forgot the step where you attach the entire CO2 detector to the BVM.
+
+96
+00:18:33,000 --> 00:18:40,000
+Yeah, pretty sure things like that like you can even have what seems to be like a pretty well put together script a final product.
+
+97
+00:18:41,000 --> 00:18:48,000
+But every time you go back and look over you're like, Oh, maybe I should have done this a little better. Or maybe I can rethink this idea. I think it's a good way to just actively practice those things.
+
+98
+00:18:49,000 --> 00:19:11,000
+Exactly. When you were building out your RSI procedure, did you have a certain level of detail that you wanted to hit? Did you want to get it as like as detailed and complex as possible where you're trying to memorize it as like a very experienced RSI?
+
+99
+00:19:11,000 --> 00:19:31,000
+I don't know. Somebody who's done a whole lot of RSI's or are you trying to write a script where the most brand new baby flight medic or nurse is learning these these procedures and they need to be able to hit these big chunks without forgetting that.
+
+100
+00:19:32,000 --> 00:19:50,000
+Yeah, I'm not sure if I had that in mind, but I was I was building it for myself. My idea as far as like the level of detail was I wanted to be able to that like the timing of me reading it off would actually match timing in real life.
+
+101
+00:19:51,000 --> 00:20:06,000
+So the idea is that I could read that script in my mind as I'm actually doing the procedure and it would flow from one step together from making the decision to that we need to manage the airway to being done with the whole procedure.
+
+102
+00:20:07,000 --> 00:20:20,000
+I think that like the whole thing start to finish is about 10 minutes, which seems which seems like a long time. Like, geez, it took you 10 minutes to intubate the person. But that's realistically that's pretty quick for like decision point all the way to being done.
+
+103
+00:20:21,000 --> 00:20:35,000
+Yeah, I think the way for me to test and see how it works out in real time is to to make a video to go with it. So maybe one of these days when I'm at the base, we can, you know, put a phone on a tripod and like record us stimulating a new person.
+
+104
+00:20:36,000 --> 00:20:52,000
+And then I can go to an RSI in line with the audio script and see how it lines up. But that's kind of the idea that that I was going for not necessarily teaching to somebody new, but just like building a script that like matches with actual timing of the procedure.
+
+105
+00:20:55,000 --> 00:20:59,000
+Rapid sequence intubation procedure narrative.
+
+106
+00:20:59,000 --> 00:21:15,000
+So once we've identified the need to perform a rapid sequence intubation, let's start getting things ready. First thing here is a baseline set of vitals. And I'm also going to increase the frequency of measurements on the monitor to every one to two minutes and set an alarm for low pulse ox at 93%.
+
+107
+00:21:16,000 --> 00:21:20,000
+That is unless the patient is already hypoxic. In that case, it just be a distraction.
+
+108
+00:21:21,000 --> 00:21:36,000
+Next thing is pre oxygenation. Let's grab a nasal cannula from the right side pocket of the red scene bag and dial the flow to 15 liters per minute. This can go underneath either a non-rebreather mask or BVM depending on patient need and what is currently on their face.
+
+109
+00:21:37,000 --> 00:21:46,000
+Next step in pre oxygenation is to elevate the head of bed. If the patient is taking deep breaths unassisted and with a non-rebreather in place, we are all set for now.
+
+110
+00:21:47,000 --> 00:22:04,000
+If however, the patient needs ventilatory support, we have a few more steps. First, we want to make sure we have a peep valve on the BVM. This lives inside the bag that the BVM comes in, which is the top pocket on the red scene bag. Attach that and dial that peep to 5 to 10 centimeters of water.
+
+111
+00:22:05,000 --> 00:22:10,000
+Next, we want to ensure a two person BVM technique. So we'll coach whoever's on scene how that works.
+
+112
+00:22:11,000 --> 00:22:35,000
+Cool. Yeah, so it's very applicable to you when you're going to do RSI. Have you been practicing your script and walking through the bags each time? Or have you been practicing your script while walking through the bags like at work? Or how have you been implementing them for practice?
+
+113
+00:22:35,000 --> 00:23:04,000
+Yeah, I haven't done that yet. But I think that's like the next step is to, you know, throw my headphones in when I'm checking my bags and listen to the script while I'm pulling things out and setting them up. One, to see if like my timing and cadence is right. And two, to like, make sure it all matches. But mostly the way I've been building it is like, I have the script in my mind and I like work on it. And then when I'm at work, I will, you know, kind of fact check specific pieces of the script.
+
+114
+00:23:05,000 --> 00:23:20,000
+And then I'll be like, Oh, is this exact? Is this where that one piece of equipment is? Does this make sense if I'm telling myself to put this thing next to that thing? I haven't actually like, spent the time to put it all together in an actual sequence.
+
+115
+00:23:20,000 --> 00:23:39,000
+Yeah, that'd be a fun thing to play with, whether you're just, you're just doing it out of your bags by yourself, or maybe doing a sim test or, you know, practice scenario with a partner, and then eventually implementing that into a real RSI.
+
+116
+00:23:40,000 --> 00:23:51,000
+Yeah, no, I think there's, yeah, the idea allows for like a lot of like stepwise progression, you just like get, you can refine it like more and more with each of these levels.
+
+117
+00:23:52,000 --> 00:23:53,000
+Cool.
+
+118
+00:23:53,000 --> 00:24:04,000
+Yeah. One other thing that you had mentioned before, we talked about was about when you choose to like review your script.
+
+119
+00:24:04,000 --> 00:24:15,000
+So we talk a lot in high stakes environments about visualizing success and working mentally through complicated procedures as a way of practicing.
+
+120
+00:24:16,000 --> 00:24:27,000
+But I think you had mentioned that you used to work through scenarios like during or after a workout, when your body stressed out as a way to get more out of that intentional practice.
+
+121
+00:24:28,000 --> 00:24:45,000
+Oh, yeah, it was a lot of fun. Me and my, my partners, we would always do pretty fun workouts at the base. And a lot of times it was in like 110 degree heat, which probably isn't the smartest, but it's a lot of fun.
+
+122
+00:24:46,000 --> 00:25:07,000
+And either while we're, while we're on a jog, cooling down, we would, we would shoot off, you know, protocols, we, you know, we'd say like, if a barbie R and the partner would have to go through the whole protocol of a barbie R or maybe even we get done with a really challenging
+
+123
+00:25:07,000 --> 00:25:35,000
+MetCon or like metabolic conditioning workout. And after that, the team has a scenario already laid out for you and you have to get right into a scenario. So there's a bunch of different ways that we used to play with like doing either protocol memorization or actual like SIM testing in a more high heart rate stressed out environment.
+
+124
+00:25:35,000 --> 00:25:48,000
+And I think it's a fun way to just be able to apply your skills. Yeah, definitely. There's actually a book that I'm in the process of reading that just came out recently. It's called The Emergency Mind.
+
+125
+00:25:49,000 --> 00:26:04,000
+And there's actually a podcast by the same name by this guy, Dan Dworkus. I think he's a, he's an emergency physician, I think out in LA, if I got that right. But he talks about this in his book just, you know, it's easy to just mentally walk through a procedure.
+
+126
+00:26:05,000 --> 00:26:20,000
+And you can successfully do that in a stressful environment, you get a little more out of it, because none of us are going to be, you know, intubating somebody in a, in a calm setting, especially in the pre hospital field, it tends to always end up being a little hectic.
+
+127
+00:26:20,000 --> 00:26:47,000
+And I think it's also 100%, like, I, it could be night and day difference of doing a innovation and like, OR, or doing an innovation on a mannequin, just practicing by yourself versus doing an innovation on the side of a highway with another helicopter landing and traffic rolling by and, you know, chaos going on,
+
+128
+00:26:47,000 --> 00:27:10,000
+or even doing an innovation in a sim test with the helicopter windows blacked out, the heat turned up, everything darkened, besides, you know, the little bit of green light that you have, you know, all of those, all of those extra little details will force you to really dial in your skills.
+
+129
+00:27:10,000 --> 00:27:23,000
+Yeah, for sure. I know, I know one thing that helped me a lot, which is using a checklist, like the agency I'm with now we have an RSI checklist. And, you know, this, this idea has been around for a very long time.
+
+130
+00:27:23,000 --> 00:27:34,000
+But there's a lot of resistance to using it. But I remember like the first RSI I had where we actually use a checklist and like handed it off to one of the local EMTs and had them read through it.
+
+131
+00:27:34,000 --> 00:27:39,000
+It was like one of the smoothest procedures I had ever been part of. I was like, man, this is, this is amazing.
+
+132
+00:27:39,000 --> 00:27:51,000
+Yeah, like anything you could do to like, yeah, to not have to manage all those steps just to like offload it onto someone or something else. I think that's hugely valuable for us.
+
+133
+00:27:51,000 --> 00:28:01,000
+Yeah, checklists are so valuable. The important thing is making sure that you read everything on the checklist or else forget what's going on.
+
+134
+00:28:01,000 --> 00:28:11,000
+And I've been there, you know, with myself or my partner, like, you know, we were kind of running running through the checklist and we're not reading it out loud.
+
+135
+00:28:11,000 --> 00:28:27,000
+And because you didn't read it out loud, you're like, oh, I missed that. But yeah, reading that checklist out loud, maybe even handing it off to, you know, one of the EMT basics or one of the ambulance personnel just read this out loud from, from top to bottom.
+
+136
+00:28:27,000 --> 00:28:35,000
+Make sure we have everything in place and, and you will not forget anything. So, super, super important.
+
+137
+00:28:35,000 --> 00:28:48,000
+Yeah, I have a low stakes example of that is that I have a checklist of like things to pack before I go to work because I like I go to wait to work for two weeks and then I'm off so like, I gotta like take my whole life with me.
+
+138
+00:28:48,000 --> 00:29:00,000
+And I have a checklist that like on my phone that I click through to make sure I have everything. And this last time I went to work, I went through the checklist and I was just like pencil, lipping it and it was like, I made the checklist and it's for myself.
+
+139
+00:29:00,000 --> 00:29:09,000
+And I was like, I preach about doing checklists all the time, and I still miss something so I got to work as a hand. Where is this thing?
+
+140
+00:29:09,000 --> 00:29:13,000
+I didn't follow my checklist.
+
+141
+00:29:13,000 --> 00:29:16,000
+Yeah, for sure.
+
+142
+00:29:16,000 --> 00:29:32,000
+Along these ideas, getting back this idea of like having a script and knowing that it like can help you work through complicated things. Do you have an example maybe of when this may have helped you in the past like before you started working on this tool?
+
+143
+00:29:32,000 --> 00:29:56,000
+Well, I have a very embarrassing and good example of where the checklist tool would have came in handy was we ended up moving our pad from the hospital to the airport and the temperatures were super high.
+
+144
+00:29:56,000 --> 00:30:09,000
+So we had to disconnect all of our equipment and a lot of that stuff was, you know, charging in the helicopter and now has to charge somewhere else.
+
+145
+00:30:09,000 --> 00:30:27,000
+Well, long story short, we ended up forgetting the ventilator on the charger. And we got a scene flight and had the RSI, which went perfect textbook perfect. We had a checklist for that and we read it.
+
+146
+00:30:27,000 --> 00:30:48,000
+It went very smooth. But when we got back to the helicopter to hook the patient up for the event, the event was still on the charger back at the base because we're brand new to this process of shuttling everything from our base to the airport to the helicopter.
+
+147
+00:30:48,000 --> 00:31:03,000
+And it was a very short flight and the patient did great. So there was no harm in it. But yeah, that was a pretty big example where having a script, having a checklist definitely comes in handy.
+
+148
+00:31:03,000 --> 00:31:22,000
+As far as example of having this script for really, really I made it for testing purposes. So just like, okay, this is a new program with quite a few different protocols and what I'm used to.
+
+149
+00:31:22,000 --> 00:31:44,000
+All of the buffering came out with the practice test when I listened to the audio and I forced myself to write down the protocol. And if I didn't remember from top to bottom the protocol, then I would have to highlight those areas and do it again.
+
+150
+00:31:44,000 --> 00:32:04,000
+And I really was successful in hitting pretty much all my protocols doing it that way. So yeah, all the examples of that really came through while practicing for the test before the test came.
+
+151
+00:32:04,000 --> 00:32:14,000
+And now I had the protocols dialed in for applying them to patients. Did that answer your question?
+
+152
+00:32:14,000 --> 00:32:28,000
+Yeah, for sure. Yeah, I guess I'll answer my own question with a very short example. I once I'm when I was a newer medic back in Pittsburgh, tried to pass an ET tube on a patient.
+
+153
+00:32:28,000 --> 00:32:44,000
+And then for whatever reason, it wasn't going through. And somebody looked over my shoulder, like, hey, man, you forgot your style. Yeah, I had a failed attempt because I didn't have a system for how I did things.
+
+154
+00:32:44,000 --> 00:32:56,000
+It was just kind of like a free for all. Hopefully now that wouldn't happen one because I got a lot more experience. But I also have a script to follow. And then we have a checklist that goes with that.
+
+155
+00:32:56,000 --> 00:33:01,000
+So that's just an example of how these things might be valuable in the field.
+
+156
+00:33:01,000 --> 00:33:21,000
+Yeah, for sure. And to follow up with that story, we ended up making checklists of what to grab before you take the UConn back to the pad for everybody to follow.
+
+157
+00:33:21,000 --> 00:33:42,000
+So we don't forget a ventilator or a battery or any number of things that like if you're if something changes up and you have to you have to do something different, it's easy to forget stuff if you don't have a checklist or if you haven't done it a dozen times before that.
+
+158
+00:33:42,000 --> 00:33:53,000
+Yeah, and unfortunately, I think that's how a lot of these a lot of these things come up is something bad happened, some kind of bad outcome transpired. And then we try and like fix the app effect.
+
+159
+00:33:53,000 --> 00:33:58,000
+Yeah, or even near misses. Hopefully more near misses.
+
+160
+00:33:58,000 --> 00:34:15,000
+Yeah, but there definitely is a way to be proactive with this. And I definitely I like the idea of doing these scripts, whether for learning something new or getting familiar protocols at a new agency, or even just dialing in your technique for for something you're already good at.
+
+161
+00:34:15,000 --> 00:34:18,000
+So I definitely appreciate you sharing that with us.
+
+162
+00:34:18,000 --> 00:34:22,000
+Yeah, thanks for having me.
+
+163
+00:34:22,000 --> 00:34:34,000
+And that's pretty much it. Thanks for tuning in. But real quick before we go, just a few shout outs. First is to pragmatic paramedics, another awesome podcast that we highly recommend.
+
+164
+00:34:34,000 --> 00:34:49,000
+Next is to the St. Fisher Church of evidence based medicine. If you don't follow them already, definitely check them out. These guys, both pragmatic paramedics and the St. Fisher folks have been instrumental in getting our stuff out there into the world and we truly appreciate that.
+
+165
+00:34:49,000 --> 00:35:17,000
+And then we'll end things with a shout out to my good friend Josh Pittman and his buddy Kevin Pons. They put the music together for the show. Until next time.

@@ -1,0 +1,3799 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,640
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,640 --> 00:00:15,280
+care medicine.
+
+4
+00:00:15,280 --> 00:00:20,360
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,360 --> 00:00:23,860
+use of technology can facilitate that effort.
+
+6
+00:00:23,860 --> 00:00:29,060
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,060 --> 00:00:36,960
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:36,960 --> 00:00:40,700
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,700 --> 00:00:45,860
+do.
+
+10
+00:00:45,860 --> 00:01:12,500
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:15,860 --> 00:01:20,900
+Thanks for joining.
+
+12
+00:01:20,900 --> 00:01:21,900
+Thanks for having me.
+
+13
+00:01:21,900 --> 00:01:22,900
+Yeah, for sure.
+
+14
+00:01:22,900 --> 00:01:28,940
+So yeah, I guess I just thought we could have a chat.
+
+15
+00:01:28,940 --> 00:01:32,980
+I think I have some questions for you and then you might have some questions for me.
+
+16
+00:01:32,980 --> 00:01:38,260
+We don't really have a lot of structure to this, but cool.
+
+17
+00:01:38,260 --> 00:01:44,980
+So I guess the first thing I was curious about is you are relatively new to flying and how
+
+18
+00:01:44,980 --> 00:01:48,740
+did you get here?
+
+19
+00:01:48,740 --> 00:02:03,060
+Well let's see, I started in the ICU in 2016 and there was a few years of drowning in the
+
+20
+00:02:03,060 --> 00:02:10,020
+education and all the things that we do in the ICU.
+
+21
+00:02:10,020 --> 00:02:18,380
+As I got more, I think a theme I was thinking of before I came over, it was the concept
+
+22
+00:02:18,380 --> 00:02:22,820
+of fake it till you make it.
+
+23
+00:02:22,820 --> 00:02:28,700
+That point it seemed like I was pretty confident in what I was doing and even though internally
+
+24
+00:02:28,700 --> 00:02:34,180
+like I didn't feel that way, I think one of my co-workers at the time was like, yeah,
+
+25
+00:02:34,180 --> 00:02:38,980
+I have been flying for a couple of years, you should start flying.
+
+26
+00:02:38,980 --> 00:02:42,740
+And then it was like, oh, you think I'm ready for that?
+
+27
+00:02:42,740 --> 00:02:46,940
+And then she was like, yeah, you should apply, here's the application.
+
+28
+00:02:46,940 --> 00:02:56,220
+So I started flying for a fix me company and it was all PRN at the time, which was kind
+
+29
+00:02:56,220 --> 00:03:01,300
+of cool for me because I was working full time in the ICU and then I would have my extra
+
+30
+00:03:01,300 --> 00:03:03,740
+days of being on call.
+
+31
+00:03:04,740 --> 00:03:11,140
+Whether we did something or not, you get paid while you're home, so that was pretty sweet.
+
+32
+00:03:11,140 --> 00:03:13,340
+I always knew that I wanted to go into flight.
+
+33
+00:03:13,340 --> 00:03:19,340
+When I got into nursing school, it was like, okay, eventually I'm going to do flight.
+
+34
+00:03:19,340 --> 00:03:28,620
+So I worked there for like four years or so before I came to Air Mythids.
+
+35
+00:03:28,620 --> 00:03:35,500
+The last year, it's completely different from what I was doing before in a good way,
+
+36
+00:03:35,500 --> 00:03:36,500
+I think.
+
+37
+00:03:36,500 --> 00:03:43,500
+But yeah, to answer your question more shortly, I always knew I wanted to fly.
+
+38
+00:03:43,500 --> 00:03:45,540
+That's kind of always been a goal of mine.
+
+39
+00:03:45,540 --> 00:03:51,180
+And the hospital you're working at, you were in an ICU and as a trauma surgical ICU, right
+
+40
+00:03:51,180 --> 00:03:52,180
+on.
+
+41
+00:03:52,180 --> 00:03:55,180
+Yeah, so yeah, you know what that's like.
+
+42
+00:03:55,180 --> 00:03:56,180
+For sure.
+
+43
+00:03:56,180 --> 00:03:58,180
+And we would do everything.
+
+44
+00:03:58,740 --> 00:04:02,580
+Yeah, and then some background for everyone, like Morgan and I work together in the ICU
+
+45
+00:04:02,580 --> 00:04:06,380
+and now we work at the same base for Care Flight here in Santa Fe.
+
+46
+00:04:06,380 --> 00:04:11,300
+Or up there in Santa Fe, elsewhere in Albuquerque.
+
+47
+00:04:11,300 --> 00:04:17,340
+So how has it been like the transition from like bedside nursing into like fixed-wing
+
+48
+00:04:17,340 --> 00:04:18,340
+flight and then into rotors?
+
+49
+00:04:18,340 --> 00:04:22,740
+Because I think that's a question that like a lot of people have when they're considering
+
+50
+00:04:22,740 --> 00:04:27,020
+whether they want to get into this whole scene in general.
+
+51
+00:04:27,020 --> 00:04:38,180
+Yeah, I think it was pretty similar to starting out in a sub-acute floor and going to an ICU,
+
+52
+00:04:38,180 --> 00:04:48,300
+like a busy ICU where you have these expectations and there's just things that you're expected
+
+53
+00:04:48,300 --> 00:04:50,940
+to know and do in the ICU.
+
+54
+00:04:50,940 --> 00:04:55,420
+Kind of similar to me in that sense going from fixed-wing to rotor.
+
+55
+00:04:55,420 --> 00:05:02,180
+It was like, okay, now you've learned some things here, apply that and then add on top
+
+56
+00:05:02,180 --> 00:05:11,340
+of all of the other aeromedical stuff, aeronautical stuff, flight physiology and logistics that
+
+57
+00:05:11,340 --> 00:05:18,180
+you just don't see in an ICU or in a hospital or a space.
+
+58
+00:05:18,180 --> 00:05:22,500
+The pre-hospital stuff is, it was quite overwhelming for me at first.
+
+59
+00:05:22,500 --> 00:05:23,500
+Yeah.
+
+60
+00:05:23,580 --> 00:05:25,740
+It's also like the different patient populations.
+
+61
+00:05:25,740 --> 00:05:33,260
+In the nursing side, we tend to be pigeonholed into one specific patient set.
+
+62
+00:05:33,260 --> 00:05:34,980
+In our ICU, we never see kids.
+
+63
+00:05:34,980 --> 00:05:35,980
+We rarely see kids.
+
+64
+00:05:35,980 --> 00:05:36,980
+Right.
+
+65
+00:05:36,980 --> 00:05:37,980
+Yeah.
+
+66
+00:05:37,980 --> 00:05:39,020
+Definitely not babies.
+
+67
+00:05:39,020 --> 00:05:40,020
+Or pregnant women.
+
+68
+00:05:40,020 --> 00:05:41,020
+Yeah, totally.
+
+69
+00:05:41,020 --> 00:05:49,140
+I remember like a few times where you get a younger kid that comes into the ICU or pregnant
+
+70
+00:05:49,140 --> 00:05:57,180
+woman or post hemorrhage or whatever.
+
+71
+00:05:57,180 --> 00:05:59,340
+It's like, well, what do you mean?
+
+72
+00:05:59,340 --> 00:06:02,420
+I don't know what I'm doing here.
+
+73
+00:06:02,420 --> 00:06:04,420
+Yeah, for sure.
+
+74
+00:06:04,420 --> 00:06:06,420
+Yeah.
+
+75
+00:06:06,420 --> 00:06:16,020
+I think that aspect has been challenging for sure in a rotor setting.
+
+76
+00:06:16,020 --> 00:06:20,300
+You're still getting fed information with a fire hose.
+
+77
+00:06:20,300 --> 00:06:29,460
+It's only been a little over a year for me in that arena, so it still feels pretty.
+
+78
+00:06:29,460 --> 00:06:32,420
+It can feel overwhelming sometimes.
+
+79
+00:06:32,420 --> 00:06:36,700
+Currently I just got through a bunch of quarterly innovations and quarterly stuff that we have
+
+80
+00:06:36,700 --> 00:06:37,700
+to do.
+
+81
+00:06:37,700 --> 00:06:45,500
+It's like stressing to get that done before the 20th while studying for my CFRN.
+
+82
+00:06:46,500 --> 00:06:47,500
+When you test?
+
+83
+00:06:47,500 --> 00:06:48,500
+Next month.
+
+84
+00:06:48,500 --> 00:06:49,500
+Nice.
+
+85
+00:06:49,500 --> 00:06:50,500
+Yeah.
+
+86
+00:06:50,500 --> 00:06:55,260
+I'm not looking forward to it.
+
+87
+00:06:55,260 --> 00:06:58,820
+Yes, it's a necessary evil in the process.
+
+88
+00:06:58,820 --> 00:07:05,620
+It's weird to do a certification that your job requires you to have.
+
+89
+00:07:05,620 --> 00:07:12,220
+There's this added pressure of like, yeah, if I fail again, then I lose my job?
+
+90
+00:07:12,220 --> 00:07:13,220
+That sucks.
+
+91
+00:07:13,220 --> 00:07:16,660
+Yeah, because I guess normally you would get the certification first, so it's behind
+
+92
+00:07:16,660 --> 00:07:19,540
+you before you transition into the job.
+
+93
+00:07:19,540 --> 00:07:21,860
+Interesting.
+
+94
+00:07:21,860 --> 00:07:24,300
+Did you have your CFRN before you started flying?
+
+95
+00:07:24,300 --> 00:07:25,300
+I did.
+
+96
+00:07:25,300 --> 00:07:31,940
+Well, I kind of went about it in a different way because I flew as a medic first.
+
+97
+00:07:31,940 --> 00:07:38,340
+I had my FPC already before I got my nursing degree.
+
+98
+00:07:38,340 --> 00:07:45,980
+At the time we had a different transition process for medics to become nurses.
+
+99
+00:07:45,980 --> 00:07:51,260
+I was a nurse and was working in both the ER and ICU, but I was still getting paid in
+
+100
+00:07:51,260 --> 00:07:53,820
+flight as a medic.
+
+101
+00:07:53,820 --> 00:07:58,020
+In protest, I just took all my advanced certs and was like, you guys should pay me more.
+
+102
+00:07:58,020 --> 00:07:59,020
+They were like, no.
+
+103
+00:07:59,020 --> 00:08:02,580
+I was like, cool, I'm going to leave.
+
+104
+00:08:02,580 --> 00:08:04,580
+Then let me come back eventually.
+
+105
+00:08:04,580 --> 00:08:06,140
+That's why I did it that way.
+
+106
+00:08:06,140 --> 00:08:13,620
+I thought maybe I could shift the seas of the giant company if I like, straw-garb them
+
+107
+00:08:13,620 --> 00:08:15,220
+in with all my pieces of paper.
+
+108
+00:08:15,220 --> 00:08:18,660
+They're very sad in their ways.
+
+109
+00:08:18,660 --> 00:08:19,660
+Yeah, totally.
+
+110
+00:08:19,660 --> 00:08:20,660
+That's okay.
+
+111
+00:08:20,660 --> 00:08:23,500
+They let me come back eventually, so it's fine.
+
+112
+00:08:23,500 --> 00:08:31,260
+I think in that, just hearing your story about it, it seems compared to where I'm at right
+
+113
+00:08:31,260 --> 00:08:37,020
+now mentally, I'm freaking out about this certification.
+
+114
+00:08:37,020 --> 00:08:39,340
+I failed once already.
+
+115
+00:08:39,340 --> 00:08:45,180
+I'm re-studying, doing it again, and going to retest.
+
+116
+00:08:45,180 --> 00:08:47,220
+You had your FPC.
+
+117
+00:08:47,220 --> 00:08:50,660
+You just went to nurses who were like, well, I'm just going to take this test now.
+
+118
+00:08:50,660 --> 00:08:53,460
+Yeah, it's safe stuff.
+
+119
+00:08:53,460 --> 00:08:58,500
+I think I'm also pretty lucky in that that I've always done pretty well at taking tests.
+
+120
+00:08:58,500 --> 00:09:02,060
+I recognize that is not the case for a lot of people.
+
+121
+00:09:02,060 --> 00:09:03,060
+Sure.
+
+122
+00:09:03,060 --> 00:09:06,100
+I think BPA had an unfair advantage in that.
+
+123
+00:09:06,100 --> 00:09:10,060
+Yeah, I mean, it is what it is, right?
+
+124
+00:09:10,060 --> 00:09:11,060
+Yeah, totally.
+
+125
+00:09:11,060 --> 00:09:12,060
+Everybody has their own thing.
+
+126
+00:09:12,060 --> 00:09:13,900
+I've always struggled taking tests.
+
+127
+00:09:13,900 --> 00:09:15,900
+It's just who I am.
+
+128
+00:09:15,900 --> 00:09:17,260
+You'll figure it out.
+
+129
+00:09:17,260 --> 00:09:18,260
+I'm not worried.
+
+130
+00:09:18,260 --> 00:09:20,260
+Yeah, it'll be fine.
+
+131
+00:09:20,260 --> 00:09:21,260
+Really.
+
+132
+00:09:21,260 --> 00:09:28,420
+Then another question I had for you is, you did all of your nursing time in the...
+
+133
+00:09:28,660 --> 00:09:29,660
+inpatient side.
+
+134
+00:09:29,660 --> 00:09:36,780
+How do you think about, like in hindsight, do you think there's value in getting ER experience
+
+135
+00:09:36,780 --> 00:09:37,780
+as well?
+
+136
+00:09:37,780 --> 00:09:42,260
+Most people come to flight either with ER experience or ICU experience.
+
+137
+00:09:42,260 --> 00:09:46,940
+Occasionally, we see people have both, but normally, most nurses follow one track or
+
+138
+00:09:46,940 --> 00:09:47,940
+the other.
+
+139
+00:09:47,940 --> 00:09:51,940
+What are your thoughts on that?
+
+140
+00:09:51,940 --> 00:09:56,900
+I think it would depend on where you're at.
+
+141
+00:09:57,900 --> 00:10:05,420
+I've talked to a few people recently that work full time in the ER and don't really
+
+142
+00:10:05,420 --> 00:10:16,540
+have a lot of experience with titrating drips or using multiple drips to get a certain effect
+
+143
+00:10:16,540 --> 00:10:19,740
+or a certain outcome.
+
+144
+00:10:19,740 --> 00:10:28,500
+I think it would be pretty helpful to have more experience with pediatrics because that's
+
+145
+00:10:28,500 --> 00:10:33,420
+always a source of contention with people in general.
+
+146
+00:10:33,420 --> 00:10:38,340
+I think the universal thought is, peeds are just challenging in general.
+
+147
+00:10:38,340 --> 00:10:39,340
+Yeah, kids are scary.
+
+148
+00:10:39,340 --> 00:10:40,340
+Yeah.
+
+149
+00:10:40,340 --> 00:10:41,340
+Sure.
+
+150
+00:10:41,340 --> 00:10:48,340
+I personally, had I thought about that ahead of time, I probably would have tried to do
+
+151
+00:10:49,340 --> 00:10:56,340
+some more time in pediatrics, not so much in like NICU specific or working in the ER
+
+152
+00:10:58,420 --> 00:11:04,860
+in the hopes that I would get some peeds here and there, but actually, go work in the PICU.
+
+153
+00:11:04,860 --> 00:11:07,820
+Go work in the Peds ED.
+
+154
+00:11:07,820 --> 00:11:10,820
+That I think would be beneficial.
+
+155
+00:11:10,820 --> 00:11:16,820
+Yeah, especially at a hospital like UNM where they have a dedicated PDR, so it's an available
+
+156
+00:11:16,820 --> 00:11:17,820
+option.
+
+157
+00:11:18,820 --> 00:11:22,820
+The flip side of that though, I think is, does it really matter?
+
+158
+00:11:22,820 --> 00:11:23,820
+No.
+
+159
+00:11:23,820 --> 00:11:24,820
+For sure.
+
+160
+00:11:24,820 --> 00:11:25,820
+Yeah, that's one thing.
+
+161
+00:11:25,820 --> 00:11:29,820
+I don't know if we ever had this conversation when you were looking to come fly.
+
+162
+00:11:29,820 --> 00:11:36,220
+All you have to do is I'm oversimplifying here, but to get into a flight program is
+
+163
+00:11:36,220 --> 00:11:40,220
+you have to demonstrate that you're not an asshole and that you're trainable.
+
+164
+00:11:40,220 --> 00:11:45,220
+Then you get along with people and they will teach you the things that you don't know yet.
+
+165
+00:11:45,220 --> 00:11:49,420
+But expecting people to know how to operate in an aircraft when they've never done it
+
+166
+00:11:49,420 --> 00:11:50,420
+is unfair.
+
+167
+00:11:50,420 --> 00:11:55,420
+Expecting someone to know how to take care of a sick OB patient or a kid when they've
+
+168
+00:11:55,420 --> 00:11:58,420
+never done it, that's unrealistic.
+
+169
+00:11:58,420 --> 00:12:05,420
+Also, even when you train, I think we're going to get to this, but I got lucky I think in
+
+170
+00:12:07,660 --> 00:12:14,660
+that I had a lot of time to train in a rotor during my orientation.
+
+171
+00:12:14,780 --> 00:12:16,100
+People don't get that at all.
+
+172
+00:12:16,100 --> 00:12:20,820
+They're training on fixed wing and then they're coming to a rotor base and they're like,
+
+173
+00:12:20,820 --> 00:12:23,340
+well, I've never even flown in a helicopter.
+
+174
+00:12:23,340 --> 00:12:25,380
+How do you expect me to work now?
+
+175
+00:12:25,380 --> 00:12:30,780
+Yeah, that's how it was for me because when I started here, we didn't have any, we only
+
+176
+00:12:30,780 --> 00:12:33,140
+had A-stars in the state.
+
+177
+00:12:33,140 --> 00:12:36,580
+All of my orientation was a fixed wing.
+
+178
+00:12:36,580 --> 00:12:40,980
+Your first rotor shift is the first time you're putting on your helmet, NVGs and going to
+
+179
+00:12:40,980 --> 00:12:42,060
+a scene flight.
+
+180
+00:12:42,060 --> 00:12:47,540
+I was lucky that I had some background in the EMS side, but I can't imagine coming into
+
+181
+00:12:47,540 --> 00:12:54,540
+that scene, not having done that, trying to manage your first scene without ...
+
+182
+00:12:55,780 --> 00:13:02,780
+I think that's what I came to realize is the more challenging part of Air Medical is the
+
+183
+00:13:02,780 --> 00:13:07,780
+stuff that you just have no exposure to.
+
+184
+00:13:07,780 --> 00:13:12,780
+When I went on my first scene call, luckily I was with somebody that knew what they were
+
+185
+00:13:12,780 --> 00:13:18,780
+doing because I was just like this lost puppy wandering around like, yeah, I can carry that.
+
+186
+00:13:18,780 --> 00:13:19,780
+I can do that.
+
+187
+00:13:19,780 --> 00:13:22,780
+We're like, sure, sure, whatever.
+
+188
+00:13:22,780 --> 00:13:23,780
+Totally.
+
+189
+00:13:23,780 --> 00:13:27,780
+Just like running around, not really being efficient in any way.
+
+190
+00:13:27,780 --> 00:13:28,780
+Yeah.
+
+191
+00:13:29,780 --> 00:13:34,780
+I think it's also worth remembering that that's fine.
+
+192
+00:13:34,780 --> 00:13:35,780
+Yeah.
+
+193
+00:13:35,780 --> 00:13:41,780
+I think we tend to have this perception, we as ground EMS people and nurse in the hospital,
+
+194
+00:13:41,780 --> 00:13:43,780
+that the flight crew is like ...
+
+195
+00:13:43,780 --> 00:13:44,780
+I know exactly what they're doing.
+
+196
+00:13:44,780 --> 00:13:45,780
+Yeah, they're on it all the time.
+
+197
+00:13:45,780 --> 00:13:46,780
+Yeah.
+
+198
+00:13:46,780 --> 00:13:47,780
+They just wear cool pajamas.
+
+199
+00:13:47,780 --> 00:13:48,780
+Yeah.
+
+200
+00:13:48,780 --> 00:13:49,780
+That's it.
+
+201
+00:13:49,780 --> 00:13:50,780
+Yeah.
+
+202
+00:13:50,780 --> 00:13:54,780
+It has been an interesting experience to see that firsthand too.
+
+203
+00:13:54,780 --> 00:14:01,780
+I walk into a room and I'm like, shitting my pants about what we're about to do and
+
+204
+00:14:01,780 --> 00:14:02,780
+what's going to happen.
+
+205
+00:14:02,780 --> 00:14:04,780
+Everybody's looking at you like, okay, what's next?
+
+206
+00:14:04,780 --> 00:14:06,780
+I'm like, I don't know.
+
+207
+00:14:06,780 --> 00:14:07,780
+Yeah.
+
+208
+00:14:07,780 --> 00:14:13,780
+Sometimes you just got to do something or convince everyone else to do nothing.
+
+209
+00:14:13,780 --> 00:14:15,780
+Just like make a decision one way or the other.
+
+210
+00:14:15,780 --> 00:14:20,780
+You don't necessarily have to do stuff, but voice a decision and it's probably going to
+
+211
+00:14:20,780 --> 00:14:21,780
+be fine.
+
+212
+00:14:21,780 --> 00:14:27,780
+Then going back to this fake it till you make it concept.
+
+213
+00:14:27,780 --> 00:14:39,780
+I think it's very useful and it can be pretty prevalent in critical care space in general.
+
+214
+00:14:39,780 --> 00:14:43,780
+It totally helped me get from where I was to where I am.
+
+215
+00:14:43,780 --> 00:14:50,780
+In the process, I still struggle with imposter syndrome.
+
+216
+00:14:50,780 --> 00:14:56,780
+There's a lot that I know and there's a whole lot that I don't know.
+
+217
+00:14:56,780 --> 00:14:57,780
+Yeah.
+
+218
+00:14:57,780 --> 00:15:06,260
+Then being able to recognize that and have the humility to be like, well, let's confer
+
+219
+00:15:06,260 --> 00:15:07,500
+with someone else.
+
+220
+00:15:07,500 --> 00:15:12,460
+Let's get some help from someone else or figure that out.
+
+221
+00:15:12,460 --> 00:15:17,180
+I think is still a pretty key attribute to have.
+
+222
+00:15:17,180 --> 00:15:18,180
+Yeah.
+
+223
+00:15:18,180 --> 00:15:20,180
+I think that's normal.
+
+224
+00:15:20,180 --> 00:15:28,180
+I think if you ever get to a situation where you never have any doubt about what you're
+
+225
+00:15:28,180 --> 00:15:35,020
+doing, probably just not looking hard enough for sure.
+
+226
+00:15:35,020 --> 00:15:40,340
+I think that is a healthy response because you don't want to be overconfident in what
+
+227
+00:15:40,340 --> 00:15:42,220
+you're doing.
+
+228
+00:15:42,220 --> 00:15:44,940
+Even for me, I've been flying for a long time now.
+
+229
+00:15:44,940 --> 00:15:53,260
+I started flying in 2013 and I forgot the blood at the base the other day going on a
+
+230
+00:15:53,260 --> 00:15:54,260
+seed flight.
+
+231
+00:15:54,260 --> 00:15:55,940
+It's like, yeah, it happens.
+
+232
+00:15:55,940 --> 00:15:58,860
+You make mistakes and it's part of the game.
+
+233
+00:15:58,860 --> 00:15:59,860
+Yeah.
+
+234
+00:15:59,860 --> 00:16:00,860
+But then owning it.
+
+235
+00:16:00,860 --> 00:16:01,860
+Totally.
+
+236
+00:16:01,860 --> 00:16:03,020
+The owning it is the.
+
+237
+00:16:03,020 --> 00:16:04,020
+For sure.
+
+238
+00:16:04,020 --> 00:16:05,020
+Yeah.
+
+239
+00:16:05,020 --> 00:16:07,020
+We had to like, yeah, we figured it out.
+
+240
+00:16:07,020 --> 00:16:08,020
+It was fine.
+
+241
+00:16:08,020 --> 00:16:09,020
+Yeah.
+
+242
+00:16:09,020 --> 00:16:10,020
+Pinching.
+
+243
+00:16:10,020 --> 00:16:11,020
+Yeah.
+
+244
+00:16:11,020 --> 00:16:12,660
+It's like, I've been out blood for a long time.
+
+245
+00:16:12,660 --> 00:16:13,660
+Yeah.
+
+246
+00:16:13,660 --> 00:16:15,660
+But does make you feel really silly and that's okay.
+
+247
+00:16:15,660 --> 00:16:16,660
+That's part of it.
+
+248
+00:16:16,660 --> 00:16:17,660
+Yeah.
+
+249
+00:16:17,660 --> 00:16:21,500
+If everything was easy, the appeal of the job would be different.
+
+250
+00:16:21,500 --> 00:16:22,500
+Yeah.
+
+251
+00:16:22,500 --> 00:16:30,060
+I think my clinical director knows me by name and when I'm on shift, usually expects a call
+
+252
+00:16:30,060 --> 00:16:36,940
+on early morning or after shift to have some sort of conversation or explanation of something
+
+253
+00:16:36,940 --> 00:16:39,540
+I did different or wrong or whatever.
+
+254
+00:16:39,540 --> 00:16:40,540
+Yeah.
+
+255
+00:16:41,060 --> 00:16:42,060
+And that's totally fine.
+
+256
+00:16:42,060 --> 00:16:46,100
+Not that I'm like a terrible clinician, which is what it kind of making myself up to be.
+
+257
+00:16:46,100 --> 00:16:49,500
+But they, if you were terrible, you probably wouldn't still be worth a year.
+
+258
+00:16:49,500 --> 00:16:52,500
+So yeah.
+
+259
+00:16:52,500 --> 00:17:01,060
+So yeah, I think, I think it's natural to get into the flight world with the skills you
+
+260
+00:17:01,060 --> 00:17:03,740
+have and then develop as you go.
+
+261
+00:17:03,740 --> 00:17:04,740
+For sure.
+
+262
+00:17:04,740 --> 00:17:05,740
+Yeah.
+
+263
+00:17:05,740 --> 00:17:07,740
+It totally makes sense.
+
+264
+00:17:07,740 --> 00:17:08,740
+Yeah.
+
+265
+00:17:08,740 --> 00:17:14,580
+So having made it through this, I guess you could call it like a prolonged transition
+
+266
+00:17:14,580 --> 00:17:21,860
+period from like bedside nursing into flight, you've kind of started a project to help other
+
+267
+00:17:21,860 --> 00:17:24,140
+people navigate this transition as well.
+
+268
+00:17:24,140 --> 00:17:25,860
+You want to talk about that a bit?
+
+269
+00:17:25,860 --> 00:17:26,860
+Yeah.
+
+270
+00:17:26,860 --> 00:17:29,460
+So I started a school group.
+
+271
+00:17:29,460 --> 00:17:31,060
+Are you familiar with school?
+
+272
+00:17:31,060 --> 00:17:32,460
+Only through your project.
+
+273
+00:17:32,460 --> 00:17:34,620
+So it's a pretty cool application.
+
+274
+00:17:35,500 --> 00:17:45,340
+I was developed by some guys that wanted to combine creating a community with monetizing
+
+275
+00:17:45,340 --> 00:17:47,420
+it somehow.
+
+276
+00:17:47,420 --> 00:17:53,940
+And so they've done all the back end work on the pages and the applications that you
+
+277
+00:17:53,940 --> 00:17:56,780
+can set up, setting up links and all of that.
+
+278
+00:17:56,780 --> 00:17:59,940
+And so it was pretty easy to set up.
+
+279
+00:17:59,940 --> 00:18:09,980
+But the overall goal really for me was coming out of working in the ICU.
+
+280
+00:18:09,980 --> 00:18:13,540
+You work with a set of people pretty much consistently.
+
+281
+00:18:13,540 --> 00:18:18,940
+You're training people daily, educating yourself and educating them.
+
+282
+00:18:18,940 --> 00:18:23,860
+I always felt like the best way for me to learn things is to try and learn it and then
+
+283
+00:18:23,860 --> 00:18:25,540
+teach it to someone else.
+
+284
+00:18:25,540 --> 00:18:34,940
+And I think UNM is pretty pro that just being like the teaching hospital that it is.
+
+285
+00:18:34,940 --> 00:18:41,180
+You're expected to train people right off orientation essentially.
+
+286
+00:18:41,180 --> 00:18:53,860
+And so then not having that kind of community or space where I'm teaching someone else something.
+
+287
+00:18:53,860 --> 00:19:03,500
+And also, I mean, the guys at the base, you guys are all really knowledgeable.
+
+288
+00:19:03,500 --> 00:19:09,620
+And so it's really been cool to learn from you guys about it.
+
+289
+00:19:09,620 --> 00:19:19,540
+But also then have a space where people can come talk about their struggles, talk about
+
+290
+00:19:19,540 --> 00:19:21,540
+cases that were challenging.
+
+291
+00:19:21,540 --> 00:19:27,500
+Because sometimes you go through a situation and then you come out the other side like
+
+292
+00:19:27,500 --> 00:19:28,940
+what really happened there?
+
+293
+00:19:28,940 --> 00:19:34,980
+I'm not really sure how we got from where we were to where we went and what we did in
+
+294
+00:19:34,980 --> 00:19:36,980
+between.
+
+295
+00:19:36,980 --> 00:19:45,580
+So to bring those cases, bring those challenging situations or scenarios and get a different
+
+296
+00:19:45,580 --> 00:19:50,220
+perspective because that has always really helped me.
+
+297
+00:19:50,220 --> 00:19:54,740
+So that's really been the goal for me to create a space that people can do that in.
+
+298
+00:19:54,740 --> 00:19:58,900
+And it's been pretty cool.
+
+299
+00:19:58,900 --> 00:20:05,780
+There's some new people that I think are hopefully getting some benefit out of the group.
+
+300
+00:20:05,780 --> 00:20:07,660
+There's a lot of experience.
+
+301
+00:20:07,660 --> 00:20:08,660
+You're in there.
+
+302
+00:20:08,660 --> 00:20:11,100
+You've got a ton of experience.
+
+303
+00:20:11,100 --> 00:20:19,380
+Derek Grassley, he's been there for a while and he's always posting new things.
+
+304
+00:20:19,380 --> 00:20:22,020
+Things that I didn't really ever think to do.
+
+305
+00:20:22,020 --> 00:20:31,500
+So being able to pool that kind of knowledge and make it a safe space to share what we're
+
+306
+00:20:31,500 --> 00:20:32,500
+dealing with.
+
+307
+00:20:32,500 --> 00:20:33,500
+For sure.
+
+308
+00:20:33,500 --> 00:20:35,060
+That's been the goal for it.
+
+309
+00:20:35,060 --> 00:20:43,500
+And particularly with our program, it's a pretty distinct difference between clinician
+
+310
+00:20:43,500 --> 00:20:44,500
+and educator.
+
+311
+00:20:44,500 --> 00:20:49,340
+There are some exceptions there, but for the most part, we tend to separate that.
+
+312
+00:20:49,340 --> 00:20:52,700
+Which is very different from how it's done at the hospital we came from.
+
+313
+00:20:52,700 --> 00:20:58,780
+But yeah, that was kind of a similar motivation for me starting this whole project was having
+
+314
+00:20:58,780 --> 00:21:06,220
+a platform to iron out those details about complicated things or trying to explain something
+
+315
+00:21:06,220 --> 00:21:10,620
+that you think you know and then you go to write it down or make a video on it and you're
+
+316
+00:21:10,620 --> 00:21:11,620
+like, wait a second.
+
+317
+00:21:11,620 --> 00:21:14,300
+This is not coming out how I thought it would.
+
+318
+00:21:14,300 --> 00:21:18,620
+Maybe I don't know this as well as I did or as I thought I did.
+
+319
+00:21:18,620 --> 00:21:19,620
+So yeah, that's cool.
+
+320
+00:21:19,620 --> 00:21:29,460
+Well, and that's a cool, I think it takes humility and awareness, right?
+
+321
+00:21:29,460 --> 00:21:32,900
+To look at something and be like, oh yeah, I know this.
+
+322
+00:21:32,900 --> 00:21:34,300
+And then start to talk about it.
+
+323
+00:21:34,300 --> 00:21:36,300
+You're like, wait a second.
+
+324
+00:21:36,300 --> 00:21:38,140
+I don't think this is actually right.
+
+325
+00:21:38,140 --> 00:21:39,140
+Totally.
+
+326
+00:21:39,140 --> 00:21:45,620
+But to have then a sounding board, like someone to talk to, some group of people to bring
+
+327
+00:21:45,620 --> 00:21:51,140
+that to and be like, does anybody else have any other experience with this?
+
+328
+00:21:51,140 --> 00:21:55,380
+That's always been a big proponent or I've been a big proponent for that.
+
+329
+00:21:55,380 --> 00:21:58,940
+But also then taking that information and like, oh yeah, okay.
+
+330
+00:21:58,940 --> 00:22:01,460
+So I can learn something from it.
+
+331
+00:22:01,460 --> 00:22:03,980
+Yeah, yeah, that's cool.
+
+332
+00:22:03,980 --> 00:22:08,620
+And you also have like, I guess you call it a social media presence that accompanies
+
+333
+00:22:08,620 --> 00:22:09,620
+that.
+
+334
+00:22:10,620 --> 00:22:19,820
+So yeah, with the, really the school group is the platform that I'm sending people to
+
+335
+00:22:19,820 --> 00:22:21,620
+through the Instagram page.
+
+336
+00:22:21,620 --> 00:22:28,660
+And the Instagram page is more of like the marketing side of it, I would say.
+
+337
+00:22:28,660 --> 00:22:36,780
+And so I've been learning how to make reels and kind of try and make them interesting,
+
+338
+00:22:36,780 --> 00:22:37,940
+catch people's attention.
+
+339
+00:22:37,940 --> 00:22:43,820
+And then they start to, like hopefully then they're scrolling through the comments or
+
+340
+00:22:43,820 --> 00:22:48,860
+the commentary and getting the link to the school group.
+
+341
+00:22:48,860 --> 00:22:49,860
+Yeah.
+
+342
+00:22:49,860 --> 00:22:50,860
+Yeah.
+
+343
+00:22:50,860 --> 00:22:53,220
+I think for my project, it's been a little different, but I definitely have learned how
+
+344
+00:22:53,220 --> 00:23:01,700
+to do a lot of things on like the tech side that I wouldn't have ever learned before.
+
+345
+00:23:01,700 --> 00:23:08,740
+Like I mean the podcast thing, like managing RSS feed, like editing videos and like making
+
+346
+00:23:08,740 --> 00:23:10,420
+graphics on the computer.
+
+347
+00:23:10,420 --> 00:23:11,420
+It's been kind of cool.
+
+348
+00:23:11,420 --> 00:23:14,060
+There's nothing else just for like developing that skillset.
+
+349
+00:23:14,060 --> 00:23:15,060
+Yeah.
+
+350
+00:23:15,060 --> 00:23:19,180
+Which is funny now because like, you know, like some people, they can do the things that
+
+351
+00:23:19,180 --> 00:23:22,340
+take me like hours to do and they just like happened so fast because they grew up doing
+
+352
+00:23:22,340 --> 00:23:23,340
+that.
+
+353
+00:23:23,340 --> 00:23:24,340
+Yeah.
+
+354
+00:23:24,340 --> 00:23:25,340
+Makes me feel like a little bit old.
+
+355
+00:23:25,340 --> 00:23:26,340
+Yeah.
+
+356
+00:23:26,340 --> 00:23:27,340
+But yeah, it's been cool to learn.
+
+357
+00:23:27,340 --> 00:23:28,340
+Yeah.
+
+358
+00:23:28,340 --> 00:23:31,500
+No, I feel the same.
+
+359
+00:23:32,500 --> 00:23:37,300
+I'm getting better at it now, but like when I first started it, it would take me like
+
+360
+00:23:37,300 --> 00:23:40,060
+an hour or something to like make one real.
+
+361
+00:23:40,060 --> 00:23:41,060
+Totally.
+
+362
+00:23:41,060 --> 00:23:44,220
+And yeah, so now it's getting faster.
+
+363
+00:23:44,220 --> 00:23:45,220
+Yeah.
+
+364
+00:23:45,220 --> 00:23:48,980
+After you start, I'm starting to like struggle with ideas like, oh, what am I going to talk
+
+365
+00:23:48,980 --> 00:23:49,980
+about now?
+
+366
+00:23:49,980 --> 00:23:50,980
+Yeah.
+
+367
+00:23:50,980 --> 00:23:55,540
+And that's definitely like something very different between like how you do your social
+
+368
+00:23:55,540 --> 00:23:59,660
+media stuff and I do because you've kind of like set a goal to like post things every
+
+369
+00:23:59,660 --> 00:24:05,260
+day where I post like sometimes like I have time in a week and I post a couple of times
+
+370
+00:24:05,260 --> 00:24:07,620
+and sometimes it's like months between things.
+
+371
+00:24:07,620 --> 00:24:08,620
+Yeah.
+
+372
+00:24:08,620 --> 00:24:09,620
+It's like radio sounds for a while.
+
+373
+00:24:09,620 --> 00:24:10,620
+Yeah.
+
+374
+00:24:10,620 --> 00:24:14,980
+But yeah, I've never felt that pressure to like come up with ideas because I just have
+
+375
+00:24:14,980 --> 00:24:17,580
+like a continual backlog on my phone.
+
+376
+00:24:17,580 --> 00:24:20,020
+Like, okay, someday when I have time, I'll do these things.
+
+377
+00:24:20,020 --> 00:24:21,020
+Nice.
+
+378
+00:24:21,020 --> 00:24:22,620
+But yeah, that's interesting.
+
+379
+00:24:22,620 --> 00:24:23,620
+Yeah.
+
+380
+00:24:23,620 --> 00:24:31,820
+And the research and stuff that I've put into learning how to be a better social media,
+
+381
+00:24:31,820 --> 00:24:39,140
+you know, influencer or video maker or whatever, you know, the algorithm has its own brain
+
+382
+00:24:39,140 --> 00:24:46,740
+and you really have to do things in a certain way to make the algorithm push your stuff
+
+383
+00:24:46,740 --> 00:24:47,740
+out.
+
+384
+00:24:47,740 --> 00:24:49,740
+Interesting.
+
+385
+00:24:49,740 --> 00:24:57,100
+Because otherwise, you can you just posting when you want to and not that that's bad.
+
+386
+00:24:57,100 --> 00:25:00,460
+Like that's yeah, it was like a different motivation for sure.
+
+387
+00:25:00,460 --> 00:25:01,540
+Right.
+
+388
+00:25:01,540 --> 00:25:09,220
+But I have found like, this is the third social media page that I've started.
+
+389
+00:25:09,220 --> 00:25:13,020
+And like my other one died because I wasn't posting enough.
+
+390
+00:25:13,020 --> 00:25:19,620
+And so there's like, you know, there's like 10 followers and it doesn't ever grow.
+
+391
+00:25:20,140 --> 00:25:29,540
+Somehow, you know, in then you start to get into this, like, okay, at what point do I
+
+392
+00:25:29,540 --> 00:25:37,020
+do I take quality over quantity for sure, because I'm just trying to post three reels
+
+393
+00:25:37,020 --> 00:25:44,860
+a day that can be challenging in itself to have enough stuff to enough media to post
+
+394
+00:25:44,860 --> 00:25:46,780
+and things to talk about.
+
+395
+00:25:46,780 --> 00:25:57,740
+But but yeah, at some point, I think I'm going to have to switch more to like a person or
+
+396
+00:25:57,740 --> 00:26:05,500
+an in person presence for sure and then have more quality stuff than than just quality.
+
+397
+00:26:05,500 --> 00:26:06,500
+Yeah.
+
+398
+00:26:06,500 --> 00:26:07,500
+Yeah.
+
+399
+00:26:07,500 --> 00:26:11,580
+And I found like, from my stuff, a lot of the value that I get back out of it is just
+
+400
+00:26:11,580 --> 00:26:16,300
+in like messages and comments on stuff like the dialogue that comes from whatever you're
+
+401
+00:26:16,300 --> 00:26:17,700
+doing to get people's attention.
+
+402
+00:26:17,700 --> 00:26:18,700
+Yeah.
+
+403
+00:26:18,700 --> 00:26:23,660
+Like maybe someone doesn't actually like care to read the whole thing you posted, but they
+
+404
+00:26:23,660 --> 00:26:27,380
+like the idea or they like picked out a picture that they recognize or something like that.
+
+405
+00:26:27,380 --> 00:26:28,780
+And they like reach out about it.
+
+406
+00:26:28,780 --> 00:26:29,780
+Yeah.
+
+407
+00:26:29,780 --> 00:26:30,780
+So I think that's pretty cool.
+
+408
+00:26:30,780 --> 00:26:31,780
+Yeah.
+
+409
+00:26:31,780 --> 00:26:38,260
+No, and I do like the like I made a real it's been a few weeks now.
+
+410
+00:26:38,260 --> 00:26:44,020
+And in the moment, it was just something to get out there.
+
+411
+00:26:44,020 --> 00:26:47,460
+Like it's literally they has no value to me whatsoever.
+
+412
+00:26:47,460 --> 00:26:50,620
+Like it's literally me like turning the monitor on and off.
+
+413
+00:26:50,620 --> 00:26:57,340
+And then I said something like I because I haven't before flight, I never used the Zoll
+
+414
+00:26:57,340 --> 00:26:59,020
+monitor.
+
+415
+00:26:59,020 --> 00:27:03,300
+And I was like, sometimes I miss the Philips bedside monitor because you can take a blood
+
+416
+00:27:03,300 --> 00:27:06,480
+pressure and is exactly what you think it's going to be.
+
+417
+00:27:06,480 --> 00:27:09,020
+You know that that's the correct value.
+
+418
+00:27:09,020 --> 00:27:12,620
+You know, in a helicopter, it's not that way sometimes.
+
+419
+00:27:12,620 --> 00:27:17,700
+And so many people have taught have been talking about that that one year, it's got
+
+420
+00:27:17,700 --> 00:27:20,180
+like 50,000 views and they're sharing it.
+
+421
+00:27:20,180 --> 00:27:21,180
+Oh, wow.
+
+422
+00:27:21,180 --> 00:27:24,260
+This holds no clinical values at all.
+
+423
+00:27:24,260 --> 00:27:31,100
+Like huh, it's kind of interesting what whether it's the algorithm or whether it's like people,
+
+424
+00:27:31,100 --> 00:27:32,100
+I don't know.
+
+425
+00:27:32,100 --> 00:27:33,100
+But huh.
+
+426
+00:27:33,100 --> 00:27:38,220
+Yeah, I had a video that I made like a couple years back and it was just like, you know,
+
+427
+00:27:38,220 --> 00:27:41,660
+there's like different like one person techniques you can do for a bougie where you like flip
+
+428
+00:27:41,660 --> 00:27:44,580
+it around and like, um, poke it through the eyelet.
+
+429
+00:27:44,580 --> 00:27:48,900
+Yeah, like I did a video and I posted on Instagram and got like, I don't know, like handful of
+
+430
+00:27:48,900 --> 00:27:49,900
+views couple.
+
+431
+00:27:49,900 --> 00:27:50,900
+I don't know.
+
+432
+00:27:50,900 --> 00:27:52,340
+I was like viewed like a couple thousand times.
+
+433
+00:27:52,340 --> 00:27:58,060
+But a few months ago, somebody sent me my video and someone it was like, this like metal
+
+434
+00:27:58,060 --> 00:27:59,460
+music track over top of it.
+
+435
+00:27:59,460 --> 00:28:01,660
+And I had like hundreds of thousands of views on TikTok.
+
+436
+00:28:01,660 --> 00:28:03,740
+And I was like, what the fuck?
+
+437
+00:28:03,740 --> 00:28:04,740
+How does that happen?
+
+438
+00:28:04,740 --> 00:28:09,140
+Yeah, I mean, it's I think it's partly the algorithm.
+
+439
+00:28:09,140 --> 00:28:16,500
+I think it's partly, you know, what, what people are sharing at the time.
+
+440
+00:28:16,500 --> 00:28:18,700
+Yeah, for sure.
+
+441
+00:28:18,700 --> 00:28:21,500
+But but yeah, it's it's been a fun.
+
+442
+00:28:21,500 --> 00:28:27,420
+It's been a fun project and a fun thing to learn about kind of on the side.
+
+443
+00:28:27,420 --> 00:28:28,420
+Yeah.
+
+444
+00:28:28,420 --> 00:28:31,780
+I'm not sure what the sound is there.
+
+445
+00:28:31,780 --> 00:28:33,780
+What is the instruction?
+
+446
+00:28:33,780 --> 00:28:35,820
+Yeah, what's the the hope with it?
+
+447
+00:28:35,820 --> 00:28:42,260
+You mentioned that you maybe have to like change your strategy or eventually like what
+
+448
+00:28:42,260 --> 00:28:44,260
+do you do you see it going?
+
+449
+00:28:44,260 --> 00:28:54,820
+Yeah, I mean, right now I think it's kind of in its infancy, trying to just create followers
+
+450
+00:28:54,820 --> 00:29:00,540
+and learn kind of where I'm going with it.
+
+451
+00:29:00,540 --> 00:29:09,860
+Most of my stuff that I put out right now is kind of on, you know, like the mental aspect
+
+452
+00:29:09,860 --> 00:29:16,260
+of nursing and flight, just because that's where I'm at, I think.
+
+453
+00:29:16,260 --> 00:29:22,020
+So I think it will change as I as I change.
+
+454
+00:29:22,020 --> 00:29:29,260
+You mean like, just working in the setting in general, like working in health care?
+
+455
+00:29:30,260 --> 00:29:37,980
+And also, like, you know, we have a challenging job, like we do a lot of things.
+
+456
+00:29:37,980 --> 00:29:45,380
+I'm made aware most of the days that I'm home that not a lot of people can do the job we
+
+457
+00:29:45,380 --> 00:29:46,380
+do.
+
+458
+00:29:46,380 --> 00:29:50,100
+My wife hates hearing about the stories that I have.
+
+459
+00:29:50,100 --> 00:29:54,420
+And she like doesn't want to listen to me, doesn't want to like have a conversation about
+
+460
+00:29:54,420 --> 00:29:56,620
+them.
+
+461
+00:29:56,620 --> 00:30:00,660
+And like when I go out and people ask what I do and I say I'm a flight nurse and they're
+
+462
+00:30:00,660 --> 00:30:03,740
+like, oh my God, like how do you do that?
+
+463
+00:30:03,740 --> 00:30:11,140
+So anyway, the point I think is that we have a challenging job and it is good to recognize
+
+464
+00:30:11,140 --> 00:30:12,140
+that.
+
+465
+00:30:12,140 --> 00:30:13,140
+For sure.
+
+466
+00:30:13,140 --> 00:30:16,660
+Because it's easy to get burnt out.
+
+467
+00:30:16,660 --> 00:30:23,300
+I mean, the burnout rate for clinicians is something like 65%.
+
+468
+00:30:23,300 --> 00:30:24,980
+We're always in a nursing shortage.
+
+469
+00:30:24,980 --> 00:30:27,700
+We're always in a provider shortage.
+
+470
+00:30:27,700 --> 00:30:32,100
+There's more people leaving health care than there are coming in.
+
+471
+00:30:32,100 --> 00:30:42,780
+And so I think it's cool and useful to build awareness for and also share some of the tips
+
+472
+00:30:42,780 --> 00:30:47,940
+and tricks and things that I've learned along the way that hopefully benefit other people.
+
+473
+00:30:47,940 --> 00:30:48,940
+Yeah, for sure.
+
+474
+00:30:48,940 --> 00:30:54,540
+Yeah, and I think some of that does like crossover to the general population, but definitely
+
+475
+00:30:54,580 --> 00:31:02,580
+it's like more apparent for folks in our field, like just the cumulative exposure to like
+
+476
+00:31:02,580 --> 00:31:06,300
+shitty fucked up things is definitely above average.
+
+477
+00:31:06,300 --> 00:31:07,300
+Yeah.
+
+478
+00:31:07,300 --> 00:31:08,300
+Yeah.
+
+479
+00:31:08,300 --> 00:31:19,140
+In the ICU too versus in critical care, it's one of the highest assault areas in the world,
+
+480
+00:31:19,140 --> 00:31:21,220
+in the country, probably in the world.
+
+481
+00:31:21,220 --> 00:31:25,140
+I don't know that statistic, but in the country for sure.
+
+482
+00:31:25,140 --> 00:31:31,940
+And yeah, it's shitty and we still choose to do it anyway.
+
+483
+00:31:31,940 --> 00:31:33,940
+So yeah.
+
+484
+00:31:33,940 --> 00:31:39,140
+Moving on to something less sad.
+
+485
+00:31:39,140 --> 00:31:43,100
+Transitioning into flight, what is your favorite part about working in flight?
+
+486
+00:31:43,100 --> 00:31:45,820
+Like the lifestyle that affords you?
+
+487
+00:31:45,820 --> 00:31:54,140
+Well, I mean the days off for sure are awesome.
+
+488
+00:31:54,140 --> 00:31:57,980
+I don't think I know of anywhere that you can work two days a week.
+
+489
+00:31:57,980 --> 00:31:59,380
+Yeah, it's pretty rad.
+
+490
+00:31:59,380 --> 00:32:03,380
+So that's pretty sweet.
+
+491
+00:32:03,380 --> 00:32:07,980
+And sorry, what was the question where?
+
+492
+00:32:07,980 --> 00:32:08,980
+Like what do you like?
+
+493
+00:32:08,980 --> 00:32:09,980
+My favorite thing?
+
+494
+00:32:09,980 --> 00:32:10,980
+Transition to flight.
+
+495
+00:32:10,980 --> 00:32:11,980
+It's very distracting.
+
+496
+00:32:11,980 --> 00:32:12,980
+It is very distracting.
+
+497
+00:32:12,980 --> 00:32:30,740
+I have really enjoyed the scene call and like getting to fly around in helicopters
+
+498
+00:32:30,740 --> 00:32:32,740
+just like super rad.
+
+499
+00:32:32,740 --> 00:32:35,220
+It's super fun.
+
+500
+00:32:35,220 --> 00:32:42,580
+But then like, you know, like one of my favorite things about working in the ICU was when I
+
+501
+00:32:42,580 --> 00:32:48,260
+would recover an open heart patient and it would just be me in a room with this critically
+
+502
+00:32:48,260 --> 00:32:55,180
+ill patient managing all the drips, managing all the chest tubes and outputs and, you know,
+
+503
+00:32:55,180 --> 00:33:01,740
+finding things that could go wrong and preventing them from happening along the same lines in
+
+504
+00:33:01,740 --> 00:33:02,740
+flight.
+
+505
+00:33:02,740 --> 00:33:06,660
+You're doing the same thing except with way less information.
+
+506
+00:33:06,660 --> 00:33:07,660
+Totally.
+
+507
+00:33:07,660 --> 00:33:14,900
+Like you show up to a place and you have no idea what this person's background is, what
+
+508
+00:33:14,900 --> 00:33:21,980
+they do on their free time and you have to figure out how to get them from point A to
+
+509
+00:33:21,980 --> 00:33:31,740
+point B as stable as possible and work with another human being to do that.
+
+510
+00:33:31,740 --> 00:33:36,140
+And there's just a lot of different variables that go into that.
+
+511
+00:33:36,140 --> 00:33:45,740
+But like that part has been really challenging and enjoying that challenge has been cool
+
+512
+00:33:45,740 --> 00:33:49,020
+for me to see in myself.
+
+513
+00:33:49,020 --> 00:33:57,500
+You know, you like learn this other person's way of communicating and, you know, thought
+
+514
+00:33:57,500 --> 00:34:04,300
+process and you can then start to like, you know, just start doing things and they're
+
+515
+00:34:04,300 --> 00:34:09,520
+right there backing you up or doing the same thing on their end or whatever.
+
+516
+00:34:09,520 --> 00:34:18,060
+It's like this weird little, I don't know, microcosm of like things that you're all just
+
+517
+00:34:18,060 --> 00:34:23,700
+like compiling together to like for one immediate goal.
+
+518
+00:34:23,700 --> 00:34:24,700
+Yeah.
+
+519
+00:34:24,700 --> 00:34:25,700
+And on a time crunch.
+
+520
+00:34:25,700 --> 00:34:26,700
+And on a time crunch.
+
+521
+00:34:26,700 --> 00:34:27,700
+Yeah, that's cool.
+
+522
+00:34:27,700 --> 00:34:35,420
+I particularly like that aspect of it, but also it sticks up on you.
+
+523
+00:34:35,420 --> 00:34:40,300
+You know, like most of the flights we do are pretty routine.
+
+524
+00:34:40,300 --> 00:34:44,620
+All of a sudden you're like sleeping in your cozy bed at two o'clock in the morning and
+
+525
+00:34:44,620 --> 00:34:50,900
+then you get woken up and you're expected to perform in coordination with your other
+
+526
+00:34:50,900 --> 00:34:52,820
+with your partner clinician at like a very high level.
+
+527
+00:34:52,820 --> 00:34:59,300
+Like I like that challenge of going from just like baseline chilling the base or sleeping
+
+528
+00:34:59,300 --> 00:35:01,300
+like having to be on it right away.
+
+529
+00:35:01,300 --> 00:35:03,300
+I think that's really cool.
+
+530
+00:35:03,300 --> 00:35:07,260
+That's something we don't get in the hospital side so much.
+
+531
+00:35:07,260 --> 00:35:11,220
+Like we get very, very sick patients that are in our ICU.
+
+532
+00:35:11,220 --> 00:35:15,220
+But you have time, you know, you can prep, you can look through the chart, like you can
+
+533
+00:35:15,220 --> 00:35:17,780
+figure out the story before you get all your shit set up.
+
+534
+00:35:17,780 --> 00:35:18,780
+So you're like ready to go.
+
+535
+00:35:18,780 --> 00:35:19,780
+You're like, I got this.
+
+536
+00:35:19,780 --> 00:35:21,620
+I know ahead of time before they get here that I got it.
+
+537
+00:35:21,620 --> 00:35:24,900
+You don't have time to do that in flight, which is cool, but you still have to do it.
+
+538
+00:35:24,900 --> 00:35:25,900
+Yeah.
+
+539
+00:35:25,900 --> 00:35:26,900
+Yeah.
+
+540
+00:35:26,900 --> 00:35:27,900
+I think that's really neat.
+
+541
+00:35:27,900 --> 00:35:34,500
+The other thing that I think has been particularly interesting for me is like I'm a planner.
+
+542
+00:35:34,500 --> 00:35:35,660
+Like I like to plan things out.
+
+543
+00:35:35,660 --> 00:35:36,900
+I like to know ahead of time.
+
+544
+00:35:36,900 --> 00:35:42,500
+So like, you know, I definitely have that ICU brain where I'm like, all right, I can prep
+
+545
+00:35:42,500 --> 00:35:45,260
+for all these things.
+
+546
+00:35:45,260 --> 00:35:52,020
+But not having that information ahead of time has forced me to like think about things
+
+547
+00:35:52,020 --> 00:35:54,500
+that could go wrong.
+
+548
+00:35:54,500 --> 00:36:01,940
+And then, okay, then what things am I going to need in a pinch?
+
+549
+00:36:01,940 --> 00:36:09,660
+And so that has been really interesting and challenging for me to adapt to.
+
+550
+00:36:09,660 --> 00:36:13,900
+But still kind of along the same lines.
+
+551
+00:36:13,900 --> 00:36:14,900
+Yeah.
+
+552
+00:36:14,900 --> 00:36:19,300
+Well, I think that's all the questions I had.
+
+553
+00:36:19,300 --> 00:36:20,300
+Okay.
+
+554
+00:36:20,300 --> 00:36:21,300
+For you.
+
+555
+00:36:21,300 --> 00:36:22,300
+Yeah.
+
+556
+00:36:22,300 --> 00:36:23,300
+Yeah.
+
+557
+00:36:23,300 --> 00:36:28,780
+I wanted to ask about, so you have been flying, you said for since 2013.
+
+558
+00:36:28,780 --> 00:36:29,780
+Yeah.
+
+559
+00:36:29,780 --> 00:36:30,940
+But not consistently the whole time.
+
+560
+00:36:30,940 --> 00:36:36,300
+I'd like come and gone a couple of times, but like the majority of the last like 11
+
+561
+00:36:36,300 --> 00:36:38,140
+or 12 years.
+
+562
+00:36:38,140 --> 00:36:39,140
+Yeah.
+
+563
+00:36:39,140 --> 00:36:52,980
+So you have, you've been able to kind of do a lot of different things within the same
+
+564
+00:36:52,980 --> 00:36:59,860
+kind of context of being a medic, being a nurse, being in critical care.
+
+565
+00:36:59,860 --> 00:37:06,820
+And so I was curious about how you got into DMAT and you know what that is.
+
+566
+00:37:06,820 --> 00:37:07,980
+Yeah.
+
+567
+00:37:07,980 --> 00:37:13,500
+So the DMAT is a disaster medical assistance team.
+
+568
+00:37:13,500 --> 00:37:20,460
+So basically the federal government has a number of teams that respond in a medical
+
+569
+00:37:20,460 --> 00:37:26,380
+capacity to disasters, mostly here in the US, but every once in a blue moon, a team
+
+570
+00:37:26,380 --> 00:37:30,060
+will get sent overseas.
+
+571
+00:37:30,060 --> 00:37:36,100
+And yeah, I first learned about the whole DMAT program.
+
+572
+00:37:36,100 --> 00:37:39,020
+I took a class years ago when I first moved out to New Mexico.
+
+573
+00:37:39,020 --> 00:37:46,740
+So it's like over 10 years ago, I took a class up in Seattle with this group called
+
+574
+00:37:46,740 --> 00:37:47,940
+Remote Medical International.
+
+575
+00:37:47,940 --> 00:37:52,740
+They used to do this class that was called remote medicine for the advanced provider.
+
+576
+00:37:52,740 --> 00:37:58,500
+So it's for like medics, nurses, mid-levels, physicians to like kind of teach you how to
+
+577
+00:37:58,500 --> 00:38:02,820
+operate as a, like an expedition lead in an outdoor setting.
+
+578
+00:38:02,820 --> 00:38:07,300
+And one of the guys who was in my class, he was a medic with...
+
+579
+00:38:07,300 --> 00:38:10,660
+So is that kind of similar to search and rescue?
+
+580
+00:38:10,660 --> 00:38:16,300
+A little bit different in that this particular class was more for like, let's say you're
+
+581
+00:38:16,300 --> 00:38:20,580
+going on like a back country trip or you're hired as a medical provider for an expedition,
+
+582
+00:38:20,580 --> 00:38:26,300
+like how to plan for that in general, like which equipment to bring from the front country
+
+583
+00:38:26,300 --> 00:38:32,540
+to the back country, how to improvise the things that you ought to be improvising, how
+
+584
+00:38:32,540 --> 00:38:37,620
+to like know when like you should just take the piece of equipment and not improvise,
+
+585
+00:38:37,620 --> 00:38:41,100
+how to decide which medications to take, all of that.
+
+586
+00:38:41,100 --> 00:38:45,540
+So more like on the planning and logistics side of that versus like search and rescue
+
+587
+00:38:45,540 --> 00:38:49,340
+where like someone's lost and like, kind of like in our situation where you just like
+
+588
+00:38:49,340 --> 00:38:52,660
+go on a call out basis to fight them.
+
+589
+00:38:52,660 --> 00:38:58,380
+But anyways, one of the medics in that class, he was a King County Medic 1 paramedic and
+
+590
+00:38:58,380 --> 00:39:03,260
+he was on the Washington State DMAT team and he mentioned it to me.
+
+591
+00:39:03,260 --> 00:39:10,460
+So at the time I reached out to try to like find something about our DMAT here in New
+
+592
+00:39:10,460 --> 00:39:14,060
+Mexico because I, you know, through searching on the Googles, I found out that we had a
+
+593
+00:39:14,060 --> 00:39:15,060
+team.
+
+594
+00:39:15,060 --> 00:39:21,540
+It turns out that Kevin Knapp, who was also a medic at our base in Santa Fe is the assistant
+
+595
+00:39:21,540 --> 00:39:25,540
+team commander for New Mexico DMAT.
+
+596
+00:39:25,540 --> 00:39:31,420
+So I had a phone call with him like almost a decade ago and he was like, yeah, you should
+
+597
+00:39:31,420 --> 00:39:34,980
+put in for our team whenever we like open hiring again.
+
+598
+00:39:34,980 --> 00:39:40,300
+The time is like pretty convoluted for like how to get in on the team.
+
+599
+00:39:40,300 --> 00:39:45,140
+So it was like years later that I finally got assigned to the DMAT program in general.
+
+600
+00:39:45,140 --> 00:39:49,860
+At that time I was on contract in Seattle, like doing a travel nursing contract.
+
+601
+00:39:49,860 --> 00:39:53,180
+So I got assigned to like the Washington State team.
+
+602
+00:39:53,180 --> 00:39:55,700
+And then when I finally finished my orientation, I was on a contract in Reno.
+
+603
+00:39:55,700 --> 00:39:57,620
+So they put me, they moved me to the California team.
+
+604
+00:39:57,620 --> 00:40:02,100
+And then when I moved back to New Mexico a few years ago, I finally made it to New Mexico
+
+605
+00:40:02,100 --> 00:40:03,100
+1 DMAT.
+
+606
+00:40:03,100 --> 00:40:04,100
+Wow.
+
+607
+00:40:04,100 --> 00:40:05,700
+So it was a little bit of a convoluted process.
+
+608
+00:40:05,700 --> 00:40:06,700
+I think now.
+
+609
+00:40:06,700 --> 00:40:07,700
+It's been a long process.
+
+610
+00:40:07,700 --> 00:40:08,700
+Yeah.
+
+611
+00:40:08,700 --> 00:40:13,660
+Now it's a little more streamlined, although there are some complications with like, yeah,
+
+612
+00:40:13,660 --> 00:40:15,060
+like federal hiring at the moment.
+
+613
+00:40:16,060 --> 00:40:21,820
+But it's a pretty cool program in that we basically take call.
+
+614
+00:40:21,820 --> 00:40:25,100
+Our team is on call for two or three months every year.
+
+615
+00:40:25,100 --> 00:40:28,340
+And then when we're on call, if we get deployed, we just like pack up as a team and hop on
+
+616
+00:40:28,340 --> 00:40:32,180
+a plane and go to wherever this disaster happens to be.
+
+617
+00:40:32,180 --> 00:40:35,060
+So so far I've been out twice.
+
+618
+00:40:35,060 --> 00:40:42,740
+One of them, I went to American Samoa a couple of years back for like a COVID response.
+
+619
+00:40:42,740 --> 00:40:48,700
+And then most recently I was in North Carolina for Hurricane Helene this best fall.
+
+620
+00:40:48,700 --> 00:40:53,860
+So that is completely unrelated to your trips to Ukraine and Gaza?
+
+621
+00:40:53,860 --> 00:40:54,860
+Unrelated.
+
+622
+00:40:54,860 --> 00:40:55,860
+Okay.
+
+623
+00:40:55,860 --> 00:40:56,860
+Yeah.
+
+624
+00:40:56,860 --> 00:41:01,700
+So the DMAT stuff is like here through a federal program.
+
+625
+00:41:01,700 --> 00:41:06,140
+So it's like a, it's like a normal job in that, like when I get deployed, I get paid
+
+626
+00:41:06,140 --> 00:41:07,140
+for it.
+
+627
+00:41:08,140 --> 00:41:13,540
+But I've been interested in that general like disaster and humanitarian response field for
+
+628
+00:41:13,540 --> 00:41:14,900
+a long time.
+
+629
+00:41:14,900 --> 00:41:19,780
+And through that interest is how I ended up both in Gaza and the couple of trips I've
+
+630
+00:41:19,780 --> 00:41:23,140
+been over to Ukraine with.
+
+631
+00:41:23,140 --> 00:41:29,060
+When I was younger, before I got really like vested in the healthcare space, like I would
+
+632
+00:41:29,060 --> 00:41:33,940
+occasionally like travel and like do some volunteer work with like different like humanitarian
+
+633
+00:41:33,940 --> 00:41:34,940
+projects.
+
+634
+00:41:34,940 --> 00:41:40,420
+I think like the first time I left the country when I was a kid, I went to maybe in like
+
+635
+00:41:40,420 --> 00:41:50,580
+seventh grade, I went to Guatemala with like a church project that was basically someone
+
+636
+00:41:50,580 --> 00:41:53,300
+years ago, I had like gone to this little village and they put a well at the top of
+
+637
+00:41:53,300 --> 00:41:54,420
+this mountain.
+
+638
+00:41:54,420 --> 00:41:59,140
+And every summer they would go back and like run the piping from the well to another village
+
+639
+00:41:59,140 --> 00:42:01,140
+to like provide water to people.
+
+640
+00:42:01,140 --> 00:42:03,940
+And my brother had gone the year before me, he was a couple of years older than me and
+
+641
+00:42:03,940 --> 00:42:06,700
+he had a great time and he convinced me to go with him.
+
+642
+00:42:06,700 --> 00:42:11,940
+So we like sold donuts at church on Sundays for like six months, like raise money so we
+
+643
+00:42:11,940 --> 00:42:14,940
+could like go on the strip with the church group.
+
+644
+00:42:14,940 --> 00:42:18,700
+But that kind of like sparked an interest in like doing that kind of thing, like both
+
+645
+00:42:18,700 --> 00:42:20,980
+like traveling and getting like forward aid.
+
+646
+00:42:20,980 --> 00:42:24,060
+Yeah, like getting out of the country, like putting yourself in a situation where like
+
+647
+00:42:24,060 --> 00:42:26,820
+you have no idea what's going on.
+
+648
+00:42:26,820 --> 00:42:29,180
+And also like finding a way to like give back.
+
+649
+00:42:29,180 --> 00:42:35,100
+And then like as I got older and like was a medic and a nurse, like I eventually realized
+
+650
+00:42:35,100 --> 00:42:36,100
+that I could do both.
+
+651
+00:42:36,100 --> 00:42:42,460
+Like I could do that kind of like international travel and help and also like work in my field.
+
+652
+00:42:42,460 --> 00:42:46,900
+So I've done a lot of different projects over the years.
+
+653
+00:42:46,900 --> 00:42:50,140
+Yeah, like working in healthcare overseas.
+
+654
+00:42:50,140 --> 00:42:59,300
+And it's kind of like by chance it kind of evolved into like more like high risk in like
+
+655
+00:42:59,300 --> 00:43:00,300
+conflict stuff.
+
+656
+00:43:00,300 --> 00:43:03,700
+That wasn't really by design.
+
+657
+00:43:03,700 --> 00:43:10,940
+It just sort of like happened that I was like working for a nonprofit that like they also
+
+658
+00:43:10,940 --> 00:43:15,660
+worked in that space and they kind of included me in some of their projects that kind of
+
+659
+00:43:15,660 --> 00:43:17,460
+pushed me in that direction.
+
+660
+00:43:17,460 --> 00:43:18,460
+Cool.
+
+661
+00:43:18,460 --> 00:43:19,460
+Yeah.
+
+662
+00:43:20,420 --> 00:43:23,020
+So back up a second.
+
+663
+00:43:23,020 --> 00:43:27,820
+So it's unrelated, but kind of related to your trips to Ukraine and Gaza.
+
+664
+00:43:27,820 --> 00:43:34,260
+How did you so these are just like you found people along your travels or knowing people
+
+665
+00:43:34,260 --> 00:43:37,580
+within DMAT that kind of do this other.
+
+666
+00:43:37,580 --> 00:43:43,660
+Yeah, not necessarily within DMAT, but like in that, like the community of like medical
+
+667
+00:43:43,660 --> 00:43:48,300
+providers who like work overseas is like fairly small and it's kind of segmented.
+
+668
+00:43:48,300 --> 00:43:52,380
+There's like a lot of folks who like work in disaster response.
+
+669
+00:43:52,380 --> 00:43:56,980
+There's another like group of folks who work in the humanitarian response.
+
+670
+00:43:56,980 --> 00:43:59,940
+And then there's like a smaller group over here that works like in like the more high
+
+671
+00:43:59,940 --> 00:44:01,220
+risk settings.
+
+672
+00:44:01,220 --> 00:44:03,220
+The overlap between them like it kind of varies.
+
+673
+00:44:03,220 --> 00:44:08,100
+You know, there's some people who like straddle two or three of those, but I've been kind
+
+674
+00:44:08,100 --> 00:44:11,740
+of like exploring opportunities in like all of those spaces for a while.
+
+675
+00:44:11,740 --> 00:44:17,620
+So it's kind of, I guess at this point, like I have a fairly well established network so
+
+676
+00:44:17,620 --> 00:44:23,180
+that when something comes up, like I often like am in the loop on like who is putting
+
+677
+00:44:23,180 --> 00:44:27,700
+a roster together to get a team there and what they're doing.
+
+678
+00:44:27,700 --> 00:44:32,940
+So yeah, it took me a long time to like get into that field.
+
+679
+00:44:32,940 --> 00:44:37,940
+Like you, like for people who are like interested in like pursuing that type of work, a lot
+
+680
+00:44:37,940 --> 00:44:45,020
+of like stuff, a lot of opportunities are available where you kind of like pay to volunteer,
+
+681
+00:44:45,020 --> 00:44:48,780
+like you pay your own way to get that experience.
+
+682
+00:44:48,780 --> 00:44:53,020
+But then once you have done that a couple times, then you like know people in the field
+
+683
+00:44:53,020 --> 00:44:58,300
+and they reach out to you and then then like the next step would be to like find projects
+
+684
+00:44:58,300 --> 00:45:01,940
+that are funded where you can actually get your travel paid for or stipend or maybe even
+
+685
+00:45:01,940 --> 00:45:04,940
+like make some money off of it.
+
+686
+00:45:04,940 --> 00:45:10,620
+That kind of goes back to like what we were talking about getting into flight, right?
+
+687
+00:45:10,620 --> 00:45:16,940
+You have to still be like a cool person, like you have to work well with other people.
+
+688
+00:45:16,940 --> 00:45:19,060
+You have to know your shit.
+
+689
+00:45:19,060 --> 00:45:20,380
+Yeah, for sure.
+
+690
+00:45:20,380 --> 00:45:25,740
+Especially for like more committing things, things that are like maybe considered to be
+
+691
+00:45:25,740 --> 00:45:26,740
+a little more dangerous.
+
+692
+00:45:26,740 --> 00:45:31,420
+Like you don't really know like how you're going to do in that setting until you're there.
+
+693
+00:45:31,420 --> 00:45:36,860
+But you sort of have to like prove to someone that like you're at least competent in like
+
+694
+00:45:36,860 --> 00:45:40,180
+the medical side that you're doing and then you like you get along with people and then
+
+695
+00:45:40,220 --> 00:45:42,860
+you're like open to things being a little like unknown.
+
+696
+00:45:42,860 --> 00:45:43,860
+Yeah.
+
+697
+00:45:43,860 --> 00:45:45,620
+And then you like try something a little more challenging.
+
+698
+00:45:45,620 --> 00:45:46,620
+That goes well.
+
+699
+00:45:46,620 --> 00:45:49,060
+Yeah, you just kind of like keep going.
+
+700
+00:45:49,060 --> 00:45:50,060
+Yeah.
+
+701
+00:45:50,060 --> 00:45:51,060
+Yeah.
+
+702
+00:45:51,060 --> 00:45:52,780
+No, I think that's so cool.
+
+703
+00:45:52,780 --> 00:46:00,020
+If I, you know, were 10 years younger and didn't have as many responsibilities as I
+
+704
+00:46:00,020 --> 00:46:04,500
+do, I would totally jump on that.
+
+705
+00:46:04,500 --> 00:46:10,780
+But I wanted to, I wanted to kind of, and this is cool segue, but like I wanted to get
+
+706
+00:46:10,780 --> 00:46:18,860
+into more of what you have experienced overseas with, you know, your trips to Gaza and Ukraine
+
+707
+00:46:18,860 --> 00:46:30,500
+kind of, and specifically in how your experiences as a flight nurse and being a medic have contributed
+
+708
+00:46:30,500 --> 00:46:34,860
+to your success over there with, you know, whatever clinical aspects came up.
+
+709
+00:46:34,860 --> 00:46:35,860
+Yeah.
+
+710
+00:46:35,860 --> 00:46:43,420
+So the first time I went over to Ukraine was like right after the initial full scale invasion.
+
+711
+00:46:43,420 --> 00:46:47,220
+And there was a nonprofit that I was working with at the time.
+
+712
+00:46:47,220 --> 00:46:51,220
+I wasn't working full time for them, but I had done some work with them before.
+
+713
+00:46:51,220 --> 00:46:54,660
+So they brought me on to go over to Ukraine with them.
+
+714
+00:46:54,660 --> 00:47:00,940
+And we got tasked as part of this like working group to help set up a medevac program to
+
+715
+00:47:00,940 --> 00:47:03,860
+like move patients.
+
+716
+00:47:03,860 --> 00:47:09,140
+Initially it was like from Western Ukraine, like far away from the front from Western
+
+717
+00:47:09,140 --> 00:47:11,620
+Ukraine across the border into Poland.
+
+718
+00:47:11,620 --> 00:47:17,420
+And then we coordinated with air medical assets, like in Europe to like fly them to other places
+
+719
+00:47:17,420 --> 00:47:20,900
+to get their like reconstructive surgery done.
+
+720
+00:47:20,900 --> 00:47:30,740
+And then eventually that project kind of moved further East to where now they're rendezvousing
+
+721
+00:47:30,740 --> 00:47:37,020
+with like ambulances coming from the frontline to pick up patients or picking up patients
+
+722
+00:47:37,020 --> 00:47:41,300
+and like smaller facilities closer to the frontline and moving them back to hospitals
+
+723
+00:47:41,300 --> 00:47:42,660
+in Ukraine.
+
+724
+00:47:42,660 --> 00:47:46,160
+And then other people are taking them like further West.
+
+725
+00:47:46,160 --> 00:47:50,520
+So my, I guess to answer your question, I guess my skillset initially was more like
+
+726
+00:47:50,520 --> 00:47:54,120
+just like knowing how the system works.
+
+727
+00:47:54,120 --> 00:47:56,120
+Yeah.
+
+728
+00:47:56,120 --> 00:48:00,800
+And kind of like working there like in more of a coordination role to get this like project
+
+729
+00:48:00,800 --> 00:48:01,800
+started.
+
+730
+00:48:01,800 --> 00:48:05,200
+And then there was like a little bit of gap from the first time I went over to, I went
+
+731
+00:48:05,200 --> 00:48:09,280
+over again last summer because I was doing like clinicals for MP school.
+
+732
+00:48:09,280 --> 00:48:11,840
+So I kind of like put all my travel on hold for a bit.
+
+733
+00:48:11,840 --> 00:48:16,680
+But when I've been back both last summer and then over the holidays recently, I was
+
+734
+00:48:16,680 --> 00:48:19,520
+working just as a medic in that program.
+
+735
+00:48:19,520 --> 00:48:22,800
+So just transporting patients.
+
+736
+00:48:22,800 --> 00:48:28,320
+So last summer I was there with a another group called artisans rescue and they just
+
+737
+00:48:28,320 --> 00:48:31,120
+do like critical care ambulance transfers.
+
+738
+00:48:31,120 --> 00:48:36,400
+So we're like picking up patients from hospitals, not like super close to the frontline, but
+
+739
+00:48:36,400 --> 00:48:41,160
+in that direction and bringing them back to like a big city where it's a little safer
+
+740
+00:48:41,160 --> 00:48:48,400
+where they can like get their recovery from surgery secured on a neapro D in IPR.
+
+741
+00:48:48,400 --> 00:48:52,160
+Oh yeah, you pro.
+
+742
+00:48:52,160 --> 00:48:56,000
+And then this last time I went back was with a group called caddis.
+
+743
+00:48:56,000 --> 00:49:02,440
+They're a group out of Berlin, another nonprofit, and they were working kind of the same system,
+
+744
+00:49:02,440 --> 00:49:05,320
+but they also work a little further east, like closer to the frontline.
+
+745
+00:49:05,320 --> 00:49:06,920
+So they have bases.
+
+746
+00:49:07,680 --> 00:49:11,800
+Yeah, like one up in sumi, which is up north and the one is still the answer, which is
+
+747
+00:49:11,800 --> 00:49:13,800
+like further east.
+
+748
+00:49:13,800 --> 00:49:16,960
+And we would pick up patients like a little bit further than bring them back either to
+
+749
+00:49:16,960 --> 00:49:19,760
+rendezvous with crews to take them back to neapro or to take them all the way back to
+
+750
+00:49:19,760 --> 00:49:21,800
+neapro.
+
+751
+00:49:21,800 --> 00:49:26,240
+And in both of those situations, we were doing basically the same stuff we do here on the
+
+752
+00:49:26,240 --> 00:49:27,680
+helicopter just in ambulance.
+
+753
+00:49:27,680 --> 00:49:35,360
+So we have like, we use the same vents, we have like IV pumps, we have like, same like
+
+754
+00:49:35,360 --> 00:49:38,640
+similar like pharmacologic capabilities.
+
+755
+00:49:38,640 --> 00:49:43,000
+It's just our patients are all almost all trauma.
+
+756
+00:49:43,000 --> 00:49:47,640
+So it's like slightly different patient set, whereas like here is mostly medical.
+
+757
+00:49:47,640 --> 00:49:49,480
+Yeah.
+
+758
+00:49:49,480 --> 00:49:54,560
+And then this next time I go back in a couple weeks and I'll be working again with a different
+
+759
+00:49:54,560 --> 00:49:55,560
+group.
+
+760
+00:49:55,560 --> 00:50:00,360
+But I'll be in a stabilization point or a stab point as they call it, which is basically
+
+761
+00:50:00,360 --> 00:50:09,640
+like an ER kind of in a like a safe space removed from the frontline where people are
+
+762
+00:50:09,640 --> 00:50:10,640
+coming to you.
+
+763
+00:50:10,640 --> 00:50:17,880
+Yeah, so they're generally transported to the stabilization point via like a military
+
+764
+00:50:17,880 --> 00:50:20,240
+evac like a Casa vac situation.
+
+765
+00:50:20,240 --> 00:50:22,160
+So they bring it to us will stabilize them.
+
+766
+00:50:22,160 --> 00:50:27,400
+If there's surgeons there who can like do initial like damage control surgery, like
+
+767
+00:50:27,400 --> 00:50:32,840
+airway management, chest tube type stuff, stop the bleed, then we will put them on ambulances
+
+768
+00:50:32,840 --> 00:50:34,560
+to do the next leg of things.
+
+769
+00:50:34,560 --> 00:50:35,560
+Cool.
+
+770
+00:50:35,560 --> 00:50:36,560
+Yeah.
+
+771
+00:50:36,560 --> 00:50:42,800
+Are those facilities managed by local agencies or are they, is there a lot of, are you seeing
+
+772
+00:50:42,800 --> 00:50:49,000
+a lot of US soldiers and aid and medical personnel there?
+
+773
+00:50:49,000 --> 00:50:55,880
+It's mostly, most of the healthcare facilities themselves are all Ukrainian.
+
+774
+00:50:55,880 --> 00:51:01,680
+Some of the stabilization points are staffed by international NGOs, NGOs, non-governmental
+
+775
+00:51:01,680 --> 00:51:02,680
+organizations.
+
+776
+00:51:02,680 --> 00:51:06,080
+The ones that they're getting all their funding cut from?
+
+777
+00:51:06,080 --> 00:51:07,080
+The ones from the US.
+
+778
+00:51:07,080 --> 00:51:08,080
+That's a little bit, yeah.
+
+779
+00:51:08,080 --> 00:51:15,120
+The US ones, but to be fair, like most in that space, most of those facilities, most
+
+780
+00:51:15,120 --> 00:51:20,480
+of those stabilization points don't get any kind of like funding from programs like USAID
+
+781
+00:51:20,480 --> 00:51:25,040
+or anything like that because they are affiliated directly with military units.
+
+782
+00:51:26,040 --> 00:51:33,080
+In that humanitarian space, there are like some overarching principles of humanitarian
+
+783
+00:51:33,080 --> 00:51:35,600
+aid and one of them is that you have to be impartial.
+
+784
+00:51:35,600 --> 00:51:41,920
+You kind of like separate yourself from funding sources if you are tied to any kind of like
+
+785
+00:51:41,920 --> 00:51:43,800
+combat unit.
+
+786
+00:51:43,800 --> 00:51:51,840
+Most of those organizations that work in that space in particular, they don't get any like
+
+787
+00:51:51,840 --> 00:51:53,360
+funding other than private donations.
+
+788
+00:51:53,360 --> 00:51:54,360
+Interesting.
+
+789
+00:51:55,360 --> 00:52:02,160
+Other groups that work like further away, some of them do get funding whether like through
+
+790
+00:52:02,160 --> 00:52:07,080
+the WHO or through like the country where their organization is based.
+
+791
+00:52:09,080 --> 00:52:11,080
+Wow, that's really cool, man.
+
+792
+00:52:11,080 --> 00:52:17,080
+That's, I've always, over the last whatever, it's been like year, year and a half, two
+
+793
+00:52:17,080 --> 00:52:19,080
+years since I've known you.
+
+794
+00:52:20,080 --> 00:52:26,680
+I've always been interested in hearing your, you're taking your stories from those trips
+
+795
+00:52:26,680 --> 00:52:36,480
+that you do and it's very admirable but also like, you know, we talked about a little bit
+
+796
+00:52:36,480 --> 00:52:38,840
+about getting outside your comfort zone.
+
+797
+00:52:38,840 --> 00:52:48,560
+That's just got to be some of the more stressful situations, not being able to speak the language
+
+798
+00:52:48,560 --> 00:52:50,560
+unless you are fluent in Ukrainian.
+
+799
+00:52:50,560 --> 00:52:51,560
+I am not.
+
+800
+00:52:54,560 --> 00:53:02,840
+I know you speak Spanish pretty well but so yeah, I mean, how do you feel like you deal
+
+801
+00:53:02,840 --> 00:53:10,080
+with that being able to do that job that you're familiar with that you've been doing for some
+
+802
+00:53:10,080 --> 00:53:15,760
+amount of years in an environment that is completely foreign and you don't speak the
+
+803
+00:53:15,760 --> 00:53:16,760
+language?
+
+804
+00:53:16,760 --> 00:53:19,720
+I think initially it was an unknown.
+
+805
+00:53:19,720 --> 00:53:27,160
+When I first got into doing medical stuff internationally or even just traveling internationally,
+
+806
+00:53:27,160 --> 00:53:30,760
+I always got a little bit nervous and then you realize, okay, even if I don't speak the
+
+807
+00:53:30,760 --> 00:53:31,760
+language, I can get around.
+
+808
+00:53:31,760 --> 00:53:35,520
+I can feed myself and find some more safe to sleep, right?
+
+809
+00:53:35,520 --> 00:53:41,480
+And then next step is can you do your job in another setting and then you figure out
+
+810
+00:53:41,480 --> 00:53:46,280
+that okay, it's uncomfortable but I can do this.
+
+811
+00:53:47,280 --> 00:53:53,280
+Then you add in a safety factor, can I still do this if it's dangerous?
+
+812
+00:53:53,280 --> 00:54:00,680
+And then if I'm responsible for other people in the setting and then I just stepwise, I've
+
+813
+00:54:00,680 --> 00:54:04,280
+discovered that I don't suck at it.
+
+814
+00:54:04,280 --> 00:54:07,280
+I'm okay in those settings.
+
+815
+00:54:08,280 --> 00:54:13,280
+I think about this for myself a lot, right?
+
+816
+00:54:13,280 --> 00:54:20,280
+And it's putting yourself in a situation where you're uncomfortable and seeing how you do.
+
+817
+00:54:20,280 --> 00:54:28,680
+Or do you find it as like, okay, I'm going to try and know as much as I can about this
+
+818
+00:54:28,680 --> 00:54:34,680
+particular place, this thing that I'm doing and try and buff up my knowledge about that
+
+819
+00:54:34,680 --> 00:54:37,080
+and try and make myself as comfortable as possible?
+
+820
+00:54:37,080 --> 00:54:40,080
+Yeah, I think there's a little bit of both.
+
+821
+00:54:40,080 --> 00:54:44,560
+Yeah, I'm trying to think of a good example.
+
+822
+00:54:44,560 --> 00:54:52,720
+I definitely think there's part of me that is down to try something more challenging.
+
+823
+00:54:52,720 --> 00:55:01,600
+When the war in Gaza kicked off and there was options to go over, I was like, yeah,
+
+824
+00:55:01,600 --> 00:55:05,000
+I'm going to go, but I wasn't like, I'm going to go and thrive.
+
+825
+00:55:05,000 --> 00:55:06,000
+I'm ready for this.
+
+826
+00:55:06,000 --> 00:55:09,480
+Yeah, I wasn't like, I'm going to go and thrive in the setting.
+
+827
+00:55:09,480 --> 00:55:13,040
+But I was like, I'm going to go because it presents a challenge.
+
+828
+00:55:13,040 --> 00:55:17,080
+I am curious to know how I do in that setting.
+
+829
+00:55:17,080 --> 00:55:22,880
+So where do you think, I'm just curious because a lot of the stuff that I post about is about
+
+830
+00:55:22,880 --> 00:55:27,560
+mental fortitude and mental toughness.
+
+831
+00:55:27,560 --> 00:55:35,360
+Where do you think that comes from for you?
+
+832
+00:55:35,360 --> 00:55:41,880
+I think part of it is like, I mean, inherent seemed like a little bit of a cop out, but
+
+833
+00:55:41,880 --> 00:55:44,880
+some people are comfortable, like being uncomfortable and some people aren't.
+
+834
+00:55:44,880 --> 00:55:47,280
+And I've always like, I think I've always just had that.
+
+835
+00:55:47,280 --> 00:55:55,440
+I don't know if that was necessarily something that I intentionally cultivated.
+
+836
+00:55:55,440 --> 00:56:02,360
+But on the preparation side, like you were asking about, I do a lot of things to make
+
+837
+00:56:02,360 --> 00:56:03,360
+that easier.
+
+838
+00:56:03,360 --> 00:56:12,760
+Like I have pretty regimented routine, whether I'm here or overseas, that helps me stay
+
+839
+00:56:12,760 --> 00:56:17,760
+calm and keep it under control.
+
+840
+00:56:17,760 --> 00:56:21,600
+Just accepting that there's going to be a lot of unknown and for this to go with the
+
+841
+00:56:21,600 --> 00:56:22,600
+flow.
+
+842
+00:56:22,600 --> 00:56:28,920
+I think it's fair, I think sometimes it's easier being gone than it is being here.
+
+843
+00:56:28,920 --> 00:56:33,600
+There's a lot of things we have to do here.
+
+844
+00:56:33,600 --> 00:56:38,720
+But there's been times overseas where you don't have any say, yeah, you don't get to
+
+845
+00:56:38,720 --> 00:56:44,320
+choose what you do, which makes it easier.
+
+846
+00:56:44,320 --> 00:56:46,920
+Easier in the sense that you can just do the thing.
+
+847
+00:56:46,920 --> 00:56:47,920
+Totally.
+
+848
+00:56:47,920 --> 00:56:50,640
+Rather than needing approval.
+
+849
+00:56:50,680 --> 00:56:54,400
+Or you don't have to put any thought into it.
+
+850
+00:56:54,400 --> 00:56:55,400
+You might appreciate this.
+
+851
+00:56:55,400 --> 00:57:00,360
+I have a little heart rate monitor, like a polar H10, whatever.
+
+852
+00:57:00,360 --> 00:57:04,880
+And I like every morning put it on and sit for five minutes and get my heart rate variability
+
+853
+00:57:04,880 --> 00:57:07,120
+and it gives me a readiness score for the day.
+
+854
+00:57:07,120 --> 00:57:10,480
+So I'm like, yeah, I'm like an eight or nine, I'm ready to go.
+
+855
+00:57:10,480 --> 00:57:14,200
+I didn't sleep well because before night I'm like a three or four.
+
+856
+00:57:14,200 --> 00:57:18,160
+But I've been tracking this data for a very long time.
+
+857
+00:57:18,160 --> 00:57:21,680
+Maybe not a very long time, but for me it feels like a long time, like three or four
+
+858
+00:57:21,680 --> 00:57:26,200
+years now I have a heart rate variability and a baseline heart rate for almost every
+
+859
+00:57:26,200 --> 00:57:29,320
+morning of my life.
+
+860
+00:57:29,320 --> 00:57:35,360
+And the highest numbers I've ever seen was when I was over in Gaza.
+
+861
+00:57:35,360 --> 00:57:38,960
+And I think part of that is I didn't have any say in what we were doing.
+
+862
+00:57:38,960 --> 00:57:44,640
+I could wake up, eat, go to work, come home and sleep.
+
+863
+00:57:44,640 --> 00:57:50,760
+And yeah, I didn't have to worry about, there's no money to be spent.
+
+864
+00:57:50,760 --> 00:57:58,000
+I didn't have to worry about going to work, running late, buying things, finances.
+
+865
+00:57:58,000 --> 00:58:03,080
+I didn't even have a lot of the time that I didn't have access to communications back
+
+866
+00:58:03,080 --> 00:58:04,640
+home.
+
+867
+00:58:04,640 --> 00:58:08,800
+It took a lot of that stuff away that we tend to stress about here.
+
+868
+00:58:08,800 --> 00:58:10,360
+That's really interesting actually.
+
+869
+00:58:10,360 --> 00:58:18,680
+I find that very interesting because in our culture, in our society, we're inundated with
+
+870
+00:58:18,680 --> 00:58:19,680
+stimulus.
+
+871
+00:58:19,680 --> 00:58:20,680
+Yeah.
+
+872
+00:58:20,680 --> 00:58:21,680
+And we think it's normal.
+
+873
+00:58:21,680 --> 00:58:22,680
+And we think it's normal, right?
+
+874
+00:58:22,680 --> 00:58:24,360
+We don't even notice it.
+
+875
+00:58:24,360 --> 00:58:35,040
+But also my lack of understanding of what it's like to be over in Gaza.
+
+876
+00:58:35,040 --> 00:58:36,040
+I've never been there.
+
+877
+00:58:36,040 --> 00:58:37,040
+No idea.
+
+878
+00:58:37,040 --> 00:58:40,160
+But in our society, it's like what's on the news.
+
+879
+00:58:40,160 --> 00:58:42,920
+And it occurs to me as like a war zone, right?
+
+880
+00:58:42,920 --> 00:58:45,640
+There's just shit happening all the time.
+
+881
+00:58:45,640 --> 00:58:49,160
+Gunfire, bombs, people dying.
+
+882
+00:58:49,160 --> 00:58:57,840
+It occurs to me from this outside perspective as like a really stressful over stimulating
+
+883
+00:58:57,840 --> 00:59:00,860
+environment.
+
+884
+00:59:00,860 --> 00:59:10,540
+But also without all of the things like the traffic or like phone calls or whatever things
+
+885
+00:59:10,540 --> 00:59:13,340
+we're inundated with here.
+
+886
+00:59:13,340 --> 00:59:15,780
+So it's really, I find that very fascinating.
+
+887
+00:59:15,780 --> 00:59:16,780
+Yeah.
+
+888
+00:59:16,780 --> 00:59:19,140
+And I think it is a little more nuanced than that.
+
+889
+00:59:19,140 --> 00:59:20,140
+It is loud.
+
+890
+00:59:20,140 --> 00:59:21,140
+It's never quiet there.
+
+891
+00:59:21,140 --> 00:59:25,860
+And the time when I was there, it was like things were blowing up all the time.
+
+892
+00:59:25,860 --> 00:59:28,140
+But it's different for or it was different.
+
+893
+00:59:28,140 --> 00:59:37,140
+It's probably still is different for like an international team there that the like
+
+894
+00:59:37,140 --> 00:59:41,460
+calling the combatant forces like they are aware of our location versus like someone
+
+895
+00:59:41,460 --> 00:59:47,660
+who lives there like a Palestinian who lives there who like doesn't have that security
+
+896
+00:59:47,660 --> 00:59:48,660
+protection.
+
+897
+00:59:48,660 --> 00:59:54,960
+So even though it is like arguably like loud and stressful and dangerous.
+
+898
+00:59:54,960 --> 00:59:59,140
+We did the things we could to like assure our safety and like after that like everything
+
+899
+00:59:59,140 --> 01:00:00,140
+was out of my control.
+
+900
+01:00:00,140 --> 01:00:05,360
+So like there was no utility in thinking on it more.
+
+901
+01:00:05,360 --> 01:00:06,360
+Yeah.
+
+902
+01:00:06,360 --> 01:00:08,360
+It's crazy, man.
+
+903
+01:00:08,360 --> 01:00:09,360
+Yeah.
+
+904
+01:00:09,360 --> 01:00:10,360
+That's cool though.
+
+905
+01:00:10,360 --> 01:00:11,360
+Yeah.
+
+906
+01:00:11,360 --> 01:00:17,880
+I think I've been like using this like analogy since I've like come back from Ukraine the
+
+907
+01:00:17,880 --> 01:00:21,640
+last time that like to try and like explain like how I ended up doing this kind of thing.
+
+908
+01:00:21,640 --> 01:00:25,920
+I think like describing as like a Venn diagram like when there's something that happens in
+
+909
+01:00:25,920 --> 01:00:28,320
+the world like something like a conflict or disaster.
+
+910
+01:00:28,320 --> 01:00:32,480
+There's like a lot of people who want to go like a lot of people want to help.
+
+911
+01:00:32,480 --> 01:00:41,280
+But a very small group of that chunk like have a skill set and demeanor and like the
+
+912
+01:00:41,280 --> 01:00:44,240
+like stability back home to actually go and like make it work.
+
+913
+01:00:44,240 --> 01:00:48,520
+And there are a lot of people that do have the capability to go like do something useful
+
+914
+01:00:48,520 --> 01:00:50,920
+but they don't want to go where they're not comfortable with the risk.
+
+915
+01:00:50,920 --> 01:00:57,840
+And like the overlap between them is like maybe quite small and kind of just by chance
+
+916
+01:00:57,840 --> 01:01:04,360
+like discover that like I fit in that like the little overlap in that Venn diagram.
+
+917
+01:01:04,360 --> 01:01:08,520
+And like another factor that like really helps is that like both jobs back here in the US
+
+918
+01:01:08,520 --> 01:01:11,800
+have been amazingly flexible with me.
+
+919
+01:01:11,800 --> 01:01:15,440
+Like one thing that holds up a lot of people from doing this kind of stuff is like telling
+
+920
+01:01:15,440 --> 01:01:20,520
+your job you want to leave for like two months to go somewhere and like not being touched
+
+921
+01:01:20,520 --> 01:01:26,560
+is like kind of a hard no for almost every other job situation.
+
+922
+01:01:26,560 --> 01:01:32,440
+But I've been super lucky that like both like the flight program and the hospital there
+
+923
+01:01:32,440 --> 01:01:33,440
+are very supportive.
+
+924
+01:01:33,440 --> 01:01:35,760
+So they're like down to let me go.
+
+925
+01:01:35,760 --> 01:01:37,400
+Yeah that's cool.
+
+926
+01:01:37,400 --> 01:01:44,240
+Yeah that I find it very cool that you've been able to kind of create your your world
+
+927
+01:01:44,240 --> 01:01:49,200
+in that sense right being able to have that flexibility that you want.
+
+928
+01:01:49,200 --> 01:01:57,160
+And then do these kind of extreme and awesome things.
+
+929
+01:01:57,160 --> 01:01:58,160
+Thanks so yeah.
+
+930
+01:01:58,160 --> 01:01:59,160
+Appreciate that.
+
+931
+01:01:59,160 --> 01:02:00,160
+It's pretty cool.
+
+932
+01:02:00,160 --> 01:02:01,160
+Yeah.
+
+933
+01:02:01,160 --> 01:02:04,400
+I had some other questions and I totally forgot them.
+
+934
+01:02:04,400 --> 01:02:05,400
+That's totally fine.
+
+935
+01:02:05,400 --> 01:02:08,440
+Well if we think of them we can do this again sometime.
+
+936
+01:02:08,440 --> 01:02:13,360
+Yeah this was really cool.
+
+937
+01:02:13,360 --> 01:02:16,640
+Yeah thanks for sharing your thoughts and stuff.
+
+938
+01:02:16,640 --> 01:02:17,640
+For sure.
+
+939
+01:02:17,640 --> 01:02:18,640
+Thanks for coming on.
+
+940
+01:02:18,640 --> 01:02:22,280
+I always enjoy learning stuff from you so.
+
+941
+01:02:22,280 --> 01:02:24,280
+And that's pretty much it.
+
+942
+01:02:24,280 --> 01:02:25,280
+Thanks for tuning in.
+
+943
+01:02:25,280 --> 01:02:29,840
+But real quick before we get going just a couple of shout outs.
+
+944
+01:02:29,840 --> 01:02:34,640
+First is to the St. Fisher Church of Evidence Based Medicine.
+
+945
+01:02:34,640 --> 01:02:37,600
+If you haven't seen their page definitely go check it out.
+
+946
+01:02:37,600 --> 01:02:40,320
+We used to also give a shout out to the Pragmatic Paramedics.
+
+947
+01:02:40,320 --> 01:02:44,120
+I don't think they're active anymore but definitely take a look at their back episodes.
+
+948
+01:02:44,120 --> 01:02:46,520
+It's a good podcast.
+
+949
+01:02:46,520 --> 01:02:51,360
+And then lastly shout out to my friend Josh Pittman and his friend Kevin Pons.
+
+950
+01:02:51,360 --> 01:03:06,040
+They're the ones who put the music together.

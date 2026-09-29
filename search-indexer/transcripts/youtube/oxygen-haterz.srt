@@ -1,0 +1,1535 @@
+1
+00:00:00,000 --> 00:00:04,740
+Okay, welcome back to another one of our videos.
+
+2
+00:00:04,740 --> 00:00:08,920
+This one is all about the risks of oxygen use in the EMS setting.
+
+3
+00:00:08,920 --> 00:00:12,280
+Specifically, we want to try and answer a few pointed questions.
+
+4
+00:00:12,280 --> 00:00:15,140
+So first is when should we utilize oxygen?
+
+5
+00:00:15,140 --> 00:00:18,260
+And then following on from that are two other questions.
+
+6
+00:00:18,260 --> 00:00:20,800
+When do we need to use 100% oxygen?
+
+7
+00:00:20,800 --> 00:00:26,000
+And then is there ever a time where we need to give oxygen up to a goal of an SPO2 of
+
+8
+00:00:26,000 --> 00:00:27,000
+100%?
+
+9
+00:00:27,000 --> 00:00:32,600
+And then the other general question here is when do we need to withhold oxygen?
+
+10
+00:00:32,600 --> 00:00:35,000
+Basically we're going to try and answer this question.
+
+11
+00:00:35,000 --> 00:00:37,000
+Is oxygen the bad guy?
+
+12
+00:00:37,000 --> 00:00:42,120
+There's a lot of discussion these days about the negative consequences of giving oxygen
+
+13
+00:00:42,120 --> 00:00:43,840
+to all different kinds of patients.
+
+14
+00:00:43,840 --> 00:00:48,880
+So we just want to look into that and make sure these aren't false accusations against
+
+15
+00:00:48,880 --> 00:00:51,160
+our dear friend oxygen.
+
+16
+00:00:51,160 --> 00:00:55,880
+This next slide just shows the specific adverse effects of oxygen that we're going to talk
+
+17
+00:00:55,880 --> 00:00:57,880
+about in this presentation.
+
+18
+00:00:57,880 --> 00:01:00,560
+But just know that that is not an exhaustive list.
+
+19
+00:01:00,560 --> 00:01:04,720
+There are lots of other things that could be discussed but we focus on the ones that
+
+20
+00:01:04,720 --> 00:01:09,880
+are most relevant and most often brought up in the EMS setting.
+
+21
+00:01:09,880 --> 00:01:15,640
+Okay and then just for a little bit of context, this is why we decided to pick this video.
+
+22
+00:01:15,640 --> 00:01:20,000
+We won't read it all to you but it's all spelled out there for you.
+
+23
+00:01:20,000 --> 00:01:23,760
+And then just before we get into everything, just know that you're probably not going to
+
+24
+00:01:23,760 --> 00:01:28,240
+come away from this video, from this presentation with life changing knowledge.
+
+25
+00:01:28,240 --> 00:01:32,480
+Like everyone at this point pretty much knows that we give oxygen in moderation and that
+
+26
+00:01:32,480 --> 00:01:36,040
+there are risks associated with giving oxygen in excess.
+
+27
+00:01:36,040 --> 00:01:39,520
+This is more of a deep dive into the specifics of why that is.
+
+28
+00:01:39,520 --> 00:01:46,160
+Okay, so the first thing to talk about is oxygen toxicity and free radicals.
+
+29
+00:01:46,160 --> 00:01:52,720
+So oxygen toxicity is kind of a generic term that we use for damage caused by oxygen.
+
+30
+00:01:52,720 --> 00:01:56,880
+That said, it's not the O2 molecule itself that is generally the one causing damage.
+
+31
+00:01:56,880 --> 00:02:00,360
+It's these other forms of oxygen that you can see listed here.
+
+32
+00:02:00,360 --> 00:02:05,840
+And then of these other species which we can collectively call reactive oxygen species,
+
+33
+00:02:05,840 --> 00:02:08,560
+some of them are what we call free radicals.
+
+34
+00:02:08,560 --> 00:02:14,080
+So molecules with a free electron in the outer shell, we're calling back to chemistry class
+
+35
+00:02:14,080 --> 00:02:15,080
+in high school.
+
+36
+00:02:15,080 --> 00:02:19,400
+So just to summarize these different terms, oxygen toxicity is damage caused by oxygen
+
+37
+00:02:19,400 --> 00:02:23,160
+but it's actually caused by these other reactive oxygen species.
+
+38
+00:02:23,160 --> 00:02:28,560
+And then some of these species such as the superoxide or the hydroxyl radical, those
+
+39
+00:02:28,560 --> 00:02:33,160
+are free radicals even though we kind of lump them all together sometimes.
+
+40
+00:02:33,160 --> 00:02:38,960
+And then this next slide is just to point out where these species come from.
+
+41
+00:02:38,960 --> 00:02:44,360
+So it's not like oxygen is just floating around as an O2 molecule in your blood and it spontaneously
+
+42
+00:02:44,360 --> 00:02:46,760
+splits into these other forms.
+
+43
+00:02:46,760 --> 00:02:49,600
+These other forms come up because there are different reactions in your body because you're
+
+44
+00:02:49,600 --> 00:02:54,120
+exposed to different things in your environments because you have different like pathologic
+
+45
+00:02:54,120 --> 00:02:55,240
+processes.
+
+46
+00:02:55,240 --> 00:02:58,900
+So no need to get into the details here but this is just pointing out that there are lots
+
+47
+00:02:58,900 --> 00:03:03,280
+of different sources of these reactive oxygen species.
+
+48
+00:03:03,280 --> 00:03:07,240
+And just for a little bit of context, there was some data from years ago that shows that
+
+49
+00:03:07,240 --> 00:03:15,160
+giving oxygen in high concentration to neonates in a NICU setting resulted in visual impairments.
+
+50
+00:03:15,160 --> 00:03:19,480
+So this connection of like oxygen causes babies to go blind is why there's a lot of
+
+51
+00:03:19,480 --> 00:03:25,160
+pushback against giving high concentration oxygen in the healthcare setting in general.
+
+52
+00:03:25,160 --> 00:03:30,880
+But just recognize that reactive oxygen species are a normal physiologic thing.
+
+53
+00:03:30,880 --> 00:03:36,280
+They have some benefit in the body and they are important component of a lot of different
+
+54
+00:03:36,280 --> 00:03:37,280
+reactions.
+
+55
+00:03:37,280 --> 00:03:38,280
+So they're not all bad.
+
+56
+00:03:38,920 --> 00:03:45,200
+It's also worth keeping in mind that not all of these reactive species come from giving
+
+57
+00:03:45,200 --> 00:03:46,960
+oxygen by itself.
+
+58
+00:03:46,960 --> 00:03:50,720
+We showed a couple sides back there are lots of different sources of these reactive oxygen
+
+59
+00:03:50,720 --> 00:03:55,220
+species other than high concentration oxygen.
+
+60
+00:03:55,220 --> 00:04:01,300
+And there's some data that shows that actually giving oxygen can help clear those reactive
+
+61
+00:04:01,300 --> 00:04:07,800
+oxygen species out of the system when they've been created by some other mechanism.
+
+62
+00:04:07,800 --> 00:04:12,400
+To summarize it here, yes, damage from too much oxygen is a thing.
+
+63
+00:04:12,400 --> 00:04:15,680
+And again, we'll talk about some of the specifics here shortly.
+
+64
+00:04:15,680 --> 00:04:19,280
+But also reactive oxygen species are necessary.
+
+65
+00:04:19,280 --> 00:04:23,480
+Some oxygen may actually help clear these reactive oxygen species a little bit faster
+
+66
+00:04:23,480 --> 00:04:25,840
+than if you didn't have any oxygen at all.
+
+67
+00:04:25,840 --> 00:04:29,520
+So basically just use oxygen in moderation.
+
+68
+00:04:29,520 --> 00:04:30,520
+Cool.
+
+69
+00:04:30,520 --> 00:04:35,400
+So the next thing to talk about is alterations in respiratory drive.
+
+70
+00:04:35,400 --> 00:04:38,040
+And again, this is related to the use of oxygen.
+
+71
+00:04:38,040 --> 00:04:40,140
+So on the left here is normal.
+
+72
+00:04:40,140 --> 00:04:45,280
+So the normal stimulus for either breathing or taking more breaths or increasing your
+
+73
+00:04:45,280 --> 00:04:49,240
+respiratory rate would be an increase in CO2 or carbon dioxide.
+
+74
+00:04:49,240 --> 00:04:53,800
+Now, if that mechanism fails, you also have a mechanism by which you are triggered to
+
+75
+00:04:53,800 --> 00:04:58,720
+breathe if you become hypoxic or if you're in a state of acidosis or a stress response,
+
+76
+00:04:58,720 --> 00:04:59,720
+all of these things.
+
+77
+00:04:59,720 --> 00:05:03,660
+But normally it follows like in a kind of stepwise process based on like your body's
+
+78
+00:05:03,660 --> 00:05:05,580
+perceived hierarchy of needs.
+
+79
+00:05:05,580 --> 00:05:10,260
+The idea with a hypoxic drive, and again, this is an idea, this is not true, but the
+
+80
+00:05:10,260 --> 00:05:15,520
+idea here was that if you have a patient with a chronic respiratory condition who lives
+
+81
+00:05:15,520 --> 00:05:19,980
+at baseline with an elevated CO2, that mechanism is not working.
+
+82
+00:05:19,980 --> 00:05:24,700
+So cross that CO2 stimulus off the list because it doesn't work very well.
+
+83
+00:05:24,700 --> 00:05:29,520
+So then their primary response to breathe faster or to take a breath or to increase
+
+84
+00:05:29,520 --> 00:05:32,220
+the respiratory rate is hypoxia.
+
+85
+00:05:32,220 --> 00:05:36,460
+So the thought, and again, this is not actually how it works, but this is the thought is that
+
+86
+00:05:36,460 --> 00:05:40,420
+if that were true and then you give these patients oxygen, you take away their respiratory
+
+87
+00:05:40,420 --> 00:05:41,420
+drive.
+
+88
+00:05:41,420 --> 00:05:46,980
+So the thought is that giving a chronic lung patient supplemental oxygen would cause them
+
+89
+00:05:46,980 --> 00:05:47,980
+to stop breathing.
+
+90
+00:05:47,980 --> 00:05:52,060
+It would take away the respiratory drive and then they would obviously have a bad outcome
+
+91
+00:05:52,060 --> 00:05:53,500
+because they're not breathing.
+
+92
+00:05:53,500 --> 00:05:55,340
+In reality, that's not exactly how it works.
+
+93
+00:05:55,340 --> 00:05:59,920
+There are two other effects at play here and we're going to talk about each one of them
+
+94
+00:05:59,920 --> 00:06:00,920
+in turn.
+
+95
+00:06:00,920 --> 00:06:06,560
+So the first one is VQ mismatch and I put in parentheses under their hypoxic pulmonary
+
+96
+00:06:06,560 --> 00:06:07,960
+vasoconstriction.
+
+97
+00:06:07,960 --> 00:06:09,760
+So let's just show how that works.
+
+98
+00:06:09,760 --> 00:06:14,300
+Okay, so real quick here, just for some review, we have two sketches.
+
+99
+00:06:14,300 --> 00:06:18,000
+Each has an avioli and a corresponding blood supply.
+
+100
+00:06:18,000 --> 00:06:20,320
+These are both examples of VQ mismatch.
+
+101
+00:06:20,320 --> 00:06:21,840
+They're just two different flavors.
+
+102
+00:06:21,840 --> 00:06:24,320
+So on the left is what we call dead space.
+
+103
+00:06:24,320 --> 00:06:28,480
+So this one we have an avioli that's fully inflated, but not enough blood flow.
+
+104
+00:06:28,480 --> 00:06:34,000
+So there is air that's getting to that avioli, but not enough corresponding blood supply.
+
+105
+00:06:34,000 --> 00:06:36,960
+On the right hand side, we have what we call a shunt.
+
+106
+00:06:36,960 --> 00:06:41,320
+So we have an underinflated avioli and an excess of blood.
+
+107
+00:06:41,320 --> 00:06:46,340
+Now what the body normally does is in the right hand situation, it knows it's not getting
+
+108
+00:06:46,340 --> 00:06:47,420
+enough air.
+
+109
+00:06:47,420 --> 00:06:52,580
+So it vasoconstricts that vessel so that perfusion matches ventilation.
+
+110
+00:06:52,580 --> 00:06:57,060
+So we call that response hypoxic pulmonary vasoconstriction.
+
+111
+00:06:57,060 --> 00:07:01,700
+So just to show you in a video that we put from someone else, if you see on the left
+
+112
+00:07:01,700 --> 00:07:07,680
+hand side here, V equals Q, like there's a match between air flow and blood flow.
+
+113
+00:07:07,680 --> 00:07:12,940
+On the right hand side in the chronic lung patient, you're not getting enough air flow.
+
+114
+00:07:12,940 --> 00:07:16,140
+So the body compensates by vasoconstricting that vessel.
+
+115
+00:07:16,140 --> 00:07:19,260
+So now all the V's match all the Q's and everything is fine.
+
+116
+00:07:19,260 --> 00:07:22,420
+This is the normal response to the situation.
+
+117
+00:07:22,420 --> 00:07:24,600
+So that's what the body did to fix the problem.
+
+118
+00:07:24,600 --> 00:07:29,000
+Now if we were to give oxygen to this patient, we kind of mess with the system a little bit.
+
+119
+00:07:29,000 --> 00:07:34,120
+So again, we have normal on the left, but on the right we see the patient already compensated
+
+120
+00:07:34,120 --> 00:07:36,640
+by vasoconstricting, but now we're giving oxygen.
+
+121
+00:07:36,640 --> 00:07:39,240
+So the body thinks it needs to vasodilate.
+
+122
+00:07:39,240 --> 00:07:43,960
+The result of that is a reversal of that hypoxic pulmonary vasoconstriction.
+
+123
+00:07:43,960 --> 00:07:48,640
+And what we get, if you see in the red there, you see an elevated CO2.
+
+124
+00:07:48,640 --> 00:07:54,480
+So basically we're getting more CO2 dumped into the avioli with no way to actually exhale.
+
+125
+00:07:54,680 --> 00:08:01,680
+So by giving oxygen to the chronic lung patient, we're increasing their PCO2, which is counter
+
+126
+00:08:01,800 --> 00:08:04,320
+to what we generally want to be doing.
+
+127
+00:08:04,320 --> 00:08:08,520
+The other way this happens is via what we call the Haldane effect.
+
+128
+00:08:08,520 --> 00:08:15,520
+So basically it says that hemoglobin's affinity for CO2 is affected by the amount of oxygen.
+
+129
+00:08:16,360 --> 00:08:22,360
+So basically in the chronic lung patient, they have an elevated amount of CO2 at baseline.
+
+130
+00:08:22,360 --> 00:08:25,880
+So some of that CO2 ends up on the hemoglobin.
+
+131
+00:08:25,880 --> 00:08:31,360
+Now when we give that patient supplemental oxygen, oxygen displaces all of that CO2 into
+
+132
+00:08:31,360 --> 00:08:32,600
+the bloodstream.
+
+133
+00:08:32,600 --> 00:08:39,600
+So our arterial concentration of CO2 increases by this other mechanism as well.
+
+134
+00:08:40,640 --> 00:08:43,080
+So we have two mechanisms.
+
+135
+00:08:43,080 --> 00:08:45,960
+The first is our VQ mismatch.
+
+136
+00:08:45,960 --> 00:08:51,920
+When we reverse hypoxic pulmonary vasoconstriction by giving supplemental oxygen, the second
+
+137
+00:08:51,920 --> 00:08:56,720
+is the Haldane effect where we displace a bunch of CO2 into the bloodstream by giving
+
+138
+00:08:56,720 --> 00:08:57,840
+oxygen.
+
+139
+00:08:57,840 --> 00:09:03,040
+So by both of these mechanisms or the combination of the two of them, we can end up in a state
+
+140
+00:09:03,040 --> 00:09:10,040
+where our PACO2, so our arterial concentration of carbon dioxide, gets really high and that
+
+141
+00:09:12,160 --> 00:09:17,520
+can in fact lead to decreased level of consciousness and respiratory depression.
+
+142
+00:09:18,520 --> 00:09:24,120
+So just to summarize this here, we were talking about alterations in respiratory drive due
+
+143
+00:09:24,120 --> 00:09:25,760
+to oxygen delivery.
+
+144
+00:09:25,760 --> 00:09:32,080
+This is most frequently discussed in the context of patients with COPD or chronic lung conditions.
+
+145
+00:09:32,080 --> 00:09:38,840
+So short answer is that no hypoxic drive is not really a thing, but yes, excessive CO2
+
+146
+00:09:38,840 --> 00:09:42,240
+can cause alterations in respiratory drive.
+
+147
+00:09:42,240 --> 00:09:46,880
+But that said, it's uncommon, it's a little bit nuanced, and it's not actually due to this
+
+148
+00:09:46,880 --> 00:09:50,560
+hypoxic drive thing, it's due to other mechanisms.
+
+149
+00:09:50,560 --> 00:09:56,480
+So moral of the story here, it's totally a-okay to give oxygen to a chronic lung patient.
+
+150
+00:09:56,480 --> 00:10:01,360
+And then just as with all good things in life, moderation here is key.
+
+151
+00:10:01,360 --> 00:10:08,360
+Okay, so next on our list of things to discuss is what we call absorption atelectasis.
+
+152
+00:10:08,520 --> 00:10:14,040
+So here's the idea with this is that if we give someone 100% oxygen, what we do is we
+
+153
+00:10:14,040 --> 00:10:21,040
+displace all of the nitrogen out of their avioli, so it's just filled with oxygen, right?
+
+154
+00:10:21,400 --> 00:10:27,040
+Then if we have a portion of the lung or a specific avioli that doesn't have good airflow
+
+155
+00:10:27,040 --> 00:10:32,040
+to it, let's say we have like mucus or some sort of obstruction, what happens is that
+
+156
+00:10:32,040 --> 00:10:37,160
+all of the air from the avioli goes into the bloodstream and then the avioli collapses.
+
+157
+00:10:37,160 --> 00:10:40,600
+You'll have a difference basically of the obstructed avioli collapse all the way, the
+
+158
+00:10:40,600 --> 00:10:42,280
+other ones work just fine.
+
+159
+00:10:42,280 --> 00:10:45,820
+So then you end up with atelectasis diffused across the lungs.
+
+160
+00:10:45,820 --> 00:10:47,640
+So that's the theory.
+
+161
+00:10:47,640 --> 00:10:52,740
+In reality, it may not be that relevant clinically.
+
+162
+00:10:52,740 --> 00:10:57,840
+So there were some older studies that kind of looked at this idea and they sort of identified
+
+163
+00:10:57,840 --> 00:11:02,480
+that it does happen to some degree, but probably not that big of a deal where it affects clinical
+
+164
+00:11:02,480 --> 00:11:03,480
+outcomes.
+
+165
+00:11:03,480 --> 00:11:08,720
+And then there's a few more recent studies that kind of found the same thing that yes,
+
+166
+00:11:08,720 --> 00:11:11,920
+the effect does exist to a degree that can be measured.
+
+167
+00:11:11,920 --> 00:11:14,480
+But that said, it's mostly in specific cases.
+
+168
+00:11:14,480 --> 00:11:18,920
+So with no peeps, so we're not manually maintaining those avioli open.
+
+169
+00:11:18,920 --> 00:11:22,480
+And then also with older patients who, you know, the assumption here is that they also
+
+170
+00:11:22,480 --> 00:11:24,360
+have multiple comorbidities.
+
+171
+00:11:24,360 --> 00:11:25,440
+Okay.
+
+172
+00:11:25,440 --> 00:11:28,080
+So summarize absorption atelectasis.
+
+173
+00:11:28,080 --> 00:11:30,280
+Yes, it's a thing.
+
+174
+00:11:30,280 --> 00:11:34,500
+However, the effect is probably exaggerated and may not be clinically relevant.
+
+175
+00:11:34,500 --> 00:11:37,520
+So totally fine to use oxygen again in moderation.
+
+176
+00:11:38,400 --> 00:11:38,900
+All right.
+
+177
+00:11:38,900 --> 00:11:45,160
+Next thing to talk about is impaired cardiac function with the use of supplemental oxygen.
+
+178
+00:11:45,160 --> 00:11:49,400
+So nowadays we don't routinely give oxygen to patients who are just having chest pain
+
+179
+00:11:49,400 --> 00:11:53,860
+or we suspect might be having an MI or even if they are having an MI, unless they are
+
+180
+00:11:53,860 --> 00:11:55,820
+demonstrably hypoxic.
+
+181
+00:11:55,820 --> 00:11:58,520
+The data on this goes back 50 years or so.
+
+182
+00:11:58,520 --> 00:12:04,480
+So this paper was written in 1972 and it actually cites prior experiments that kind of showed
+
+183
+00:12:04,480 --> 00:12:05,600
+the same thing.
+
+184
+00:12:05,600 --> 00:12:11,280
+So they looked at different hemodynamic parameters using invasive cardiac monitoring and determined
+
+185
+00:12:11,280 --> 00:12:16,040
+that some of those parameters decrease with use of supplemental oxygen.
+
+186
+00:12:16,040 --> 00:12:20,220
+Since then, a lot of these experiments have been repeated multiple times.
+
+187
+00:12:20,220 --> 00:12:24,800
+So this snapshot here is from like a narrative review that talks about a lot of different
+
+188
+00:12:24,800 --> 00:12:30,000
+studies that have been done about the potential negative consequences of using supplemental
+
+189
+00:12:30,000 --> 00:12:31,000
+oxygen.
+
+190
+00:12:31,000 --> 00:12:35,960
+This is just a snapshot of their discussion about cardiac function specifically.
+
+191
+00:12:35,960 --> 00:12:38,000
+And then two recent trials to mention.
+
+192
+00:12:38,000 --> 00:12:43,300
+This first one here was done in 2015 and it showed that supplemental oxygen can increase
+
+193
+00:12:43,300 --> 00:12:47,760
+in FARC size when assessed at six months after an AMI.
+
+194
+00:12:47,760 --> 00:12:52,480
+And then the second one showed that the use of supplemental oxygen in patients that aren't
+
+195
+00:12:52,480 --> 00:12:58,400
+known to be hypoxic, so just routinely giving supplemental oxygen increases one year mortality
+
+196
+00:12:58,400 --> 00:13:00,520
+after an AMI.
+
+197
+00:13:00,520 --> 00:13:04,760
+And then one last thing to mention about both of these papers is that the authors, again,
+
+198
+00:13:04,760 --> 00:13:09,840
+in both studies attribute the increase in mortality with the use of supplemental oxygen
+
+199
+00:13:09,840 --> 00:13:14,680
+to the production of and the effects caused by reactive oxygen species, the same things
+
+200
+00:13:14,680 --> 00:13:17,200
+that we talked about early in this presentation.
+
+201
+00:13:17,200 --> 00:13:21,040
+Okay, so let's just summarize this section here.
+
+202
+00:13:21,040 --> 00:13:25,760
+Yes, impaired cardiac function with supplemental oxygen is a thing.
+
+203
+00:13:25,760 --> 00:13:31,040
+It occurs via that reactive oxygen species mechanism that we discussed previously.
+
+204
+00:13:31,040 --> 00:13:37,040
+Yes, the effect can be clinically relevant, but also just keep in mind that profound hypoxia
+
+205
+00:13:37,040 --> 00:13:39,720
+is not great for cardiac function either.
+
+206
+00:13:39,720 --> 00:13:42,720
+So you guessed it, use oxygen in moderation.
+
+207
+00:13:42,720 --> 00:13:49,320
+All right, next thing on our list to discuss is worse outcomes in neurologic injury with
+
+208
+00:13:49,320 --> 00:13:52,080
+the use of supplemental oxygen.
+
+209
+00:13:52,080 --> 00:13:56,080
+Now neurologic injury includes both stroke and traumatic brain injury.
+
+210
+00:13:56,080 --> 00:14:00,480
+And the idea is that those reactive oxygen species that we've been talking about all
+
+211
+00:14:00,480 --> 00:14:07,000
+along, they can cause further injury, worse outcomes, or secondary damage in either one
+
+212
+00:14:07,000 --> 00:14:10,120
+of these cases, either stroke or traumatic brain injury.
+
+213
+00:14:10,120 --> 00:14:13,800
+Now that said, it does get a little bit more complicated than that.
+
+214
+00:14:13,800 --> 00:14:18,880
+So we know that hypoxia results in worse outcomes for patients.
+
+215
+00:14:18,880 --> 00:14:24,880
+So there's studies both for stroke and for TBI that demonstrate this fairly clearly.
+
+216
+00:14:24,880 --> 00:14:31,280
+That said, there's also the idea that hyperoxia, so too much oxygen, can result in decreased
+
+217
+00:14:31,280 --> 00:14:32,440
+cerebral blood flow.
+
+218
+00:14:32,440 --> 00:14:36,240
+Now, the mechanism is not super well understood.
+
+219
+00:14:36,240 --> 00:14:40,360
+It could be related to those reactive oxygen species that we just showed.
+
+220
+00:14:40,360 --> 00:14:47,960
+It also could be correlated with vasoconstriction and vasodilation related to arterial CO2.
+
+221
+00:14:47,960 --> 00:14:50,600
+So that's what these images here show.
+
+222
+00:14:50,600 --> 00:14:58,060
+So basically as your CO2 increases, then your cerebral blood flow also increases.
+
+223
+00:14:58,060 --> 00:15:00,280
+And then you have an inverse relationship with oxygen.
+
+224
+00:15:00,280 --> 00:15:07,240
+As your O2 increases in your arterial blood, then you get a decrease in cerebral blood
+
+225
+00:15:07,240 --> 00:15:09,760
+flow because your body thinks that it already has enough.
+
+226
+00:15:09,760 --> 00:15:11,880
+So that's another proposed mechanism.
+
+227
+00:15:11,880 --> 00:15:17,880
+So again, not super clear there, but by either one of these ways, it is known that hyperoxia
+
+228
+00:15:18,440 --> 00:15:21,920
+or too much oxygen can decrease cerebral blood flow.
+
+229
+00:15:21,920 --> 00:15:28,040
+So moving on with that idea, hyperoxia is when we have too much oxygen in the bloodstream.
+
+230
+00:15:28,040 --> 00:15:31,540
+So with stroke, we do see decrease in blood flow.
+
+231
+00:15:31,540 --> 00:15:33,060
+So that has been demonstrated.
+
+232
+00:15:33,060 --> 00:15:37,440
+That said, we also do see some neuroprotection.
+
+233
+00:15:37,440 --> 00:15:39,800
+And the mechanism here is by reducing inflammation.
+
+234
+00:15:39,800 --> 00:15:44,280
+Now, we have a similar sort of conundrum with traumatic brain injury.
+
+235
+00:15:44,280 --> 00:15:48,400
+We already talked about how the reactive oxygen species can cause damage, but we also
+
+236
+00:15:48,400 --> 00:15:55,000
+know that giving oxygen can improve outcomes if it's done early after a TBI.
+
+237
+00:15:55,000 --> 00:15:58,640
+And there's another study more recently that shows that it doesn't actually worsen outcomes.
+
+238
+00:15:58,640 --> 00:16:01,760
+So we have a little bit of a complicated picture on this one.
+
+239
+00:16:01,760 --> 00:16:06,880
+And you'll see that in just a couple of slides, we show a summary chart that kind of outlines
+
+240
+00:16:06,880 --> 00:16:09,000
+when we should and shouldn't give oxygen.
+
+241
+00:16:09,000 --> 00:16:14,880
+And the general consensus these days is that in stroke, you withhold oxygen unless somebody
+
+242
+00:16:14,880 --> 00:16:17,040
+is hypoxic.
+
+243
+00:16:17,040 --> 00:16:21,760
+In TBI, it's a little bit more acceptable to give oxygen.
+
+244
+00:16:21,760 --> 00:16:28,280
+That said, this neuroprotection with administration of supplements oxygen for stroke patients,
+
+245
+00:16:28,280 --> 00:16:32,560
+it has been demonstrated, but it hasn't really changed, practiced or entered into how we
+
+246
+00:16:32,560 --> 00:16:34,060
+do things yet.
+
+247
+00:16:34,180 --> 00:16:40,420
+Another paper to mention is this one from the Journal of Cerebral Blood Flow and Metabolism.
+
+248
+00:16:40,420 --> 00:16:45,460
+So arguably the people who ought to know the most about this subject in general.
+
+249
+00:16:45,460 --> 00:16:51,660
+So basically, they wanted to investigate this idea of cerebral blood flow and oxygen utilization
+
+250
+00:16:51,660 --> 00:16:54,140
+in the brain based on FiO2.
+
+251
+00:16:54,140 --> 00:17:01,060
+They used a novel technique to measure oxygen metabolism in the brain.
+
+252
+00:17:01,060 --> 00:17:08,100
+So basically they found that in the hyperoxic states, the metabolism is decreased and in
+
+253
+00:17:08,100 --> 00:17:10,380
+hypoxic states, it's increased.
+
+254
+00:17:10,380 --> 00:17:14,720
+So same trend we sometimes see with measures of cerebral blood flow.
+
+255
+00:17:14,720 --> 00:17:18,100
+In a hypoxic state, we increase it.
+
+256
+00:17:18,100 --> 00:17:23,580
+And in a hyperoxic state, or when we give supplemental oxygen, we actually see a decrease
+
+257
+00:17:23,580 --> 00:17:25,300
+in cerebral blood flow.
+
+258
+00:17:25,300 --> 00:17:29,540
+Let's summarize here regarding worse outcomes in neurologic injury.
+
+259
+00:17:29,540 --> 00:17:36,420
+Yes, hyperoxia can worsen outcomes, but also yes, hypoxia can worsen outcomes.
+
+260
+00:17:36,420 --> 00:17:42,100
+Hyperoxia, so too much oxygen, can be neuroprotective, but it can also cause damage.
+
+261
+00:17:42,100 --> 00:17:46,260
+So the moral here is that there are many, many factors at play, both with stroke and
+
+262
+00:17:46,260 --> 00:17:48,060
+in traumatic brain injury.
+
+263
+00:17:48,060 --> 00:17:53,460
+But just like with all the other points, the moral here is that use oxygen in moderation.
+
+264
+00:17:53,460 --> 00:17:55,220
+All right, quick recap.
+
+265
+00:17:55,220 --> 00:18:00,740
+These are the five potential adverse effects of oxygen that we already discussed.
+
+266
+00:18:00,740 --> 00:18:04,460
+Now let's move on to some of the specifics.
+
+267
+00:18:04,460 --> 00:18:08,360
+So first is indications, like when should we use oxygen?
+
+268
+00:18:08,360 --> 00:18:11,460
+This chart here is just taken from a paper.
+
+269
+00:18:11,460 --> 00:18:13,420
+Feel free to follow the link to check that out.
+
+270
+00:18:13,420 --> 00:18:18,260
+But we've just drawn arrows pointing to the things that are specific to us in the EMS
+
+271
+00:18:18,260 --> 00:18:19,260
+setting.
+
+272
+00:18:19,260 --> 00:18:22,860
+So we won't go through all of these points, but just know that the things in green are
+
+273
+00:18:22,860 --> 00:18:28,500
+ones where it's totally fine to give oxygen per this chart, things in red, contraindicated,
+
+274
+00:18:28,500 --> 00:18:31,940
+and then there's some nuance with the yellow ones.
+
+275
+00:18:31,940 --> 00:18:36,220
+Again, feel free to pause the video, zoom in, take a look at some of the stuff we've
+
+276
+00:18:36,220 --> 00:18:39,980
+already discussed and some of it we'll get to here in just a second.
+
+277
+00:18:39,980 --> 00:18:40,980
+So that's indications.
+
+278
+00:18:40,980 --> 00:18:43,740
+There are also some contraindications.
+
+279
+00:18:43,740 --> 00:18:47,340
+This list here is from a website called deranged physiology.
+
+280
+00:18:47,340 --> 00:18:49,220
+I think we cited it once before.
+
+281
+00:18:49,220 --> 00:18:51,400
+It's one of our favorite places on the internet.
+
+282
+00:18:51,400 --> 00:18:57,040
+But this basically is a list of when we might want to hold off on giving oxygen.
+
+283
+00:18:57,040 --> 00:19:00,800
+And we've made a couple of annotations here based on, again, things we've already discussed
+
+284
+00:19:00,800 --> 00:19:03,640
+and things that we'll discuss in just a second.
+
+285
+00:19:03,640 --> 00:19:04,640
+All right.
+
+286
+00:19:04,640 --> 00:19:09,800
+So situations in which giving 100% or pure oxygen is okay.
+
+287
+00:19:09,800 --> 00:19:13,600
+So first is if we have a true bona fide hypoxia.
+
+288
+00:19:13,600 --> 00:19:15,480
+So find to give oxygen.
+
+289
+00:19:15,480 --> 00:19:18,120
+Carbon monoxide exposure, also fine.
+
+290
+00:19:18,120 --> 00:19:20,200
+Dramatic brain injury, we already talked about.
+
+291
+00:19:20,200 --> 00:19:23,360
+Or it depends, but in general, could be okay.
+
+292
+00:19:23,360 --> 00:19:26,000
+Prolonged CPR, also fine.
+
+293
+00:19:26,000 --> 00:19:32,280
+Pre-oxygenation, for example, in anticipation of a procedure or RSI or intubation, totally
+
+294
+00:19:32,280 --> 00:19:33,280
+fine.
+
+295
+00:19:33,280 --> 00:19:35,800
+The next two require just a little bit of explanation.
+
+296
+00:19:35,800 --> 00:19:38,360
+So the first one is decompression illness.
+
+297
+00:19:38,360 --> 00:19:42,120
+So with these patients, we do want to give oxygen, but just know that we're not just
+
+298
+00:19:42,120 --> 00:19:45,960
+giving oxygen to ensure oxygen delivery to the tissues.
+
+299
+00:19:45,960 --> 00:19:47,520
+There's other reasons.
+
+300
+00:19:47,520 --> 00:19:51,400
+And you can read more about that in the article cited here.
+
+301
+00:19:51,400 --> 00:19:55,320
+The next one is something that I came across while I was putting this video together.
+
+302
+00:19:55,320 --> 00:20:00,040
+And this is denitrogenation of air-filled cavities.
+
+303
+00:20:00,040 --> 00:20:01,720
+So that sounds a little complicated.
+
+304
+00:20:01,720 --> 00:20:06,520
+But basically, if you have a situation where there's like a pocket of air in the body that's
+
+305
+00:20:06,520 --> 00:20:14,120
+causing problems, so for example, a pneumothorax, if you fill that cavity with oxygen, so instead
+
+306
+00:20:14,120 --> 00:20:18,880
+of just regular air, which is mostly nitrogen, but if you slowly get that cavity all the
+
+307
+00:20:18,880 --> 00:20:24,080
+way full of oxygen, that oxygen will then make its way into the bloodstream and it could
+
+308
+00:20:24,080 --> 00:20:27,600
+potentially reduce the size of that cavity.
+
+309
+00:20:27,600 --> 00:20:33,160
+And then a few cases here to point out where we often here discuss that we should give
+
+310
+00:20:33,160 --> 00:20:39,920
+oxygen, but in reality, the risk of damage from reactive oxygen species may actually
+
+311
+00:20:39,920 --> 00:20:41,760
+outweigh the benefit.
+
+312
+00:20:41,760 --> 00:20:45,240
+So we won't talk about these in depth, but there are articles linked for each one of
+
+313
+00:20:45,240 --> 00:20:46,240
+them.
+
+314
+00:20:46,240 --> 00:20:51,240
+The three of these are altitude illness, intrauterine resuscitation, and sepsis.
+
+315
+00:20:51,240 --> 00:20:57,000
+So in all of these cases, it is often taught to give 100% oxygen, but that may actually
+
+316
+00:20:57,000 --> 00:20:58,240
+cause more damage.
+
+317
+00:20:58,240 --> 00:21:04,240
+Okay, next thing to mention is that sometimes it is fine to give oxygen in high flow up
+
+318
+00:21:04,240 --> 00:21:07,520
+to an SPO2 of 100% and maintain that.
+
+319
+00:21:07,520 --> 00:21:13,440
+So the two reasons we would want to do that would be carbon monoxide exposure or decompression
+
+320
+00:21:13,440 --> 00:21:18,200
+illness, and then there's potentially a use case for those airfield problems that we just
+
+321
+00:21:18,200 --> 00:21:19,200
+discussed.
+
+322
+00:21:19,200 --> 00:21:23,600
+Let's just summarize here on 100% oxygen.
+
+323
+00:21:23,600 --> 00:21:29,440
+So 100% oxygen delivery is okay until our SPO2 gets into a therapeutic range.
+
+324
+00:21:29,440 --> 00:21:31,520
+So for example, over 90%.
+
+325
+00:21:31,520 --> 00:21:37,480
+That said, continuing to give oxygen to maintain an SPO2 of 100% generally is not needed in
+
+326
+00:21:37,480 --> 00:21:40,200
+except in a few specific use cases.
+
+327
+00:21:40,200 --> 00:21:44,920
+Okay, one final point to make and then we'll wrap everything up.
+
+328
+00:21:44,920 --> 00:21:49,160
+We want to know at what dose of oxygen are we even concerned about producing reactive
+
+329
+00:21:49,160 --> 00:21:50,720
+oxygen species?
+
+330
+00:21:50,720 --> 00:21:55,640
+We already mentioned that these are the problematic things in this whole process, but how do we
+
+331
+00:21:55,640 --> 00:21:58,160
+know what is a safe dose of oxygen?
+
+332
+00:21:58,160 --> 00:22:02,840
+The answer to that question is a little bit elusive, and the reason for that is because
+
+333
+00:22:02,840 --> 00:22:06,840
+it's a function of intracellular partial pressure of oxygen.
+
+334
+00:22:06,840 --> 00:22:11,960
+So you can see on this chart that at the low end, so when we're hypoxic intracellularly,
+
+335
+00:22:11,960 --> 00:22:16,720
+we have a spike in the production of reactive oxygen species, and then at the high end,
+
+336
+00:22:16,720 --> 00:22:22,280
+when we're hyperoxic inside the cells, we see an exponential increase in the production
+
+337
+00:22:22,280 --> 00:22:24,760
+of these reactive oxygen species.
+
+338
+00:22:24,760 --> 00:22:31,440
+But those numbers, those intracellular PO2 numbers don't correlate cleanly with an arterial
+
+339
+00:22:31,440 --> 00:22:33,960
+partial pressure of oxygen.
+
+340
+00:22:33,960 --> 00:22:39,080
+That said, based on the data we had that looks at complications from the use of supplemental
+
+341
+00:22:39,080 --> 00:22:44,880
+oxygen, we can kind of assume that if we have a PO2 of 100 millimeters of mercury or less,
+
+342
+00:22:44,880 --> 00:22:46,200
+we're probably fine.
+
+343
+00:22:46,200 --> 00:22:51,000
+And then once we get up to 300 or so, that's when we start to see a lot of issues.
+
+344
+00:22:51,000 --> 00:22:56,200
+That's when we see an increase in damage caused by these reactive oxygen species.
+
+345
+00:22:56,200 --> 00:23:01,520
+So to put some numbers to that, if we have a patient on, let's say, two liters per minute
+
+346
+00:23:01,520 --> 00:23:08,960
+of oxygen via nasal cannula or an FI2 of about 30%, this correlates with a PAO2 of
+
+347
+00:23:08,960 --> 00:23:12,240
+around 100, and that's probably fine in most cases.
+
+348
+00:23:12,240 --> 00:23:19,240
+On the extreme end, once we get to a PAO2 of 300 or more, we definitely have damage.
+
+349
+00:23:19,240 --> 00:23:23,680
+We definitely have an increase in the production of reactive oxygen species.
+
+350
+00:23:23,680 --> 00:23:29,000
+That would correlate with an FI2 of about 60 or maybe giving oxygen via a non-rebreather
+
+351
+00:23:29,000 --> 00:23:30,160
+mask.
+
+352
+00:23:30,160 --> 00:23:35,560
+So when we're using oxygen at that dose, we ought to have some concern, especially
+
+353
+00:23:35,560 --> 00:23:41,120
+if we're beyond the point where we fixed a low SPO2.
+
+354
+00:23:41,120 --> 00:23:42,580
+And then there's also a time component.
+
+355
+00:23:42,580 --> 00:23:47,000
+So we also want to know how long does it take when we're giving supplemental oxygen for
+
+356
+00:23:47,000 --> 00:23:50,480
+the reactive oxygen species to be produced and then to cause damage.
+
+357
+00:23:50,480 --> 00:23:54,920
+Again, there's not a really straightforward answer here, but when we're giving 100% or
+
+358
+00:23:54,920 --> 00:24:02,160
+high flow oxygen, normally within five to 20 minutes, our PAO2, our arterial partial
+
+359
+00:24:02,160 --> 00:24:07,000
+pressure of oxygen plateaus based on whatever FIO2 we're delivering.
+
+360
+00:24:07,000 --> 00:24:12,760
+And then we can assume that in that same timeframe, our intracellular oxygen concentration also
+
+361
+00:24:12,760 --> 00:24:14,460
+reaches the plateau.
+
+362
+00:24:14,460 --> 00:24:17,000
+With low flow delivery, the timeline is the same.
+
+363
+00:24:17,000 --> 00:24:21,720
+Just recognize that we may not ever reach an intracellular oxygen concentration that
+
+364
+00:24:21,720 --> 00:24:27,200
+results in the production of reactive oxygen species.
+
+365
+00:24:27,200 --> 00:24:30,760
+Okay, let's end with just a quick review.
+
+366
+00:24:30,760 --> 00:24:32,080
+So this is what we started with.
+
+367
+00:24:32,080 --> 00:24:34,600
+These are the questions that we wanted to answer.
+
+368
+00:24:34,600 --> 00:24:37,880
+So let's just put them all together with answers on one slide.
+
+369
+00:24:37,880 --> 00:24:40,480
+So when should we utilize oxygen?
+
+370
+00:24:40,480 --> 00:24:46,960
+In general, when our SPO2 is below goal or we have some other evidence of hypoxia.
+
+371
+00:24:46,960 --> 00:24:49,320
+And then what about 100% oxygen?
+
+372
+00:24:49,320 --> 00:24:55,840
+So we talked about these cases would be hypoxia, carbon monoxide, traumatic brain injury, CPR,
+
+373
+00:24:55,840 --> 00:25:00,380
+peroxogenation, decompression illness, or airfield issues.
+
+374
+00:25:00,380 --> 00:25:04,520
+And then what about when do we want an SPO2 of 100%?
+
+375
+00:25:04,520 --> 00:25:09,280
+So again, those are carbon monoxide exposure, decompression illness, and then maybe those
+
+376
+00:25:09,280 --> 00:25:11,420
+airfield issues.
+
+377
+00:25:11,420 --> 00:25:13,680
+And then when should we withhold oxygen?
+
+378
+00:25:13,680 --> 00:25:19,480
+So in general, once SPO2 is in range, we should start to titrate down.
+
+379
+00:25:19,480 --> 00:25:24,640
+So oftentimes this is somewhere between 90 and 93, depending on what agency you work
+
+380
+00:25:24,640 --> 00:25:25,640
+for.
+
+381
+00:25:25,640 --> 00:25:30,120
+All right, so is oxygen the bad guy?
+
+382
+00:25:30,120 --> 00:25:35,600
+Probably not at low flows, and then it depends at high flow.
+
+383
+00:25:35,600 --> 00:25:36,600
+That's it.
+
+384
+00:25:36,600 --> 00:25:37,600
+That's all we got.

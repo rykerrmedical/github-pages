@@ -1,0 +1,3179 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,640
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,640 --> 00:00:15,280
+care medicine.
+
+4
+00:00:15,280 --> 00:00:20,360
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,360 --> 00:00:23,860
+use of technology can facilitate that effort.
+
+6
+00:00:23,860 --> 00:00:29,540
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,540 --> 00:00:36,960
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:36,960 --> 00:00:40,700
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,700 --> 00:00:45,860
+do.
+
+10
+00:00:45,860 --> 00:01:10,780
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:10,780 --> 00:01:20,020
+Alright, well, Mando, thanks for coming back on the podcast for the second time.
+
+12
+00:01:20,020 --> 00:01:22,020
+Yeah, thanks for having me, man.
+
+13
+00:01:22,020 --> 00:01:23,020
+It's been too long.
+
+14
+00:01:23,020 --> 00:01:24,740
+So doing some work.
+
+15
+00:01:24,740 --> 00:01:25,740
+For sure.
+
+16
+00:01:25,740 --> 00:01:28,340
+Well, I think you might be my first repeat guest since I haven't been doing podcasts
+
+17
+00:01:28,340 --> 00:01:32,540
+that frequently, but you get the distinct honor of being the first one to come back
+
+18
+00:01:32,540 --> 00:01:33,900
+for a second time.
+
+19
+00:01:33,900 --> 00:01:34,900
+You know what?
+
+20
+00:01:34,900 --> 00:01:35,900
+I will take a little bar.
+
+21
+00:01:35,900 --> 00:01:39,780
+It's like calling me your favorite son, but I'm like the only child.
+
+22
+00:01:39,780 --> 00:01:40,780
+Yeah, exactly.
+
+23
+00:01:40,780 --> 00:01:43,300
+There's no complaints here, though.
+
+24
+00:01:43,300 --> 00:01:44,460
+Well, cool.
+
+25
+00:01:44,460 --> 00:01:54,980
+For folks who don't know, Mando Medic has a social media platform that does mental health
+
+26
+00:01:54,980 --> 00:01:58,460
+stuff for first responders.
+
+27
+00:01:58,460 --> 00:02:06,220
+We met a while ago and did a podcast maybe two years ago now about sleep hygiene in EMS.
+
+28
+00:02:07,220 --> 00:02:11,780
+So I guess my first question is, how was your sleep these days?
+
+29
+00:02:11,780 --> 00:02:14,820
+I knew you were going to start and find a way to wind that in here because you already
+
+30
+00:02:14,820 --> 00:02:17,540
+know the answer to that.
+
+31
+00:02:17,540 --> 00:02:21,100
+So for all of you listening, if any of you have listened to the Sleep Hygiene podcast
+
+32
+00:02:21,100 --> 00:02:25,020
+or if you haven't, I highly advise you go to the Sleep Hygiene podcast and you listen
+
+33
+00:02:25,020 --> 00:02:29,620
+to all the things that Ryan and I talk about and implement them into your life and maintain
+
+34
+00:02:29,620 --> 00:02:30,620
+those.
+
+35
+00:02:30,620 --> 00:02:34,140
+I have not.
+
+36
+00:02:34,140 --> 00:02:39,260
+And Ryan, you know, and I'm not putting the blame out here on anyone, but you've this
+
+37
+00:02:39,260 --> 00:02:44,940
+podcast is actually the reason I met Bethany, my girlfriend, and she she is a night owl.
+
+38
+00:02:44,940 --> 00:02:48,420
+Like she goes to bed at like five thirty in the morning.
+
+39
+00:02:48,420 --> 00:02:52,740
+So I have I try to maintain a balance.
+
+40
+00:02:52,740 --> 00:02:53,740
+Right.
+
+41
+00:02:53,740 --> 00:02:56,460
+So like when she's floating away and stuff, I'll go to bed normally and I keep up my sleep
+
+42
+00:02:56,460 --> 00:02:57,460
+hygiene.
+
+43
+00:02:57,460 --> 00:02:58,460
+But she's home.
+
+44
+00:02:58,460 --> 00:02:59,980
+It kind of goes out the window.
+
+45
+00:02:59,980 --> 00:03:00,980
+That's OK.
+
+46
+00:03:00,980 --> 00:03:01,980
+Yeah.
+
+47
+00:03:01,980 --> 00:03:02,980
+It's all about moderation.
+
+48
+00:03:02,980 --> 00:03:06,860
+I send these to everything I can find on sleep hygiene just because I know it's a point
+
+49
+00:03:06,860 --> 00:03:07,860
+of contention.
+
+50
+00:03:07,860 --> 00:03:08,860
+Oh, no, absolutely.
+
+51
+00:03:08,860 --> 00:03:09,860
+It's great.
+
+52
+00:03:09,860 --> 00:03:10,860
+She loved the stickers.
+
+53
+00:03:10,860 --> 00:03:11,860
+Yeah, those were good.
+
+54
+00:03:11,860 --> 00:03:12,860
+Those are hilarious.
+
+55
+00:03:12,860 --> 00:03:22,620
+Well, why not to catch folks up on what your project is all about?
+
+56
+00:03:22,620 --> 00:03:28,060
+Can you just talk a little bit about the Mando Medic project and what it is that you do?
+
+57
+00:03:28,060 --> 00:03:29,180
+Yeah.
+
+58
+00:03:29,180 --> 00:03:36,580
+So it started way back where you and I actually met each other with the European medics discord
+
+59
+00:03:36,580 --> 00:03:41,060
+doing some of that telemed stuff for Ukraine.
+
+60
+00:03:41,060 --> 00:03:48,820
+It turned into an Instagram after you finally beat me down into realizing the content was
+
+61
+00:03:48,820 --> 00:03:50,460
+actually worthy of putting out there.
+
+62
+00:03:50,460 --> 00:03:54,900
+So I have run the Instagram for.
+
+63
+00:03:54,900 --> 00:03:58,380
+Three, three years, three years now.
+
+64
+00:03:58,380 --> 00:04:01,140
+It's not it doesn't have one hundred fifty thousand followers or anything.
+
+65
+00:04:01,140 --> 00:04:04,500
+But for someone who expected to have one hundred, I'm pretty happy with the sixty seven hundred
+
+66
+00:04:04,500 --> 00:04:06,540
+people that I have hanging out with me.
+
+67
+00:04:06,540 --> 00:04:12,340
+So I essentially post, I guess, robust would be the word for it.
+
+68
+00:04:12,340 --> 00:04:13,420
+I don't fluff things up.
+
+69
+00:04:13,420 --> 00:04:15,900
+I don't sugarcoat things.
+
+70
+00:04:15,900 --> 00:04:19,540
+You know, if it's if it's something that's not good for our mental health, you know,
+
+71
+00:04:19,540 --> 00:04:22,260
+I'll call it out, things like that on the Instagram.
+
+72
+00:04:22,260 --> 00:04:25,940
+So it's far from like that cringe worthy like rage bait Instagram.
+
+73
+00:04:25,940 --> 00:04:31,220
+But it's definitely not going to cater into peer pressure and things like that that kind
+
+74
+00:04:31,220 --> 00:04:36,020
+of drive a lot of the mental health topics and social media.
+
+75
+00:04:36,020 --> 00:04:38,380
+So I'm still running that.
+
+76
+00:04:38,380 --> 00:04:43,860
+Like we're talking about today, I've now got the responder toolkit, which is the app that
+
+77
+00:04:43,860 --> 00:04:48,140
+I made and then I just branched off to the merch.
+
+78
+00:04:48,140 --> 00:04:53,260
+So everybody finally has worn me down on stickers and everybody asked for them so often.
+
+79
+00:04:53,260 --> 00:04:54,260
+I finally gave in.
+
+80
+00:04:54,260 --> 00:04:59,420
+So that's kind of a like 360 degree view of the project.
+
+81
+00:04:59,420 --> 00:05:01,100
+I still haven't started a podcast.
+
+82
+00:05:01,100 --> 00:05:06,180
+I've been getting I get a question probably every other week about that for the last three
+
+83
+00:05:06,180 --> 00:05:07,180
+years.
+
+84
+00:05:07,180 --> 00:05:08,620
+I still haven't done it.
+
+85
+00:05:08,620 --> 00:05:09,620
+Maybe one day.
+
+86
+00:05:09,620 --> 00:05:10,620
+I don't know.
+
+87
+00:05:10,620 --> 00:05:11,620
+I'm busy.
+
+88
+00:05:11,620 --> 00:05:12,620
+There's still time.
+
+89
+00:05:12,620 --> 00:05:13,620
+There's still funny time.
+
+90
+00:05:13,620 --> 00:05:14,620
+Yeah.
+
+91
+00:05:14,620 --> 00:05:15,620
+It's infinite.
+
+92
+00:05:15,620 --> 00:05:16,620
+So we're good.
+
+93
+00:05:16,620 --> 00:05:17,620
+Yeah, man.
+
+94
+00:05:17,700 --> 00:05:23,260
+Most of your most of your like content and then like the resources that you're working
+
+95
+00:05:23,260 --> 00:05:28,460
+on there specifically geared toward like first responders, correct?
+
+96
+00:05:28,460 --> 00:05:30,500
+Yeah, definitely there.
+
+97
+00:05:30,500 --> 00:05:36,340
+I tried to blend them in a way that if the lake a lay person comes onto the Instagram,
+
+98
+00:05:36,340 --> 00:05:38,060
+they can still find value.
+
+99
+00:05:38,060 --> 00:05:43,540
+And I've actually got I should do another survey last time I did the survey.
+
+100
+00:05:43,540 --> 00:05:44,540
+It was somewhere.
+
+101
+00:05:44,540 --> 00:05:47,820
+It's about 80% first responders and veterans.
+
+102
+00:05:47,820 --> 00:05:54,120
+But there's about 20% of people in there that have no through rock solid connection to any
+
+103
+00:05:54,120 --> 00:05:55,120
+of those professions.
+
+104
+00:05:55,120 --> 00:05:58,060
+And I think just find the information helpful.
+
+105
+00:05:58,060 --> 00:06:03,300
+So so I try to present it in a way that you can understand it regardless.
+
+106
+00:06:03,300 --> 00:06:09,540
+But it's definitely catered specifically toward some of our tendencies, I'll say as first
+
+107
+00:06:09,540 --> 00:06:11,460
+responders and vets.
+
+108
+00:06:11,460 --> 00:06:13,500
+Yeah, that makes sense.
+
+109
+00:06:14,500 --> 00:06:20,500
+And then let's yeah, I brought you back on to talk specifically about this app.
+
+110
+00:06:20,500 --> 00:06:23,140
+So the app is called responder toolkit.
+
+111
+00:06:23,140 --> 00:06:25,780
+If I have that right, you do.
+
+112
+00:06:25,780 --> 00:06:26,780
+Yes, sir.
+
+113
+00:06:26,780 --> 00:06:31,740
+And yeah, why did you decide to go through the trouble of making it happen?
+
+114
+00:06:31,740 --> 00:06:42,260
+Yeah, so this this kind of started, I guess the like, my brain had the idea a long time
+
+115
+00:06:42,260 --> 00:06:46,260
+ago and had no way to even potentially think about implementing it.
+
+116
+00:06:46,260 --> 00:06:49,460
+And that was during my initial mental health crisis.
+
+117
+00:06:49,460 --> 00:06:54,140
+So for those of you who are who are new to me or my platform, you know, this entire platform
+
+118
+00:06:54,140 --> 00:06:55,780
+comes from experience.
+
+119
+00:06:55,780 --> 00:07:00,860
+I had a mental health crisis and suicide attempt in 2019.
+
+120
+00:07:00,860 --> 00:07:06,540
+So this kind of Instagram has spanned off of my what I've learned over the years, what
+
+121
+00:07:06,540 --> 00:07:08,420
+works and what doesn't.
+
+122
+00:07:08,420 --> 00:07:13,780
+Not just for me, but for peers, when somebody finds out in first responder communities or
+
+123
+00:07:13,780 --> 00:07:18,460
+vet communities that someone has had a crisis, like, all of a sudden, like 20 people come
+
+124
+00:07:18,460 --> 00:07:20,660
+out of the woodwork to ask for help.
+
+125
+00:07:20,660 --> 00:07:25,420
+Because they finally see someone that had a public and and they feel comfortable asking.
+
+126
+00:07:25,420 --> 00:07:30,220
+So I had this thought and I remember, I remember this vividly.
+
+127
+00:07:30,220 --> 00:07:32,860
+And I was I was like grasping at straws.
+
+128
+00:07:32,860 --> 00:07:37,300
+I didn't know that I was going to end up trying to kill myself in a couple weeks.
+
+129
+00:07:37,300 --> 00:07:40,420
+But like it was getting to that point where I wasn't sleeping.
+
+130
+00:07:40,420 --> 00:07:42,060
+I was drinking heavily.
+
+131
+00:07:42,060 --> 00:07:43,180
+I hated myself.
+
+132
+00:07:43,180 --> 00:07:44,180
+I hated everything around me.
+
+133
+00:07:44,180 --> 00:07:45,180
+I was angry.
+
+134
+00:07:45,180 --> 00:07:47,940
+I'd punched a hole in a wall.
+
+135
+00:07:47,940 --> 00:07:52,420
+And I downloaded calm, like two weeks before that.
+
+136
+00:07:52,420 --> 00:07:53,420
+And I love that app.
+
+137
+00:07:53,420 --> 00:07:54,420
+Don't get me wrong.
+
+138
+00:07:54,420 --> 00:07:55,420
+It's a great app.
+
+139
+00:07:55,420 --> 00:07:57,100
+And it was helping a little bit.
+
+140
+00:07:57,100 --> 00:07:59,980
+But then a hit the point I was in like debt.
+
+141
+00:07:59,980 --> 00:08:02,340
+I was financially not in a good spot.
+
+142
+00:08:02,340 --> 00:08:05,740
+And I remember hitting the point where like, oh, you're two week free trials up.
+
+143
+00:08:05,740 --> 00:08:06,740
+Sorry.
+
+144
+00:08:06,740 --> 00:08:08,300
+I'm 24.99 a month.
+
+145
+00:08:08,300 --> 00:08:10,620
+You'd like to continue.
+
+146
+00:08:10,620 --> 00:08:16,220
+And I felt like I was already having a hard time affording therapy even.
+
+147
+00:08:16,220 --> 00:08:20,780
+And I felt like I just got painted into a corner where I'm like, why just built like
+
+148
+00:08:20,780 --> 00:08:25,220
+all of my fundamental daily routines and growth off of this app.
+
+149
+00:08:25,220 --> 00:08:31,420
+And now I don't have it because I don't want to pay $25 a month for the subscription.
+
+150
+00:08:32,420 --> 00:08:39,740
+I remember wishing at the time, I wish there was an app that did more and did it for free.
+
+151
+00:08:39,740 --> 00:08:42,380
+Because my thought was, well, you know, people really need it.
+
+152
+00:08:42,380 --> 00:08:45,340
+They don't know, they're not going to want to pay for it.
+
+153
+00:08:45,340 --> 00:08:49,740
+And so, and I understand, you know, the commercial industry, if that's not super possible all
+
+154
+00:08:49,740 --> 00:08:53,740
+the time, but now fast forward a couple of years.
+
+155
+00:08:53,740 --> 00:08:58,660
+And I just had one of those random shower thought babies in my brain.
+
+156
+00:08:58,660 --> 00:09:03,700
+And I was like, I bet with AI now, I was like, we have to be at a spot where there's
+
+157
+00:09:03,700 --> 00:09:05,740
+something to help you build an app.
+
+158
+00:09:05,740 --> 00:09:09,540
+Like I will learn how to code the way I need to code, but like, there's got to be something
+
+159
+00:09:09,540 --> 00:09:11,260
+to learn how to build an app.
+
+160
+00:09:11,260 --> 00:09:16,740
+And I found the solution, which we can talk about later and started going ahead with it.
+
+161
+00:09:16,740 --> 00:09:18,060
+And now here we are.
+
+162
+00:09:18,060 --> 00:09:19,060
+And it's live.
+
+163
+00:09:19,060 --> 00:09:20,060
+Yeah.
+
+164
+00:09:20,060 --> 00:09:23,860
+Yeah, I think you and I are like pretty aligned on like both of those things.
+
+165
+00:09:23,860 --> 00:09:28,340
+Like the first step, like the stuff we need to do a good job in this world, like should
+
+166
+00:09:28,340 --> 00:09:29,340
+be free.
+
+167
+00:09:29,340 --> 00:09:35,100
+Kind of like a free resources maximalist in that sense.
+
+168
+00:09:35,100 --> 00:09:37,620
+Like I don't, I try not to pay for anything.
+
+169
+00:09:37,620 --> 00:09:42,260
+And I like routinely like throw shade at stuff that just fees.
+
+170
+00:09:42,260 --> 00:09:47,580
+But also think like a newer situation or like on the mental health side of things, it's
+
+171
+00:09:47,580 --> 00:09:51,660
+like potentially like causes damage, like having something that is behind a paywall,
+
+172
+00:09:51,660 --> 00:09:56,300
+especially when people get accustomed to having that initial trial access.
+
+173
+00:09:56,300 --> 00:09:58,980
+Oh yeah, absolutely.
+
+174
+00:09:58,980 --> 00:10:04,700
+And especially this is where it comes into the veteran first responder space where I
+
+175
+00:10:04,700 --> 00:10:10,220
+mean, if I had to put a random number on, I don't even know how many people have reached
+
+176
+00:10:10,220 --> 00:10:14,940
+out to me at this point, but just talking to all of them, probably 60% of them, I mean,
+
+177
+00:10:14,940 --> 00:10:18,740
+there is a massive financial load on them and that is contributing to that mental health
+
+178
+00:10:18,740 --> 00:10:19,740
+crisis.
+
+179
+00:10:19,820 --> 00:10:25,580
+You know, it's first, it's all of us like buying boats and jet skis and campers we can't
+
+180
+00:10:25,580 --> 00:10:29,980
+afford and then not having the overtime anymore or you know, like that same thing, like you
+
+181
+00:10:29,980 --> 00:10:33,820
+get some ETU that goes and buys a Camaro at 28% interest.
+
+182
+00:10:33,820 --> 00:10:39,100
+Like you get into these rough spots and $25 doesn't look the same as when it does when
+
+183
+00:10:39,100 --> 00:10:40,420
+you can afford your groceries.
+
+184
+00:10:40,420 --> 00:10:48,860
+So yeah, the other thing that I think is cool that we have in common is like using these
+
+185
+00:10:48,860 --> 00:10:55,140
+new technology tools to build things like this last year or so, we built my entire website
+
+186
+00:10:55,140 --> 00:11:00,060
+and kind of like worked out the back end of all my projects, including this podcast, like
+
+187
+00:11:00,060 --> 00:11:05,500
+using like free tools online and like free AI chatbots to like make it happen.
+
+188
+00:11:05,500 --> 00:11:11,180
+So like kind of like discover the potential of like doing some pretty cool stuff for like
+
+189
+00:11:11,180 --> 00:11:16,180
+our target audience, really having to shell out money myself, which is pretty rad.
+
+190
+00:11:16,180 --> 00:11:17,180
+Oh yeah.
+
+191
+00:11:17,180 --> 00:11:18,740
+No, the website looks great to you, man.
+
+192
+00:11:19,260 --> 00:11:23,700
+It's definitely, there's so many tools like especially, you know, I work with developers
+
+193
+00:11:23,700 --> 00:11:27,300
+like for my full-time job, like it's part of it.
+
+194
+00:11:27,300 --> 00:11:30,140
+And once you talk to developers, you're like, oh, no, that makes sense.
+
+195
+00:11:30,140 --> 00:11:35,500
+Like these dudes are with love and respect a bunch of nerds that like love giving away
+
+196
+00:11:35,500 --> 00:11:37,340
+their knowledge, genuinely.
+
+197
+00:11:37,340 --> 00:11:41,340
+So it's nice that there's so many tools that are out there now to be able to bring this
+
+198
+00:11:41,340 --> 00:11:42,340
+stuff.
+
+199
+00:11:42,340 --> 00:11:46,220
+Yeah, no, that's awesome.
+
+200
+00:11:46,220 --> 00:11:49,100
+But getting back to the app, so your, who's your target audience?
+
+201
+00:11:49,100 --> 00:11:51,660
+Like, who did you build the app for?
+
+202
+00:11:51,660 --> 00:11:59,460
+Yeah, so I built it with the same kind of premise as the Instagram, where first responders
+
+203
+00:11:59,460 --> 00:12:03,620
+and veterans are probably going to feel the most at home in there, but I really tried
+
+204
+00:12:03,620 --> 00:12:05,860
+to make it even more neutral than the Instagram.
+
+205
+00:12:05,860 --> 00:12:08,980
+So it's pretty much for everybody.
+
+206
+00:12:08,980 --> 00:12:15,180
+I will say that some of the tools in there, specifically, there's like an incident processing
+
+207
+00:12:15,180 --> 00:12:20,100
+guide, and then like pre-shift and post-shift focus exercises.
+
+208
+00:12:20,100 --> 00:12:27,100
+Some of that might not make a ton of sense at first glance, but I did include some descriptive
+
+209
+00:12:27,100 --> 00:12:30,360
+language as far as people can go look at an overview of the tools and it'll tell them
+
+210
+00:12:30,360 --> 00:12:31,360
+what they are.
+
+211
+00:12:31,360 --> 00:12:38,300
+And I think it's kind of common sense enough that you should be able to kind of tend that
+
+212
+00:12:38,300 --> 00:12:42,100
+to your life, even if you aren't in this profession, like the post-shift decompression tool, like
+
+213
+00:12:43,100 --> 00:12:45,100
+it's just decompressing up stress, right?
+
+214
+00:12:45,100 --> 00:12:51,500
+Like you got a really stressful grocery trip with your kids and you can still use it.
+
+215
+00:12:51,500 --> 00:12:55,740
+So yeah, same target audience for responders and veterans, but anyone's more than welcome
+
+216
+00:12:55,740 --> 00:12:56,740
+to use it.
+
+217
+00:12:56,740 --> 00:13:00,180
+And I think it's pretty translatable.
+
+218
+00:13:00,180 --> 00:13:03,380
+Do you collect any data through the app on like users?
+
+219
+00:13:03,380 --> 00:13:05,940
+Do you know anything about the folks who use it?
+
+220
+00:13:05,940 --> 00:13:07,860
+I don't remember when I signed up for it.
+
+221
+00:13:07,860 --> 00:13:10,340
+I don't think there was any kind of like questionnaire or anything like that.
+
+222
+00:13:10,340 --> 00:13:11,340
+It was just curious.
+
+223
+00:13:11,780 --> 00:13:13,860
+Yeah, there definitely wasn't with you.
+
+224
+00:13:13,860 --> 00:13:18,540
+You were one of, I think you were the first person who signed up for it.
+
+225
+00:13:18,540 --> 00:13:19,540
+First and second.
+
+226
+00:13:19,540 --> 00:13:24,420
+Yeah, dude, you're right up at the top of the podium there.
+
+227
+00:13:24,420 --> 00:13:28,140
+Now I have a real quick questionnaire.
+
+228
+00:13:28,140 --> 00:13:33,900
+It basically just asks what your profession is and it doesn't gatekeep you from anything.
+
+229
+00:13:33,900 --> 00:13:36,540
+It's just for data collection purposes.
+
+230
+00:13:36,540 --> 00:13:43,220
+Going forward, I would like to start to collect some of that data.
+
+231
+00:13:43,220 --> 00:13:46,180
+And it's also something that I can retroactively do with the way the app is built.
+
+232
+00:13:46,180 --> 00:13:51,620
+I can push a survey out and just try and sell it out to people to see if they can do one
+
+233
+00:13:51,620 --> 00:13:53,020
+when they sign in next.
+
+234
+00:13:53,020 --> 00:13:55,860
+We can schedule something like that.
+
+235
+00:13:55,860 --> 00:13:59,740
+But as far as, just because I know I'll get this question from folks who are listening,
+
+236
+00:13:59,740 --> 00:14:07,420
+as far as actual what I can see, I can see the username, a list of users.
+
+237
+00:14:07,420 --> 00:14:13,060
+I can see how many minutes you've spent on the app.
+
+238
+00:14:13,060 --> 00:14:15,180
+And then everything else is anonymized.
+
+239
+00:14:15,180 --> 00:14:19,100
+So the email is optional now.
+
+240
+00:14:19,100 --> 00:14:20,300
+The username I can see.
+
+241
+00:14:20,300 --> 00:14:22,700
+If you enter your first and last name, I can see that.
+
+242
+00:14:22,700 --> 00:14:24,260
+But other than that, everything's anonymous.
+
+243
+00:14:24,260 --> 00:14:25,660
+So I can't see.
+
+244
+00:14:25,660 --> 00:14:28,740
+If you go in and put a journal in, I can't see that journal entry.
+
+245
+00:14:28,780 --> 00:14:33,580
+I can see that someone journaled for six minutes and 42 seconds.
+
+246
+00:14:33,580 --> 00:14:35,060
+But I can't see the journal entry.
+
+247
+00:14:35,060 --> 00:14:36,540
+So it's completely anonymous.
+
+248
+00:14:36,540 --> 00:14:42,340
+And then the platform that the app is built on also has a policy to be completely anonymous
+
+249
+00:14:42,340 --> 00:14:43,460
+with data.
+
+250
+00:14:43,460 --> 00:14:44,740
+They're very transparent about that.
+
+251
+00:14:44,740 --> 00:14:46,860
+And that was why I picked it for this.
+
+252
+00:14:46,860 --> 00:14:47,860
+Awesome.
+
+253
+00:14:47,860 --> 00:14:52,060
+And then, you know, it's talking about how you actually built the app.
+
+254
+00:14:52,060 --> 00:14:55,660
+What platform did you use to make that happen?
+
+255
+00:14:55,660 --> 00:14:56,660
+Yeah.
+
+256
+00:14:56,780 --> 00:15:00,580
+I use Base44.
+
+257
+00:15:00,580 --> 00:15:01,580
+It's pretty cool.
+
+258
+00:15:01,580 --> 00:15:06,900
+There's quite a few apps, app builders, I guess I should say, that are AI right now.
+
+259
+00:15:06,900 --> 00:15:13,060
+This one was pretty heavily recommended on the great internet bible of Reddit, which
+
+260
+00:15:13,060 --> 00:15:14,220
+I'm not going to lie.
+
+261
+00:15:14,220 --> 00:15:16,340
+I put a lot of trust in Reddit, dude.
+
+262
+00:15:16,340 --> 00:15:17,980
+I'm a millennial.
+
+263
+00:15:17,980 --> 00:15:19,900
+I love because, you know what I mean?
+
+264
+00:15:19,900 --> 00:15:23,620
+It's like the one space on the internet where if you're wrong, you will get shredded to
+
+265
+00:15:23,620 --> 00:15:24,620
+pieces.
+
+266
+00:15:25,140 --> 00:15:28,740
+So I found it on Reddit and people were talking about it.
+
+267
+00:15:28,740 --> 00:15:32,460
+And they were developers that were actually complementing it.
+
+268
+00:15:32,460 --> 00:15:36,780
+And when I hear developers complementing something, I typically believe them.
+
+269
+00:15:36,780 --> 00:15:38,300
+They also hate everything.
+
+270
+00:15:38,300 --> 00:15:40,820
+So I found it on there.
+
+271
+00:15:40,820 --> 00:15:48,020
+The app building process was a lot more intensive than I thought.
+
+272
+00:15:48,020 --> 00:15:50,580
+I've got a lot of experience with chat GPT.
+
+273
+00:15:50,580 --> 00:15:51,820
+Like I use it.
+
+274
+00:15:51,820 --> 00:15:52,820
+I don't use it.
+
+275
+00:15:52,820 --> 00:15:54,380
+I refuse to use it for Instagram posts.
+
+276
+00:15:54,700 --> 00:15:58,700
+That's just with the mental health education, it being like raw emotion.
+
+277
+00:15:58,700 --> 00:16:01,220
+I just I don't agree with it for that.
+
+278
+00:16:01,220 --> 00:16:06,140
+But like in daily life, I use it pretty well and I've gotten really good prompts.
+
+279
+00:16:06,140 --> 00:16:07,700
+This is a whole nother thing.
+
+280
+00:16:10,100 --> 00:16:16,940
+You can tell it what you want, but it's like 100 times more.
+
+281
+00:16:18,820 --> 00:16:21,980
+It requires 100 times more specificity than chat GPT.
+
+282
+00:16:21,980 --> 00:16:27,980
+So like you kind of have to have an understanding about a basic level of coding to get it to
+
+283
+00:16:27,980 --> 00:16:30,860
+do what you want to do, like appearance and functionality wise.
+
+284
+00:16:33,660 --> 00:16:35,460
+So so I started doing that.
+
+285
+00:16:36,220 --> 00:16:40,060
+And honestly, I went into it like after that, literally after I got out of that shower and I just
+
+286
+00:16:40,060 --> 00:16:44,780
+googled and I found it and I signed up and I tried I tried it and I.
+
+287
+00:16:45,740 --> 00:16:46,580
+It made it.
+
+288
+00:16:47,580 --> 00:16:51,420
+Fairly easy to get kind of a foundation built up.
+
+289
+00:16:51,420 --> 00:16:57,260
+And then once I started to learn how to talk to it and how to get it to do what I needed to do,
+
+290
+00:16:57,260 --> 00:16:59,540
+it started to flow and I got really excited.
+
+291
+00:16:59,540 --> 00:17:00,980
+The first thing I built was the.
+
+292
+00:17:03,980 --> 00:17:09,740
+The box breathing and I got so excited that the circle I got bigger with your inhale.
+
+293
+00:17:11,180 --> 00:17:16,060
+With your inhale and smaller with your exhale that that like motivated me and I started building
+
+294
+00:17:16,260 --> 00:17:19,460
+different tools, but it's it's taken.
+
+295
+00:17:19,460 --> 00:17:22,940
+I don't want people to hear AI and assume that it's just an easy button.
+
+296
+00:17:22,940 --> 00:17:27,860
+Like it has taken hours of work to try to get it to the spot where it's at and functional.
+
+297
+00:17:28,860 --> 00:17:30,100
+Yeah, that's cool.
+
+298
+00:17:30,100 --> 00:17:35,060
+I've had like similar moments where like I've been like fapping around, like trying to figure out
+
+299
+00:17:35,060 --> 00:17:39,220
+like a specific thing on the website and finally like it goes like, oh man, this is so cool.
+
+300
+00:17:40,500 --> 00:17:41,660
+Yeah, it's awesome.
+
+301
+00:17:41,660 --> 00:17:42,980
+It's like learning a new language, man.
+
+302
+00:17:43,620 --> 00:17:44,020
+Yeah.
+
+303
+00:17:44,980 --> 00:17:48,460
+And how like how far along are you on the app?
+
+304
+00:17:48,460 --> 00:17:49,900
+Like I know it's silly functional.
+
+305
+00:17:49,900 --> 00:17:54,700
+It's been functional for quite a long time, but is it you think it's done as it is or is it still a
+
+306
+00:17:54,700 --> 00:17:59,900
+work in progress or is it one of those things that will just be a never ending, like always tweaking and adjusting?
+
+307
+00:18:01,060 --> 00:18:04,580
+So I think it's going to be an always tweaking and adjusting for the most part.
+
+308
+00:18:04,900 --> 00:18:09,340
+The basic the basic features I wanted on the app are there.
+
+309
+00:18:10,340 --> 00:18:19,100
+What I don't want to do and like I said, you know, now that I'm off the truck, a lot of my job has to do with
+
+310
+00:18:19,100 --> 00:18:20,420
+EMS software management.
+
+311
+00:18:21,300 --> 00:18:26,820
+And so I deal with with EMS software companies all the time.
+
+312
+00:18:26,820 --> 00:18:29,900
+It's like Image Trend, Zoll, Pulsera, stuff like that.
+
+313
+00:18:30,420 --> 00:18:38,700
+And one of the things that I've noticed is the biggest killer, I think of software is like, if you know the it's like,
+
+314
+00:18:39,020 --> 00:18:41,340
+I don't know, I guess Jenga, it's almost like a Jenga tower.
+
+315
+00:18:41,580 --> 00:18:47,660
+Like if you just keep building, there's going to be like gaps in the foundation or it's going to tilt a little bit.
+
+316
+00:18:47,780 --> 00:18:50,420
+It's going to fall if you don't stop building.
+
+317
+00:18:50,420 --> 00:18:55,660
+Like you have to get to a point at some point where it's you're stabilizing and stuff instead.
+
+318
+00:18:55,660 --> 00:19:03,380
+So I don't want to build it to the point where it has every conceivable tool that has ever existed known to man.
+
+319
+00:19:04,380 --> 00:19:10,260
+But, you know, I do I do have a few more things that we can talk about at some point in here that I have planned for the future.
+
+320
+00:19:10,260 --> 00:19:15,940
+But but that's kind of the long the short story long, I guess, is is it's always going to be tweaked.
+
+321
+00:19:15,940 --> 00:19:25,660
+And I want to make sure that users have good experience on the app, but I'm definitely not going to clutter it up and make it difficult to use either.
+
+322
+00:19:26,740 --> 00:19:27,340
+Makes sense.
+
+323
+00:19:27,780 --> 00:19:39,780
+And then you mentioned that you're you've got like all the basic features like sorted out the moment you want to walk us through those and explain like what specific functionalities that has for folks who might be interested.
+
+324
+00:19:40,620 --> 00:19:41,780
+Yeah, yeah, absolutely.
+
+325
+00:19:41,780 --> 00:19:44,260
+I actually got a pretty long list on there for now.
+
+326
+00:19:44,260 --> 00:19:46,780
+So I'll just start and I have the app open.
+
+327
+00:19:46,780 --> 00:19:48,140
+So I'll just start like at the top.
+
+328
+00:19:49,140 --> 00:19:50,460
+Free shift focus.
+
+329
+00:19:50,500 --> 00:19:56,220
+So I have two focus centered or I guess focus and decompress.
+
+330
+00:19:56,220 --> 00:19:58,220
+And centered exercises in here.
+
+331
+00:19:58,220 --> 00:20:05,100
+The pre shift focus walks someone through a kind of grounding exercise, if you will.
+
+332
+00:20:05,100 --> 00:20:15,460
+So it talks about, as you consider expectations for the shift, how you're feeling right now, really kind of forces you into thinking about these things and processing them.
+
+333
+00:20:16,260 --> 00:20:22,220
+The post shift decompression is intended for something that I've always stressed to
+
+334
+00:20:22,220 --> 00:20:31,980
+to everybody really, but in every podcast I've been into is we have too many guys that and gals that get home and they go straight inside to their kids and husbands and wives.
+
+335
+00:20:32,580 --> 00:20:36,780
+I just don't I don't recommend that unless you had a really princess shift.
+
+336
+00:20:37,060 --> 00:20:38,500
+I do not recommend doing that.
+
+337
+00:20:38,500 --> 00:20:40,460
+Just take a couple minutes and decompress.
+
+338
+00:20:40,460 --> 00:20:49,900
+And this that kind of transitions people from work mode to home mode in hopes that it lets people be more present with the people who support them.
+
+339
+00:20:49,900 --> 00:20:50,900
+Box breathing.
+
+340
+00:20:50,900 --> 00:20:58,060
+So everybody's pretty much familiar with box breathing, I think at this point, but this is like a physical representation of that.
+
+341
+00:20:58,060 --> 00:21:03,340
+So like I said, it has a ball that gets bigger as you inhale, it gets smaller as you exhale, and then it has you hold.
+
+342
+00:21:03,340 --> 00:21:06,180
+So it's it's easy to just kind of get yourself in a trance doing it.
+
+343
+00:21:06,180 --> 00:21:08,460
+I found so that will time you.
+
+344
+00:21:08,460 --> 00:21:11,180
+You can do as many cycles as you want until you're feeling better.
+
+345
+00:21:12,180 --> 00:21:13,700
+So that's a great resource.
+
+346
+00:21:14,300 --> 00:21:16,300
+Incident practice is a great resource.
+
+347
+00:21:16,300 --> 00:21:18,260
+Incident processing, I'm really excited about.
+
+348
+00:21:18,260 --> 00:21:28,300
+I have done CISM CISD for those of you who don't know, it's critical incident stress management and critical incident stress debriefing.
+
+349
+00:21:28,300 --> 00:21:32,460
+I've done that for seven or eight years now.
+
+350
+00:21:32,460 --> 00:21:36,740
+And I, it's controversial, we don't have to rabbit hole into it.
+
+351
+00:21:36,740 --> 00:21:40,620
+I debate whether it really works in a public environment.
+
+352
+00:21:40,620 --> 00:21:43,420
+And so I think that's a really good thing.
+
+353
+00:21:43,420 --> 00:21:46,940
+It's a really good resource in a public environment.
+
+354
+00:21:46,940 --> 00:21:54,940
+And so what I made was basically a critical incident stress management tool that you can process at home alone.
+
+355
+00:21:54,940 --> 00:22:03,100
+So the incident processing guide will actually step through these questions with you and encourage that processing,
+
+356
+00:22:03,100 --> 00:22:10,940
+give you space for it, and then you're not having to do that or feel pressured to do that in front of 15 people who are on an incident.
+
+357
+00:22:10,940 --> 00:22:12,940
+So that's one of my favorite things on there.
+
+358
+00:22:12,940 --> 00:22:16,380
+I've got three kinds of journal.
+
+359
+00:22:16,380 --> 00:22:19,740
+So there's a generic, I call it the free flow journal.
+
+360
+00:22:19,740 --> 00:22:28,460
+That's just kind of either I don't know what I want to talk about or if someone is a more experienced journaler, they can use the free flow.
+
+361
+00:22:28,460 --> 00:22:31,100
+I also have a morning and an evening journal.
+
+362
+00:22:31,100 --> 00:22:38,780
+Something that's always like killed me about journaling apps is it's always, I feel like it's always these,
+
+363
+00:22:38,860 --> 00:22:42,300
+I feel like it's often geared toward evening journals.
+
+364
+00:22:42,300 --> 00:22:46,620
+And sometimes I want to journal in the morning, but nothing has happened in the day yet.
+
+365
+00:22:46,620 --> 00:22:48,140
+So what am I supposed to do with this?
+
+366
+00:22:48,140 --> 00:22:51,180
+And I don't remember yesterday because I just slept it off.
+
+367
+00:22:51,180 --> 00:22:52,940
+And so I did both.
+
+368
+00:22:52,940 --> 00:22:55,340
+So people have the option and the questions are geared toward it.
+
+369
+00:22:55,340 --> 00:22:59,100
+So instead of what happened today, it's like, well, what do you expect today?
+
+370
+00:22:59,100 --> 00:23:01,660
+Or what are the challenges you're about to face?
+
+371
+00:23:01,660 --> 00:23:03,420
+Stuff like that.
+
+372
+00:23:03,420 --> 00:23:07,260
+I've got a workout and a weight tracker both.
+
+373
+00:23:07,260 --> 00:23:11,180
+So you can track your workouts in there, which I use it myself.
+
+374
+00:23:11,740 --> 00:23:14,220
+It's similar to, I forget the name.
+
+375
+00:23:14,220 --> 00:23:18,060
+I think it's like bar, barbell, barbells or something like that.
+
+376
+00:23:19,260 --> 00:23:21,340
+Basically, you search for the exercise.
+
+377
+00:23:21,340 --> 00:23:22,620
+You can add your reps.
+
+378
+00:23:22,620 --> 00:23:27,340
+If you do split sets, you can do split sets in there, cardio, all of that.
+
+379
+00:23:28,060 --> 00:23:29,740
+You can track your goals on that as well.
+
+380
+00:23:30,780 --> 00:23:32,940
+Well, the weight tracker, it's the same thing.
+
+381
+00:23:32,940 --> 00:23:35,980
+You can enter your weight in a log.
+
+382
+00:23:35,980 --> 00:23:39,500
+You can also add photos, which I cannot see.
+
+383
+00:23:39,500 --> 00:23:41,900
+And then you can actually track your progress through that.
+
+384
+00:23:41,900 --> 00:23:46,540
+So if you're on week two or three and you're like, man, I don't know if I had any progress.
+
+385
+00:23:47,340 --> 00:23:51,980
+You can actually go to the weight tracker and you can do a comparison.
+
+386
+00:23:51,980 --> 00:23:52,940
+And you can compare.
+
+387
+00:23:52,940 --> 00:23:54,380
+You can choose which pictures to compare.
+
+388
+00:23:54,380 --> 00:23:58,860
+So you can pick the day one picture and then take a new picture and they'll pop up side by side.
+
+389
+00:23:58,860 --> 00:24:01,820
+So it gives people a better perspective on it.
+
+390
+00:24:02,700 --> 00:24:06,540
+I do have tracking because, and Ryan, you and I have talked about this.
+
+391
+00:24:06,540 --> 00:24:07,420
+I'm a data dork.
+
+392
+00:24:08,620 --> 00:24:09,500
+I always will.
+
+393
+00:24:09,500 --> 00:24:12,060
+I just love when we have evidence for things.
+
+394
+00:24:13,340 --> 00:24:14,940
+Especially people in crisis.
+
+395
+00:24:14,940 --> 00:24:19,500
+If you just tell someone to go float off into the ether and do better,
+
+396
+00:24:19,500 --> 00:24:20,620
+they don't know what that means.
+
+397
+00:24:20,620 --> 00:24:24,220
+So this allows them some kind of tools to see that they're growing.
+
+398
+00:24:24,220 --> 00:24:29,820
+So with the wellness progress, you can actually track your workouts, your weight goals,
+
+399
+00:24:30,460 --> 00:24:35,020
+and then any of the habits that you've been tracking as well in there and kind of get a
+
+400
+00:24:35,020 --> 00:24:40,380
+dashboard to see how you've been doing, what kind of mood you've been in through your journals,
+
+401
+00:24:40,380 --> 00:24:41,020
+things like that.
+
+402
+00:24:42,620 --> 00:24:47,500
+The therapy prep is hands down my favorite thing on here.
+
+403
+00:24:48,060 --> 00:24:53,740
+I've had a handful of providers who follow me who have looked at it and been like,
+
+404
+00:24:53,740 --> 00:24:56,540
+oh my God, I want all my people to have this.
+
+405
+00:24:57,020 --> 00:25:03,260
+This was a totally, again, I usually would keep a notes app.
+
+406
+00:25:04,460 --> 00:25:06,140
+Do you go to therapy, Ryan, or have you?
+
+407
+00:25:06,140 --> 00:25:07,900
+I have in the past, yeah.
+
+408
+00:25:07,900 --> 00:25:08,700
+Okay.
+
+409
+00:25:08,700 --> 00:25:12,540
+So did you ever do a notes thing to prepare for therapy?
+
+410
+00:25:12,540 --> 00:25:14,220
+I did, yeah.
+
+411
+00:25:15,260 --> 00:25:19,260
+I'm not a big fan of using Notion, so I have like, oh yeah, different notes all
+
+412
+00:25:20,220 --> 00:25:23,980
+kind of rise and drop down menus on my phone and computer.
+
+413
+00:25:24,620 --> 00:25:28,060
+But yeah, I would have one for things to bring up whenever I have session.
+
+414
+00:25:29,180 --> 00:25:30,460
+Yeah, I love Notion too.
+
+415
+00:25:30,460 --> 00:25:33,740
+That's a good, I'll validate that plug there.
+
+416
+00:25:34,780 --> 00:25:39,500
+But yeah, I was like, man, it'd be nice if instead of having a notes app,
+
+417
+00:25:40,620 --> 00:25:45,980
+I had something for therapy, so I actually built a functionality in called therapy prep.
+
+418
+00:25:45,980 --> 00:25:51,100
+So what happens is as you're using the app, you have two options really.
+
+419
+00:25:51,180 --> 00:25:54,780
+So you can either go to the therapy prep page, and you've got a couple different options there,
+
+420
+00:25:54,780 --> 00:25:57,740
+you've got an option to add a goal.
+
+421
+00:25:57,740 --> 00:26:00,540
+So you can add like an overarching goal.
+
+422
+00:26:00,540 --> 00:26:04,220
+Because what I'll do too, especially with my TBI history, like I'll have a therapy
+
+423
+00:26:04,220 --> 00:26:07,180
+appointment and make these goals with my therapist and I'll forget in three weeks.
+
+424
+00:26:07,820 --> 00:26:12,140
+And so this, like you can actually go in and set your overarching broad spectrum goals.
+
+425
+00:26:12,860 --> 00:26:15,660
+And then you can also add topics manually.
+
+426
+00:26:15,660 --> 00:26:18,860
+So if you think of something, after you get out of the shower, and you're like,
+
+427
+00:26:18,860 --> 00:26:21,420
+man, I really need to think about that in therapy, you can add it there.
+
+428
+00:26:22,140 --> 00:26:27,500
+But what you can also do is as you're journaling or doing the incident process guide, there's a
+
+429
+00:26:27,500 --> 00:26:33,100
+checkbox that says add to therapy prep, that will automatically pull the journal entry,
+
+430
+00:26:33,100 --> 00:26:35,340
+and it will add it to your therapy prep page.
+
+431
+00:26:36,220 --> 00:26:40,780
+But what you can do at the end is you can actually export as a PDF.
+
+432
+00:26:41,500 --> 00:26:48,060
+And that PDF will have a dashboard kind of view with the amount of minutes you spend on the app,
+
+433
+00:26:48,060 --> 00:26:53,420
+the amount of time you've given to wellness, your workouts, your average mood throughout the
+
+434
+00:26:53,420 --> 00:26:57,340
+past whatever period it was since you did your last one.
+
+435
+00:26:57,980 --> 00:27:02,620
+And it will also have the entries that you marked to have in your therapy prep.
+
+436
+00:27:02,620 --> 00:27:07,180
+So you can just take it like save this PDF and pull it up in your therapy appointment,
+
+437
+00:27:07,180 --> 00:27:09,020
+or print it out or whatever you want to do.
+
+438
+00:27:09,020 --> 00:27:13,740
+And you have basically a guidebook for how to proceed through the appointment.
+
+439
+00:27:14,700 --> 00:27:20,860
+So I talked to our the providers that had had CMOS and they were they were loving that that
+
+440
+00:27:20,860 --> 00:27:25,020
+was something they could have their clients print out and bring to them so they could use it through
+
+441
+00:27:25,900 --> 00:27:29,100
+through their session or add it to their notes and things like that.
+
+442
+00:27:29,740 --> 00:27:30,300
+Yeah, that's cool.
+
+443
+00:27:30,300 --> 00:27:34,860
+I actually didn't know about when you're when you're using the app, you can see the like
+
+444
+00:27:35,580 --> 00:27:39,660
+the therapy or like bring up in therapy tab on like all the different activities.
+
+445
+00:27:40,380 --> 00:27:43,260
+So I was familiar with the function of all go to this therapy
+
+446
+00:27:43,340 --> 00:27:43,980
+prep tool.
+
+447
+00:27:44,620 --> 00:27:47,980
+I didn't realize there was like additional usage data in the PDF.
+
+448
+00:27:47,980 --> 00:27:50,380
+We probably that's right.
+
+449
+00:27:50,380 --> 00:27:51,260
+Yeah, yeah.
+
+450
+00:27:51,260 --> 00:27:54,700
+And and that might be a thing that might be something I need to advertise more also,
+
+451
+00:27:55,420 --> 00:27:57,100
+which I'm finding now that's why we're here.
+
+452
+00:27:57,980 --> 00:27:58,380
+Exactly.
+
+453
+00:27:58,380 --> 00:27:59,100
+No, I love it.
+
+454
+00:27:59,100 --> 00:28:01,660
+It's the feedback is like the most helpful thing here.
+
+455
+00:28:02,380 --> 00:28:09,180
+So I've got that and then the last the last few things I've got I've got some TBI tools,
+
+456
+00:28:09,180 --> 00:28:12,140
+which I think we're going to talk about some more specifically.
+
+457
+00:28:12,140 --> 00:28:13,420
+So I'll leave that.
+
+458
+00:28:13,420 --> 00:28:15,900
+So I've got some tools specifically for TBI or memory.
+
+459
+00:28:16,620 --> 00:28:20,780
+But then I've also got some pages for wellness tips, emotional regulation.
+
+460
+00:28:21,580 --> 00:28:26,860
+If you're having a hard time figuring out what emotion you're feeling, I actually have a spot
+
+461
+00:28:26,860 --> 00:28:31,180
+you can go guide yourself through that and kind of figure out what you're feeling and then it will
+
+462
+00:28:31,180 --> 00:28:33,260
+auto generate recommendations.
+
+463
+00:28:34,860 --> 00:28:35,900
+I have a
+
+464
+00:28:39,260 --> 00:28:39,740
+where to go.
+
+465
+00:28:42,140 --> 00:28:46,060
+There it is.
+
+466
+00:28:47,420 --> 00:28:50,300
+I also have the self check in.
+
+467
+00:28:50,300 --> 00:28:57,100
+So if you do a self check in, it actually is the PHQ nine and GAD seven for depression and anxiety.
+
+468
+00:28:57,100 --> 00:28:58,220
+So it will give you a score.
+
+469
+00:28:59,180 --> 00:29:00,380
+Doesn't do anything with that.
+
+470
+00:29:00,380 --> 00:29:03,500
+There's no mandatory reporting or anything like that on the app.
+
+471
+00:29:03,500 --> 00:29:05,820
+It's not going to call 911 if you're in crisis.
+
+472
+00:29:07,340 --> 00:29:10,540
+But it will at least tell you like, hey, you need to go get help now or hey,
+
+473
+00:29:10,540 --> 00:29:12,940
+these are some things you should probably look at based on it.
+
+474
+00:29:12,940 --> 00:29:18,860
+So it will screen and provide some recommendations that are not AI.
+
+475
+00:29:19,740 --> 00:29:26,380
+They are all based specifically on those actual diagnostic criteria.
+
+476
+00:29:26,380 --> 00:29:28,380
+So that's not AI telling you what to do.
+
+477
+00:29:29,180 --> 00:29:31,260
+And then I also have a badge system in the app.
+
+478
+00:29:31,260 --> 00:29:38,540
+So you can earn experience and different little badges as you go about your time using it.
+
+479
+00:29:38,540 --> 00:29:43,260
+So yeah, so it's quite a bit, but I'm really happy that it's all in one spot.
+
+480
+00:29:43,260 --> 00:29:47,100
+So people don't have to have five or six different apps for this or pay 20 bucks a month.
+
+481
+00:29:48,060 --> 00:29:48,940
+Yeah, it's awesome.
+
+482
+00:29:49,740 --> 00:29:53,900
+And then what about the I'm in crisis button?
+
+483
+00:29:53,900 --> 00:29:54,780
+What's that one all about?
+
+484
+00:29:55,660 --> 00:29:59,820
+Yeah, so up at the top in blaring red is I'm in crisis.
+
+485
+00:30:00,380 --> 00:30:03,420
+If you hit the button, you're not activated now one or something.
+
+486
+00:30:04,140 --> 00:30:11,660
+The first thing it does is you are up is a an organization that I have partnered with
+
+487
+00:30:12,300 --> 00:30:16,700
+after after vetting and kind of discussing some stuff with their their leadership team.
+
+488
+00:30:17,340 --> 00:30:19,500
+They're actually a national organization.
+
+489
+00:30:19,500 --> 00:30:20,780
+I had not heard of them.
+
+490
+00:30:20,780 --> 00:30:26,540
+I don't know how, because they they're partnered with some huge companies and organizations
+
+491
+00:30:26,540 --> 00:30:27,340
+throughout the country.
+
+492
+00:30:27,980 --> 00:30:32,300
+But essentially what they do is they can connect first responders and vets
+
+493
+00:30:32,300 --> 00:30:36,300
+to a licensed therapy within minutes, it's totally free.
+
+494
+00:30:36,300 --> 00:30:38,060
+And it's available anytime.
+
+495
+00:30:38,060 --> 00:30:43,500
+So I think their average pickup time when I talked to them was between two and a half
+
+496
+00:30:43,500 --> 00:30:44,220
+and three minutes.
+
+497
+00:30:45,100 --> 00:30:49,100
+They have thousands of providers that are on there that are offering pro bono work
+
+498
+00:30:50,140 --> 00:30:54,700
+and donating their time to make sure that you know, if a first responder or veteran is in crisis,
+
+499
+00:30:54,700 --> 00:30:57,500
+and they call, they're going to have an answer.
+
+500
+00:30:57,500 --> 00:31:05,180
+So the way that qRF works is if they call, the provider will do some triage and kind of
+
+501
+00:31:05,180 --> 00:31:06,540
+figure out where you're at.
+
+502
+00:31:06,540 --> 00:31:12,860
+If they're in legitimate crisis, they try to talk to them to get them to go to a treatment center,
+
+503
+00:31:13,420 --> 00:31:18,140
+they start to talk about removing the means of suicide, they start to go into some of those
+
+504
+00:31:18,140 --> 00:31:20,060
+things to keep you immediately safe.
+
+505
+00:31:20,860 --> 00:31:28,300
+They only have he said they've only had to do a mandatory now one call on, I think a handful
+
+506
+00:31:28,300 --> 00:31:30,140
+of people in the last couple of years.
+
+507
+00:31:30,140 --> 00:31:34,700
+So it doesn't happen often because once, once someone is in crisis, if once they're in front
+
+508
+00:31:34,700 --> 00:31:39,900
+of a provider, most of the time, they're they're able to at least rationalize, they're thinking a
+
+509
+00:31:39,900 --> 00:31:40,540
+little bit more.
+
+510
+00:31:40,540 --> 00:31:42,140
+So they've had good success with that.
+
+511
+00:31:42,140 --> 00:31:48,780
+But then they'll also link people up with, you know, long term therapy, they were saying
+
+512
+00:31:48,780 --> 00:31:53,740
+they'll do things like food, if you're having a hard time getting food or your electric bills
+
+513
+00:31:53,740 --> 00:31:56,780
+paid, and they'll kind of connect you with resources like that.
+
+514
+00:31:56,780 --> 00:31:59,260
+So that's why it's up front in the top.
+
+515
+00:31:59,260 --> 00:32:04,700
+And then there's also the 24 seven crisis hotlines, like cop line 988 is in there.
+
+516
+00:32:05,740 --> 00:32:09,820
+And then there's, there's a firming message at the bottom, and then kind of telling people,
+
+517
+00:32:09,820 --> 00:32:15,420
+you know, what you should do right now, which ultimately comes down to, you know, reaching out
+
+518
+00:32:15,420 --> 00:32:21,180
+removing the means of suicide, trying not to be alone, grounding yourself.
+
+519
+00:32:21,180 --> 00:32:25,260
+So like trying to use the box breathing or pre shift focus tools, and then ultimately
+
+520
+00:32:25,260 --> 00:32:26,860
+scheduling some professional help.
+
+521
+00:32:28,940 --> 00:32:29,420
+That's awesome.
+
+522
+00:32:33,340 --> 00:32:36,780
+One other thing I wanted to ask you about is the the TBI games.
+
+523
+00:32:37,340 --> 00:32:42,620
+And I'm particularly interested in that one, because I think, like,
+
+524
+00:32:42,780 --> 00:32:48,700
+I do something similar, like, I don't have I never had a traumatic brain injury.
+
+525
+00:32:48,700 --> 00:32:53,100
+But I have done some like genetic testing in the past, and I have a predisposition to
+
+526
+00:32:53,820 --> 00:32:56,380
+cognitive decline with age, like dimension Alzheimer's.
+
+527
+00:32:56,380 --> 00:33:00,620
+So years ago, I started like playing these games on my phone that are like,
+
+528
+00:33:00,620 --> 00:33:05,900
+have some like pretty decent data about efficacy and like stating off cognitive decline with age.
+
+529
+00:33:05,900 --> 00:33:07,900
+And like, I'm not not that old.
+
+530
+00:33:08,060 --> 00:33:12,220
+I think it's like a cool way to, you know, to potentially stave off,
+
+531
+00:33:12,940 --> 00:33:15,660
+you know, something that like is a pretty drastic effect in your life.
+
+532
+00:33:17,100 --> 00:33:18,140
+In a way that's like kind of fun.
+
+533
+00:33:18,140 --> 00:33:21,020
+I'm just like playing games on my phone every couple days.
+
+534
+00:33:23,260 --> 00:33:27,180
+Yeah, yeah, you can talk about like the TBI side of things more on instead of like the
+
+535
+00:33:27,180 --> 00:33:30,300
+preventative medicine side, like the recovery side of things.
+
+536
+00:33:31,500 --> 00:33:32,220
+Yeah, for sure.
+
+537
+00:33:32,780 --> 00:33:36,220
+So the way I the best way I can describe it.
+
+538
+00:33:36,220 --> 00:33:43,740
+So I've had all in all, I've had about 14 head injuries, I'd say probably about 14.
+
+539
+00:33:45,100 --> 00:33:48,540
+Two of those were classically considered TBIs.
+
+540
+00:33:48,540 --> 00:33:50,620
+The rest were concussions.
+
+541
+00:33:50,620 --> 00:33:54,460
+We now concussions are TBIs just for everybody.
+
+542
+00:33:54,460 --> 00:33:55,340
+Everybody's knowledge.
+
+543
+00:33:56,620 --> 00:34:00,620
+You can go listen to the R rated science podcasts with Dr.
+
+544
+00:34:00,620 --> 00:34:01,340
+Pate and Ricky.
+
+545
+00:34:02,060 --> 00:34:02,860
+Awesome podcast.
+
+546
+00:34:02,860 --> 00:34:03,820
+They talk about it a bunch.
+
+547
+00:34:03,820 --> 00:34:06,060
+But like, his my favorite thing.
+
+548
+00:34:06,060 --> 00:34:07,580
+Do you follow Ricky or Dr.
+
+549
+00:34:07,580 --> 00:34:08,060
+Pate?
+
+550
+00:34:08,620 --> 00:34:11,420
+Oh, man, you should there right up your alley, dude.
+
+551
+00:34:11,420 --> 00:34:12,220
+You follow Dr.
+
+552
+00:34:12,220 --> 00:34:16,300
+Pate, but I don't actually keep I don't actually keep Instagram on my phone anymore.
+
+553
+00:34:16,300 --> 00:34:20,540
+So I don't actually man, I really follow anyone unless you send me a message because I like
+
+554
+00:34:21,260 --> 00:34:22,940
+routed through another app.
+
+555
+00:34:22,940 --> 00:34:24,060
+So just see messages.
+
+556
+00:34:25,020 --> 00:34:25,980
+Yeah, I kind of love that.
+
+557
+00:34:25,980 --> 00:34:26,780
+I might have to.
+
+558
+00:34:26,780 --> 00:34:28,780
+Yeah, I recognize the I recognize the name.
+
+559
+00:34:30,060 --> 00:34:31,180
+Yeah, they're man.
+
+560
+00:34:31,180 --> 00:34:31,980
+They're awesome.
+
+561
+00:34:31,980 --> 00:34:33,420
+So I'll give a quick plug there.
+
+562
+00:34:33,420 --> 00:34:33,820
+Dr.
+
+563
+00:34:33,820 --> 00:34:39,980
+Pate is works in essentially the special operations wellness space.
+
+564
+00:34:39,980 --> 00:34:42,620
+And then Ricky was a medic with a 160th.
+
+565
+00:34:43,260 --> 00:34:48,380
+And now I can't remember where he's at with his schooling, but he's done a ton of research.
+
+566
+00:34:48,380 --> 00:34:50,860
+I believe he's going to medical school.
+
+567
+00:34:52,460 --> 00:34:56,940
+And they they started a podcast together, but he's a board member for the special operations.
+
+568
+00:34:58,300 --> 00:34:59,740
+Medical Association Sosoma.
+
+569
+00:34:59,740 --> 00:35:01,020
+He does a lot of Soma stuff.
+
+570
+00:35:01,980 --> 00:35:06,460
+But anyway, my favorite phrase from him is mildest for hot sauce, not TBI.
+
+571
+00:35:08,060 --> 00:35:10,060
+Because it just like it minimizes.
+
+572
+00:35:10,060 --> 00:35:15,500
+Regardless, like I said, short story long, I've had two of those were legitimate bleeds.
+
+573
+00:35:15,500 --> 00:35:17,020
+Both were frontal lobe bleeds.
+
+574
+00:35:18,220 --> 00:35:22,140
+One was a little bit like right sided temporal bleed right over there.
+
+575
+00:35:22,140 --> 00:35:23,340
+They both self resolved.
+
+576
+00:35:24,140 --> 00:35:31,340
+But what I found was that I didn't we I treated concussion like everybody else treated concussion.
+
+577
+00:35:31,340 --> 00:35:35,100
+And even with the bleeds, it was kind of like a whatever.
+
+578
+00:35:35,100 --> 00:35:36,220
+It's just a big concussion.
+
+579
+00:35:37,420 --> 00:35:39,580
+Well, the the bleeding small enough, it'll stop on its own.
+
+580
+00:35:39,580 --> 00:35:41,740
+That sounds like nothing I need to worry about.
+
+581
+00:35:41,740 --> 00:35:44,780
+And like, you know, my doctor was cool, but I grew up in a small town.
+
+582
+00:35:44,780 --> 00:35:49,900
+So like, I didn't even have a follow up CT on my second head bleed, which is wild.
+
+583
+00:35:49,900 --> 00:35:51,900
+Like now that I'm in health care, that's insane.
+
+584
+00:35:52,220 --> 00:35:57,500
+I don't I cannot imagine a patient having a bleed and then just not doing a follow up CT.
+
+585
+00:35:57,500 --> 00:36:01,500
+But regardless, I never treated it in the moment.
+
+586
+00:36:01,500 --> 00:36:08,940
+And so what happens there is I am not going to get that cognition back.
+
+587
+00:36:09,740 --> 00:36:13,500
+I can I can improve it, but it's not going to.
+
+588
+00:36:14,940 --> 00:36:17,260
+It's not going to be at 100% ever again.
+
+589
+00:36:17,260 --> 00:36:18,460
+That's just the way that goes.
+
+590
+00:36:18,460 --> 00:36:23,020
+And so, you know, dealing with these like five to 10 years later,
+
+591
+00:36:24,060 --> 00:36:28,300
+these little games are what keeps things sharp up there.
+
+592
+00:36:28,300 --> 00:36:32,300
+So I'll have these weird cognitive moments.
+
+593
+00:36:32,300 --> 00:36:36,300
+Like, I feel like I'm a pretty smart guy, but I'll have moments where I can't read a sentence.
+
+594
+00:36:36,300 --> 00:36:42,300
+I'll have moments where I posted on Instagram like a year ago, I was laughing so hard.
+
+595
+00:36:42,300 --> 00:36:46,300
+And it's my favorite thing ever because a cop saw me and he just chose not to do that.
+
+596
+00:36:46,300 --> 00:36:49,500
+Cops on me and he just chose not to do anything about it.
+
+597
+00:36:50,380 --> 00:36:50,700
+Left.
+
+598
+00:36:51,420 --> 00:36:55,340
+But I was trying to plug my energy drink into my phone charger.
+
+599
+00:36:57,500 --> 00:36:59,420
+I was really confused at why that wasn't working.
+
+600
+00:37:01,340 --> 00:37:06,780
+So it's like it's stuff like that that you kind of struggle with on a daily basis in different ways.
+
+601
+00:37:07,340 --> 00:37:12,300
+Memory stuff, you know, you'll have really serious conversations with a spouse or or somebody
+
+602
+00:37:12,300 --> 00:37:16,220
+and you'll just forget completely and you'll have another conversation all over again.
+
+603
+00:37:16,220 --> 00:37:17,660
+Thinking you hadn't talked about it.
+
+604
+00:37:19,020 --> 00:37:19,740
+Stuff like that.
+
+605
+00:37:19,740 --> 00:37:21,660
+So it has a huge impact on your life.
+
+606
+00:37:21,660 --> 00:37:29,740
+So I had initially actually seen this and this is another shout out to to Shayla.
+
+607
+00:37:30,380 --> 00:37:37,500
+But Shayla therapy on Instagram, she works with Naval Special Warfare vets and she does art therapy.
+
+608
+00:37:38,300 --> 00:37:44,300
+So they do painting and things like that and it stimulates your mind.
+
+609
+00:37:44,300 --> 00:37:49,100
+So when you're being able to be creative like that or, you know, follow those games,
+
+610
+00:37:49,100 --> 00:37:56,700
+pattern recognition, do kind of those kind of things, it essentially creates activity
+
+611
+00:37:56,700 --> 00:38:01,180
+down pathways that might not be as operational as normal.
+
+612
+00:38:01,900 --> 00:38:05,020
+And so it's all about the neural pathways.
+
+613
+00:38:05,020 --> 00:38:07,500
+And so I picked I picked three games.
+
+614
+00:38:07,500 --> 00:38:08,780
+I did memory match.
+
+615
+00:38:08,780 --> 00:38:10,780
+There's the Stroop challenge, which is like
+
+616
+00:38:11,740 --> 00:38:13,740
+matching colors to words.
+
+617
+00:38:13,740 --> 00:38:19,260
+So like it'll give you the word yellow, but in blue font and you only click it if it matches
+
+618
+00:38:20,140 --> 00:38:24,060
+and then number patterns to try to find like what number is coming up next.
+
+619
+00:38:24,060 --> 00:38:31,020
+So those are just little games that I started playing thinking, honestly, this was kind of dumb,
+
+620
+00:38:31,020 --> 00:38:35,660
+even as big of a researcher and like data nerd as I am and there was plenty of data behind it.
+
+621
+00:38:35,660 --> 00:38:37,820
+I still was pretty skeptical, but man,
+
+622
+00:38:38,140 --> 00:38:42,860
+it's crazy the amount of benefit that that these little things have.
+
+623
+00:38:44,060 --> 00:38:45,740
+So those are in the app.
+
+624
+00:38:45,740 --> 00:38:46,700
+You can play those.
+
+625
+00:38:46,700 --> 00:38:51,260
+It really comes down to like what is simple enough to code into the app to
+
+626
+00:38:51,260 --> 00:38:53,260
+because like I can't make a video game in this thing.
+
+627
+00:38:54,220 --> 00:38:57,500
+So it's got to be fairly simple and straightforward in those three hours.
+
+628
+00:38:57,500 --> 00:39:02,780
+So so yeah, so those are options that people can go use if whether they have a TBI or not.
+
+629
+00:39:02,780 --> 00:39:08,860
+Yeah, like in my case, it's more for like prevention of future issues,
+
+630
+00:39:08,860 --> 00:39:13,660
+but the games are very similar and I imagine there's some crossover there in the data.
+
+631
+00:39:14,940 --> 00:39:16,300
+Yeah, yeah, I know for sure.
+
+632
+00:39:16,300 --> 00:39:19,420
+And I'll do like one little quick shout out on that too.
+
+633
+00:39:20,620 --> 00:39:22,300
+New York Times games.
+
+634
+00:39:22,860 --> 00:39:26,860
+I downloaded the New York Times app and I've been doing the games for a while,
+
+635
+00:39:26,860 --> 00:39:28,860
+but like Bethany and I do them every day together.
+
+636
+00:39:28,860 --> 00:39:35,740
+And it's like a mini crossword, a word search connections game where you find the connections
+
+637
+00:39:35,740 --> 00:39:41,100
+between 16 words on the screen and then a spelling bee and in Wordle.
+
+638
+00:39:41,100 --> 00:39:46,540
+And those have been I have noticed such a huge improvement in my cognition
+
+639
+00:39:46,540 --> 00:39:48,060
+over the last couple of months with that.
+
+640
+00:39:48,060 --> 00:39:49,580
+So quick little shout out.
+
+641
+00:39:49,580 --> 00:39:53,420
+I'm going to make a post about it too, but that has been pretty outstanding.
+
+642
+00:39:53,420 --> 00:39:57,260
+Yeah, one thing that's cool about like the New York Times games thing is like,
+
+643
+00:39:57,260 --> 00:40:02,540
+there's like a social element to it too, because you can like share your score,
+
+644
+00:40:02,540 --> 00:40:07,100
+like share how you did with someone else without like giving away the answers.
+
+645
+00:40:07,100 --> 00:40:07,820
+I'm just kind of cool.
+
+646
+00:40:07,820 --> 00:40:11,100
+So do you like want to have an accountability thing or do it with somebody else?
+
+647
+00:40:11,980 --> 00:40:13,260
+It makes it easy to do.
+
+648
+00:40:14,380 --> 00:40:16,700
+Yeah, especially first responders, because it's all about competition.
+
+649
+00:40:16,700 --> 00:40:18,860
+So like I have like a lot of people who are like,
+
+650
+00:40:18,860 --> 00:40:21,900
+I'm like, I'm like, I'm like, I'm like, I'm like, I'm like, I'm like, I'm like,
+
+651
+00:40:21,900 --> 00:40:26,060
+competition. So like, I have the leader, you could do the leaderboard on there with your friends.
+
+652
+00:40:26,060 --> 00:40:29,980
+So I have a couple a couple of our medics and friends with it do it.
+
+653
+00:40:29,980 --> 00:40:34,220
+And I'll routinely like make fun of them because it's like, man, it took you three minutes to get
+
+654
+00:40:34,220 --> 00:40:39,500
+the menu you suck. Like, well, you go back and forth and and talk crap like we always do.
+
+655
+00:40:39,500 --> 00:40:41,180
+So it's definitely a nice social element.
+
+656
+00:40:42,460 --> 00:40:47,420
+I'm currently looking to see if you have a badge for someone who like wins all the games and yours.
+
+657
+00:40:49,100 --> 00:40:51,580
+I need you know, I need to do a badge for the mini games.
+
+658
+00:40:51,580 --> 00:40:56,460
+I built the mini games after the badges. But you that I'm writing that down literally right now.
+
+659
+00:40:57,820 --> 00:41:00,860
+So so hypothetically, if someone was using your app and wanted to like,
+
+660
+00:41:00,860 --> 00:41:04,940
+give you feedback like this, what is the mechanism work?
+
+661
+00:41:05,980 --> 00:41:12,860
+Yeah, so if someone goes to the about section, and about the app, there is a section in there
+
+662
+00:41:12,860 --> 00:41:19,980
+called suggestions. And people can share their feedback. So what that does is it drops their
+
+663
+00:41:19,980 --> 00:41:25,580
+feedback, it does require an email address. And the reason that I did that is it's it's
+
+664
+00:41:25,580 --> 00:41:34,220
+multifold one like how do I put this I've done an anonymous I do anonymous Q&A on my Instagram,
+
+665
+00:41:34,220 --> 00:41:39,340
+right. And the point of that is that, you know, somebody wants to write which I've had like,
+
+666
+00:41:39,340 --> 00:41:43,900
+hey, I want to blow my brains out. How do I stop? They're not sometimes they don't want to put their
+
+667
+00:41:43,900 --> 00:41:49,740
+name on that. And that's cool. But there's like 20% of people who go in there and start writing just
+
+668
+00:41:49,740 --> 00:41:54,460
+heinous stuff. So that's also why I required the email address on this is like one for
+
+669
+00:41:54,460 --> 00:41:58,060
+accountability, like if you're going to share a suggestion, like and you're that serious about it,
+
+670
+00:41:58,060 --> 00:42:03,340
+like, I would like to know who you are. But there's also like an a feature in there or a
+
+671
+00:42:03,340 --> 00:42:09,420
+not a feature like a an element of that where I want to know who you are. Because like one,
+
+672
+00:42:09,420 --> 00:42:13,820
+if this idea goes live on the app, like I want to thank you and I'll reach out and tell you that.
+
+673
+00:42:13,820 --> 00:42:19,500
+And then to like, I am all about collaboration. So someone has an idea, like I would love to
+
+674
+00:42:19,980 --> 00:42:25,260
+start building it and testing it and send it to them and see what they think. Because my thought
+
+675
+00:42:25,260 --> 00:42:31,100
+is that if you took the time to enter a suggestion, you would thought about needing it in a way that
+
+676
+00:42:31,100 --> 00:42:35,260
+I had not and I want to tap into that. So it does require an email address. But I have Matt,
+
+677
+00:42:35,260 --> 00:42:39,260
+you just write the suggestion, submit it and then I get an email that lets me know that
+
+678
+00:42:40,620 --> 00:42:42,540
+so much as there's something and then I can evaluate it.
+
+679
+00:42:43,340 --> 00:42:50,460
+And then like, how far back is the data saved on the app? So for example, if you're doing
+
+680
+00:42:50,460 --> 00:42:56,380
+doing journals, is there a limit on how many entries it'll save for you or how far back in time?
+
+681
+00:42:58,140 --> 00:42:59,180
+Just curious about that part of it.
+
+682
+00:42:59,820 --> 00:43:04,700
+Yeah, there's not. So the nice part about this app, and that's why I really like like it for
+
+683
+00:43:04,700 --> 00:43:11,020
+the privacy aspect too, is everything is saved locally. So none of this is a
+
+684
+00:43:11,740 --> 00:43:19,180
+none of this is taking up server space somewhere. It's not I'm not paying for that server space also
+
+685
+00:43:19,180 --> 00:43:25,180
+because server space is expensive nowadays. So it's not taking up that space and it's not
+
+686
+00:43:25,180 --> 00:43:30,780
+clogging any of that up. So with that being said, like it'll it'll save it as long as you need it.
+
+687
+00:43:30,780 --> 00:43:36,780
+There are ways that it will it'll filter out. So when you're looking at your journals,
+
+688
+00:43:36,780 --> 00:43:41,580
+it automatically will show you the last seven days. And the reason for that is because it's
+
+689
+00:43:41,580 --> 00:43:51,260
+locally stored. We don't want you to basically clog your bandwidth with just trying to load in
+
+690
+00:43:51,260 --> 00:43:58,220
+like the last two years of journals at once. So yeah, that totally makes sense. And then
+
+691
+00:43:59,980 --> 00:44:02,940
+one other thing I wanted to talk about is like how how the app works, because it's
+
+692
+00:44:03,420 --> 00:44:07,340
+it's what we call like a progressive web apps. It's a little different than just like going to
+
+693
+00:44:07,340 --> 00:44:12,460
+the app store and downloading something down something, downloading it like as a as an actual
+
+694
+00:44:12,460 --> 00:44:16,380
+app. But the function is basically the same. Do you want to talk about that just a minute?
+
+695
+00:44:17,580 --> 00:44:21,180
+Yeah, yeah. And I'm glad you made that last point. Because that's what I've had to explain to some
+
+696
+00:44:21,180 --> 00:44:24,300
+people where they're where they're like, well, it's not in the app store, why don't I have to go to
+
+697
+00:44:24,300 --> 00:44:28,860
+website and so for everybody listening, they're they're native what are called native apps and
+
+698
+00:44:28,940 --> 00:44:37,100
+native apps are specifically coded to be either Android or iOS compatible, and be on the Apple or
+
+699
+00:44:37,100 --> 00:44:42,860
+the Google Play Store, whatever store you might have. So those are specifically coded as apps,
+
+700
+00:44:42,860 --> 00:44:50,700
+they are hosted onto the app. That is that is the end all be all of that app. With PWAs, you're
+
+701
+00:44:50,700 --> 00:44:57,180
+actually technically using a browser. So it's kind of masked as an app, if you will. So it's almost
+
+702
+00:44:57,180 --> 00:45:05,660
+like Google Chrome put on like a ski mask, basically. So I initially was hesitant about
+
+703
+00:45:05,660 --> 00:45:12,780
+using a PWA because I didn't want something chunky. But base 44 has done it surprised me how
+
+704
+00:45:12,780 --> 00:45:17,660
+functional it is as an app. Like if you download it to your home screen and you click on it,
+
+705
+00:45:17,660 --> 00:45:24,540
+it looks like an app on the icon feels like an app when it opens. The only I would say the only
+
+706
+00:45:24,540 --> 00:45:33,100
+real difference between the two is integration into your phone. So with the PWA, like you,
+
+707
+00:45:33,660 --> 00:45:42,460
+you won't get alerts from a PWA, you can't get reminders it, it's a little harder to integrate
+
+708
+00:45:42,460 --> 00:45:49,180
+into a calendar, which is coming. And then you need a network connection. So there are some
+
+709
+00:45:49,180 --> 00:45:57,740
+stipulations there. But it's it's ultimately the reason that I went with the PWA is twofold one,
+
+710
+00:45:58,700 --> 00:46:05,260
+the iOS store and the Android, the Android stores pretty lenient on stuff. But like,
+
+711
+00:46:05,260 --> 00:46:09,260
+do not underestimate for everybody listening. And I've Brian, I think you know this, but the Apple
+
+712
+00:46:09,260 --> 00:46:17,660
+store that the other Apple store is so restrictive on how things are coded. Because they sandbox
+
+713
+00:46:17,660 --> 00:46:24,060
+everything that's in there. So it, it has to be exactly their specifications. And it really limits
+
+714
+00:46:24,060 --> 00:46:29,340
+a lot of the stuff that you can do without spending a lot of money. And that's the biggest
+
+715
+00:46:29,340 --> 00:46:36,300
+driving factor is if I were to launch this as an actual app. So regular app costs, if you're going
+
+716
+00:46:36,300 --> 00:46:42,380
+to have a professional developer do it costs between three and $10,000 to develop an app.
+
+717
+00:46:42,460 --> 00:46:49,260
+This app, my guess would be probably closer to the $10,000 range with how much is integrated into it,
+
+718
+00:46:49,260 --> 00:46:57,180
+as far as tools and storage. And my ultimate goal is to make this free and accessible. So that's,
+
+719
+00:46:57,180 --> 00:47:01,660
+that's why you're not getting that message that saying your trial is up, you owe 24 bucks,
+
+720
+00:47:01,660 --> 00:47:08,300
+because it's a PWA that I can run fairly cheaply. So, so that's the that's kind of the logic behind
+
+721
+00:47:09,180 --> 00:47:18,220
+the app versus PWA. But I really don't see a whole lot of functionality lost by using the PWA. So right
+
+722
+00:47:18,220 --> 00:47:22,380
+now I don't really have any plans to unless some billionaire wants to come sponsor this, I don't
+
+723
+00:47:22,380 --> 00:47:30,700
+have any plans to develop into a native app. There's any billionaires listening, reach out to
+
+724
+00:47:30,700 --> 00:47:36,540
+Mando, he can make it happen. And Ryan, yeah, both of us. We'll both. Yeah, I'll take some billionaire
+
+725
+00:47:36,540 --> 00:47:42,860
+funding to spread the love a little bit, man. But yeah, just to double down on that idea. Like when
+
+726
+00:47:42,860 --> 00:47:47,900
+I when I look at the app on my phone, like it doesn't behave any different than any other app,
+
+727
+00:47:47,900 --> 00:47:54,700
+like it looks like the same type of icon, it opens up like in its own, you know, its own screen on
+
+728
+00:47:54,700 --> 00:48:01,260
+my phone. There's no if I gave my phone to someone else and like, Hey, open that app, like they would
+
+729
+00:48:01,260 --> 00:48:05,020
+have no way of knowing that it's a progressive web app instead of like an actual native app.
+
+730
+00:48:06,540 --> 00:48:10,940
+Which is Yeah, it's awesome. And that's actually more common. And I'll bring it back for like our
+
+731
+00:48:10,940 --> 00:48:16,940
+EMS folks, too. It's a lot more common than you think. So like image trend, like your PCR on your
+
+732
+00:48:16,940 --> 00:48:23,660
+iPad at work. That's a PWA. That's not an app. Like soul is not an app. That's a PWA, like all
+
+733
+00:48:23,660 --> 00:48:28,860
+these different, like, EMS software, especially like those are PWAs, those are those are not native
+
+734
+00:48:28,860 --> 00:48:33,420
+apps. So just kind of like an interesting food for thought, like, especially with like company
+
+735
+00:48:33,420 --> 00:48:37,500
+owned devices, most of those things are probably not apps, they're just PWAs.
+
+736
+00:48:40,140 --> 00:48:47,580
+Right on. And then is there any, any plan to like integrate other apps or other like
+
+737
+00:48:47,580 --> 00:48:53,820
+platforms data into your so for example, like, let's say you use some other device or some of
+
+738
+00:48:53,820 --> 00:49:01,900
+their apps like track your workouts, is there a mechanism by which you could pull that data into
+
+739
+00:49:01,900 --> 00:49:05,660
+the responder toolkit? Or is that that too far off in the distance?
+
+740
+00:49:06,780 --> 00:49:12,860
+No, that's actually it's not too terribly, it's it's in the distance. But that's not too terribly
+
+741
+00:49:12,860 --> 00:49:18,700
+far. I would like that to be functional by q4 of this year, because I do have a bit of a roadmap
+
+742
+00:49:18,700 --> 00:49:23,900
+that will probably be posting here soon, once I kind of format it make it graphically appealing.
+
+743
+00:49:23,900 --> 00:49:31,500
+But it is possible with this platform, the nice part with base 44 is they actually do like it's
+
+744
+00:49:31,500 --> 00:49:38,060
+all AI to build your app, but then they also have developers. So if you pay for back end functions,
+
+745
+00:49:38,060 --> 00:49:47,180
+which I do, they can help integrate API's. So there are going to be options for that. My only
+
+746
+00:49:47,180 --> 00:49:53,900
+caveat on that is I'm not going to make everything an option like my fitness pal will probably I would
+
+747
+00:49:53,900 --> 00:49:59,980
+like to integrate with my fitness pal, your obscure app that you use because you're nutritionist
+
+748
+00:49:59,980 --> 00:50:05,900
+and South Dakota told you to use it for trapping. I'm not going to go like hunt down every API on
+
+749
+00:50:05,900 --> 00:50:11,420
+the planet. But like the biggest platforms I would like to I would like to have those integrated
+
+750
+00:50:11,420 --> 00:50:19,900
+hopefully by q4 this year, q1 or two next year. So yeah, that'd be rad. Cool. And then what about
+
+751
+00:50:19,900 --> 00:50:25,260
+like if if other folks like are listening to this, and they're like, this is this is really cool.
+
+752
+00:50:26,220 --> 00:50:30,300
+I'd like to like to contribute like to help out in some sort of way. Is there any
+
+753
+00:50:30,300 --> 00:50:31,660
+mechanism for folks to do that?
+
+754
+00:50:33,180 --> 00:50:38,940
+Yeah, they can just reach out to me, they can DM me at the Mando medic on Instagram, or they can
+
+755
+00:50:38,940 --> 00:50:44,300
+put a suggestion into the app. Honestly, the easiest or the I guess not the easiest, the most
+
+756
+00:50:44,300 --> 00:50:51,820
+helpful way would be to add a suggestion. Like that is what's going to help me the most is using
+
+757
+00:50:51,980 --> 00:50:59,020
+the app, treating it like a beta test and telling me what what doesn't work and what works. Like I've
+
+758
+00:50:59,020 --> 00:51:03,500
+been a gamer for a long time, and it always drove me crazy when devs would like they clearly didn't
+
+759
+00:51:03,500 --> 00:51:07,420
+play their own game. And they wouldn't listen to people who play the game either. Like I don't
+
+760
+00:51:07,420 --> 00:51:14,620
+want to be like that. I use the app daily. And then I also I listen to suggestions. So that's
+
+761
+00:51:14,620 --> 00:51:22,220
+probably the best way to do it. I'm not beyond that. There's really not a whole lot of involvement
+
+762
+00:51:22,220 --> 00:51:29,500
+that's needed just because the platform I chose is so sustainable. As far as that goes, like I can
+
+763
+00:51:29,500 --> 00:51:33,660
+push updates out, it keeps its own maintenance up by the security checks, all that good stuff.
+
+764
+00:51:34,380 --> 00:51:39,740
+So really, just just the feedback is the most helpful. The one the one little
+
+765
+00:51:40,540 --> 00:51:43,980
+request I do have for feedback though is just consider others.
+
+766
+00:51:45,500 --> 00:51:51,260
+You know, I think we have we have a tendency in society and in social media, especially like
+
+767
+00:51:51,260 --> 00:51:58,220
+people will see quote unquote influencers or apps like this, and they get, frankly pissed off when
+
+768
+00:51:58,220 --> 00:52:02,620
+they don't have something they want. But like, if it doesn't make sense for the masses, I'm not going
+
+769
+00:52:02,620 --> 00:52:07,260
+to add it onto the app. I'm not going to change stuff just because you think something should be
+
+770
+00:52:07,260 --> 00:52:14,140
+blue instead of gray. So stuff like that, just like if it's a utility thing that you think other
+
+771
+00:52:14,140 --> 00:52:19,740
+people will benefit from, then please, please absolutely send it. But if it's just if you think
+
+772
+00:52:19,740 --> 00:52:23,500
+about it, and you realize that's just something you're being picky about, or isn't actually helpful,
+
+773
+00:52:24,860 --> 00:52:27,980
+you can send it anyway, but stuff expected to get done.
+
+774
+00:52:28,940 --> 00:52:34,860
+Yeah, that's fair. Cool. That's other questions I had about the app. What about the
+
+775
+00:52:35,740 --> 00:52:40,620
+Mando Medic project in general, other than starting your podcast? Do you have any other future plans?
+
+776
+00:52:42,140 --> 00:52:50,540
+Yeah, it's my the measured man I'm pretty excited about. So that's starting in like a wee 10, 11
+
+777
+00:52:50,540 --> 00:52:58,060
+days, because they're very short. So I'm doing kind of a man themed mental health for March.
+
+778
+00:52:58,780 --> 00:53:06,940
+So I'm pretty excited about that. I'm going to basically post something every other day. So like
+
+779
+00:53:06,940 --> 00:53:11,100
+Monday, Wednesdays and Fridays every week are going to have a post that are geared specifically
+
+780
+00:53:11,100 --> 00:53:18,460
+toward men's mental health. But it's sort of supposed to be more of a redefining modern
+
+781
+00:53:18,540 --> 00:53:29,420
+masculinity campaign. So I'm pretty excited about that. The merch is is kicked off. So I've got some
+
+782
+00:53:30,140 --> 00:53:37,740
+stickers and stuff up. I just did a patch run, I want to do another patch run for charity. And then
+
+783
+00:53:40,220 --> 00:53:44,220
+I think that's about it right now. I'm also going to school, I'm going back to school,
+
+784
+00:53:45,020 --> 00:53:51,660
+try to get into an AA program. So I am doing that and full time Monday through Friday. I'm a pretty
+
+785
+00:53:51,660 --> 00:53:59,900
+busy guy. But sounds like it. Cool. I mean, sounds like you have a lot on the horizon. And I think
+
+786
+00:53:59,900 --> 00:54:06,380
+the app is rad. So yeah, we're able to chat about it and hopefully send some folks away and
+
+787
+00:54:07,260 --> 00:54:10,700
+potentially even like helping people out when they're having a rough time.
+
+788
+00:54:10,700 --> 00:54:19,260
+Yeah, yeah, absolutely. And I, like I said, if it if it helps you to like if you found that the app
+
+789
+00:54:19,260 --> 00:54:24,620
+helped you send me some feedback. It's good to it's good to hear like for morale purposes. But
+
+790
+00:54:25,180 --> 00:54:30,300
+I also you know, I'm not doing any of this for myself by any means. So I really want to if it's
+
+791
+00:54:30,300 --> 00:54:35,740
+not working, or it's working, like I want to know either way a way I can try to make it better for
+
+792
+00:54:35,740 --> 00:54:42,780
+y'all. So yeah. Cool. Well, thanks, man. I really appreciate it. Yeah, absolutely. Thanks for having
+
+793
+00:54:42,780 --> 00:54:49,900
+me on Ryan. Always a pleasure. And that's pretty much it. Thanks for tuning in. Just before we hop
+
+794
+00:54:49,900 --> 00:54:54,620
+off here, I just want to give a shout out to my friend Josh Pittman and his buddy Kevin Pons.
+
+795
+00:54:54,620 --> 00:54:58,780
+They're the ones who put the music together for all of this. Catch you next time.

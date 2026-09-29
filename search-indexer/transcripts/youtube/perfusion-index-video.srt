@@ -1,0 +1,391 @@
+1
+00:00:00,000 --> 00:00:08,040
+Alright, this is just a short video on perfusion index and how we can use it in the EMS or
+
+2
+00:00:08,040 --> 00:00:10,360
+at hospital setting.
+
+3
+00:00:10,360 --> 00:00:13,000
+So let's start with a quick overview.
+
+4
+00:00:13,000 --> 00:00:19,560
+Perfusion index is a measurement that's derived from your SPO2 waveform.
+
+5
+00:00:19,560 --> 00:00:25,440
+It basically is a ratio of your pulsating or pulsating blood flow to your non pulsating
+
+6
+00:00:25,440 --> 00:00:27,080
+blood flow.
+
+7
+00:00:27,080 --> 00:00:32,200
+The values range from very low numbers up to 20%.
+
+8
+00:00:32,200 --> 00:00:38,200
+In general, a higher value indicates your vasculature is dilated and that you have adequate
+
+9
+00:00:38,200 --> 00:00:43,040
+pulsatility or good squeeze from the heart and then lower values would indicate that
+
+10
+00:00:43,040 --> 00:00:50,320
+you have vasoconstriction and or poor pulsatility or poor squeeze.
+
+11
+00:00:50,320 --> 00:00:56,400
+And this is just a screenshot of a ZOL X series monitor showing where you might see the perfusion
+
+12
+00:00:56,400 --> 00:00:58,840
+index on your screen.
+
+13
+00:00:58,840 --> 00:01:03,260
+So the next thing is just in general terms an overview of when we might use the perfusion
+
+14
+00:01:03,260 --> 00:01:06,900
+index in the EMS or at hospital setting.
+
+15
+00:01:06,900 --> 00:01:09,560
+So I kind of broke this down into two categories.
+
+16
+00:01:09,560 --> 00:01:16,800
+First is guiding resuscitation and the next is assessment of pain.
+
+17
+00:01:16,800 --> 00:01:20,560
+Now I came to this conclusion starting with this narrative review.
+
+18
+00:01:20,560 --> 00:01:25,280
+So this paper just looked at a bunch of the studies that have been done on using perfusion
+
+19
+00:01:25,280 --> 00:01:30,360
+index in a clinical setting and they sort of summarized the various uses here in this
+
+20
+00:01:30,360 --> 00:01:32,580
+next slide.
+
+21
+00:01:32,580 --> 00:01:39,080
+Of those, I think we can like break them down into two main categories after we eliminate
+
+22
+00:01:39,080 --> 00:01:41,200
+the ones that aren't relevant in our setting.
+
+23
+00:01:41,200 --> 00:01:46,120
+So again, that would be guiding resuscitation and assessment of pain.
+
+24
+00:01:46,120 --> 00:01:50,600
+Now along the way I did find another narrative review which I think is actually a little
+
+25
+00:01:50,600 --> 00:01:53,320
+more detailed perhaps better than the first one.
+
+26
+00:01:53,320 --> 00:01:54,720
+So that is shown here.
+
+27
+00:01:54,720 --> 00:01:58,600
+So if you were looking for one paper to kind of get up to speed on the use of perfusion
+
+28
+00:01:58,600 --> 00:02:04,760
+index in a clinical setting in general, I think this paper is the place to start.
+
+29
+00:02:04,760 --> 00:02:10,040
+Now in terms of perfusion index and resuscitation, we can kind of break this down into a couple
+
+30
+00:02:10,040 --> 00:02:11,040
+different ideas.
+
+31
+00:02:11,040 --> 00:02:15,920
+So the first is we can use perfusion index to determine whether we need to resuscitate
+
+32
+00:02:15,920 --> 00:02:16,920
+or not.
+
+33
+00:02:16,920 --> 00:02:22,840
+We can also evaluate the efficacy of our resuscitation and then specifically we can use a perfusion
+
+34
+00:02:22,840 --> 00:02:26,560
+index to evaluate fluid responsiveness.
+
+35
+00:02:26,560 --> 00:02:30,700
+Now I'm not going to get into the details on the specific studies but I'll just show
+
+36
+00:02:30,700 --> 00:02:35,240
+a couple papers here and these are all linked in the show notes so you can review them on
+
+37
+00:02:35,240 --> 00:02:37,040
+your own.
+
+38
+00:02:37,040 --> 00:02:42,560
+So here's one looking at the use of perfusion index in guiding fluid therapy and septic
+
+39
+00:02:42,560 --> 00:02:44,480
+shock.
+
+40
+00:02:44,480 --> 00:02:50,020
+Here's another that's describing the use of perfusion index in predicting hypovolemic
+
+41
+00:02:50,020 --> 00:02:52,320
+shock for trauma patients.
+
+42
+00:02:52,320 --> 00:02:57,500
+This other one is about perfusion index and the need for vasopressors.
+
+43
+00:02:57,500 --> 00:03:03,440
+This last one here is about using perfusion index to determine fluid responsiveness.
+
+44
+00:03:03,440 --> 00:03:09,360
+The next thing we can use perfusion index for is to facilitate the assessment of pain.
+
+45
+00:03:09,360 --> 00:03:12,960
+So again we won't get into the details here but just a couple studies.
+
+46
+00:03:12,960 --> 00:03:17,840
+This first one looked at the use of perfusion index for critically ill patients that are
+
+47
+00:03:17,840 --> 00:03:19,480
+not intubated.
+
+48
+00:03:19,480 --> 00:03:25,860
+This next one looked at perfusion index as an indicator of pain for patients under general
+
+49
+00:03:25,860 --> 00:03:32,600
+anesthesia but just to show that the data is not 100% consistent this last paper did
+
+50
+00:03:32,600 --> 00:03:39,040
+not find any correlation between perfusion index and pain as assessed by an alternative
+
+51
+00:03:39,040 --> 00:03:41,380
+assessment tool.
+
+52
+00:03:41,380 --> 00:03:47,020
+So there is some data for using perfusion index both in resuscitation and for pain assessment.
+
+53
+00:03:47,020 --> 00:03:51,060
+So let's just summarize the objective side of these things.
+
+54
+00:03:51,060 --> 00:03:55,140
+In general low numbers are not ideal.
+
+55
+00:03:55,140 --> 00:03:59,900
+Average like what is normal is also a bit elusive maybe in the 1 to 5 range and then
+
+56
+00:03:59,900 --> 00:04:05,460
+there is an idea that high numbers so over 10 maybe over 15 could be associated with
+
+57
+00:04:05,460 --> 00:04:10,900
+some sort of pathology or pathophysiology but that's unlikely to be a cause for acute
+
+58
+00:04:10,900 --> 00:04:12,940
+concern.
+
+59
+00:04:12,940 --> 00:04:18,940
+For using perfusion index to guide resuscitation consider very low numbers such as under 0.5
+
+60
+00:04:18,940 --> 00:04:24,420
+to indicate you might need pressors of course along with other resuscitative interventions.
+
+61
+00:04:24,420 --> 00:04:29,260
+Below 1 or below 1.5 consider resuscitation and then if you have a notable increase in
+
+62
+00:04:29,260 --> 00:04:34,020
+perfusion index with fluids that may indicate that you can keep repeating that your patient
+
+63
+00:04:34,020 --> 00:04:37,220
+is fluid responsive.
+
+64
+00:04:37,220 --> 00:04:41,520
+And then in terms of pain we should see a decreasing perfusion index with an increase
+
+65
+00:04:41,520 --> 00:04:47,400
+in pain and then an increasing perfusion index with effective analgesia.
+
+66
+00:04:47,400 --> 00:04:52,160
+So a low perfusion index means we need to give more drugs and a higher perfusion index
+
+67
+00:04:52,160 --> 00:04:54,860
+means we have adequate analgesia.
+
+68
+00:04:54,860 --> 00:04:59,040
+And then we do also want to coordinate this with other indicators of pain so normal pain
+
+69
+00:04:59,040 --> 00:05:03,160
+incidation scales, vital signs that sort of thing.
+
+70
+00:05:03,160 --> 00:05:09,280
+So that's just a quick overview of perfusion index in a clinical setting but our setting
+
+71
+00:05:09,280 --> 00:05:12,480
+in the out of hospital world is a little bit different.
+
+72
+00:05:12,480 --> 00:05:15,440
+So how does perfusion index work in our setting?
+
+73
+00:05:15,440 --> 00:05:20,240
+So there's one of these papers that we mentioned previously that basically summarized all of
+
+74
+00:05:20,240 --> 00:05:25,960
+the factors that could contribute to perfusion index being less reliable.
+
+75
+00:05:25,960 --> 00:05:29,240
+And then I've highlighted all the ones in yellow that apply in our setting.
+
+76
+00:05:29,240 --> 00:05:35,480
+So if we look at this list we have things like patient positioning, vascular compression,
+
+77
+00:05:35,480 --> 00:05:38,120
+movement, external lights, etc.
+
+78
+00:05:38,120 --> 00:05:45,080
+All of this stuff decreases the reliability of perfusion index and it decreases the correlation
+
+79
+00:05:45,080 --> 00:05:54,560
+between perfusion index as an objective parameter and either pain assessment or evaluating resuscitation.
+
+80
+00:05:54,560 --> 00:05:59,840
+So if we do choose to use perfusion index in the out of hospital setting we just want
+
+81
+00:05:59,840 --> 00:06:03,320
+to be cognizant of these things and do what we can to control them.
+
+82
+00:06:04,320 --> 00:06:07,640
+Okay so let's end with a quick summary.
+
+83
+00:06:07,640 --> 00:06:11,720
+One thing we didn't mention before is that it's totally fine to use a perfusion index
+
+84
+00:06:11,720 --> 00:06:15,080
+to verify the accuracy of your SPO2 tracing.
+
+85
+00:06:15,080 --> 00:06:21,160
+This is one of the initial indications or utilizations of perfusion index.
+
+86
+00:06:21,160 --> 00:06:28,200
+Moving on from that in general normal is highly variable parameter but maybe in the 1 to 5%
+
+87
+00:06:28,200 --> 00:06:32,760
+range but trending is probably more valuable over time versus just a single snapshot or
+
+88
+00:06:32,760 --> 00:06:34,720
+single value.
+
+89
+00:06:34,720 --> 00:06:40,920
+Low values so less than 0.5 or less than 1 indicate potentially solvable issues.
+
+90
+00:06:40,920 --> 00:06:46,600
+For example like making sure the measurement is happening correctly, resuscitate, get fluids,
+
+91
+00:06:46,600 --> 00:06:49,680
+issue pressors, street pain, that sort of thing.
+
+92
+00:06:49,680 --> 00:06:57,400
+High values so over 10 maybe over 15 are probably fine but may correlate with some sort of hyperdynamic
+
+93
+00:06:57,400 --> 00:06:59,280
+pathophysiology.
+
+94
+00:06:59,280 --> 00:07:05,320
+Most of this would be early sepsis, high output, heart failure, unmarked, sympathetic
+
+95
+00:07:05,320 --> 00:07:08,440
+response and trauma, that sort of thing.
+
+96
+00:07:08,440 --> 00:07:09,440
+And that's it.
+
+97
+00:07:09,440 --> 00:07:10,440
+There you have it.
+
+98
+00:07:10,440 --> 00:07:13,520
+How to use perfusion index in the out of hospital or EMS setting.

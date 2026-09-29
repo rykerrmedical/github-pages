@@ -1,0 +1,3043 @@
+1
+00:00:00,000 --> 00:00:06,560
+Cool. I guess we can just dive right into this then. Dan, Taylor, thanks for coming on today.
+
+2
+00:00:07,600 --> 00:00:10,320
+Thanks for having me. It's exciting to be able to chat and catch up.
+
+3
+00:00:12,000 --> 00:00:15,040
+It's been a little while. I guess it hasn't been that long because we saw each other just,
+
+4
+00:00:16,320 --> 00:00:18,480
+I guess it has been. When was it? Like maybe...
+
+5
+00:00:23,360 --> 00:00:23,840
+May?
+
+6
+00:00:23,840 --> 00:00:30,960
+Maybe. I don't know, man. Time is weird.
+
+7
+00:00:30,960 --> 00:00:36,960
+Yeah, it feels like it's been a long time. But yeah, I appreciate you coming on. So for those
+
+8
+00:00:36,960 --> 00:00:43,360
+of you who don't know Dan, Dan is a paramedic and we'll get into a little more of his background
+
+9
+00:00:43,360 --> 00:00:49,840
+shortly. But he's had a pretty cool career in that he's done a lot of work as a medic in,
+
+10
+00:00:50,160 --> 00:00:56,240
+I guess you could say, like atypical environments. So that's kind of what we're going to talk about
+
+11
+00:00:56,240 --> 00:01:01,120
+a little bit today. So maybe just start off with Dan, do you want to talk about like how you
+
+12
+00:01:01,680 --> 00:01:10,160
+got into EMS and working as a medic and then we can get out from the normal 911 operation stuff?
+
+13
+00:01:11,520 --> 00:01:18,000
+Yeah. I mean, kind of going way back, like I did some volunteer stuff in high school with like
+
+14
+00:01:18,000 --> 00:01:21,680
+wilderness search and rescue, thought that was kind of interesting. Went to undergrad,
+
+15
+00:01:22,320 --> 00:01:29,360
+got involved with an ambulance corps, became an EMT, figured out that kind of working on the
+
+16
+00:01:29,360 --> 00:01:35,520
+ambulance was a lot of fun and started thinking about it as a career. Became a medic in New York,
+
+17
+00:01:36,240 --> 00:01:42,880
+worked full time on the ambulance for a number of years doing 911 and inter-facility in both urban,
+
+18
+00:01:42,880 --> 00:01:48,320
+suburban and rural areas, which was pretty cool. I mean, I got a variety of patients,
+
+19
+00:01:48,320 --> 00:01:53,600
+different transport times. And then through that, some of the agencies I worked for would do
+
+20
+00:01:54,400 --> 00:01:59,840
+like special event medicine for like triathlons, big concerts, stuff like that. So that was kind
+
+21
+00:01:59,840 --> 00:02:06,880
+of my first exposure to like working as a pre-hospital provider away from the ambulance
+
+22
+00:02:07,680 --> 00:02:14,400
+in like a really formal way. And that kind of opened my eyes in a lot and especially working
+
+23
+00:02:14,400 --> 00:02:22,480
+alongside some really pre-hospital forward physicians in those like special event environments.
+
+24
+00:02:23,760 --> 00:02:30,560
+So that kind of got me interested and looking for other things we could do. I became a professional
+
+25
+00:02:30,560 --> 00:02:36,080
+ski patroller and that was a lot of fun. I got to ski and then I also got to start doing like
+
+26
+00:02:36,160 --> 00:02:40,960
+medicine and like wilderness medicine and working out of a backpack and really thinking about how
+
+27
+00:02:41,680 --> 00:02:47,360
+the environment creates additional challenges and how we're like resource limited and really trying
+
+28
+00:02:47,360 --> 00:02:54,800
+to maintain a good quality of patient care in what was at times a challenging environment.
+
+29
+00:02:55,680 --> 00:03:01,200
+And then that got me kind of into the wilderness medicine world. And then so I started following
+
+30
+00:03:01,200 --> 00:03:06,000
+like wilderness medical society and attending conferences and additional classes kind of with
+
+31
+00:03:06,720 --> 00:03:13,680
+that bubble as I was able and then started looking for other things that I could do
+
+32
+00:03:15,280 --> 00:03:24,000
+to expand my experience to encounter new problems. That brought me to the film world,
+
+33
+00:03:24,000 --> 00:03:29,840
+the TV and film world, and I was able to work as a set medic first in a couple of kind of wilderness
+
+34
+00:03:29,840 --> 00:03:35,680
+environments. I volunteered with Team Rubicon and I deployed to Greece and I worked in a refugee camp
+
+35
+00:03:35,680 --> 00:03:43,520
+there and that was my first exposure to like true humanitarian medicine and the problems,
+
+36
+00:03:43,520 --> 00:03:51,200
+the challenges, the complexity of dealing with not only those populations but then a foreign
+
+37
+00:03:51,200 --> 00:03:58,640
+healthcare system, seeing new medications, trying to work with local healthcare providers,
+
+38
+00:03:59,520 --> 00:04:06,880
+being a patient advocate through an interpreter, like all of these things that were connected in
+
+39
+00:04:06,880 --> 00:04:12,320
+some ways to stuff that I've done before but didn't necessarily in some cases have formal training in.
+
+40
+00:04:13,760 --> 00:04:18,960
+And then basically from Greece I kind of kept saying yes to things. I was able to start doing
+
+41
+00:04:18,960 --> 00:04:25,120
+some teaching in like the wilderness and an austere medicine world. That got me more contacts
+
+42
+00:04:25,200 --> 00:04:32,240
+and more experience and I was able to learn more through that. Eventually worked offshore in the
+
+43
+00:04:32,240 --> 00:04:37,760
+oil and gas and commercial fishing industry as a medic in the Gulf of Mexico and Alaska.
+
+44
+00:04:39,760 --> 00:04:46,720
+Worked with a small NGO and deployed with them a few times in Iraq, Sierra Leone, Mexico, Ukraine,
+
+45
+00:04:46,960 --> 00:04:54,960
+and yeah, kind of kept attending training, looking for new opportunities, and then growing my network
+
+46
+00:04:54,960 --> 00:05:02,480
+and through that I was able to learn different skills, step into different roles, and just kind
+
+47
+00:05:02,480 --> 00:05:07,120
+of try to have fun and you know make the world just a little bit better along the way.
+
+48
+00:05:07,760 --> 00:05:13,280
+Yeah, that's awesome. Yeah, I want to try to remember to like come back to that idea of
+
+49
+00:05:13,920 --> 00:05:19,600
+as you do more of this type of stuff, just that network you create and you build for yourself
+
+50
+00:05:19,600 --> 00:05:24,160
+really opens up a lot of possibilities because I know that was something that I struggled with
+
+51
+00:05:24,160 --> 00:05:29,280
+early on in like wanting to do like overseas work that you just don't know where to go
+
+52
+00:05:29,280 --> 00:05:34,000
+and then eventually you wake up one day and like your inbox is just full of opportunities.
+
+53
+00:05:34,000 --> 00:05:38,400
+You're like oh shit now I have to like now I have to decide like how to prioritize where I want to go.
+
+54
+00:05:38,640 --> 00:05:43,680
+Yeah, that network also makes it easier when you start getting those opportunities
+
+55
+00:05:43,680 --> 00:05:50,800
+and you're trying to like vet people or organizations or like you're being asked to go to a country
+
+56
+00:05:50,800 --> 00:05:56,720
+you've never been to, but if you can just text somebody and be like hey Krista you've worked
+
+57
+00:05:56,720 --> 00:06:04,640
+here for a year, what can you tell me about X country, right? And that, yeah, that makes the
+
+58
+00:06:04,800 --> 00:06:11,680
+deployment process and even the work on the ground is like so much smoother and safer and
+
+59
+00:06:11,680 --> 00:06:18,720
+more comfortable in a lot of ways. Yeah, for sure. And then what do you, well before we talk about
+
+60
+00:06:18,720 --> 00:06:24,240
+what you're doing right now, what were you doing up until just a few weeks ago? Yeah, so basically
+
+61
+00:06:24,240 --> 00:06:31,680
+the last year, so I have a pretty strong history working in Ukraine. I spent most of 2019 there,
+
+62
+00:06:32,000 --> 00:06:40,560
+most of 2022 after the full-scale invasion, some of 23, and then from April of 2024 until,
+
+63
+00:06:41,760 --> 00:06:50,240
+yeah, just a few weeks ago I was working in Ukraine. So most kind of the last like two,
+
+64
+00:06:50,240 --> 00:06:56,960
+three roles I had were all clinical. The last one I was working for a defense contractor,
+
+65
+00:06:57,440 --> 00:07:04,320
+a U.S. company. I was their medic and they have some foreign personnel in country doing kind of
+
+66
+00:07:04,320 --> 00:07:12,560
+like an advise, assist, and a company sort of mission. So I was their medic. And then immediately
+
+67
+00:07:12,560 --> 00:07:19,520
+before that I was working very close to the front lines doing patient care, a mix of role two,
+
+68
+00:07:19,520 --> 00:07:30,480
+which is more like a level two trauma center, like similar equivalency. And then working in
+
+69
+00:07:30,480 --> 00:07:36,640
+medevac, which technically like it's a medical evacuation. And maybe we can talk about it a little
+
+70
+00:07:36,640 --> 00:07:41,680
+bit more, but it was a little bit closer to critical care transport because we're taking patients that
+
+71
+00:07:41,680 --> 00:07:46,240
+are pretty sick. They've just come out of the operating theater and now we need to move them to
+
+72
+00:07:46,240 --> 00:07:52,400
+a higher level of care. And that was one of the places where I really started thinking about
+
+73
+00:07:52,400 --> 00:08:00,320
+this conversation. And then I also spent time working at a stabilization point, which is,
+
+74
+00:08:01,520 --> 00:08:07,920
+it's a fixed facility, but it's very small. It can accommodate one critical patient at a time,
+
+75
+00:08:07,920 --> 00:08:13,920
+and then a couple of like greens and yellows. They're typically staffed. The ones I was,
+
+76
+00:08:14,240 --> 00:08:20,160
+the one I was in and similar size are typically staffed by four people. You'll have a physician
+
+77
+00:08:20,160 --> 00:08:26,800
+or a provider. I filled in that role as an advanced practice paramedic, combat medic,
+
+78
+00:08:26,800 --> 00:08:34,160
+and then usually two Ukrainian soldiers who have like some degree of basic trauma, T-triple C
+
+79
+00:08:34,160 --> 00:08:41,920
+training, but they're not considered healthcare providers. And so that facility was
+
+80
+00:08:42,640 --> 00:08:48,640
+underground. It was fairly close to the front because we had to be, because we were the first
+
+81
+00:08:48,640 --> 00:08:53,920
+people to receive some of these casualties. So we needed to be able to make, to be close enough to
+
+82
+00:08:53,920 --> 00:08:59,600
+make a difference in some of those cases. And we would do temporary stabilization and then
+
+83
+00:09:00,480 --> 00:09:06,480
+very quickly evacuate them to the next level of care, which would be kind of the more of a proper
+
+84
+00:09:07,440 --> 00:09:18,320
+role one, which is like a maybe level three trauma center. And then a role two is more like
+
+85
+00:09:18,320 --> 00:09:27,920
+a level two trauma center. And I think I remember not too long ago, Corum had a podcast out talking
+
+86
+00:09:27,920 --> 00:09:31,040
+with someone who's done a lot of work over in Ukraine, and they kind of talked through like
+
+87
+00:09:31,040 --> 00:09:36,160
+disambiguating all of these terms because there's like, yeah, it varies a little bit on the context.
+
+88
+00:09:36,160 --> 00:09:39,760
+But if anyone is interested in that, I'll see if I can track that down and put a link in.
+
+89
+00:09:40,320 --> 00:09:49,440
+Yeah, the role terminology is US military and NATO. So and I've never served in the military. I've
+
+90
+00:09:49,440 --> 00:09:57,360
+worked for the US military and I've done training for other militaries. So I've learned a lot of
+
+91
+00:09:57,360 --> 00:10:02,880
+this stuff as I've gone, but yeah, so just for the terminology, and Corum's a great resource for
+
+92
+00:10:03,440 --> 00:10:05,920
+not only the podcast, but for training in general.
+
+93
+00:10:06,640 --> 00:10:10,720
+Yeah. And you've also you've been on the Corum podcast before, if I remember, right?
+
+94
+00:10:10,720 --> 00:10:15,600
+Yes. Yeah. Yeah, I think two years ago, I talked about kind of like the first,
+
+95
+00:10:16,720 --> 00:10:23,120
+I talked about most of the stuff I did in Ukraine in 2022, and a bit more detail.
+
+96
+00:10:23,840 --> 00:10:30,160
+Right on. Awesome. And then what about now, because you recently had a big transition,
+
+97
+00:10:30,160 --> 00:10:32,560
+I guess you could say. So where are you at these days?
+
+98
+00:10:32,560 --> 00:10:40,160
+Yeah. So now I'm in North Carolina. I just moved back to the US and took a full time job. I work for
+
+99
+00:10:41,600 --> 00:10:49,040
+private organization that does disaster response with a focus on the Caribbean, Central America,
+
+100
+00:10:49,040 --> 00:10:59,840
+and the South Pacific. And I'm part of our forward response team. So we respond very quickly.
+
+101
+00:10:59,840 --> 00:11:08,480
+One were invited. So my role now is a mix of medicine, rescue, logistics, communications,
+
+102
+00:11:09,920 --> 00:11:16,480
+a little security, some water sanitation and hygiene. But I'm kind of a disaster
+
+103
+00:11:16,480 --> 00:11:23,680
+generalist with a focus on natural disasters. Awesome. Yeah. And like that breadth of
+
+104
+00:11:23,680 --> 00:11:28,240
+experience is kind of why I thought it'd be good for us to chat. So a little bit of a disclaimer
+
+105
+00:11:28,240 --> 00:11:34,000
+here is that this is actually Dan's idea. Dan has done a lot of like, I guess you could say,
+
+106
+00:11:34,000 --> 00:11:38,480
+like public facing stuff. He's like taught at conferences and like, been on a number of
+
+107
+00:11:38,480 --> 00:11:42,800
+podcasts, I think there's been more than one, correct? Yeah. Yeah. There's been a couple. Yeah.
+
+108
+00:11:42,800 --> 00:11:45,360
+Yeah. I'm not very good at self promotion, but I've done a couple.
+
+109
+00:11:46,880 --> 00:11:51,200
+But he had asked me this last year to, if I'd be interested in presenting with him
+
+110
+00:11:52,000 --> 00:11:57,040
+at a conference. So we kind of like put this concept together, but it never quite panned out.
+
+111
+00:11:57,760 --> 00:12:02,640
+But I thought it might be a good idea to just chat about these things here. So the initial concept
+
+112
+00:12:02,640 --> 00:12:09,120
+was like discussing like how you can use paramedics and specifically like paramedics who are trained
+
+113
+00:12:09,120 --> 00:12:14,400
+in like the critical care transport side of things, like how you can use them as an asset or a force
+
+114
+00:12:14,400 --> 00:12:21,760
+multiplier in more austere settings, like whether that's humanitarian response or like embedding
+
+115
+00:12:21,760 --> 00:12:27,120
+with the military for like conflict response or things like that. So yeah, that's kind of why
+
+116
+00:12:27,120 --> 00:12:30,000
+we decided to have a chat today since we missed the opportunity on that conference.
+
+117
+00:12:31,520 --> 00:12:38,960
+Yeah. I mean, you, you're a great example as well, right? From Haiti to Ukraine to Gaza to Mexico. I
+
+118
+00:12:38,960 --> 00:12:46,000
+mean, you've, you have this incredibly high level of training and experience and you do like very
+
+119
+00:12:46,000 --> 00:12:53,040
+traditional critical care stuff, right? And then you also go to these sometimes horrific places and
+
+120
+00:12:53,040 --> 00:12:57,920
+employ those skills. And that was, yeah, that was part of what kind of made me think about it. And
+
+121
+00:12:57,920 --> 00:13:03,040
+it was also, I was looking at some of the patients and some of the equipment that I was encountering
+
+122
+00:13:03,040 --> 00:13:07,680
+in the role too in the medevac and thinking, you know, it would be really great if I had an adult
+
+123
+00:13:07,680 --> 00:13:16,640
+like Ryan here to be able to, you know, help and reassure me. And because like you've, you've
+
+124
+00:13:16,640 --> 00:13:24,080
+legitimately done a lot more critical care than I have. Like I've passed the exam. Like I know some
+
+125
+00:13:24,080 --> 00:13:31,680
+stuff. I can look things up. I know where resources are, but that doesn't account or that doesn't
+
+126
+00:13:31,920 --> 00:13:37,760
+fully address the lack of like direct experience and real high quality mentors. So I think like
+
+127
+00:13:37,760 --> 00:13:43,040
+someone with your background is an incredible resource in these types of environments.
+
+128
+00:13:43,040 --> 00:13:46,080
+Yeah. And I think that's one thing that we'll probably like touch on later is that
+
+129
+00:13:47,280 --> 00:13:53,040
+there's, you're never gonna, there's no one person who like has the breadth of experience to like
+
+130
+00:13:53,600 --> 00:14:00,080
+make or break a response like in this general scene. So like team composition is like a
+
+131
+00:14:00,080 --> 00:14:06,160
+huge component of it. So if you have folks with like, you know, like different types of experience
+
+132
+00:14:07,040 --> 00:14:11,440
+in this like general, like paramedic or paramedic center, critical care transport realm,
+
+133
+00:14:11,440 --> 00:14:16,720
+and you could bring them together, I think there's a lot of value there. So, you know, like someone in
+
+134
+00:14:16,720 --> 00:14:21,920
+my exit, like for me, for example, like I have a lot of experience in like, you know, like very
+
+135
+00:14:21,920 --> 00:14:28,560
+acute critical care transport, but maybe less so in like the operation side of like working in
+
+136
+00:14:28,880 --> 00:14:34,080
+specific environments. So yeah, it's like, I think that was why we decided it would be good idea to
+
+137
+00:14:34,080 --> 00:14:39,920
+collaborate on this a little bit. Yeah, absolutely. So just maybe to set the stage, what are some,
+
+138
+00:14:39,920 --> 00:14:42,480
+like, what are some examples? I know you've mentioned some of the work that you've done,
+
+139
+00:14:42,480 --> 00:14:48,640
+but just in general, like what might be like a good use case for using a critical care
+
+140
+00:14:48,640 --> 00:14:53,840
+transport clinician or a paramedic? I guess these CCT folks could be like nurses as well,
+
+141
+00:14:53,840 --> 00:14:58,640
+but someone who has that experience like doing the critical care transport side of things,
+
+142
+00:14:58,640 --> 00:15:03,280
+like what would be a, like a use case for them in one of these contexts?
+
+143
+00:15:04,400 --> 00:15:11,680
+Yeah, so I think there's two kind of general cases that I think can be really powerful. So if you have
+
+144
+00:15:12,640 --> 00:15:22,240
+a gap between surgery and the kind of next highest level of care, if there is no
+
+145
+00:15:22,880 --> 00:15:30,880
+indigenous critical care transport, there's a real possibility that surgeons could do amazing work.
+
+146
+00:15:31,520 --> 00:15:38,640
+And then the patient dies during that transport because the vent settings are wrong because the
+
+147
+00:15:38,640 --> 00:15:44,640
+patient has started to come up from RSI, right? Because there's unrecognized bleeding, like
+
+148
+00:15:44,640 --> 00:15:50,080
+there's so many things that could go wrong that would negatively alter that patient's outcome.
+
+149
+00:15:50,160 --> 00:15:55,360
+Because it's one thing, like even in the US emergency medicine as a physician discipline
+
+150
+00:15:55,360 --> 00:16:03,760
+is relatively young, that is even more so true in other countries. And so then the idea of having
+
+151
+00:16:03,760 --> 00:16:11,760
+critical care transport ability that is not a physician or an anesthetist is pretty rare
+
+152
+00:16:11,760 --> 00:16:15,680
+in some places and doesn't even exist in some places. I mean, there's some places where
+
+153
+00:16:15,680 --> 00:16:23,120
+your regular 911 ambulance person is closer to what we would consider like an EMT or an advanced EMT,
+
+154
+00:16:23,120 --> 00:16:30,560
+right? So then we take somebody right out of the OR for whether it's operational or patient volume,
+
+155
+00:16:30,560 --> 00:16:36,000
+for whatever reason, they're not able to convalesce for an extended period, you know, a couple feet
+
+156
+00:16:36,000 --> 00:16:42,720
+from that operating theater. They need to quickly move from there to somewhere else. And then
+
+157
+00:16:43,040 --> 00:16:50,800
+from there to somewhere else, that critical care provider can do a really incredible job dealing
+
+158
+00:16:50,800 --> 00:16:56,560
+with all of those conditions and making sure that the patient does as well as possible moving from
+
+159
+00:16:56,560 --> 00:17:02,960
+from basically point A to point B. And then I think the caveat with that is that, you know,
+
+160
+00:17:02,960 --> 00:17:09,280
+pre-hospital people tend to be pretty flexible with equipment, protocols, medications. I mean,
+
+161
+00:17:09,280 --> 00:17:16,080
+even in the US, like, you know, I've dealt with shortages on benzos or, you know, saline, right?
+
+162
+00:17:16,080 --> 00:17:22,960
+We're using we're used to having to make some adjustments. And so now if you take that
+
+163
+00:17:22,960 --> 00:17:28,640
+critical care person and you put them in this, maybe it's a foreign ambulance, different meds,
+
+164
+00:17:28,640 --> 00:17:34,960
+whatever, as long as you give that person a little bit of time, especially with medications,
+
+165
+00:17:34,960 --> 00:17:39,520
+if you give that person a little bit of time to read up on the meds that they now have access to,
+
+166
+00:17:40,480 --> 00:17:45,840
+to play with the ventilator, to play with the pumps, right, to get familiar with that different
+
+167
+00:17:45,840 --> 00:17:50,560
+equipment, they have the plasticity to be able to say, yeah, you know, event is event. I'll look at
+
+168
+00:17:50,560 --> 00:17:54,560
+the manual. I'll work through the modes, like, I'll figure out what is proprietary and, you know,
+
+169
+00:17:54,560 --> 00:18:01,760
+what I'm what I know the concepts of. And then they'll be able to do a great job with that patient,
+
+170
+00:18:01,760 --> 00:18:08,480
+whereas I think other health care providers or physicians may be much more uncomfortable doing
+
+171
+00:18:08,480 --> 00:18:14,880
+that. And maybe they still do it. I don't know, like, I don't have any evidence to support if
+
+172
+00:18:14,880 --> 00:18:18,560
+there would actually be a difference in outcome. But I think everybody is going to be a little bit
+
+173
+00:18:18,560 --> 00:18:24,160
+more comfortable if somebody who is already more comfortable working in that environment is able to
+
+174
+00:18:24,160 --> 00:18:29,520
+do it. So that's kind of like the one the first kind of general case. And then the second one is
+
+175
+00:18:29,520 --> 00:18:39,520
+if we're dealing with things like significant pain management, procedural sedation in a somewhat
+
+176
+00:18:39,520 --> 00:18:45,920
+low or lower resource environment, where, you know, if if we're going to RSI someone or if we're going
+
+177
+00:18:45,920 --> 00:18:52,640
+to do procedural sedation, the quality of care needs to be the same, whether we're talking about
+
+178
+00:18:52,640 --> 00:18:59,920
+an operating theater in sub-Saharan Africa or Ukraine or the US, right, we might have to make
+
+179
+00:18:59,920 --> 00:19:06,240
+changes. And maybe we use a medication that has a slightly worse side effect profile, right? That
+
+180
+00:19:06,240 --> 00:19:12,000
+might be the only thing we we have access to, but we're still not going to let that patient desat,
+
+181
+00:19:12,000 --> 00:19:15,840
+right? We're still going to pre-oxygenate. We're going to do all these things that we are trained
+
+182
+00:19:15,840 --> 00:19:23,920
+to do to ensure that those patients have the best chance possible. And so if we already know how to
+
+183
+00:19:23,920 --> 00:19:30,400
+do RSI sedation, if we're already comfortable giving fentanyl or, you know, whatever meds are
+
+184
+00:19:30,400 --> 00:19:38,880
+talking about, we can take that from a moving vehicle and now move that to a patient care room
+
+185
+00:19:38,880 --> 00:19:45,680
+in a facility where maybe the alternative, if we're not there pushing those meds, is that the patient
+
+186
+00:19:45,680 --> 00:19:51,040
+goes through an incredibly painful procedure without pain meds or with Tylenol, you know,
+
+187
+00:19:51,040 --> 00:19:57,680
+oral or IV Tylenol as the only thing for like wound abridement. And I've seen this firsthand.
+
+188
+00:19:58,880 --> 00:20:05,040
+But if we have that person that is comfortable with these meds, that is comfortable monitoring
+
+189
+00:20:05,040 --> 00:20:10,160
+that patient and is comfortable kind of like setting themselves up in a new space,
+
+190
+00:20:10,720 --> 00:20:19,120
+now you can safely do procedural sedation or RSI or whatever it might be in that environment.
+
+191
+00:20:20,400 --> 00:20:29,280
+And we have made things a little bit better. So yeah, so I think that's kind of a way to
+
+192
+00:20:29,280 --> 00:20:34,080
+transition those skills over to that other environment. And especially if we're talking
+
+193
+00:20:34,080 --> 00:20:39,440
+about the in-hospital, we're taking responsibility for a small part of the patient care, right? I'm
+
+194
+00:20:39,520 --> 00:20:44,800
+not telling anybody to become a surgeon unless you want to go to medical school and do all that.
+
+195
+00:20:46,000 --> 00:20:53,520
+But if you have a provider doing a procedure, you can focus on the pain management, the sedation,
+
+196
+00:20:53,520 --> 00:20:59,040
+the airway, right? You don't have to worry about the leg that's being amputated or is, you know,
+
+197
+00:20:59,040 --> 00:21:04,640
+they're dealing with the X-fix or wound change or whatever, addressing change. You can just focus on
+
+198
+00:21:04,640 --> 00:21:08,320
+the pain in the airway. Like we're cool with that because that's something that we do
+
+199
+00:21:09,440 --> 00:21:14,880
+every day, multiple times a day sometimes, right? Yeah, so there you go. So those are two kind of
+
+200
+00:21:14,880 --> 00:21:20,000
+general cases that I think make a lot of sense for us. Totally. Yeah, and that first one you
+
+201
+00:21:20,000 --> 00:21:26,560
+mentioned about just like doing the critical care role or the critical care transport role specifically,
+
+202
+00:21:27,440 --> 00:21:32,560
+that was something like we realized very quickly in Ukraine, there was like a pretty robust like
+
+203
+00:21:32,560 --> 00:21:39,680
+911 EMS system, like even before the war, but once there was like this influx of casualties that
+
+204
+00:21:39,680 --> 00:21:45,280
+needed to get from point A to point B, there was kind of a gap there. Fortunately now,
+
+205
+00:21:46,960 --> 00:21:51,680
+you know, the war has afforded like the medical system of Ukraine, like the opportunity to like
+
+206
+00:21:51,680 --> 00:21:56,880
+fill that gap. So like now they don't, there are some niche cases, but for the most part, like
+
+207
+00:21:56,880 --> 00:22:00,240
+Ukrainian providers can now do that thing that we were doing initially early on.
+
+208
+00:22:01,200 --> 00:22:04,320
+It's more an issue of just being like generally under resourced.
+
+209
+00:22:05,120 --> 00:22:13,040
+Yeah, I mean, I was so like I was in the Prokofsk area and we were still, I mean, as of like
+
+210
+00:22:13,040 --> 00:22:22,800
+February through May, basically of 2025, like there was still, there were some NGOs that are
+
+211
+00:22:22,800 --> 00:22:26,800
+providing it. There were some Ukrainian medics that had been trained up to a higher level,
+
+212
+00:22:27,360 --> 00:22:34,720
+but it still, there was this challenge of like some of the military units had great combat
+
+213
+00:22:34,720 --> 00:22:39,120
+medics that maybe they could do like, you know, push dose fentanyl, push dose ketamine,
+
+214
+00:22:39,920 --> 00:22:48,080
+but they're stationed at a role one and a patient has just come out of the OR from a damage control
+
+215
+00:22:48,080 --> 00:22:56,320
+surgery. They're on a vent, they're on a propofol drip. They were also using mandapal in some cases
+
+216
+00:22:56,320 --> 00:23:02,000
+and they have Atrocurium on board as that was their common, most common paralytic that I saw.
+
+217
+00:23:03,440 --> 00:23:10,160
+That's not part of TCCC, right? That's not part of, you know, normal combat medicine. Like if you
+
+218
+00:23:10,160 --> 00:23:17,440
+look at the joint trauma system, there is the in route care guidelines, but that's not TCCC.
+
+219
+00:23:18,640 --> 00:23:24,880
+That's not what most military medics are learning. So we still had this gap. And now there were a lot
+
+220
+00:23:24,880 --> 00:23:31,040
+of patients. I mean, some of your simple ortho patients, people that had, you know, rapidly
+
+221
+00:23:31,040 --> 00:23:37,200
+stopped hemorrhage and then got a transfusion, like those folks absolutely were well within
+
+222
+00:23:37,200 --> 00:23:43,600
+the wheelhouse for the combat medics. And they did a great job taking those and making the
+
+223
+00:23:43,600 --> 00:23:50,240
+patients comfortable and doing everything they could. But yeah, it was the sicker kind of like
+
+224
+00:23:50,240 --> 00:23:55,680
+post-surgical cases that I saw the gap still. Yeah, for sure. Yeah. And I wonder, I guess I'm not
+
+225
+00:23:56,320 --> 00:24:01,200
+totally sure like how much of that is like that there aren't folks with the training
+
+226
+00:24:01,200 --> 00:24:06,080
+versus not enough of them. Cause there are some like ambulance services now that are doing like
+
+227
+00:24:06,880 --> 00:24:10,560
+critical care transport with physicians who have worked pre-hospitally. I just don't think there's
+
+228
+00:24:10,560 --> 00:24:15,360
+a lot of them. So there still is definitely an need for folks with that skillset in Ukrainian,
+
+229
+00:24:15,360 --> 00:24:20,960
+even today. Yeah. And it's people also, I mean, people that haven't been to Ukraine also
+
+230
+00:24:20,960 --> 00:24:28,880
+underestimate like it's how big of a country it is. So if you need to cover that entire front of
+
+231
+00:24:28,880 --> 00:24:35,680
+the war, you know, and space out some, you know, critical care capabilities between ambulances and
+
+232
+00:24:35,680 --> 00:24:42,880
+we have these buses that do transports. That's just like a logistics problem. Yeah. Right.
+
+233
+00:24:43,600 --> 00:24:51,280
+And you can't fly. Oh yeah. Yeah. Flying is bad. Flying is a quick way to have a hard landing.
+
+234
+00:24:51,920 --> 00:24:59,360
+Yeah. Yeah. And, and to Ukrainian's credit, like there, there had been a couple of a handful of
+
+235
+00:24:59,360 --> 00:25:04,720
+very dramatic and daring like helicopter rescue missions where they did, and there's some that
+
+236
+00:25:04,720 --> 00:25:11,200
+came out of Mary Oupil early in the war where they evacuated via helicopter. But yeah, it's not
+
+237
+00:25:13,280 --> 00:25:19,280
+a viable option. And then especially with the increasing number of drones, like the long range
+
+238
+00:25:19,280 --> 00:25:27,040
+stuff where in one night you have 500 or 800 large, like car size drones over the country,
+
+239
+00:25:27,040 --> 00:25:30,560
+you can't even say, Oh, well, we'll just drive them to Kiev and then, you know, put them on a fixed
+
+240
+00:25:30,560 --> 00:25:36,640
+wing and then take them out. Right. It's just unfortunately not really an option right now.
+
+241
+00:25:37,440 --> 00:25:46,480
+Yeah, for sure. And then you mentioned the case already of like a critical care transport person
+
+242
+00:25:47,200 --> 00:25:53,360
+helping with like an RSI or procedural sedation. What are some other like clinical situations,
+
+243
+00:25:53,360 --> 00:25:58,960
+like not necessarily taking over an entire case, like taking over like the care of a patient from
+
+244
+00:25:58,960 --> 00:26:02,880
+start to finish. What are some other like ways that these folks could maybe insert themselves
+
+245
+00:26:02,880 --> 00:26:08,480
+to be clinically useful? Yeah. And so kind of like a lower stress one, and we both did this in
+
+246
+00:26:08,480 --> 00:26:15,120
+Mexico. If you're dealing with sort of a more primary care type environment, you know, what
+
+247
+00:26:15,120 --> 00:26:22,720
+like the military would call sick call or like urgent care type cases in a refugee health, like
+
+248
+00:26:22,720 --> 00:26:30,160
+that sort of setting, the hospital providers were great history takers, were good at vital signs,
+
+249
+00:26:30,160 --> 00:26:36,560
+were good at recognizing sick versus not sick. Right. So if, you know, if we're looking at a
+
+250
+00:26:36,560 --> 00:26:43,760
+line of 30 patients that are waiting to be seen, I would take that pre hospital provider and if they
+
+251
+00:26:43,760 --> 00:26:48,000
+get a bad feeling about somebody, we're going to pull that patient out of line and then try to
+
+252
+00:26:48,000 --> 00:26:53,680
+figure out what gave the person that bad feeling. Right. I mean, sometimes that's how we're catching
+
+253
+00:26:54,560 --> 00:27:01,360
+the patients that are borderline septic or, you know, they severe mental illness or electrolyte
+
+254
+00:27:01,360 --> 00:27:09,200
+issue, septicemia, some of these things that can kind of be slower onset, but that we've encountered
+
+255
+00:27:09,200 --> 00:27:17,040
+in our various settings before. And in some of these populations, you have folks that they're tough,
+
+256
+00:27:17,040 --> 00:27:23,760
+like they've had hard lives. They are tough and they are stubborn and they're not going to step
+
+257
+00:27:23,760 --> 00:27:29,200
+out of line because that would be rude, even if they are having crushing chest pain that radiates
+
+258
+00:27:29,200 --> 00:27:34,240
+down their arm and write like all of these things like, well, I'll be seen when I'm seen, but that
+
+259
+00:27:34,240 --> 00:27:40,960
+pre hospital provider can do that. So in that context, we can do triage much like a hospital.
+
+260
+00:27:40,960 --> 00:27:46,720
+We can do the history taking the vitals. We may be really useful, especially if there's a language
+
+261
+00:27:46,720 --> 00:27:55,520
+barrier as kind of the first layer of sorting. So if you pair the paramedic, whoever it is with an
+
+262
+00:27:55,520 --> 00:28:01,280
+interpreter, and so we're collecting this information, we're kind of creating some order within the
+
+263
+00:28:01,280 --> 00:28:08,640
+chaos that can often work in these places. The physical exam sometimes can be time consuming.
+
+264
+00:28:08,640 --> 00:28:14,960
+And so if we have somebody maybe with multiple soft tissue problems from some places, you have
+
+265
+00:28:14,960 --> 00:28:19,520
+issues with bugs, with hygiene, this kind of stuff, you can have a pre hospital provider that
+
+266
+00:28:19,520 --> 00:28:25,600
+does a really good physical exam in appropriate setting for privacy. And then they can start
+
+267
+00:28:25,600 --> 00:28:31,680
+flagging things and say, hey, this patient has what looks like a pretty decent sized abscess.
+
+268
+00:28:32,880 --> 00:28:37,600
+We're going to make note of that. But otherwise, their vitals are great. They don't have a temp.
+
+269
+00:28:38,480 --> 00:28:41,360
+You know, we think it might be kind of an isolated thing.
+
+270
+00:28:42,800 --> 00:28:48,320
+Or, you know, we're seeing, you know, this is severe phlebitis. And I am actually seeing a
+
+271
+00:28:48,320 --> 00:28:53,760
+fever on this patient. So again, we've combined doing a good really basic physical with that
+
+272
+00:28:53,760 --> 00:29:00,640
+history taking and the vitals. And now we are maybe making a difference in that patient's outcome.
+
+273
+00:29:01,600 --> 00:29:08,400
+Because in a lot of these settings, the physician level provider, there's often not enough of them.
+
+274
+00:29:09,520 --> 00:29:16,080
+And so if we can do a really good job and act, not only as a physician extender, but really to help
+
+275
+00:29:17,360 --> 00:29:24,000
+prioritize and truly triage these folks, that can make things a little bit easier.
+
+276
+00:29:24,480 --> 00:29:33,040
+We're also, we're used to stocking our own bags, right and restocking. So if you take a
+
+277
+00:29:33,040 --> 00:29:38,160
+pre-hospital provider and you say, hey, we've got a, you've got multiple boxes of donated medications,
+
+278
+00:29:38,160 --> 00:29:44,880
+and we have a pen, a cabin, whatever, that's going to be our pharmacy, like we've gone through boxes
+
+279
+00:29:44,880 --> 00:29:48,800
+and restocked things. And you know, we know that you're supposed to organize things in certain ways,
+
+280
+00:29:48,880 --> 00:29:55,840
+like, so it's maybe not something we were formally trained to do in a classroom, but
+
+281
+00:29:55,840 --> 00:30:01,920
+we've all restocked ambulances, you know, all this stuff. And so it's this kind of other thing that,
+
+282
+00:30:01,920 --> 00:30:08,960
+yeah, we can do. I mean, anybody that's also worked for maybe a more budget ambulance service has
+
+283
+00:30:08,960 --> 00:30:15,680
+probably had to repair equipment before. You know, so, you know, maybe you're good at troubleshooting,
+
+284
+00:30:15,680 --> 00:30:20,640
+you know, the life pack 12 or, you know, whatever, whatever stuff. So maybe that's kind of another
+
+285
+00:30:20,640 --> 00:30:26,640
+thing. Yeah. Now those are all good examples. And in my experience, I don't know if yours is the same,
+
+286
+00:30:26,640 --> 00:30:34,880
+but I feel like when I first started doing this kind of stuff, the, like filling gaps in like
+
+287
+00:30:35,440 --> 00:30:41,200
+providers workflow, like always seemed kind of intimidating, like doing the history when I like
+
+288
+00:30:41,200 --> 00:30:46,240
+didn't know what to do about the diagnosis part or like doing the exam when I like wasn't sure
+
+289
+00:30:46,240 --> 00:30:51,120
+about the treatment part that that initially when I was like first getting this kind of work was like
+
+290
+00:30:51,680 --> 00:30:58,320
+a challenge because it, yeah, it feels like very strange. Like you're like, you know, getting in
+
+291
+00:30:58,320 --> 00:31:04,480
+someone's way or like wasting time. I think there's definitely a way to do it that facilitates a
+
+292
+00:31:04,480 --> 00:31:10,240
+workflow rather than impeding it. Yeah. But you already mentioned team dynamics and team composition,
+
+293
+00:31:10,240 --> 00:31:18,640
+right? And I think this is where having the right type of physician provider in the environment
+
+294
+00:31:18,640 --> 00:31:25,360
+where you guys can sync up beforehand and the pre-hospital, you know, the, the, the pre-hospital
+
+295
+00:31:25,360 --> 00:31:30,240
+provider, the EMT paramedic can say, Hey, these are, you know, these are the things I'm comfortable
+
+296
+00:31:30,240 --> 00:31:36,240
+with. I'm thinking I might be able to fill in and help in this way. And then the physician can say,
+
+297
+00:31:36,240 --> 00:31:40,720
+yes, that's going to be helpful. Or actually, I think it's going to be more helpful if you do
+
+298
+00:31:40,720 --> 00:31:47,120
+XYZ. I forgot to mention like a 12 lead, right? We're not only talking, always talking trauma.
+
+299
+00:31:47,120 --> 00:31:51,920
+Sometimes we're talking medical patients. So, you know, if you have somebody like in some of these
+
+300
+00:31:51,920 --> 00:31:59,600
+settings, we do have 12 leads. They have become smaller, less expensive. And you can get 12 leads
+
+301
+00:31:59,600 --> 00:32:06,240
+that are standalone from a cardiac monitor, right? So something like lagging a patient that has
+
+302
+00:32:06,240 --> 00:32:11,840
+cardiac risk factors and maybe has ambiguous symptoms. And then the paramedic throws them on
+
+303
+00:32:11,840 --> 00:32:18,320
+the 12 lead and then brings them over to the provider. Like that saved everybody a little bit
+
+304
+00:32:18,320 --> 00:32:27,360
+of time. You know, so yeah, I think it's, it's about kind of knowing yourself, knowing your skills,
+
+305
+00:32:27,440 --> 00:32:33,680
+and then having a team where you guys can have this kind of open conversation. And I've had
+
+306
+00:32:33,680 --> 00:32:39,920
+physicians say like, hey, I'm really uncomfortable doing whatever. Because sometimes you get a
+
+307
+00:32:39,920 --> 00:32:46,160
+physician that has a specialty, but it's been years since they did, you know, family medicine,
+
+308
+00:32:46,160 --> 00:32:52,000
+women's health, primary care, right? And they say, hey, look, I'm great at urology, but I haven't
+
+309
+00:32:52,000 --> 00:32:58,400
+seen a PEDS patient in 20 years. All right, cool, man. Like I work on a pediatric critical care
+
+310
+00:32:58,400 --> 00:33:04,880
+transport, right? I see kids all the time in some cases, right? So you have people that can identify
+
+311
+00:33:04,880 --> 00:33:11,440
+their strengths and weaknesses. Yeah, it comes down to having that, that team and the dialogue.
+
+312
+00:33:12,240 --> 00:33:18,320
+For sure. Yeah, it's a good point about the providers themselves being in a setting that
+
+313
+00:33:18,400 --> 00:33:23,440
+they're not used to, like in a disaster situation. I mean, remember here during COVID, we had like
+
+314
+00:33:24,560 --> 00:33:29,120
+family med docs, like working in like makeshift ICUs, taking care of, you know, a whole suite of
+
+315
+00:33:29,120 --> 00:33:36,480
+patients on transport ventilators, basically. So yeah, I think that's a good point. Like where I'm
+
+316
+00:33:36,480 --> 00:33:43,520
+working now, we have a lot of like local physicians that we work with. They're like the, you know,
+
+317
+00:33:43,600 --> 00:33:48,640
+the primary ones like providing treatment in the emergency room,
+
+318
+00:33:49,600 --> 00:33:55,200
+but most of them aren't emergency medicine doctors. Like before the war, they were pediatricians or
+
+319
+00:33:55,200 --> 00:34:00,000
+family med docs or, you know, like always worked out patients. So that's definitely worth keeping
+
+320
+00:34:00,000 --> 00:34:05,760
+in mind. And then when some of these places, we also just have like regular, especially if you're
+
+321
+00:34:05,760 --> 00:34:10,320
+in like a refugee camp type setting, sometimes people just have like regular run-of-the-mill
+
+322
+00:34:10,320 --> 00:34:17,200
+emergencies, hypoglycemia, you know, seizure disorders, things like that. And that's exactly
+
+323
+00:34:17,200 --> 00:34:22,720
+the patient that you want a paramedic to deal with because you're out of hospital, they're having a,
+
+324
+00:34:22,720 --> 00:34:30,640
+you know, sudden onset medical emergency. Cool. Like we can do that all day. So, and that's,
+
+325
+00:34:30,640 --> 00:34:35,440
+it's going to be a usually outside of like a conflict, it's going to be a small number of
+
+326
+00:34:35,440 --> 00:34:41,520
+like true emergencies. But when things go sideways like that, you want somebody who's
+
+327
+00:34:41,520 --> 00:34:50,400
+comfortable dealing with it. So yeah. What about situations in which like you might have to
+
+328
+00:34:51,280 --> 00:34:55,520
+like do things different than you normally would, like deviate from like pre-existing
+
+329
+00:34:55,520 --> 00:35:03,280
+clinical expectations? Yeah. So this is one of the places where there are some documents that can
+
+330
+00:35:03,280 --> 00:35:09,520
+absolutely help us. Because I think, like I said in the beginning, we're not trying to do
+
+331
+00:35:09,520 --> 00:35:17,200
+cowboy medicine, we're trying to really maintain an appropriate standard of care for our patients.
+
+332
+00:35:18,160 --> 00:35:24,400
+So things might look a little bit different, but the fundamentals should be the same. So if we look
+
+333
+00:35:24,400 --> 00:35:29,680
+at the joint trauma system, there are clinical practice guidelines for prolonged field care,
+
+334
+00:35:30,320 --> 00:35:36,960
+for critical care transport. These are publicly available documents and they will,
+
+335
+00:35:36,960 --> 00:35:43,600
+granted they are written for the US and kind of NATO audiences. So sometimes they might talk about
+
+336
+00:35:43,600 --> 00:35:49,520
+specific equipment that's not affordable, or there's an assumption that, you know, a helicopter
+
+337
+00:35:49,520 --> 00:35:55,360
+is going to be there in 30 minutes and then a C5 is going to be there in an hour. But there is a
+
+338
+00:35:55,360 --> 00:36:02,800
+lot of good content in there because fundamentally they are considering a more austere environment.
+
+339
+00:36:02,800 --> 00:36:08,960
+So from an equipment standpoint, like we, you know, capnography is going to be an incredible tool
+
+340
+00:36:09,600 --> 00:36:17,120
+for a lot of our airway stuff. So if we don't have a proper, you know, a life pack 15, we don't have
+
+341
+00:36:17,120 --> 00:36:22,400
+a Zoll monitor with the capnography built in, there's a device called an Emma that's this
+
+342
+00:36:22,400 --> 00:36:26,160
+little thing, it's a little bit bigger than a pulse ox, it goes between your airway device and
+
+343
+00:36:26,160 --> 00:36:32,480
+your BVM or your vent, and it gives you, depending on the generation, because there's three of them
+
+344
+00:36:32,480 --> 00:36:41,120
+now, it will give you definitely a, a, a, entitled CO2 number and a respiratory rate. That's the first
+
+345
+00:36:41,120 --> 00:36:45,360
+generation, the second generation will give you a waveform plus those two, and then the third
+
+346
+00:36:45,360 --> 00:36:49,920
+generation gives you Bluetooth connectivity so you can, you know, wirelessly connect to that
+
+347
+00:36:49,920 --> 00:36:56,320
+device and monitor remotely. But so that's a nice little tool where we are still using
+
+348
+00:36:56,320 --> 00:37:01,520
+capnography to confirm an intubation. It's just going to look a little bit different and we're
+
+349
+00:37:01,520 --> 00:37:09,200
+going to use, like I know some people still carry color metric, I don't want that, I want real-time
+
+350
+00:37:09,200 --> 00:37:16,160
+continuous monitoring. I've purchased my own Emma, got a good deal on eBay, it's something that
+
+351
+00:37:16,240 --> 00:37:24,080
+travels with me, but I think if we are talking about doing professional critical care or critical
+
+352
+00:37:24,080 --> 00:37:30,880
+care adjacent patient care in these environments, we can bring a tool like an Emma and we can use
+
+353
+00:37:30,880 --> 00:37:36,400
+that, right? Because we, yeah, I mean, everybody knows how important capnography is in this context.
+
+354
+00:37:37,840 --> 00:37:42,000
+Again, thinking about smaller devices, we might use a pulse, you know, fingertip pulse oximeter,
+
+355
+00:37:42,720 --> 00:37:49,760
+much more than something connected to a larger monitor or event, and that might be our primary
+
+356
+00:37:49,760 --> 00:37:55,680
+pulse ox. You know, with the understanding that you're, in some cases you may have a little bit
+
+357
+00:37:55,680 --> 00:38:00,000
+of a delay between central circulation and peripheral, that if you have a patient in shock,
+
+358
+00:38:00,000 --> 00:38:05,040
+you're going to have to deal with decreased perfusion in the fingers. So there are limitations,
+
+359
+00:38:05,600 --> 00:38:11,440
+but now we can, with some smaller devices, we can still think about appropriately measuring
+
+360
+00:38:11,440 --> 00:38:18,240
+and monitoring our patients over time. We might look at using like low flow oxygen,
+
+361
+00:38:18,240 --> 00:38:23,600
+if our ventilator will accept that, because maybe we only have like a portable, like a home type
+
+362
+00:38:23,600 --> 00:38:29,360
+oxygen concentrator. So now we're running a low flow source, like up to six liters into our event.
+
+363
+00:38:30,640 --> 00:38:39,200
+So we're still providing oxygen, we are just not providing it from a big tank because that's not
+
+364
+00:38:39,200 --> 00:38:44,080
+available, or maybe one tank is available, but we're not going to be able to refill it very easily.
+
+365
+00:38:44,080 --> 00:38:49,440
+So we need to use that pretty sparingly. Some of the equipment, like some of the vents, some of the
+
+366
+00:38:49,440 --> 00:38:55,520
+monitors might be a little bit older than what we're used to at work, and so then it's kind of
+
+367
+00:38:55,520 --> 00:39:03,120
+just a matter of pulling out the manual. I mentioned medications before, we may have meds that we are,
+
+368
+00:39:03,120 --> 00:39:08,160
+maybe we are familiar with the class of medication, like it is a benzo, it's a
+
+369
+00:39:11,920 --> 00:39:18,880
+depolarizing, paralytic, but the specific drug that we now have in our our ampule
+
+370
+00:39:20,080 --> 00:39:26,000
+is unfamiliar to us. All right, let's spend a little time, you know, with PubMed or with another
+
+371
+00:39:26,000 --> 00:39:32,560
+resource. If our local health care providers are familiar with that, we can figure out kind of the
+
+372
+00:39:32,560 --> 00:39:39,120
+pros and cons of using that. So we can look at our medications and try to figure out what
+
+373
+00:39:39,120 --> 00:39:43,520
+adjustments we need to make. Maybe there are additional side effects, and so we're thinking
+
+374
+00:39:43,520 --> 00:39:48,080
+maybe this is something that produces more nausea or more hyper salivation, right, and so we're
+
+375
+00:39:48,080 --> 00:39:52,560
+going to pair it with another medication that we wouldn't normally have to try to balance that.
+
+376
+00:39:54,160 --> 00:39:59,680
+I mean, pain management is something that can be difficult, and so maybe rather than just
+
+377
+00:39:59,680 --> 00:40:06,960
+jumping first to, you know, to a stronger dose of fentanyl, because maybe we have a very limited
+
+378
+00:40:06,960 --> 00:40:13,600
+supply of that, maybe we are going to try like PO, ibuprofen, and acetaminophen, and see if we can
+
+379
+00:40:13,600 --> 00:40:18,080
+take the patient's, you know, pain down a little bit with that, or maybe it's going to be IV,
+
+380
+00:40:18,880 --> 00:40:26,480
+paracetylol, Tylenol. You know, so maybe we're going to try other strategies to manage the pain,
+
+381
+00:40:26,480 --> 00:40:30,640
+whereas in a, you know, more normal environment, we could say, oh, we'll just, you know,
+
+382
+00:40:31,520 --> 00:40:34,880
+give enough fentanyl to make them comfortable, and then we'll be at the hospital in 20 minutes, right?
+
+383
+00:40:36,080 --> 00:40:41,680
+So those are, I think, some of the cases, and again, going back to these clinical practice guidelines,
+
+384
+00:40:41,680 --> 00:40:46,160
+especially the prolonged field care and the prolonged casualty care guidelines,
+
+385
+00:40:46,720 --> 00:40:53,520
+have these minimum, better, best recommendations for whether it's airway management, pain management,
+
+386
+00:40:53,520 --> 00:40:59,760
+wound care, and within these guidelines, there's different procedures, and so they'll say, you know,
+
+387
+00:40:59,760 --> 00:41:08,640
+the minimum for a wound dressing is X, the better is Y, and then the best is Z. And so if you are
+
+388
+00:41:08,640 --> 00:41:13,440
+packing, or if you are at a local market or a store buying stuff, you can say, hey, we have a
+
+389
+00:41:13,440 --> 00:41:19,840
+limited number of the best, so we're going to save that for some specific patient populations, and
+
+390
+00:41:20,160 --> 00:41:26,400
+but we have a nearly infinite supply of the minimum. Fantastic. Let's use that, you know,
+
+391
+00:41:26,400 --> 00:41:34,160
+in abundance and as appropriate. But we don't have to make that improvisation and that judgment call
+
+392
+00:41:34,160 --> 00:41:41,680
+in the moment. We can look at these guidelines and make good decisions in advance, understanding those
+
+393
+00:41:41,680 --> 00:41:46,960
+guidelines are written by both physicians and people with significant field experience, and in
+
+394
+00:41:46,960 --> 00:41:54,480
+some cases researchers as well, so that we are combining our understanding of the operational
+
+395
+00:41:54,480 --> 00:42:00,320
+environment, the equipment that we have available, and then these external resources to help us
+
+396
+00:42:00,960 --> 00:42:09,120
+modify our care in really logical and sustainable ways. Yeah, that's awesome.
+
+397
+00:42:09,680 --> 00:42:15,920
+So we talked a fair amount a bit about like how it might look in a clinical setting, so I think
+
+398
+00:42:15,920 --> 00:42:21,680
+that's fairly clear, but like how does one, because somebody's interested in this, somebody's
+
+399
+00:42:21,680 --> 00:42:26,160
+listening to me like, this sounds awesome, like how do I do that? Because you and I both mentioned
+
+400
+00:42:26,160 --> 00:42:32,160
+that like it's not as easy as just like signing up and going, like how does the process work for
+
+401
+00:42:32,160 --> 00:42:38,560
+like finding these opportunities and like getting into this sort of thing? Yeah, so I think
+
+402
+00:42:38,720 --> 00:42:49,440
+so. So like one, so like some folks, if folks are already in the military, they may have already
+
+403
+00:42:49,440 --> 00:42:54,480
+gotten some of the medical training, especially on like the special operations side, that sets them
+
+404
+00:42:54,480 --> 00:43:02,240
+up really well to work in these environments. For other folks, like we can develop the
+
+405
+00:43:02,240 --> 00:43:08,240
+knowledge and the skills incrementally. So I mentioned part of my backstory was special event
+
+406
+00:43:08,240 --> 00:43:15,360
+medicine. So if you have access to that in your area, if you can work, you know, major sporting
+
+407
+00:43:15,360 --> 00:43:24,400
+events, NASCAR, you know, Burning Man, you know, EDC, the big electronic music festival, if you
+
+408
+00:43:24,400 --> 00:43:30,480
+can work some of these big events, a lot of that patient care is going to be treat and release on
+
+409
+00:43:30,560 --> 00:43:38,960
+site, you're going to be working alongside physicians and NPS and PAs. And that may be kind
+
+410
+00:43:38,960 --> 00:43:47,040
+of one avenue to start getting experience and potentially networking. And it may also, depending
+
+411
+00:43:47,040 --> 00:43:53,040
+on your, your employer, they may be willing to send you to some additional training. I think I
+
+412
+00:43:53,040 --> 00:43:58,000
+mean, if you have a part time job at an urgent care, like, that's probably pretty useful,
+
+413
+00:43:58,960 --> 00:44:05,600
+especially if you have a team there that will let you learn more that will, you know, show you
+
+414
+00:44:05,600 --> 00:44:11,920
+other procedures, I mean, even just basic wound care, you know, an incision and draining for an
+
+415
+00:44:11,920 --> 00:44:18,880
+abscess, placing a Foley, like these are things that we don't normally do in an ambulance setting
+
+416
+00:44:19,440 --> 00:44:23,680
+that are super useful in either extended care, you know, prolonged care or some of these,
+
+417
+00:44:24,640 --> 00:44:29,200
+like refugee health settings. So if you're already working in that urgent care, if you work in an
+
+418
+00:44:29,200 --> 00:44:34,080
+emergency department, you know, tell, you know, if you have a provider that you're comfortable with,
+
+419
+00:44:34,080 --> 00:44:40,720
+tell them like, Hey, I really want to go volunteer on these types of missions. Can I learn more in
+
+420
+00:44:40,720 --> 00:44:45,360
+the ER? And of course, I mean, there's liability, like there's all these other considerations, but
+
+421
+00:44:46,720 --> 00:44:52,560
+that may be a really good step forward. Getting experience is always going to be
+
+422
+00:44:52,960 --> 00:44:59,440
+useful, especially if it's experience with a mentor, if you're able to join one of the disaster
+
+423
+00:44:59,440 --> 00:45:06,320
+medical assistance teams, one of the urban search and rescue, you saw our teams, those are all
+
+424
+00:45:06,320 --> 00:45:12,480
+going to be well established programs, there's a clear barrier for entry, there are ongoing
+
+425
+00:45:12,480 --> 00:45:19,200
+training, there are experienced personnel, it's part of the federal system, at least as long as
+
+426
+00:45:19,200 --> 00:45:27,680
+those programs exist. And so that may be a really good way to go from sort of being a street or a
+
+427
+00:45:27,680 --> 00:45:35,120
+more traditional transport provider to now working in a non transport or a partial transport environment
+
+428
+00:45:35,120 --> 00:45:41,760
+with personnel that are, that have experience doing the stuff, like the, the USAR teams,
+
+429
+00:45:42,720 --> 00:45:46,480
+I'm most familiar with them, not as a domestic resource, but as an international film.
+
+430
+00:45:47,440 --> 00:45:53,280
+I mean, there are several USAR teams that used to deploy to places like Turkey after they have a
+
+431
+00:45:53,280 --> 00:46:01,440
+massive earthquake or Haiti. And the capability that those teams are able to bring is really,
+
+432
+00:46:01,440 --> 00:46:06,800
+really remarkable, not only on the medical side, but bringing in, you know, civil engineers and
+
+433
+00:46:06,800 --> 00:46:12,160
+other types of engineers and communications and all this other stuff. So DMAT and USAR, I think,
+
+434
+00:46:12,240 --> 00:46:18,080
+would be really, really useful. Look at the Wilderness Medical Society. So they're a professional
+
+435
+00:46:18,080 --> 00:46:23,120
+organization for wilderness medicine, they have some clinical practice guidelines that are useful.
+
+436
+00:46:23,120 --> 00:46:32,000
+They also do conferences, they do online classes and lectures. So that's kind of another organization
+
+437
+00:46:32,000 --> 00:46:38,880
+that has multiple purposes. Social media can certainly be useful. There's a lot of NGOs and
+
+438
+00:46:38,880 --> 00:46:45,600
+other organizations that will post on Instagram and you can look for the groups that are out there,
+
+439
+00:46:46,800 --> 00:46:52,880
+you know, do your homework, do your due diligence. You know, the,
+
+440
+00:46:54,880 --> 00:47:01,280
+the organizations that are doing the most sustainable, in some cases, kind of less exciting
+
+441
+00:47:01,280 --> 00:47:09,920
+stuff will probably be safer. The folks that are doing the really spicy and at times very interesting
+
+442
+00:47:10,560 --> 00:47:18,400
+stuff will probably be more risky and you as an individual will have to take on more responsibility
+
+443
+00:47:18,400 --> 00:47:24,240
+for your well-being and safety and not only during the mission, but also after the fact.
+
+444
+00:47:25,360 --> 00:47:30,560
+So kind of think about, you know, small versus big organizations when you start looking at folks
+
+445
+00:47:31,760 --> 00:47:35,200
+but yeah, I mean start small, look towards the wilderness medicine world.
+
+446
+00:47:36,880 --> 00:47:45,280
+If you already have a big skill in mountain biking, skiing, climbing, there are probably
+
+447
+00:47:45,280 --> 00:47:53,280
+opportunities, whether it's through like National Ski Patrol or through other groups, to use that
+
+448
+00:47:53,280 --> 00:47:58,800
+skill in addition to your medicine to support expeditions. I mean, a lot of that's going to
+
+449
+00:47:58,800 --> 00:48:06,560
+be volunteer, but that gets you thinking about, you know, I have an 80 liter backpack, I need to
+
+450
+00:48:06,560 --> 00:48:12,880
+be able to provide this level of patient care. I also need to carry this amount of water, food,
+
+451
+00:48:12,880 --> 00:48:18,480
+my own sleeping bed, right? So now you are thinking about mission planning and logistics and you're
+
+452
+00:48:18,480 --> 00:48:23,120
+also now thinking about, well, how do we get this patient out if we have a problem? So now you're
+
+453
+00:48:23,120 --> 00:48:29,040
+thinking about the different ways we can do that and the manpower and the evacuation resources,
+
+454
+00:48:29,040 --> 00:48:36,080
+right? So yeah, but you would, to do a lot of the expedition stuff, you need the underlying
+
+455
+00:48:36,080 --> 00:48:41,680
+outdoor skills, whether it be mountaineering or mountain biking or whatever, right? To be able
+
+456
+00:48:41,680 --> 00:48:48,000
+to function in that environment and then you're going to add medicine onto that. So yeah, I mean
+
+457
+00:48:48,000 --> 00:48:53,440
+kind of follow your interests and if you already know somebody in your community, maybe it's, you
+
+458
+00:48:53,440 --> 00:48:58,400
+know, a paramedic who works part-time, you know, at your ambulance service or maybe there's a physician
+
+459
+00:48:58,400 --> 00:49:03,200
+in your area who's part of a Wilderness Medicine Fellowship, like reach out to them and see if they
+
+460
+00:49:03,200 --> 00:49:10,800
+have a lead. Ultramarathons are another place where it can be an easy step into getting some
+
+461
+00:49:10,800 --> 00:49:16,400
+experience because most ultramarathons will have some degree of medical support. Maybe it's BLS,
+
+462
+00:49:16,400 --> 00:49:22,880
+maybe it's more sophisticated, but you'll do a lot of foot care and honestly that's pretty useful
+
+463
+00:49:22,880 --> 00:49:29,120
+to learn how to do because when people's feet are in bad shape, like the rest of them follows pretty
+
+464
+00:49:29,120 --> 00:49:35,200
+quickly. So yeah, and then that also gets you thinking about, you know, limited resources and
+
+465
+00:49:35,200 --> 00:49:41,760
+evacuation and all that kind of stuff. And then one other thing worth mentioning is there are
+
+466
+00:49:41,840 --> 00:49:48,480
+many, many, many like NGOs or nonprofits that do like international missions. So they like
+
+467
+00:49:48,480 --> 00:49:54,880
+put a team together to go to whatever country or whatever part of the country to go do medical
+
+468
+00:49:54,880 --> 00:50:00,720
+support just in general for a specific thing. So that's kind of how like I kind of like edged my
+
+469
+00:50:00,720 --> 00:50:06,000
+way into this space was just going online and like picking a place I wanted to go and seeing like who
+
+470
+00:50:06,000 --> 00:50:13,600
+was working there and just sending blind emails and seeing what took. Absolutely. Yeah. What about
+
+471
+00:50:13,600 --> 00:50:21,920
+classes? Like are there any like specific forces you could take? Yeah, 100%. So I mentioned the
+
+472
+00:50:21,920 --> 00:50:29,520
+Wilderness Medical Society already, they do two conferences every year. Those, you know, they'll
+
+473
+00:50:29,520 --> 00:50:36,720
+have a variety of topics focused on care outside of the hospital from, you know, you know, from
+
+474
+00:50:36,720 --> 00:50:42,400
+like mountain biking injuries that are an hour from a level one, all the way to, you know, diving
+
+475
+00:50:42,400 --> 00:50:46,560
+expeditions and things like that. And they'll have pre-conference, you know, workshops that are more
+
+476
+00:50:46,560 --> 00:50:54,480
+hands on. So look at those. And then, like, there's a there's a program called steer emergency care
+
+477
+00:50:55,200 --> 00:51:01,280
+that I really quite like I've I'm not a instructor for it. I've guest lectured on a couple courses.
+
+478
+00:51:02,720 --> 00:51:09,920
+That program so AEC is a is a standard and then it is implemented by a number of different
+
+479
+00:51:09,920 --> 00:51:17,440
+organizations. But steer emergency care is designed for professional responders people EMT or higher
+
+480
+00:51:17,680 --> 00:51:25,520
+who will be working in an austere environment or remote environment. So that's everything from
+
+481
+00:51:26,400 --> 00:51:34,320
+people on a search and rescue team, ski patrol, offshore medics, certainly like any folks doing
+
+482
+00:51:34,320 --> 00:51:41,920
+like high threat, you know, type medicine. And it's really looking at how do we plan for and treat
+
+483
+00:51:42,880 --> 00:51:51,360
+casualties over a longer period of and doing it in a really smart way. And it's it was created
+
+484
+00:51:51,360 --> 00:51:57,760
+by the folks who created the prolonged field care collective and wrote the literally wrote the book
+
+485
+00:51:57,760 --> 00:52:04,160
+on prolonged field care, the the PFC CPGs. So austere emergency care, you can just search for that.
+
+486
+00:52:05,120 --> 00:52:11,200
+There's a organization that I do teach for so like disclosure, anyone not ready,
+
+487
+00:52:11,200 --> 00:52:17,760
+they're based in Colorado and Colorado Springs. I think they're an awesome group. They're cool
+
+488
+00:52:17,760 --> 00:52:23,520
+people. They a number of their folks have been over to Ukraine multiple times doing some really
+
+489
+00:52:24,560 --> 00:52:30,720
+high value teaching. So check them out. They can also do some like custom courses if your
+
+490
+00:52:30,720 --> 00:52:37,440
+organization wants to like bring them in. There's ragged edge solutions that also teaches AEC and
+
+491
+00:52:37,520 --> 00:52:43,920
+then they will do some private courses as well. So you can do a search for them and see where
+
+492
+00:52:43,920 --> 00:52:48,560
+they're at. We mentioned earlier the College of Remote and Offshore Medicine. I'm definitely a
+
+493
+00:52:48,560 --> 00:52:54,960
+big fan of their stuff. I know they have some online courses and then some in person ones as
+
+494
+00:52:54,960 --> 00:53:02,480
+well. And they also deliver the AEC program. They're quite good. They have they're probably one of the
+
+495
+00:53:02,480 --> 00:53:07,040
+most international organizations, training providers that I know of that they have
+
+496
+00:53:07,680 --> 00:53:17,520
+instructors from South Africa, Australia, Poland, Ireland, the US. So they end up so co-rom ends up
+
+497
+00:53:17,520 --> 00:53:24,640
+bringing together a lot of different perspectives. And then they they do some courses in the EU and
+
+498
+00:53:24,640 --> 00:53:31,760
+then elsewhere in the world as well. So check them out. So I don't have a firsthand experience with
+
+499
+00:53:31,840 --> 00:53:37,760
+the next two, but I know they have a really good reputation. So there's SOA Rescue SOAR.
+
+500
+00:53:38,720 --> 00:53:45,600
+So in particular, they have an extended austere provider course and then technical austere
+
+501
+00:53:45,600 --> 00:53:52,400
+medical evacuation or TAME. Those two courses, I think they're both a week long and they both
+
+502
+00:53:52,400 --> 00:53:58,000
+have a little bit different focus. But SOAR has a really good reputation. I've met most of their
+
+503
+00:53:58,000 --> 00:54:07,440
+folks at a few conferences and both of those courses help set you up to provide patient care
+
+504
+00:54:07,440 --> 00:54:12,480
+in a more austere environment with with the understanding that you are carrying drugs,
+
+505
+00:54:12,480 --> 00:54:17,360
+you're carrying vents, you're doing a higher level of patient care. And then the final one I'll
+
+506
+00:54:17,360 --> 00:54:24,400
+mention, European Medics has just started organizing some training. They have something
+
+507
+00:54:24,400 --> 00:54:30,880
+called the Tactical Clinical Operations course that seems, and I have no financial affiliation
+
+508
+00:54:30,880 --> 00:54:36,320
+and I haven't taken this course, but it seems very similar to some of the trauma care that I've done
+
+509
+00:54:37,360 --> 00:54:43,360
+in terms of like working in these military like role one, zero point five type like forward
+
+510
+00:54:43,360 --> 00:54:49,840
+stabilization point areas. And so I think that would be a really useful course because it's a
+
+511
+00:54:49,840 --> 00:54:58,080
+higher level of care than your average like tactical medic course. But it's also not like
+
+512
+00:54:58,080 --> 00:55:02,880
+advanced trauma life support, which is focused on very much a well resourced in hospital
+
+513
+00:55:03,840 --> 00:55:07,600
+setting. So I think the TCO program from European Medics is going to be good.
+
+514
+00:55:08,880 --> 00:55:15,520
+And I know they're an organization that has really made an effort to rapidly seek input,
+
+515
+00:55:16,160 --> 00:55:23,040
+especially from people in Ukraine, but from elsewhere to continually kind of evolve and push
+
+516
+00:55:23,600 --> 00:55:27,680
+their content from social media to the stuff that they release on their Patreon
+
+517
+00:55:29,520 --> 00:55:36,480
+to basically just evolve pretty fast. Because that can be a challenging process for organizations.
+
+518
+00:55:38,160 --> 00:55:42,160
+What about like something non-medical? What do you think about heat training?
+
+519
+00:55:43,120 --> 00:55:51,280
+Yeah, so heat. Yeah, so absolutely. So it's good to think about the non-medical training. So heat or
+
+520
+00:55:51,280 --> 00:55:56,320
+hazardous environment awareness training, there's multiple different providers. So heat is a pretty
+
+521
+00:55:56,320 --> 00:56:00,720
+standard term. And then there are multiple training providers that will offer this.
+
+522
+00:56:02,240 --> 00:56:08,640
+Some courses will be a little bit more focused on either one geographic area or one threat profile.
+
+523
+00:56:09,360 --> 00:56:13,440
+And then other ones will be a little bit more of like a shotgun approach, depending on who the
+
+524
+00:56:13,440 --> 00:56:20,000
+primary clients are. I think a heat course can be really useful. It's going to cover a pretty wide
+
+525
+00:56:20,000 --> 00:56:25,120
+range of stuff from like using a radio, which you're already familiar with, but then also like
+
+526
+00:56:25,120 --> 00:56:32,080
+if you're approaching a checkpoint with armed, non-uniformed personnel, how do you deal with that?
+
+527
+00:56:32,080 --> 00:56:37,600
+Because that's a real thing that we encounter not only in conflict environments, but in some
+
+528
+00:56:37,600 --> 00:56:45,360
+semi unstable non-conflict places as well. How do you deal with attempted kidnapping or kidnapping?
+
+529
+00:56:45,360 --> 00:56:50,880
+What's your conduct after capture? How do you deal with communications planning? You're creating a
+
+530
+00:56:50,880 --> 00:56:56,960
+PACE plan. Most heat courses will cover a little bit of first aid as well, usually like stop the
+
+531
+00:56:56,960 --> 00:57:02,160
+bleed and a little bit more. But even if you already know, kind of gets and all that stuff,
+
+532
+00:57:02,160 --> 00:57:08,480
+getting reps in is always good and then doing it in a stressed environment, doing it with team
+
+533
+00:57:08,480 --> 00:57:12,720
+members who may have a much lower level of medical training. Like I think there's really high value
+
+534
+00:57:12,720 --> 00:57:18,240
+in that. So yeah, I think a heat or a heist course, both of those can be really useful.
+
+535
+00:57:19,360 --> 00:57:24,880
+Do your due diligence at the companies, try to find reviews on them. Even if you are just
+
+536
+00:57:24,880 --> 00:57:29,840
+searching on Reddit and you have a company in name, throw the company name on Reddit and see if
+
+537
+00:57:29,840 --> 00:57:39,280
+anybody's talking about it. If you are a journalist, there are some organizations that do training
+
+538
+00:57:40,240 --> 00:57:44,800
+for journalists that are going to be going into conflict environments. So kind of look for that.
+
+539
+00:57:46,160 --> 00:57:52,000
+And then I mean other non-medical stuff, like depending on where you want to work, if you
+
+540
+00:57:52,480 --> 00:57:59,520
+are able to take, you know, maybe it's swift water awareness, maybe it's basic rope rescue,
+
+541
+00:57:59,520 --> 00:58:06,160
+like there are some of these rescue things that even if you are not planning to effect a technical
+
+542
+00:58:06,160 --> 00:58:12,880
+rescue, maybe that is something to get yourself out of trouble or to, you know, self-rescue.
+
+543
+00:58:13,920 --> 00:58:18,160
+Especially if you are really drawn to the natural disasters and that sort of things.
+
+544
+00:58:18,800 --> 00:58:27,520
+Like yeah, you might sort of be naked and afraid and kind of alone and need to rely on non-medical
+
+545
+00:58:27,520 --> 00:58:34,240
+skills to get yourself out. So yeah, I mean time and resources depending, you know, take some of
+
+546
+00:58:34,240 --> 00:58:39,760
+those additional classes especially, you know, I'm just on the rescue side, if it's training
+
+547
+00:58:40,320 --> 00:58:47,520
+that is designed for low resource environments. So like on the wildfire, oh and we didn't even
+
+548
+00:58:47,520 --> 00:58:52,480
+talk about wildfire, there are medical opportunities for employment in the world of
+
+549
+00:58:52,480 --> 00:58:59,280
+wildland firefighting. So people can get hired as fireline EMTs and paramedics. There's also
+
+550
+00:59:00,240 --> 00:59:07,920
+REMS team remote extraction module support, is that right? REMS. So there are these other
+
+551
+00:59:09,680 --> 00:59:15,120
+employment opportunities, but then there are training opportunities, public enrollment training
+
+552
+00:59:15,120 --> 00:59:22,080
+opportunities for wildfire medicine, for REMS teams, that they're looking at how do you do a
+
+553
+00:59:22,080 --> 00:59:28,960
+low angle rescue with a basically a small fanny packs worth of rope and hardware, right?
+
+554
+00:59:30,000 --> 00:59:35,440
+That is probably going to be more applicable to some of these remote and austere environments
+
+555
+00:59:35,440 --> 00:59:40,080
+than the very traditional like tech rescue, rope rescue one and two where they say, okay,
+
+556
+00:59:40,080 --> 00:59:44,240
+so we're going to pull the heavy rescue truck up to the building and then we're going to take out
+
+557
+00:59:44,240 --> 00:59:48,880
+a thousand pounds worth of carabiners and you know 10 mil, 12 mil rope and whatever.
+
+558
+00:59:50,240 --> 00:59:55,200
+But if you're interested or if you're, especially if you're thinking about like urban
+
+559
+00:59:55,920 --> 01:00:04,720
+type stuff, you might look more towards security focused training. You might even think about like
+
+560
+01:00:06,160 --> 01:00:13,920
+hand tool vehicle extrication as another thing. So yeah, I think and you make a really good point
+
+561
+01:00:13,920 --> 01:00:23,680
+of looking towards non-medical stuff because we could be the best paramedic, slight whatever in
+
+562
+01:00:23,680 --> 01:00:30,720
+the world, but now we are in a radically different environment that has new challenges and new
+
+563
+01:00:30,720 --> 01:00:38,480
+problems and so we need additional skills. Yeah, so really think about kind of rounding out
+
+564
+01:00:38,720 --> 01:00:44,560
+the training you have and if you know language is always a cool thing, right? So if you already
+
+565
+01:00:44,560 --> 01:00:52,720
+speak a second language, fantastic. If you are good at languages and want to learn, pick up another
+
+566
+01:00:52,720 --> 01:00:59,600
+language because it's never bad to be able to talk directly with your patients or your co-workers
+
+567
+01:00:59,600 --> 01:01:05,440
+or whatever and as Americans we typically don't speak another language which is very uncommon in
+
+568
+01:01:06,400 --> 01:01:13,920
+this world. And what about like all these courses seem super interesting but what if you don't have
+
+569
+01:01:13,920 --> 01:01:18,400
+any money? Like you can learn languages for free so we'll leave that one aside. But what about some
+
+570
+01:01:18,400 --> 01:01:24,160
+ways you like self-directed learning because we all know that like folks working on a truck in a
+
+571
+01:01:24,160 --> 01:01:29,040
+9-1 system aren't generally like rolling in cash. Some ways you could like develop a skill set to
+
+572
+01:01:29,040 --> 01:01:33,200
+get into the space without like showing out a couple thousand dollars for a course. Yeah,
+
+573
+01:01:34,560 --> 01:01:41,440
+so there are groups like CO-ROM and I believe the WMS, the World Medical Society, will both do some
+
+574
+01:01:41,440 --> 01:01:49,440
+like free presentations and lectures. So you know hop on those. If you do have any continuing
+
+575
+01:01:49,440 --> 01:01:54,080
+education funds, even if it's like two or three hundred bucks a year, that might be enough to
+
+576
+01:01:54,080 --> 01:02:01,280
+let you go to a conference but not a full like five-day course. Also the clinical practice
+
+577
+01:02:01,280 --> 01:02:10,160
+guidelines that I mentioned, they are very well written so you can you know go to deployedmedicine.com,
+
+578
+01:02:10,160 --> 01:02:16,240
+set up your you know your free account there, log in, download the Prolonged Cash D-Care guidelines
+
+579
+01:02:17,120 --> 01:02:23,360
+and then start looking through. Maybe start with something like hemorrhage control that you are
+
+580
+01:02:23,360 --> 01:02:30,160
+probably already fairly familiar with and see what they do that's different and then or
+
+581
+01:02:31,120 --> 01:02:39,600
+airway management or whatever and then start googling between PubMed, between like Khan Academy.
+
+582
+01:02:40,560 --> 01:02:45,360
+There's some Larry Melek is a physician from Georgia who's got a channel on YouTube.
+
+583
+01:02:46,800 --> 01:02:51,200
+There are some great resources where if you are looking at this clinical practice guideline and
+
+584
+01:02:51,200 --> 01:02:56,400
+they're talking about a med or procedure you're unfamiliar with, you can use that as a springboard
+
+585
+01:02:56,400 --> 01:03:02,480
+to then go find a credible resource and say okay so they're talking about maybe it's doing an
+
+586
+01:03:02,480 --> 01:03:07,680
+incision and drainage for an abscess. Okay so they talked about that clinical practice guideline.
+
+587
+01:03:07,680 --> 01:03:13,200
+I'm going to go look on YouTube on PubMed. Family Practice Notebook is another really good resource
+
+588
+01:03:14,240 --> 01:03:17,200
+and you're going to start learning about that and you're going to see what equipment is required
+
+589
+01:03:17,200 --> 01:03:22,640
+for it. What are the indications? What are the complications? What are the complications from this?
+
+590
+01:03:22,640 --> 01:03:28,880
+Now at that point you are not credentialed to do that procedure, right, but you are starting to
+
+591
+01:03:28,880 --> 01:03:35,280
+understand how these things fit together and now maybe you do have an opportunity because you work
+
+592
+01:03:35,280 --> 01:03:41,440
+in an ED. Maybe you're an ED tech, something like that. You can say Doc, can I observe the next IND
+
+593
+01:03:41,440 --> 01:03:47,040
+you do, right, and now you are taking some of the academic stuff that you've kind of gathered on your
+
+594
+01:03:47,040 --> 01:03:52,800
+downtime and now you're starting to bring it into practice. So I think kind of a hybrid approach
+
+595
+01:03:52,800 --> 01:03:59,840
+there with with the clinical practice guidelines being a good starting point or the Wilderness
+
+596
+01:03:59,840 --> 01:04:08,160
+Medical Society's CPGs as well. That's going to be another really useful useful tool. Yeah,
+
+597
+01:04:08,160 --> 01:04:13,280
+yeah I agree with like the minor procedures thing. I think that is super useful to have like
+
+598
+01:04:14,240 --> 01:04:20,560
+additional people that can do that kind of stuff. Like yeah, yeah like even like simple sutures like
+
+599
+01:04:20,560 --> 01:04:26,480
+pulling a toenail, IMDB, like that kind of stuff. Like you can pretty quickly like read up, wanted
+
+600
+01:04:26,480 --> 01:04:31,120
+to understand what's going on and the next time you see one like take a more active role in like
+
+601
+01:04:32,320 --> 01:04:36,560
+first observing and then like helping out do one. But I think that kind of stuff is is really helpful.
+
+602
+01:04:37,120 --> 01:04:44,080
+The other thing that I found really helpful is like getting more comfortable using ultrasound.
+
+603
+01:04:44,080 --> 01:04:49,120
+So that's something that is really useful in like most of these settings is just
+
+604
+01:04:50,000 --> 01:04:55,520
+being able to quickly do you know like on the trauma side, knowing how to do a FAST exam
+
+605
+01:04:56,880 --> 01:05:01,920
+saves a lot of time because in a lot of these places it's just the physicians who can do that
+
+606
+01:05:02,560 --> 01:05:06,720
+but they also have to do you know they have to manage the whole patient. So if you can
+
+607
+01:05:06,720 --> 01:05:10,960
+offload that task with like a good degree of certainty that you like know what you're looking
+
+608
+01:05:10,960 --> 01:05:15,360
+for, I think that's super helpful. And then once you know how to do that it's pretty easy to scale
+
+609
+01:05:15,360 --> 01:05:20,240
+up. Like if you have access to a machine or you know you know someone who like bought one off of eBay
+
+610
+01:05:21,760 --> 01:05:25,760
+you can just you know like kind of extend your exam so like you know how to do a FAST.
+
+611
+01:05:25,760 --> 01:05:29,840
+Like next time after that if the patient's stable like take a look at their heart and after that
+
+612
+01:05:29,840 --> 01:05:34,640
+like try and find the IBC and just like kind of work up that skill set. I think that's something
+
+613
+01:05:34,640 --> 01:05:39,920
+that yeah and the price point is only going to come down on those. Like right now you can get a
+
+614
+01:05:39,920 --> 01:05:44,960
+like a butterfly first generation for like around a thousand bucks, twelve hundred bucks maybe.
+
+615
+01:05:46,640 --> 01:05:52,960
+And yeah they just get cheaper and cheaper. So and ultrasound's non-invasive so it's something
+
+616
+01:05:52,960 --> 01:05:58,800
+that you can you can practice on healthy patients. Like the only consumable is the gel and your paper
+
+617
+01:05:58,800 --> 01:06:06,800
+towels basically right. So it's something that once you get started it's and especially if you
+
+618
+01:06:06,800 --> 01:06:14,480
+are alongside somebody who is more knowledgeable that's that is a tool and a skill that you can
+
+619
+01:06:14,480 --> 01:06:22,080
+practice more. And then I mean with the ultrasound like the the diagnostics can be super helpful.
+
+620
+01:06:22,640 --> 01:06:31,520
+Um IV access. Holy crap. If especially even just from a medical logistic standpoint the cost of an
+
+621
+01:06:31,520 --> 01:06:39,120
+I.O. needle like an easy I.O. or a talon we're talking like a hundred plus dollars per I.O. needle
+
+622
+01:06:39,120 --> 01:06:47,840
+right versus pennies for an IV catheter. And if we have somebody who's deep in shock yeah it might
+
+623
+01:06:47,840 --> 01:06:53,760
+be great to drill them right away but if it takes 10 or 15 seconds longer to find a deeper vein with
+
+624
+01:06:53,760 --> 01:07:00,000
+the the butterfly or with another ultrasound and then we throw in that 18 because we've now found
+
+625
+01:07:00,000 --> 01:07:07,600
+a decent vein that was just a lot deeper. Holy crap that is awesome. Um so yeah so like ultrasound
+
+626
+01:07:07,600 --> 01:07:14,480
+guided IV uh and then I'm not uh I've had minimal training and I'm not comfortable doing that at
+
+627
+01:07:14,480 --> 01:07:22,240
+a patient but regional blocks so being able to use ultrasound to to effectively deliver pain
+
+628
+01:07:22,240 --> 01:07:30,240
+management for an entire leg part of a leg the foot hand um that can reduce the amount of your
+
+629
+01:07:30,240 --> 01:07:35,360
+opioid burden it can reduce a lot of your side effects of of the various pain meds we might have
+
+630
+01:07:35,360 --> 01:07:44,240
+to give um so for some and I know paramedics that are fantastic with regional blocks um there are
+
+631
+01:07:44,240 --> 01:07:49,040
+more and more physicians in Ukraine that were were doing regional blocks on a regular basis
+
+632
+01:07:49,680 --> 01:07:54,800
+um so yeah like that's another awesome tool and then even in the pre-hospital like the normal
+
+633
+01:07:54,800 --> 01:08:05,520
+pre-hospital environment I wish we did that at all or more um you know your especially like your
+
+634
+01:08:05,520 --> 01:08:11,040
+elderly patient who maybe already kind of has a soft blood pressure and now we're pretty sure
+
+635
+01:08:11,680 --> 01:08:17,360
+one or more things I don't know if I could stop their pain without like giving them fentanyl or
+
+636
+01:08:17,360 --> 01:08:24,320
+morphine like that'd be cool so um yeah so you know 100 ultrasound is a great tool and especially
+
+637
+01:08:24,320 --> 01:08:29,520
+if you're if you have a service uh that's already deploying it in some way it's really
+
+638
+01:08:30,640 --> 01:08:39,280
+pretty easy to learn more um and there's some great resources online um uh yeah and and the more
+
+639
+01:08:40,240 --> 01:08:48,560
+patients you scan the better um even if you don't have a doctor next to you or a skill
+
+640
+01:08:48,560 --> 01:08:53,920
+somebody who's really skilled with all of these digital ultrasounds you can save the image or the
+
+641
+01:08:53,920 --> 01:08:59,440
+video uh so if you're scanning somebody at the station and you're you know you're looking for
+
+642
+01:08:59,440 --> 01:09:04,400
+you know where Morrison's pouch would be if they were bleeding and you're not here if you're seeing
+
+643
+01:09:04,400 --> 01:09:09,840
+the liver take that scan you know record that video and then take it to somebody you know maybe
+
+644
+01:09:09,840 --> 01:09:14,000
+it's you know grabbing a dock at the hospital and saying hey you know we're doing training at the
+
+645
+01:09:14,000 --> 01:09:22,000
+station can you identify what what I'm looking at here right um and that may be kind of a a way to
+
+646
+01:09:22,000 --> 01:09:28,800
+help you get reps in um it also builds rapport with those providers they're like oh the ambulance
+
+647
+01:09:28,800 --> 01:09:33,920
+drivers are learning ultrasound whoa okay all right maybe they're not ambulance drivers right
+
+648
+01:09:33,920 --> 01:09:39,680
+like maybe they know stuff um so yeah so when when we take an active role in our learning and
+
+649
+01:09:39,680 --> 01:09:45,760
+we express um kind of respect for that knowledge and and trying to gain more uh that can really
+
+650
+01:09:45,760 --> 01:09:52,640
+help help our relationships with our or their co-workers in other settings for sure okay then
+
+651
+01:09:52,640 --> 01:09:58,640
+I just have one more one more question for you um what does your process look like for
+
+652
+01:09:59,200 --> 01:10:02,400
+let's say you've like done all this prep work you found an opportunity and now you're like getting
+
+653
+01:10:02,480 --> 01:10:08,480
+ready to go what are some like considerations when you're looking to go out on maybe maybe your first
+
+654
+01:10:08,480 --> 01:10:15,360
+assignment maybe just an assignment in general yeah um I mean if I know somebody on the project
+
+655
+01:10:15,360 --> 01:10:22,800
+or somebody that's worked in the area or worked on a similar type of of mission I'm probably going
+
+656
+01:10:22,800 --> 01:10:29,680
+to reach out to them uh and ask for some advice um I'll you know spend a few minutes googling the
+
+657
+01:10:29,680 --> 01:10:36,000
+country the conflict whatever just trying to get a slightly better understanding of the context of
+
+658
+01:10:36,640 --> 01:10:44,720
+like what was the country like before this thing happened um you know and then I'm also now
+
+659
+01:10:44,720 --> 01:10:49,600
+starting to think about like what diseases are endemic to the area do I need additional vaccines
+
+660
+01:10:50,960 --> 01:10:56,720
+the the CDC's website used to maybe it still does had travel recommendations
+
+661
+01:10:57,280 --> 01:11:02,080
+um for different places like do you need yellow fever do you need um
+
+662
+01:11:03,600 --> 01:11:10,240
+uh you know do you need prophylaxis from malaria yeah exactly right so all that kind of stuff um
+
+663
+01:11:14,560 --> 01:11:20,160
+if I know that we're going to be dealing with a particular patient population um I might like
+
+664
+01:11:20,160 --> 01:11:25,760
+either do some like kind of reading in the moment or I might you know if I know I'm going to be
+
+665
+01:11:25,760 --> 01:11:32,000
+dealing with burns uh maybe I'm going to download a couple of like burn textbooks or clinical
+
+666
+01:11:32,000 --> 01:11:37,440
+practice guidelines with the intent that maybe those get used at the bedside or maybe it's on
+
+667
+01:11:37,440 --> 01:11:45,040
+the flight over the drive over I'm going to be reviewing some of that stuff um uh and then just
+
+668
+01:11:45,040 --> 01:11:49,600
+like basic stuff I mean have copies of your passport copies of your driver's license both
+
+669
+01:11:49,600 --> 01:11:55,200
+you know physical copies and digital um you know consider having a second smartphone
+
+670
+01:11:55,840 --> 01:11:59,520
+that's unlocked so you can put a local sim in it so you have data and connectivity
+
+671
+01:12:01,120 --> 01:12:06,160
+if you can afford a garment in reach even a first generation that's going to give you the ability to
+
+672
+01:12:06,160 --> 01:12:11,680
+text message through the iridium satellite network so it gives you a little bit of redundant
+
+673
+01:12:11,680 --> 01:12:17,600
+communication and then if you're thinking about satcoms make sure you're not going to a country
+
+674
+01:12:17,680 --> 01:12:25,040
+like India where satcoms are illegal for civilians um so just kind of be be aware of that um
+
+675
+01:12:27,840 --> 01:12:34,800
+yeah uh I mean hack a basic trauma kit you know just for yourself if you're going to a conflict
+
+676
+01:12:34,800 --> 01:12:41,040
+area plus that trauma kit up a bit um if you can get an epi pen or you know something like that
+
+677
+01:12:41,040 --> 01:12:46,160
+even if you don't have an anaphylactic reacting yourself it's not a bad idea to carry um
+
+678
+01:12:47,120 --> 01:12:54,400
+carry anther diarrheals uh get a prescription for zofran on dasutron um because sometimes that
+
+679
+01:12:54,400 --> 01:12:58,800
+happens and it's better when you have anti-emetics um
+
+680
+01:13:02,400 --> 01:13:04,560
+yeah I mean there's a lot of little stuff like
+
+681
+01:13:07,360 --> 01:13:13,840
+you'll probably over pack for your first couple of trips that's fine like you'll learn it's going
+
+682
+01:13:14,080 --> 01:13:17,360
+to be heavy either you'll donate stuff you'll you know whatever um
+
+683
+01:13:20,720 --> 01:13:28,560
+uh yeah I mean it gets I think it gets easier with time um with time and experience um
+
+684
+01:13:31,360 --> 01:13:35,360
+what about a med kit so I know I think you and I are pretty similar in that
+
+685
+01:13:35,360 --> 01:13:41,280
+we have like a lot of our own like kits but normally when you deploy um the assumption is
+
+686
+01:13:41,280 --> 01:13:46,320
+that like whoever you're working for like they have their medical stock um so you might be asked
+
+687
+01:13:46,320 --> 01:13:53,120
+to like bring things for donation but are there things that you like to take along yeah so I have
+
+688
+01:13:54,000 --> 01:14:02,960
+like I have some basic stuff that um yeah so I'll think about it in two ways so if I'm just
+
+689
+01:14:02,960 --> 01:14:09,200
+thinking about myself providing uh like doing patient assessments um like independent of any
+
+690
+01:14:09,200 --> 01:14:15,360
+patient care um I have a diagnostics kit that is that I put together that's like the size of a
+
+691
+01:14:15,360 --> 01:14:22,640
+maybe a football um it's got a blood pressure a manual blood pressure cuff with detachable cuffs
+
+692
+01:14:22,640 --> 01:14:31,280
+from uh either an infant or a small child up to a large adult um and then the the cuffs just pop
+
+693
+01:14:31,280 --> 01:14:40,240
+off the gauge it's got my stethoscope um an otoscope uh I have some fluorescein dye for um
+
+694
+01:14:40,240 --> 01:14:47,840
+fluorescein dye test in the eye I have the light uh for that um I have a small glucometer with
+
+695
+01:14:47,840 --> 01:14:57,920
+some test strips um a headlamp with some extra batteries uh urinalysis strips um I have uh a
+
+696
+01:14:57,920 --> 01:15:07,280
+tiny I have a little note pad to write in and then um uh what's a little uh like the NP's little
+
+697
+01:15:07,280 --> 01:15:13,760
+spiral bound reference book you know the one I'm talking about I think it's actually is it maxwells
+
+698
+01:15:14,720 --> 01:15:21,040
+I don't know the name of it yeah but so it's a little reference yeah yeah it's got like it's
+
+699
+01:15:21,040 --> 01:15:28,080
+got you know cranial nerves it's got uh normal pregnancy stuff it's got basic lab values uh
+
+700
+01:15:29,760 --> 01:15:37,680
+it's got like a small two-page um basic physical exam with like you know key findings so it's a
+
+701
+01:15:37,680 --> 01:15:44,240
+small little reference I have a braslow tape that I keep in there and um because I don't like dealing
+
+702
+01:15:44,240 --> 01:15:49,920
+with kids and they're scary when they're sick and a braslow tape makes the math a little bit easier
+
+703
+01:15:50,480 --> 01:15:58,240
+um so uh yeah that's in the kit uh I feel like there's a couple other I have a pulse ox in there
+
+704
+01:15:58,240 --> 01:16:05,520
+so like that that kit is fairly compact that will like always go in my day pack um and then if I'm
+
+705
+01:16:05,520 --> 01:16:11,840
+doing uh like medevac more critical care stuff typical add a fanny pack that's going to be on
+
+706
+01:16:11,840 --> 01:16:19,600
+my person um I'll have a really good pulse ox in there I'll have my emma clear eye throw a couple
+
+707
+01:16:19,600 --> 01:16:24,800
+of pairs of nitrile gloves my stethoscope a pair of trauma shears and then when I was working in
+
+708
+01:16:24,800 --> 01:16:32,400
+Ukraine I had an additional uh tourniquet a little bit of gauze and um uh some wound packing and uh
+
+709
+01:16:32,400 --> 01:16:39,680
+and um elastic bandages as well um either for the patient or for myself if uh something happened
+
+710
+01:16:40,400 --> 01:16:48,480
+um and then and that's in addition to like in my pockets I'm always going to have a multi-tool a pen
+
+711
+01:16:49,040 --> 01:16:58,240
+a flashlight uh uh usually I have the koram field guide either in a pocket or in a backpack I always
+
+712
+01:16:58,240 --> 01:17:04,960
+have a notepad a sharpie a pen um a headlamp on my person in addition to the headlamp that's in my kit
+
+713
+01:17:07,440 --> 01:17:08,480
+what else um
+
+714
+01:17:08,960 --> 01:17:09,460
+um
+
+715
+01:17:14,320 --> 01:17:20,960
+yeah but so I'm looking at like the basic diagnostics to be able to collect a set of vital
+
+716
+01:17:20,960 --> 01:17:29,680
+signs to be able to document those vitals um and then uh yeah and then you know the emma if we're
+
+717
+01:17:29,680 --> 01:17:34,960
+really thinking about a sicker patient um and then depending and like because I've worked in the film
+
+718
+01:17:34,960 --> 01:17:40,160
+world uh set medics have to provide their own kit and then the production company pays the set
+
+719
+01:17:40,160 --> 01:17:45,280
+medic a day rate and then they rent the medical kit as well from the set medic so like I have
+
+720
+01:17:45,280 --> 01:17:53,120
+additional stuff so if I know I'm deploying with a smaller like lower resource NGO like I might bring
+
+721
+01:17:53,120 --> 01:17:58,080
+like a small backpack that has like trauma supplies if that's going to be appropriate for my environment
+
+722
+01:17:58,720 --> 01:18:05,840
+um you know yeah I might just try to fill in an anticipated gap with some of that personal stuff
+
+723
+01:18:05,840 --> 01:18:11,760
+um and then I think redundancy is good like I will usually have a trauma kit in my backpack
+
+724
+01:18:11,760 --> 01:18:17,680
+a trauma kit or parts of a trauma kit on my person or in my fanny pack um and then maybe something
+
+725
+01:18:17,680 --> 01:18:23,200
+like uh in my luggage as well um that's you know can be restock or or can be additional
+
+726
+01:18:23,840 --> 01:18:33,200
+um and that's I I mean I'm a slightly paranoid person so uh yeah the redundancy is is helpful
+
+727
+01:18:33,200 --> 01:18:38,880
+when I'm worried about things so yeah I think that's probably something we could spend all day
+
+728
+01:18:38,880 --> 01:18:44,960
+you and I talking about is like how we prep our kits for different different environments yeah
+
+729
+01:18:44,960 --> 01:18:50,960
+yeah I was just curious um I think that's all the questions I had for you I was curious if you had
+
+730
+01:18:50,960 --> 01:18:56,640
+anything else that you think was relevant to to mention to folks who are interested in this space
+
+731
+01:18:57,360 --> 01:19:01,840
+um we're like some people take their interest and now they want to get into it
+
+732
+01:19:03,280 --> 01:19:07,440
+I mean I think maintain a good sense of humor um
+
+733
+01:19:12,720 --> 01:19:17,440
+this can be a really difficult space to work in for a variety of reasons like the you know you
+
+734
+01:19:17,440 --> 01:19:26,160
+go volunteer for somewhere for two weeks it's challenging in good ways and then you go home and
+
+735
+01:19:26,160 --> 01:19:30,560
+you know that was your two weeks of PTO for the year right and now you're right back onto a 24
+
+736
+01:19:32,560 --> 01:19:38,240
+I mean there there can be a lot of challenges if you make this into a career sometimes it can be
+
+737
+01:19:38,240 --> 01:19:44,080
+contract work and that creates a whole nother levels of instability in your life um just try
+
+738
+01:19:44,080 --> 01:19:50,320
+to maintain a good sense of humor be aware of your own uh like your burnout your mental health
+
+739
+01:19:50,320 --> 01:19:55,840
+all that kind of stuff try to take care of yourself um in some of these cases you will
+
+740
+01:19:55,840 --> 01:20:03,360
+and maybe it sounds a bit shady but you'll see the best and worst of humanity um and that can
+
+741
+01:20:03,360 --> 01:20:11,600
+change you and and I mean I worked 9-1 for multiple years like I I thought I had seen a lot of stuff
+
+742
+01:20:12,480 --> 01:20:14,640
+um but
+
+743
+01:20:17,120 --> 01:20:24,240
+the magnitude of some of the things that we deal with and and frankly the hopelessness of some of
+
+744
+01:20:24,240 --> 01:20:31,680
+the stuff that we deal with um in in these deployed settings can weigh really heavy um
+
+745
+01:20:31,680 --> 01:20:39,200
+so kind of take care of yourself and also recognize that the the more especially if you
+
+746
+01:20:39,200 --> 01:20:45,600
+tend towards working in a conflict environment the more you do that the greater the chances are
+
+747
+01:20:45,600 --> 01:20:52,320
+either that you're going to be hurt or that people you love are going to be killed or hurt um
+
+748
+01:20:54,160 --> 01:21:01,040
+and that's unfortunately just a fact of life and it's something that you just need to be cognizant
+
+749
+01:21:01,040 --> 01:21:06,160
+of going into it um and you're not going to be able to save everyone you're not going to be able
+
+750
+01:21:06,160 --> 01:21:11,200
+to save some of your friends uh you're not going to be able to save a lot of your patients um
+
+751
+01:21:11,840 --> 01:21:17,840
+because the conditions that created the environment that we're stepping into
+
+752
+01:21:17,840 --> 01:21:28,000
+are so much bigger than any one person um but having said that we can make things a fraction
+
+753
+01:21:28,000 --> 01:21:33,600
+of a percent better for one person maybe we teach somebody and that has a positive impact down the
+
+754
+01:21:33,600 --> 01:21:43,440
+line um so I don't think it's hopeless or pointless um but I think we we kind of need to have really
+
+755
+01:21:45,440 --> 01:21:51,360
+open eyes um and be really honest about the the situations that we step into because some of them
+
+756
+01:21:51,360 --> 01:21:59,280
+are truly um pretty massive and and pretty uh pretty awful um also don't be surprised if your
+
+757
+01:21:59,280 --> 01:22:06,160
+view of the world starts to change pretty radically as you get exposed to other people
+
+758
+01:22:06,160 --> 01:22:14,800
+cultures countries um problems uh who I am now is very different than who I was
+
+759
+01:22:15,680 --> 01:22:24,080
+uh 10 years ago or 15 years ago uh for the I think for the better um but uh yeah uh yeah so take care
+
+760
+01:22:24,160 --> 01:22:32,080
+yourself yeah I agree with all that I think it's a great place to to wrap it up um thanks for
+
+761
+01:22:32,080 --> 01:22:44,880
+coming on thanks for having me I appreciate it good to see you guys

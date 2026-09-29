@@ -1,0 +1,687 @@
+1
+00:00:00,000 --> 00:00:14,360
+Okay, so if you've taken a look at the vent management guide on the website, you'll notice
+
+2
+00:00:14,360 --> 00:00:18,040
+that there's a bunch of QR codes spread throughout the document.
+
+3
+00:00:18,040 --> 00:00:23,800
+Now, the idea here is that if you have a print version, rather than having to type in the
+
+4
+00:00:23,800 --> 00:00:29,640
+links for everything, you can just take your smartphone and scan the QR code and then open
+
+5
+00:00:29,640 --> 00:00:32,240
+up to whatever website it is.
+
+6
+00:00:32,240 --> 00:00:35,240
+So this first one that's on the cover page, it just takes you to my homepage.
+
+7
+00:00:35,240 --> 00:00:40,680
+So you can see that the QR code just takes you directly to RikerMedical.com.
+
+8
+00:00:40,680 --> 00:00:45,720
+Now moving forward, if you scroll down to some of the content, so let's skip on down
+
+9
+00:00:45,720 --> 00:00:49,040
+to just an arbitrary section, this one on dead space.
+
+10
+00:00:49,040 --> 00:00:52,760
+Go down to the bottom of the first page.
+
+11
+00:00:52,760 --> 00:00:53,760
+There's two links here.
+
+12
+00:00:53,760 --> 00:00:58,280
+So on the electronic version, you can just click the links and it'll take you to the
+
+13
+00:00:58,280 --> 00:01:02,960
+website, which is pretty cool.
+
+14
+00:01:02,960 --> 00:01:10,120
+But if you have a print version, you can also scan the QR code and it'll take you to the
+
+15
+00:01:10,120 --> 00:01:15,240
+website this way.
+
+16
+00:01:15,240 --> 00:01:22,680
+Now one thing with the QR codes is that they direct you from the image, so from this image
+
+17
+00:01:22,680 --> 00:01:25,240
+here directly to a URL.
+
+18
+00:01:25,240 --> 00:01:29,920
+And you notice that the URL that I used here is not the one at the website.
+
+19
+00:01:29,920 --> 00:01:31,520
+It's not this one here.
+
+20
+00:01:31,520 --> 00:01:32,520
+There's two reasons for that.
+
+21
+00:01:32,520 --> 00:01:39,880
+The first one is that the size of a QR code, like how many little black boxes in that white
+
+22
+00:01:39,880 --> 00:01:44,080
+background, it's a function of how long the URL is.
+
+23
+00:01:44,080 --> 00:01:49,040
+So if I did a QR code straight to this website, my QR code would be super detailed.
+
+24
+00:01:49,040 --> 00:01:52,920
+I'd have a bunch of little tiny dots and I wouldn't be able to make it as small.
+
+25
+00:01:52,920 --> 00:01:54,200
+Okay, so that's one reason.
+
+26
+00:01:54,200 --> 00:01:57,000
+The second reason is that things shift on the internet.
+
+27
+00:01:57,000 --> 00:02:02,400
+So right now, this webpage is at this URL, but if the host of this webpage decided that
+
+28
+00:02:02,400 --> 00:02:07,960
+they wanted to change the URL destination, my QR code here, if I link directly to that
+
+29
+00:02:07,960 --> 00:02:12,480
+URL and then it changed, it would give me like a broken link code, which I want to avoid.
+
+30
+00:02:12,480 --> 00:02:19,240
+So what I did was I made a QR code that links you to my website, a subdomain on my website
+
+31
+00:02:19,240 --> 00:02:25,280
+called references.ricoromedical.com slash the name of just like the little tag I added
+
+32
+00:02:25,280 --> 00:02:28,020
+on for that specific reference.
+
+33
+00:02:28,020 --> 00:02:33,780
+So that allows me to control where that QR code goes in the future if the URL changes.
+
+34
+00:02:33,780 --> 00:02:38,080
+It also allows me to make a QR code that's less detailed so I can put it smaller on the
+
+35
+00:02:38,080 --> 00:02:39,080
+print version.
+
+36
+00:02:39,080 --> 00:02:42,440
+Okay, so I'm going to walk you through the steps of how I did this.
+
+37
+00:02:42,440 --> 00:02:47,080
+So I use a QR code generator called QR code monkey.
+
+38
+00:02:47,080 --> 00:02:52,360
+My website is hosted on Wix and then I manage this subdomain on GoDaddy.
+
+39
+00:02:52,360 --> 00:02:55,020
+So we're going to walk through each of those steps one at a time.
+
+40
+00:02:55,020 --> 00:02:59,360
+So if you wanted to do something like this, you'll know how to do it on your document
+
+41
+00:02:59,360 --> 00:03:08,240
+or project or whatever it is you're working on.
+
+42
+00:03:08,240 --> 00:03:12,040
+I use a website called QR code monkey to make all of my QR codes.
+
+43
+00:03:12,040 --> 00:03:13,400
+So it's super simple to use.
+
+44
+00:03:13,400 --> 00:03:19,000
+You just go to the website here, come down here to your content and you put the destination
+
+45
+00:03:19,000 --> 00:03:27,520
+URL that you want and then come over onto the right, hit create QR code and then that
+
+46
+00:03:27,520 --> 00:03:30,800
+QR code will take you to whatever URL I put in.
+
+47
+00:03:30,800 --> 00:03:35,320
+Now just to demonstrate, I'm going to download this and scan it in with my smartphone app
+
+48
+00:03:35,320 --> 00:03:38,920
+here so I can show you how it works.
+
+49
+00:03:38,920 --> 00:03:40,600
+So I've got that QR code.
+
+50
+00:03:41,000 --> 00:03:49,160
+I bring this guy over top, scan it in and then I'm at my website.
+
+51
+00:03:49,160 --> 00:03:54,000
+Now I mentioned already that the problem with doing a QR code like this is that this image
+
+52
+00:03:54,000 --> 00:03:58,720
+here will forever and ever for the history of the internet take you to this URL.
+
+53
+00:03:58,720 --> 00:04:04,520
+But if I decide to change the name of my website or get a new URL, I have to make all new QR
+
+54
+00:04:04,520 --> 00:04:05,520
+codes.
+
+55
+00:04:05,520 --> 00:04:10,580
+That means if I have something in print, all those links will go to a broken website.
+
+56
+00:04:10,580 --> 00:04:15,500
+So what I'm going to do is I'm going to use a QR code that goes permanently to a URL and
+
+57
+00:04:15,500 --> 00:04:20,400
+then from that URL I'm going to redirect it somewhere else and I can control that redirect.
+
+58
+00:04:20,400 --> 00:04:27,260
+Now there are services within QR code monkey or other QR code generators and they can build
+
+59
+00:04:27,260 --> 00:04:31,420
+you what are called dynamic QR codes which allow that same functionality.
+
+60
+00:04:31,420 --> 00:04:35,580
+The problem is that dynamic QR codes cost a lot to build because you're paying somebody
+
+61
+00:04:35,580 --> 00:04:36,780
+else to manage them.
+
+62
+00:04:36,780 --> 00:04:40,860
+They also typically come with other features as you can see here.
+
+63
+00:04:40,860 --> 00:04:43,540
+I decided I didn't need any of those features.
+
+64
+00:04:43,540 --> 00:04:46,940
+I just wanted to be able to build the QR codes and do the redirect on my own.
+
+65
+00:04:46,940 --> 00:04:49,500
+So that's where we're going to go from here.
+
+66
+00:04:49,500 --> 00:04:57,180
+The next step in this process is to set up your domain to do these redirects.
+
+67
+00:04:57,180 --> 00:05:03,500
+So go to GoDaddy.com, look on the drop down menu, come over to hosting, down to web hosting
+
+68
+00:05:03,500 --> 00:05:11,380
+and then the economy version of this works well enough for what we're doing here.
+
+69
+00:05:11,380 --> 00:05:14,420
+It's pretty cheap especially if you do over a longer term.
+
+70
+00:05:14,420 --> 00:05:20,660
+So just select that and then you do like a normal checkout, like a normal online purchase.
+
+71
+00:05:20,660 --> 00:05:27,180
+In that process you're going to pick your URL, like pick your name.
+
+72
+00:05:27,180 --> 00:05:33,460
+So for mine I chose references.writeyourmedical.com and then they assign you an IP address.
+
+73
+00:05:34,420 --> 00:05:36,140
+So here's my IP address.
+
+74
+00:05:36,140 --> 00:05:41,340
+Now you're going to take those two pieces of information over to, for me in my case
+
+75
+00:05:41,340 --> 00:05:46,140
+I do my website on Wix, I'm going to take those two pieces of information over to Wix
+
+76
+00:05:46,140 --> 00:05:48,820
+and then set it up so everything's linked together.
+
+77
+00:05:48,820 --> 00:05:55,640
+So I'm at my dashboard on Wix that come over here to manage domain and then click on this
+
+78
+00:05:55,640 --> 00:06:00,940
+little guy, manage DNS records and then in these first two fields, the one that's called
+
+79
+00:06:00,940 --> 00:06:05,660
+A host and C name, I want to put the information from GoDaddy onto here.
+
+80
+00:06:05,660 --> 00:06:11,180
+So in the first one under where it says A host, I'm going to add a record and then I
+
+81
+00:06:11,180 --> 00:06:16,420
+put my URL here and then my IP address.
+
+82
+00:06:16,420 --> 00:06:21,740
+And then under C name I'm going to add one, add a record that says cpanel.writeyourmedical.com
+
+83
+00:06:21,740 --> 00:06:25,060
+and then the value I'm going to do references.writeyourmedical.com.
+
+84
+00:06:25,060 --> 00:06:27,820
+That's the one that I chose on GoDaddy.
+
+85
+00:06:28,820 --> 00:06:35,300
+Okay, and then I save that and now I can go back to GoDaddy.
+
+86
+00:06:35,300 --> 00:06:36,300
+This is my dashboard there.
+
+87
+00:06:36,300 --> 00:06:39,180
+I want to go to file manager.
+
+88
+00:06:39,180 --> 00:06:47,260
+So file manager, come down to public, double click on that one and then the .htaccess is
+
+89
+00:06:47,260 --> 00:06:52,340
+the spot where we're going to do all of our building of these redirects.
+
+90
+00:06:52,340 --> 00:06:57,180
+So highlight that and click on edit and that's just acknowledging that you can mess things
+
+91
+00:06:57,180 --> 00:06:59,060
+up if you do this wrong.
+
+92
+00:06:59,060 --> 00:07:01,100
+And then here you can see all of my redirects.
+
+93
+00:07:01,100 --> 00:07:05,020
+So we'll just show you one example here.
+
+94
+00:07:05,020 --> 00:07:12,140
+So this first redirect I have, it's the redirect code and then I do backslash ARDS2000.html.
+
+95
+00:07:12,140 --> 00:07:14,660
+I leave a space and then I put the URL.
+
+96
+00:07:14,660 --> 00:07:19,460
+Now this links to an ARDSNET trial from 2000 and I'll just show you how that works.
+
+97
+00:07:19,460 --> 00:07:33,060
+So if I go over here to a new page, references.writeyourmedical.com slash ARDS2000.html, it takes you right
+
+98
+00:07:33,060 --> 00:07:39,300
+to the New England Journal of Medicine page where the original study was posted, which
+
+99
+00:07:39,300 --> 00:07:40,300
+is kind of cool.
+
+100
+00:07:40,300 --> 00:07:46,500
+Okay, so to show you how to build one from scratch, let's go back to our .htaccess page.
+
+101
+00:07:47,500 --> 00:07:50,340
+We'll go all the way down the bottom here and let's make a new line.
+
+102
+00:07:50,340 --> 00:07:58,740
+So we're going to type redirect space do a slash and we're going to go abc123.html,
+
+103
+00:07:58,740 --> 00:08:05,740
+leave a space, HTTP colon backslash backslash and we'll go to Google.
+
+104
+00:08:05,740 --> 00:08:10,220
+All right, and then save changes.
+
+105
+00:08:10,220 --> 00:08:26,380
+So now if I go here to references.writeyourmedical.com slash abc123.html, we get to Google.
+
+106
+00:08:26,380 --> 00:08:29,700
+All right, so that's how it works.
+
+107
+00:08:29,700 --> 00:08:35,700
+We start out at GoDaddy and we do the economy hosting plan.
+
+108
+00:08:35,700 --> 00:08:36,980
+We get that set up.
+
+109
+00:08:36,980 --> 00:08:40,660
+We take that information over to, in my case, I'm using Wix.
+
+110
+00:08:40,660 --> 00:08:45,100
+If you're using another platform to build your website, I'm sure there's a comparable
+
+111
+00:08:45,100 --> 00:08:46,100
+way.
+
+112
+00:08:46,100 --> 00:08:47,300
+I just don't know how to explain that one.
+
+113
+00:08:47,300 --> 00:08:51,000
+You take that information, your URL and your IP address over to Wix.
+
+114
+00:08:51,000 --> 00:08:54,940
+You plug it into that DNS server template.
+
+115
+00:08:54,940 --> 00:09:02,580
+So I did it here and here and then I can manage my .htaccess page and you can essentially add
+
+116
+00:09:02,580 --> 00:09:04,420
+as many of these things as you want.
+
+117
+00:09:04,420 --> 00:09:07,260
+They hardly take up any data.
+
+118
+00:09:07,260 --> 00:09:10,980
+So I think I have like 200 for this one project.
+
+119
+00:09:10,980 --> 00:09:14,100
+But as I built more projects, I just tagged them onto the end.
+
+120
+00:09:14,100 --> 00:09:18,380
+There's essentially no limit to how many of these things you can do, at least as I understand
+
+121
+00:09:18,380 --> 00:09:19,380
+this thing.
+
+122
+00:09:19,380 --> 00:09:22,220
+There's probably actually a limit.
+
+123
+00:09:22,220 --> 00:09:29,580
+So yeah, that's how it works up to this point.
+
+124
+00:09:29,580 --> 00:09:34,240
+Last step here is I'm just going to show you how to build one of these QR code references
+
+125
+00:09:34,240 --> 00:09:35,240
+from start to finish.
+
+126
+00:09:35,240 --> 00:09:38,680
+The video is going to play in double speed and I'm just going to kind of narrate it as
+
+127
+00:09:38,680 --> 00:09:39,960
+we go through.
+
+128
+00:09:39,960 --> 00:09:41,760
+So right now we're logging into Godaddy.com.
+
+129
+00:09:41,760 --> 00:09:44,480
+We already covered this.
+
+130
+00:09:44,480 --> 00:09:50,800
+So we're just going to go to our file manager and get to our .htaccess page so we can make
+
+131
+00:09:50,800 --> 00:09:52,800
+things happen.
+
+132
+00:09:52,800 --> 00:10:02,400
+And then when we get there, I organize all mine kind of alphabetically and there's like
+
+133
+00:10:02,400 --> 00:10:03,400
+a couple different sections.
+
+134
+00:10:03,400 --> 00:10:07,320
+So I'm going to find where this particular reference fits in alphabetically.
+
+135
+00:10:07,320 --> 00:10:14,680
+I'm going to type redirect space backslash and then whatever tag I want, .html.
+
+136
+00:10:14,680 --> 00:10:22,720
+And then I'm going to take the URL from the original source and put it in there.
+
+137
+00:10:22,720 --> 00:10:25,560
+And then I'll save it.
+
+138
+00:10:26,560 --> 00:10:36,760
+And then I'm going to go back to the Word document and add a link.
+
+139
+00:10:36,760 --> 00:10:39,920
+And there's a typo in here but I'll show you how that catches it.
+
+140
+00:10:39,920 --> 00:10:45,560
+So the link didn't work.
+
+141
+00:10:45,560 --> 00:10:46,560
+And there you go.
+
+142
+00:10:46,560 --> 00:10:52,080
+Now I can follow the link from my Word document and it works great.
+
+143
+00:10:52,080 --> 00:10:57,280
+So the next step is I want to build a QR code for that reference.
+
+144
+00:10:57,280 --> 00:11:03,160
+So using that reference is .ricormedical.com slash the tag that I made for MacIntire 2014.
+
+145
+00:11:03,160 --> 00:11:09,520
+I have a QR code and I'm just going to double check it on the computer now using this QR
+
+146
+00:11:09,520 --> 00:11:11,080
+code scanner app.
+
+147
+00:11:11,080 --> 00:11:12,080
+Awesome.
+
+148
+00:11:12,080 --> 00:11:13,080
+So that works.
+
+149
+00:11:13,080 --> 00:11:15,560
+And then I'm going to save this.
+
+150
+00:11:15,560 --> 00:11:18,400
+So rename the file and save it.
+
+151
+00:11:18,400 --> 00:11:33,080
+And then I'm going to go back to my Word document and insert that at the bottom of the page.
+
+152
+00:11:33,080 --> 00:11:36,480
+And then it's a little funky because it always comes to like the largest size possible and
+
+153
+00:11:36,480 --> 00:11:40,360
+you have to resize it and do a little bit of formatting.
+
+154
+00:11:41,360 --> 00:11:49,280
+And then since it is a reference cited, I got to go to the end to my references page
+
+155
+00:11:49,280 --> 00:11:54,160
+and do it over again real quick.
+
+156
+00:11:54,160 --> 00:12:09,920
+And you can see that like doing this references this way.
+
+157
+00:12:09,920 --> 00:12:14,240
+It's like a little bit more labor intensive than just doing like a standard work cited
+
+158
+00:12:14,240 --> 00:12:18,880
+references page because every time you add something you have to go back and reformat.
+
+159
+00:12:18,880 --> 00:12:22,640
+I imagine there's a way to do it where you can set it up to like automatically accommodate
+
+160
+00:12:22,640 --> 00:12:23,640
+this format.
+
+161
+00:12:23,640 --> 00:12:25,120
+I just haven't got that far.
+
+162
+00:12:25,120 --> 00:12:27,040
+So for now this is the way I'm doing it.
+
+163
+00:12:27,040 --> 00:12:31,640
+If you have any advice on how to make that happen, that would be greatly appreciated
+
+164
+00:12:31,640 --> 00:12:34,600
+for future versions.
+
+165
+00:12:34,600 --> 00:12:39,640
+And then the last step that I do is all these things that I'm linking to, I save copies
+
+166
+00:12:39,640 --> 00:12:45,720
+of them on my computer and that way if the content gets taken down from the internet,
+
+167
+00:12:45,720 --> 00:12:49,280
+for some reason it's no longer there, I can always host that.
+
+168
+00:12:49,280 --> 00:12:55,600
+For example, I can host this PDF, this paper on my website, keep the same QR code and
+
+169
+00:12:55,600 --> 00:12:59,880
+then redirect to a new location.
+
+170
+00:12:59,880 --> 00:13:00,880
+So there you have it.
+
+171
+00:13:00,880 --> 00:13:02,720
+That's how it works.
+
+172
+00:13:02,720 --> 00:13:03,840
+Very start to very finish.

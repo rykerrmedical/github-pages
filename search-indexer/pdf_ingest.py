@@ -43,7 +43,7 @@ from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 # once — no full wipe, no re-crawling pages, no re-touching anything
 # that didn't need it — and then goes back to skipping unchanged PDFs
 # until the next bump.
-PDF_PIPELINE_VERSION = 12  # v5: _heading_candidates_from_dict's trailing-
+PDF_PIPELINE_VERSION = 13  # v5: _heading_candidates_from_dict's trailing-
                           # footnote-span strip, the new 'section' column,
                           # PDF_ARCHIVE_ITEM_CONTENT_TYPE tags.
                           # v6: _strip_leading_heading_echo -- a page's own
@@ -1142,6 +1142,25 @@ def _strip_leading_heading_echo(text, heading_texts):
     return text
 
 
+_LIGATURE_MAP = str.maketrans({
+    "\ufb00": "ff", "\ufb01": "fi", "\ufb02": "fl",
+    "\ufb03": "ffi", "\ufb04": "ffl", "\ufb05": "st", "\ufb06": "st",
+})
+
+
+def _normalize_ligatures(text):
+    """PDF-embedded fonts often store "fi"/"fl"/"ffi"/etc as a single
+    ligature glyph (Unicode U+FB00-FB06) instead of separate letters --
+    pymupdf's plain-text extraction faithfully returns that codepoint,
+    not the decomposed letters. Confirmed real, 2026-09-28: most UI
+    fonts don't have that glyph, so a browser silently substitutes a
+    different font for just those characters, rendering it visibly
+    bold/off ("fiberoptic" showing with an odd-weight "fi"). Applied
+    once, right after raw extraction, so every downstream consumer
+    (chunking, snippets, citation blurbs) sees plain ASCII."""
+    return text.translate(_LIGATURE_MAP) if text else text
+
+
 def extract_pdf_pages(pdf_bytes, pdf_url):
     """Returns (sections, citations).
 
@@ -1232,7 +1251,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
         doc = pymupdf.open(stream=pdf_bytes, filetype="pdf")
     except Exception as e:
         print(f"  ! could not open PDF {pdf_url}: {e}")
-        return [], []
+        return [], [], 0
 
     # Single pass: pull dict + plain text + links together per page,
     # then close the document — nothing below this needs pymupdf again.
@@ -1243,6 +1262,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     for i, page in enumerate(doc, start=1):
         page_dict = page.get_text("dict")
         plain_text, attempted, failed = _page_text(page, prefer_full_ocr, boilerplate_xrefs)
+        plain_text = _normalize_ligatures(plain_text)
         ocr_attempted += attempted
         ocr_failed += failed
         candidates = _heading_candidates_from_dict(page_dict)
@@ -1254,6 +1274,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
                 if spans:
                     size_counts[round(max(s["size"] for s in spans), 1)] += 1
     doc.close()
+    total_pages = len(raw_pages)
 
     body_size = size_counts.most_common(1)[0][0] if size_counts else None
     tier1_min = (body_size + _HEADING_TIER1_OFFSET) if body_size is not None else None
@@ -1422,7 +1443,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
             f"({with_links} with a resolvable link, {len(citations) - with_links} plain-text only)"
         )
 
-    return sections, citations
+    return sections, citations, total_pages
 
 
 def pdf_title(pdf_bytes, fallback_url):

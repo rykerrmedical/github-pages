@@ -1,0 +1,2779 @@
+1
+00:00:00,000 --> 00:00:06,560
+if you're good with it. If you're good with it, we could do the, they're kind of like,
+
+2
+00:00:07,600 --> 00:00:13,040
+well, not kind of, they're just in credit, like podcasts, I was a big fan of, so I figured I'd
+
+3
+00:00:13,040 --> 00:00:19,200
+type them up. I typed my own notes to kind of avoid just like a verbatim, you know, kind of
+
+4
+00:00:19,200 --> 00:00:26,640
+plagiarizing, stealing their ideas situation. And then I went on the New England Journal of
+
+5
+00:00:26,640 --> 00:00:34,400
+Medicine and looked at this trial regarding oxygenation for pretty much anybody who looks
+
+6
+00:00:34,400 --> 00:00:40,880
+like they're having an MI. This is dealing with only the ones that aren't hypoxic at baseline,
+
+7
+00:00:40,880 --> 00:00:46,240
+because, you know, it's very common just to give oxygen, any time having chest pain. And
+
+8
+00:00:47,040 --> 00:00:52,480
+I had kind of briefly saw something on it that it was bad to do. And so I figured I should go and
+
+9
+00:00:52,480 --> 00:00:58,160
+look it up. I actually really liked the article. And then I just got, and then I kind of just have
+
+10
+00:00:58,160 --> 00:01:06,560
+five general questions that I'm sure will branch into more. Sweet. As it goes, but you good with
+
+11
+00:01:06,560 --> 00:01:14,960
+that flow? Yeah, that's perfect. Sweet. So the first one is kind of the bulk of the trauma. The
+
+12
+00:01:14,960 --> 00:01:20,080
+second one was pretty self-explanatory. But will you let me know? So I've had COVID, so I didn't
+
+13
+00:01:20,080 --> 00:01:24,400
+have time to print the notes off like in the binder that I usually have. So will you let me know
+
+14
+00:01:24,400 --> 00:01:29,600
+if I come off the screen? Because I'm going to pull up the Word document. Yeah, for sure. Okay.
+
+15
+00:01:29,600 --> 00:01:34,240
+I think it should. Yeah, I think your video will stay up unless I like hit the screen share or one
+
+16
+00:01:34,240 --> 00:01:40,960
+of us hits the screen share button. Okay, you can still see me. Yeah. All right. So this one was
+
+17
+00:01:40,960 --> 00:01:46,640
+kind of about the resuscitation of just your classic hemorrhaging patient. The kind of case
+
+18
+00:01:46,720 --> 00:01:52,480
+that they used was a penetrating gunshot wound, but it was an 18 year old. And the guest speaker
+
+19
+00:01:52,480 --> 00:01:58,400
+was Richard Dutton, which I guess is a big wig, trauma anesthesiologist in a shock trauma.
+
+20
+00:02:01,200 --> 00:02:05,280
+Just really good points. I kind of wanted to get your opinion about and everything.
+
+21
+00:02:06,000 --> 00:02:09,680
+So kind of the clinical case was just the 18 year old male shot in the right chest,
+
+22
+00:02:10,400 --> 00:02:14,800
+wants upper right quadrant, wants loss of consciousness in the field,
+
+23
+00:02:14,800 --> 00:02:19,600
+regain consciousness after a liter of crystalloids. Blood pressure is 110 over
+
+24
+00:02:19,600 --> 00:02:26,000
+70, heart rate 130, tail and lethargic. So he kind of just starts with saying he's going to hang blood
+
+25
+00:02:26,000 --> 00:02:31,680
+on this guy right away, kind of regardless of how he looks. Throughout it, he really harped on the
+
+26
+00:02:31,680 --> 00:02:39,760
+fact that he is an 18 year old male, and he can handle deep shock very well in comparison with,
+
+27
+00:02:39,760 --> 00:02:44,240
+you know, your older patients or even somebody kind of in their 40s or 50s.
+
+28
+00:02:45,760 --> 00:02:53,760
+He says, so this guy, he said he could lose up to half of his blood and still vital signs wise,
+
+29
+00:02:53,760 --> 00:02:58,960
+look like he's doing okay. But once this patient crashes with that much blood loss,
+
+30
+00:02:58,960 --> 00:03:08,400
+it's going to be real sudden, real quick. So he kind of goes over the specifics of kind of how he
+
+31
+00:03:08,400 --> 00:03:13,920
+would manage it and big wig doctor stuff, kind of how he would let the flow of it happen.
+
+32
+00:03:14,800 --> 00:03:18,480
+Kind of key thing that I got from this is he talks about induction agents.
+
+33
+00:03:20,160 --> 00:03:25,680
+He says that the specific agent does not matter, which was new to me because I've always heard
+
+34
+00:03:25,680 --> 00:03:31,120
+that the accommodate is really hemodynamically stable induction agent along with like ketamine.
+
+35
+00:03:32,560 --> 00:03:37,120
+He goes on to say that once you're in deep hemorrhagic shock, regardless of if you're
+
+36
+00:03:37,120 --> 00:03:42,560
+compensating or not, you get these changes in the brain and he did not go into specifics, but
+
+37
+00:03:42,560 --> 00:03:50,480
+basically stating that hemorrhagic shock itself is rather anesthetic itself. And so saying that
+
+38
+00:03:50,480 --> 00:03:57,200
+he reduces his dose dramatically in these patients. For example, he was saying that usually he would
+
+39
+00:03:57,200 --> 00:04:03,760
+give 200 milligrams of propofol so that he would drop it down to 20 in this patient. And he says
+
+40
+00:04:03,760 --> 00:04:11,520
+that he cannot find at least at the time of this recording, I believe this is from 2013 or maybe
+
+41
+00:04:11,520 --> 00:04:17,440
+even 2011. So it's been almost or at least over a decade since this came out. But at the time he
+
+42
+00:04:17,440 --> 00:04:24,240
+was saying there was no research at that time regarding on the subject. And this is something
+
+43
+00:04:24,240 --> 00:04:31,680
+that he found as a bit of empirical evidence through his practice. I thought that was pretty
+
+44
+00:04:31,680 --> 00:04:37,600
+interesting, especially in these crashing patients already, because so many of these induction agents,
+
+45
+00:04:37,600 --> 00:04:42,160
+I would imagine even a thominate and ketamine can drop the patient's pressure even further if
+
+46
+00:04:42,160 --> 00:04:46,800
+they're already going down. So I kind of wanted to get your thoughts on that first piece about the
+
+47
+00:04:46,800 --> 00:04:54,160
+reduction of dose in the induction agents. Yes, I think that's a fair generalization that any of
+
+48
+00:04:54,160 --> 00:05:00,880
+these agents could potentially cause your blood pressure to drop to cause that cardiovascular
+
+49
+00:05:00,880 --> 00:05:07,440
+collapse. And there's two kind of thought processes about that. One is that some of the agents
+
+50
+00:05:08,400 --> 00:05:12,560
+it's like a direct effect, like it causes your blood pressure to drop through like vasodilation
+
+51
+00:05:14,080 --> 00:05:19,600
+or some other effect along those lines. And the other thought is that in some cases your body is
+
+52
+00:05:19,600 --> 00:05:24,240
+like maintaining its blood pressure through its like endogenous release of catecholamines.
+
+53
+00:05:24,800 --> 00:05:28,880
+And if you give a large dose of acetative or an analgesic, you're taking that away.
+
+54
+00:05:30,000 --> 00:05:34,400
+But regardless, whichever mechanism we're working with, like all these agents do have the potential
+
+55
+00:05:34,400 --> 00:05:41,280
+to cause a drop in blood pressure and potentially lead to cardiac arrest. That said, the specifics
+
+56
+00:05:41,280 --> 00:05:47,920
+about attenuated doses in RSI, I think since 2013 there's been a fair amount of discussion
+
+57
+00:05:47,920 --> 00:05:54,320
+about that. That said, I don't know off the top of my head any specific papers that looked into that
+
+58
+00:05:54,320 --> 00:05:59,440
+about how much to attenuate your dose, like if you're cutting it in half or doing a quarter.
+
+59
+00:06:00,400 --> 00:06:06,880
+But I know in general that there is more of a movement towards that, particularly in cases
+
+60
+00:06:06,880 --> 00:06:12,400
+like this where you have like a severe traumatic shock, like hemorrhagic shock state, but also
+
+61
+00:06:12,400 --> 00:06:18,400
+with elderly patients in general, just across the board. But I'll have to dig and see if there's any
+
+62
+00:06:18,400 --> 00:06:24,240
+like specific recommendations about like, I don't know when to make that, like maybe like if your
+
+63
+00:06:24,320 --> 00:06:28,800
+shock index is a certain amount, you attenuate it by half and if it's this much, you can overdose
+
+64
+00:06:28,800 --> 00:06:32,880
+that. No, like I don't know about the specific guidance. I just know there's a lot of discussion.
+
+65
+00:06:32,880 --> 00:06:38,160
+But that said, I'm not aware of any like specific guidance on that, but it totally makes sense.
+
+66
+00:06:39,680 --> 00:06:47,440
+I do think, I wasn't at the conference, but I think, I can't remember the name of the
+
+67
+00:06:47,440 --> 00:06:53,360
+conference, there's like a big flight medicine conference every year. I wanted to say it was
+
+68
+00:06:53,360 --> 00:06:58,480
+ASNA, but that's not who it is. But they had a discussion and a talk and like follow up
+
+69
+00:06:58,480 --> 00:07:04,480
+discussions about this like right before COVID. So it must have been like 2019 or so. And I
+
+70
+00:07:04,480 --> 00:07:08,320
+remember I had a friend or two reach out to me about that specifically to like, see like, hey,
+
+71
+00:07:09,040 --> 00:07:14,160
+what are you guys doing? Where you work? I'll see if I can pull up a recording of that, or reach out
+
+72
+00:07:14,160 --> 00:07:18,880
+to my buddies who mentioned that to me. But yeah, I guess there's a long way of saying that like,
+
+73
+00:07:18,880 --> 00:07:22,960
+it totally makes sense. And it checks out. I just don't know, like specific guidance.
+
+74
+00:07:24,400 --> 00:07:29,040
+Yeah. I mean, where I were, we don't have, we don't have specific protocols on that. Like we
+
+75
+00:07:29,040 --> 00:07:35,360
+don't have specific, like direct guidance on like how much to attenuated dose. But in general, like,
+
+76
+00:07:36,000 --> 00:07:41,120
+if your dose says you can give up to like X amount of whatever medication, you can always give less,
+
+77
+00:07:41,120 --> 00:07:46,160
+right? So that, that always falls onto like, under your discretion as a provider.
+
+78
+00:07:46,800 --> 00:07:53,760
+So yeah, even though it's not explicitly written out, we would have the autonomy to attenuated dose.
+
+79
+00:07:54,400 --> 00:08:00,400
+Yeah. Well, and I figured if you get to the point of being a flight medic, I mean, you have enough
+
+80
+00:08:00,400 --> 00:08:05,040
+clinical experience to where your judgment should be, you know, respected. It's not like your new
+
+81
+00:08:05,040 --> 00:08:11,120
+medic coming off the street. Right. I mean, that's the idea, I guess. Yeah. The other thing that we've
+
+82
+00:08:11,120 --> 00:08:16,960
+been pushing a lot, like in the industry in general is like before we give any medications
+
+83
+00:08:16,960 --> 00:08:22,320
+to facilitate intubation, taking the time to resuscitate our patients. So we, we used to run
+
+84
+00:08:22,320 --> 00:08:26,720
+into the problem where we would just, you know, give full strength medications, these patients
+
+85
+00:08:26,720 --> 00:08:30,480
+who are already in shock state and we killed them. And then it was like, well, maybe we can give like
+
+86
+00:08:30,480 --> 00:08:36,720
+smaller doses. And then now I think the, the current process as well, why don't we like
+
+87
+00:08:36,720 --> 00:08:41,440
+resuscitate first? And I think there's a middle ground, right? Like we like the could resuscitate
+
+88
+00:08:41,440 --> 00:08:46,240
+and give smaller doses, but we're still in the process of ironing out the details of that.
+
+89
+00:08:47,280 --> 00:08:54,960
+Yeah. And it seems like it would be a rather difficult thing if for really anybody with
+
+90
+00:08:54,960 --> 00:09:01,360
+experience, because it seems like medicine has come from getting him intubated very quickly to
+
+91
+00:09:01,360 --> 00:09:08,160
+now we have a little bit more time with things. Yeah, for sure. I think that in the hospital
+
+92
+00:09:08,160 --> 00:09:14,400
+setting, this idea of like a delayed sequence intubation has started to catch on. Maybe other
+
+93
+00:09:14,400 --> 00:09:19,680
+flight programs are doing that as well, or other like ground programs. Not so much out here, but I
+
+94
+00:09:19,680 --> 00:09:25,520
+think, I think that's where it's headed in the future. We did talk about last time, there are
+
+95
+00:09:25,520 --> 00:09:31,280
+situations where like you need to, to move quickly. Like in this situation, if this were like, you were
+
+96
+00:09:31,280 --> 00:09:37,280
+I looking after this particular patient in the field, that's a case where we, we do need to move
+
+97
+00:09:37,280 --> 00:09:43,280
+quickly. But that's like in the direction of the hospital, not necessarily like move quickly,
+
+98
+00:09:44,160 --> 00:09:47,520
+like giving him medications that could compromise his like he would never status.
+
+99
+00:09:49,200 --> 00:09:52,800
+So yeah, I think that's a little bit of a paradigm shift for just EMS in general.
+
+100
+00:09:54,000 --> 00:09:59,680
+And then particularly in like the flight scene where we're often limited in what we can do in
+
+101
+00:09:59,760 --> 00:10:03,600
+transport, just because like we work in a tiny little flying tin helicopter.
+
+102
+00:10:05,120 --> 00:10:08,560
+We have a tendency to want to do these things in a more controlled setting on the ground.
+
+103
+00:10:10,160 --> 00:10:14,000
+And if we're like looking to resuscitate a patient adequately, it could take a while.
+
+104
+00:10:14,000 --> 00:10:17,120
+And then we'd like delayed care like, you know, 20, 30, 40 minutes.
+
+105
+00:10:20,000 --> 00:10:24,560
+And there's, there's argument that like, maybe we just avoid the medications. And you do like,
+
+106
+00:10:25,520 --> 00:10:30,640
+you just go straight to a cry or you drop a superglottic or, you know,
+
+107
+00:10:32,160 --> 00:10:37,440
+or use just BLS airway maneuvers. But these are all good questions that hopefully the industry
+
+108
+00:10:37,440 --> 00:10:42,320
+will figure out one of these days. Yeah, yeah. It would be very nice if they did. Yeah.
+
+109
+00:10:44,080 --> 00:10:46,880
+Well, it's good to know that they don't have it all figured out. That means we still have things
+
+110
+00:10:46,880 --> 00:10:52,320
+to look forward to and to learn about. Yes, yes. I like, I like it when new information comes out,
+
+111
+00:10:52,320 --> 00:10:56,880
+like the research that we're going to talk about a little later. I was very stoked about it.
+
+112
+00:10:57,920 --> 00:11:03,200
+Why I was stoked about it, I don't much know, you know, but you and I were having a conversation
+
+113
+00:11:03,200 --> 00:11:09,040
+earlier about the oxygenation just being a very fascinating topic. I just like it, you know,
+
+114
+00:11:09,040 --> 00:11:15,440
+there's just something about it. That like pulmonary, I don't know, anything really with
+
+115
+00:11:15,440 --> 00:11:19,120
+the right ventricle and anything where somebody's dying because of the right ventricle.
+
+116
+00:11:20,080 --> 00:11:25,360
+I like regardless, you know, you probably don't wish people but it is very fascinating.
+
+117
+00:11:26,320 --> 00:11:31,120
+Yeah, I guess it is a weird, weird thing to have something for but I mean, everyone's got their
+
+118
+00:11:31,120 --> 00:11:39,200
+thing. Yeah. Well, it's better not liking it at all. Yeah, true. So they kind of move on with
+
+119
+00:11:39,200 --> 00:11:46,480
+the induction agents and he was even saying he's using propofol but really does not matter and he
+
+120
+00:11:46,560 --> 00:11:54,640
+was harping on that. So they say they kind of go on with the scenario and the patient is
+
+121
+00:11:54,640 --> 00:12:00,400
+innovative. And here they say that the blood pressure drops to 50 over 30, just very low.
+
+122
+00:12:02,880 --> 00:12:10,480
+He Scott Weingart asked the guest speaker, the anesthesiologist, what would you do if you didn't
+
+123
+00:12:10,480 --> 00:12:16,080
+have blood because I guess the hospital that he comes from, it's just, you know, everything is
+
+124
+00:12:16,080 --> 00:12:21,600
+squared away very well. There's unlimited amounts of blood for these patients right away. So he asked
+
+125
+00:12:22,160 --> 00:12:26,640
+for doctors and I would imagine kind of everybody that would run into this situation where you don't
+
+126
+00:12:26,640 --> 00:12:32,400
+have blood. What would you do? He said it's really a clinical judgment, but he was saying he would
+
+127
+00:12:32,400 --> 00:12:39,760
+give 250 to 500 through a warmer of just your crystalloid and says he doesn't want to do it,
+
+128
+00:12:39,760 --> 00:12:45,440
+but he's not just going to watch a patient completely bottom out. Again, he goes back to
+
+129
+00:12:45,440 --> 00:12:51,200
+stating that while that is a seemingly low number, like this patient will die,
+
+130
+00:12:51,200 --> 00:12:55,680
+they're not going to die as quickly as, you know, your 80 year old patient would,
+
+131
+00:12:55,680 --> 00:13:03,280
+but it gets very difficult to get a room of people to kind of stand by while the blood gets
+
+132
+00:13:03,280 --> 00:13:10,160
+there when you could give them fluids now. So he kind of goes into that and talks about just the
+
+133
+00:13:10,160 --> 00:13:18,160
+importance of blood that I feel like is kind of very justifiable, kind of beaten to death nowadays
+
+134
+00:13:18,160 --> 00:13:24,880
+in trauma care, but again, crazy important. So then he kind of goes on and he talks about something
+
+135
+00:13:24,880 --> 00:13:32,880
+that he does with these patients kind of when they're in surgery. And so he was saying he will
+
+136
+00:13:32,880 --> 00:13:41,360
+give a combination of blood and a combination of fentanyl, and he will kind of give these 25 to
+
+137
+00:13:41,360 --> 00:13:48,160
+50 microgram doses to get more vasodilation, basically stating the blood pressure will come
+
+138
+00:13:48,160 --> 00:13:54,720
+down because of the fentanyl, and then he'll give more blood. And then that'll kind of raise the
+
+139
+00:13:54,720 --> 00:14:00,160
+pressure, but he was stating he doesn't want these patients at like 110 systolic. He wants to keep
+
+140
+00:14:00,160 --> 00:14:05,440
+them lower to make the surgeon's job easier. And I know we're kind of getting away from EMS now,
+
+141
+00:14:05,440 --> 00:14:10,320
+but just the thought process of it was very fascinating. Kind of doing a balancing act with
+
+142
+00:14:10,320 --> 00:14:16,240
+the fentanyl and with blood and saying once they've hit about 500 micrograms, all these opioid
+
+143
+00:14:16,240 --> 00:14:22,960
+receptors are just fully taken up. So you won't get a blood pressure drop if you give any more.
+
+144
+00:14:22,960 --> 00:14:27,040
+He gives a huge slug of it, and then he just manages with blood there. I thought that was
+
+145
+00:14:28,000 --> 00:14:33,760
+just kind of rather fascinating, and it kind of made me start thinking about the physiology of it.
+
+146
+00:14:36,000 --> 00:14:43,280
+And it just kind of seemed like a, it seemed correct when he was talking about it, but then
+
+147
+00:14:43,280 --> 00:14:48,160
+I don't know if my mind started kind of getting twisted in knots, but just seems like why would
+
+148
+00:14:48,160 --> 00:14:52,400
+you want them to vasodilate? Because even if you're giving more blood, I would imagine
+
+149
+00:14:53,040 --> 00:14:55,920
+these blood vessels are not bigger, won't it cause it to bleed more?
+
+150
+00:14:57,200 --> 00:15:02,320
+Then also on that same kind of opposite spectrum, if they are vasoconstricted, eventually they're
+
+151
+00:15:02,320 --> 00:15:06,800
+going to run out of that catecholamines. So I'm wondering if he was doing it because of that,
+
+152
+00:15:06,800 --> 00:15:12,800
+because now you're not so much relying on the catecholamines to keep your sympathetic drive up.
+
+153
+00:15:13,920 --> 00:15:20,160
+And rather he's just returning them to a normal tone, vascular tone, and getting proper fluid in there.
+
+154
+00:15:22,800 --> 00:15:29,520
+I have to think on this more and either read this or take a listen to it, but
+
+155
+00:15:30,880 --> 00:15:37,520
+I guess potentially the idea is that if you're in a shock state and your body is trying to maintain
+
+156
+00:15:37,520 --> 00:15:42,640
+perfusion to things that are vital, so it's going to clamp down at the periphery, things that are
+
+157
+00:15:42,640 --> 00:15:50,240
+considered non-essential, I guess, and like shun blood to the organs and to the brain. So maybe
+
+158
+00:15:50,240 --> 00:15:56,240
+the idea that he's referring to is if you're wanting that process a little bit by giving fentanyl,
+
+159
+00:15:58,320 --> 00:16:02,560
+you maintain perfusion peripherally, so you're avoiding a buildup of
+
+160
+00:16:03,520 --> 00:16:06,080
+lactic acid and any metabolic byproducts.
+
+161
+00:16:08,800 --> 00:16:11,200
+And then if you do it too much and the blood pressure goes down, then you get a little bit
+
+162
+00:16:11,200 --> 00:16:18,720
+of blood. But that I'm not entirely sure about. As a thought experiment, I think it sort of makes
+
+163
+00:16:18,720 --> 00:16:28,480
+sense, but I have to think on that one a little bit more. Yeah, I guess I'm not familiar with that
+
+164
+00:16:29,440 --> 00:16:37,840
+strategy of titrating small fentanyl bumps with transfusion, but I also don't work in that setting.
+
+165
+00:16:37,840 --> 00:16:45,280
+Like I don't work in the OR. So yeah, I have to think on that a little bit more.
+
+166
+00:16:45,760 --> 00:16:51,360
+But one thing that you mentioned that we kind of skipped over and moved on to the next part was about
+
+167
+00:16:52,880 --> 00:16:58,960
+the fluids in like things you mentioned, like if you were managing this patient somewhere where
+
+168
+00:16:58,960 --> 00:17:06,240
+you don't have blood products, like other things you can do, like to avoid cardiovascular collapse
+
+169
+00:17:06,240 --> 00:17:11,200
+like while you're waiting for blood. So I think that like giving small amounts of fluid is
+
+170
+00:17:12,160 --> 00:17:16,560
+like it's not ideal, but it's okay. If we are going to get fluids, we for sure want to keep them warm.
+
+171
+00:17:16,560 --> 00:17:22,800
+So if you're in a facility, you have some kind of warmer. Some transport services do have warmers
+
+172
+00:17:22,800 --> 00:17:28,400
+that they use like in the field. If you've got nothing, I guess you could like just on the
+
+173
+00:17:28,400 --> 00:17:32,320
+distal end of your IV tubing, just put all your hot packs there and let it, you know, just like
+
+174
+00:17:32,320 --> 00:17:38,560
+make a ton of hot packs so that the blood passes through. That works like sort of okay. Like it'll
+
+175
+00:17:38,560 --> 00:17:44,320
+get like if you're in an outdoor setting in the wintertime, it'll get fluid. Like if you've ever,
+
+176
+00:17:44,320 --> 00:17:47,760
+I don't know, probably haven't done this, but if you ever had like a bag of IV fluids when it's
+
+177
+00:17:47,760 --> 00:17:54,960
+cold outside, it's freezing. Like you will be like chilled out instantly and using hot packs will
+
+178
+00:17:54,960 --> 00:18:00,720
+like get it from freezing cold to like tolerable, but it's still uncomfortable. So I'm not sure
+
+179
+00:18:00,720 --> 00:18:06,000
+that just using hot packs is like an ideal strategy, but it's better than nothing. So yeah.
+
+180
+00:18:06,000 --> 00:18:10,240
+And obviously like it probably is a function of like how many you have and how well you like,
+
+181
+00:18:10,240 --> 00:18:16,480
+you know, the more surface area of that hot pack on the tubing, like the more it'll get warm. So yeah,
+
+182
+00:18:16,480 --> 00:18:19,920
+I guess if you, if you didn't have blood, things you could do is like, just make sure you can do
+
+183
+00:18:19,920 --> 00:18:23,680
+whatever you can to keep your patient warm. So like warm your IV fluids, if you're giving out fluids,
+
+184
+00:18:23,680 --> 00:18:27,840
+put blankets on them, turn the heat up in the back of the truck or in the trauma bay or the OR,
+
+185
+00:18:27,840 --> 00:18:33,200
+wherever you are. And then in this situation, the patient is probably intubated because we already
+
+186
+00:18:33,200 --> 00:18:38,880
+talked about like our RSI medications. So one of the things in that, like we used to refer to it
+
+187
+00:18:38,880 --> 00:18:44,720
+as a trauma triad of death. Now we're tending to call it like the lethal diamond. Yeah. One of the
+
+188
+00:18:44,720 --> 00:18:51,040
+components there would be acidosis. So we can potentially like mitigate that a little bit by
+
+189
+00:18:51,920 --> 00:18:58,000
+ventilating our patient to a goal that's higher than normal. As far as like how to measure that
+
+190
+00:18:58,000 --> 00:19:03,040
+goal, like what specific quantitative value we're looking for that, that data really hasn't
+
+191
+00:19:03,040 --> 00:19:08,640
+like flushed out yet. But basically the simple way to do this is whatever your baseline entitled CO2
+
+192
+00:19:08,640 --> 00:19:13,760
+is, you don't want it to go higher. You want to keep it there or lower. It's totally okay to like
+
+193
+00:19:13,760 --> 00:19:19,600
+have a patient who's like, we're ventilating them until their end title is like down into the 20s.
+
+194
+00:19:21,840 --> 00:19:27,680
+The caveat there is that if they're like in a low perfusion state, their end titles also
+
+195
+00:19:27,680 --> 00:19:32,240
+can be low. So it's kind of hard to measure. But basically like if you had them on a ventilator,
+
+196
+00:19:32,240 --> 00:19:36,960
+you can just aim for a minute volume or minute ventilation goal that's like higher than what's
+
+197
+00:19:36,960 --> 00:19:41,520
+normal. So we would say that this might be a little like too far into the weeds on this,
+
+198
+00:19:41,520 --> 00:19:45,120
+but we'd say like for the average patients, our normal minute volume goal is a hundred
+
+199
+00:19:45,120 --> 00:19:51,360
+mils per kilo per minute. And then somewhere in the area of like twice that is probably okay
+
+200
+00:19:51,360 --> 00:19:56,800
+for someone who's markedly acidotic or who wants to prevent them from getting markedly acidotic.
+
+201
+00:19:57,440 --> 00:20:03,120
+Now that double number is like, I don't know of any data that like fully supports that.
+
+202
+00:20:04,240 --> 00:20:09,280
+So anywhere like between the normal hundred and like the double of 200, like somewhere in that
+
+203
+00:20:09,280 --> 00:20:13,920
+range is better than nothing. But basically we don't want them to get more acidotic. We use the
+
+204
+00:20:13,920 --> 00:20:19,760
+ventilator as a machine to like prevent that from happening and ideally correct it. But like in the
+
+205
+00:20:19,760 --> 00:20:22,720
+acute setting, like we're not going to fix it fast, but just prevent it from getting worse.
+
+206
+00:20:22,720 --> 00:20:26,800
+So yeah. And the last thing, like if we don't have blood,
+
+207
+00:20:27,440 --> 00:20:30,640
+most places had access to TXA now. So that's another thing we can do.
+
+208
+00:20:33,520 --> 00:20:39,840
+Yeah. So yeah, I mean, standard bleeding control, obviously. And then TXA, keep the patient warm
+
+209
+00:20:39,840 --> 00:20:47,840
+and do whatever you can to prevent acidosis. The calcium part of this diamond is mostly
+
+210
+00:20:47,840 --> 00:20:53,680
+discussed in the context of giving blood products. There may be an argument and I don't
+
+211
+00:20:53,680 --> 00:21:01,920
+actually know enough about this particular point of giving calcium in general, just to facilitate
+
+212
+00:21:01,920 --> 00:21:08,080
+the clotting cascade. And we talked about last time about increasing like cardiac function,
+
+213
+00:21:08,720 --> 00:21:11,680
+cardiac contractility, by giving calcium with the calcium is low.
+
+214
+00:21:12,000 --> 00:21:18,800
+I don't know what the, like if you were just to take like a random sample of calcium levels
+
+215
+00:21:18,800 --> 00:21:22,480
+of people coming into the hospital in like traumatic injury, like what percentage of them
+
+216
+00:21:23,120 --> 00:21:27,440
+are low of normal, but like maybe we give calcium even in the absence of getting blood products,
+
+217
+00:21:27,440 --> 00:21:33,040
+just to help with that part of it. That I don't know about. I'll see if I can find something to
+
+218
+00:21:33,600 --> 00:21:37,520
+either support or refute that. But yeah, those are all the things you could do like while we're
+
+219
+00:21:37,600 --> 00:21:43,760
+waiting for blood to show up, I guess. Yeah. And it sounds like a lot of that would be
+
+220
+00:21:44,720 --> 00:21:49,600
+good to do because how many ambulance services realistically have blood. Sounds like that would
+
+221
+00:21:49,600 --> 00:21:55,120
+be really good stuff to do on the way to the hospital. Yeah. And all of those things are
+
+222
+00:21:55,120 --> 00:22:04,560
+things we can do in the ambulance. Yep. And hopefully we'll see more ground EMS programs
+
+223
+00:22:05,520 --> 00:22:10,640
+carrying blood in the future. But yeah, yeah. We'll get there someday.
+
+224
+00:22:11,680 --> 00:22:15,920
+It's funny that you brought up calcium because the second thing I typed up,
+
+225
+00:22:15,920 --> 00:22:22,320
+the second podcast is exactly over that the hypocalcemia with hemorrhage. And you covered.
+
+226
+00:22:22,320 --> 00:22:27,520
+And these are both, these are both M Crip podcasts. Yes, sir. What are the,
+
+227
+00:22:27,520 --> 00:22:32,960
+what are the numbers? I can come up after. I can send it to me later. That's fine. Yeah. So I went
+
+228
+00:22:32,960 --> 00:22:38,480
+to the archives. I'll pull them up for you. But yeah, the Richard Dutton one is a M Crip podcast,
+
+229
+00:22:38,480 --> 00:22:43,040
+30 minutes. And then this one that we're about to discuss was a 20 minute one.
+
+230
+00:22:46,160 --> 00:22:52,080
+So just like you were saying, they added the hypocalcemia to the, what used to be the deadly
+
+231
+00:22:52,080 --> 00:23:00,240
+triad making it a diamond now. So they were talking about blood products, just in general,
+
+232
+00:23:00,240 --> 00:23:05,600
+and saying how to situate in them to keep the blood from clotting in and of itself,
+
+233
+00:23:05,600 --> 00:23:14,080
+just when it's in the bag. But saying that the citrate will result in a lack of calcium,
+
+234
+00:23:14,080 --> 00:23:20,720
+it will drop the calcium. They're already having a hypocalcemia problem from directly bleeding it
+
+235
+00:23:20,720 --> 00:23:31,680
+out on whatever surface. So they were saying they like to give calcium. Now I don't really
+
+236
+00:23:31,680 --> 00:23:39,920
+remember where these two people work. But one of them was like a special forces medic. And now he
+
+237
+00:23:39,920 --> 00:23:46,800
+was in med school. And then I believe another one was a doctor actively. So one of the guys has
+
+238
+00:23:46,800 --> 00:23:51,600
+really good information on kind of how the military does things, how the military is working
+
+239
+00:23:51,600 --> 00:23:57,760
+to do things. And it sounds like he was on one of the research teams in the military regarding
+
+240
+00:23:57,760 --> 00:24:04,320
+hemorrhagic shock exclusively. So he has a lot of good tidbits in there. But the protocol that he
+
+241
+00:24:04,320 --> 00:24:10,000
+was saying he used or rather maybe he uses at the time of the recording, he was saying he just
+
+242
+00:24:10,000 --> 00:24:17,120
+pushes one gram of the calcium chloride during the first unit of blood. And then from that point,
+
+243
+00:24:17,120 --> 00:24:22,320
+for every two units, he was given another gram. He says some people do four units, given another gram.
+
+244
+00:24:23,520 --> 00:24:28,160
+But he really just goes into good detail just basically talking about how this calcium is
+
+245
+00:24:28,160 --> 00:24:34,720
+crucial for the clotting cascade. Scott, it's kind of funny that you brought up the fact that you
+
+246
+00:24:34,720 --> 00:24:39,840
+can't think of any study that has been, you know, what is the calcium level of these hemorrhagic
+
+247
+00:24:39,840 --> 00:24:45,600
+shock patients, because he was very stoked about this topic, saying that for years, he's
+
+248
+00:24:46,720 --> 00:24:51,200
+kind of done like a little project of his own, he'll go back on these patients that he has and
+
+249
+00:24:51,200 --> 00:24:56,960
+kind of track their calcium and saying that it was very, very low. But obviously, he can't just go
+
+250
+00:24:56,960 --> 00:25:02,720
+around saying, Oh, I pulled these labs and try to produce research. So he was pretty stoked about
+
+251
+00:25:02,720 --> 00:25:09,600
+that. It was overall, seems pretty basic, just the information that they were giving out, just
+
+252
+00:25:09,600 --> 00:25:14,560
+making sure we're giving calcium, it really does make a difference. It can make a difference quickly.
+
+253
+00:25:16,000 --> 00:25:20,880
+I liked it a lot. I did not know they were saying hypercline is a common response to trauma.
+
+254
+00:25:21,920 --> 00:25:27,440
+I did not know that I know if you have a crush injury, the breakdown of that muscle can lead to
+
+255
+00:25:28,000 --> 00:25:35,360
+hypercline, but I did not know that in and of itself, just bleeding itself causes hypercline.
+
+256
+00:25:35,360 --> 00:25:40,320
+And I wonder if it's because you're bleeding calcium out, and don't the two kind of antagonize
+
+257
+00:25:40,320 --> 00:25:48,560
+one another? That I, this is another thing I'm not entirely sure about, but I think maybe
+
+258
+00:25:49,840 --> 00:25:56,400
+two mechanisms. One would be that in an acidotic state, in general, your body,
+
+259
+00:25:57,120 --> 00:26:00,560
+like your cells in your body become a little more permeable and potassium leaks out.
+
+260
+00:26:01,200 --> 00:26:05,840
+So same thing in like a diabetic ketoacidosis, where we're about hyperkalemia.
+
+261
+00:26:08,800 --> 00:26:14,480
+So that's the one mechanism where, like, just because you're in like a low-provision shock state,
+
+262
+00:26:15,600 --> 00:26:19,520
+you're locally getting acidotic at those cells and they leak potassium in. The other one we did
+
+263
+00:26:19,520 --> 00:26:25,680
+just from tissue damage, like from when a tan, like Lou's not able to talk right now, when a cell
+
+264
+00:26:25,680 --> 00:26:30,880
+is damaged and it breaks, when lysis occurs, you lose potassium like directly there. So it can be
+
+265
+00:26:30,880 --> 00:26:34,960
+either one of those mechanisms, and likely it's some combination both, but I'll have to look into
+
+266
+00:26:34,960 --> 00:26:39,440
+that specifically to be sure. Or it could be something else that I'm not considering.
+
+267
+00:26:40,880 --> 00:26:47,600
+Yeah, I mean, it sounds right to me, man. If it sounds good to two people, it's gotta be right.
+
+268
+00:26:48,400 --> 00:26:50,960
+See, this is problematic. This is where problems come from.
+
+269
+00:26:51,280 --> 00:26:57,280
+Yeah, the entirety of Facebook, there's like 20,000 people in groups that are...
+
+270
+00:26:57,280 --> 00:27:00,240
+Yeah, because you could just look for someone who agrees with you.
+
+271
+00:27:00,240 --> 00:27:05,600
+Yes, yeah. You know, I wonder if people think that, because nowadays you hear especially a
+
+272
+00:27:06,560 --> 00:27:13,040
+bit of the older generation, maybe 40s and 50s, no disrespect to them, but you kind of hear them use
+
+273
+00:27:13,040 --> 00:27:20,240
+Facebook as like a legit argument, you know? And I wonder if they, obviously they know, but I wonder
+
+274
+00:27:20,240 --> 00:27:24,320
+if they give any thoughts of the fact that, you know, there's almost 400 million people in America
+
+275
+00:27:24,320 --> 00:27:29,280
+alone, you're bound to have a political subject, or there's tens of thousands of people all agreeing
+
+276
+00:27:29,280 --> 00:27:35,680
+on the same topic. Yeah, that is problematic. Although I don't have any experience with
+
+277
+00:27:35,680 --> 00:27:42,480
+Facebook, so I can't, yeah. I manage to steer clear of that one. I despise social media,
+
+278
+00:27:42,480 --> 00:27:47,280
+not because like, I don't follow people that I don't like seeing their opinion, right? But
+
+279
+00:27:47,280 --> 00:27:52,880
+there's a lot of interesting things that are both kind of informative and just absolute nonsense,
+
+280
+00:27:52,880 --> 00:27:55,440
+and I find myself wasting large amounts of time.
+
+281
+00:28:00,560 --> 00:28:08,640
+All right, so this... So the trial I looked into, before we move on, are we good with trauma?
+
+282
+00:28:10,160 --> 00:28:15,360
+Yeah, I think so. I don't know if you had any specific questions about the calcium,
+
+283
+00:28:15,360 --> 00:28:20,880
+but it seems like you, hey, you got your basic basis covered there. I think I actually have
+
+284
+00:28:20,880 --> 00:28:29,280
+listened to that MCRA episode, so I'll put a link up here, and also like the research that the guys
+
+285
+00:28:29,280 --> 00:28:34,480
+did, I think it was, I remember who it was, I should probably know this off the top of my head,
+
+286
+00:28:35,520 --> 00:28:41,520
+but the papers they did through the military about like investigating this idea of giving potassium
+
+287
+00:28:41,520 --> 00:28:45,680
+with transfusions in the field. So I'll pull up links and send them to you.
+
+288
+00:28:45,680 --> 00:28:50,320
+Oh yeah, yeah. I'm building a small collection on the things you see.
+
+289
+00:28:55,040 --> 00:29:01,040
+So just to kind of summarize with the trauma, just keep them warm. Try not to give them fluids
+
+290
+00:29:01,040 --> 00:29:07,360
+if you don't have to. Give your TXA, give your calcium, get up and get gone for the field
+
+291
+00:29:07,360 --> 00:29:18,800
+ambulances. Kind of the same suite. With that, I think that is good on the, you know what, let me
+
+292
+00:29:18,800 --> 00:29:22,960
+ask about it now because I have it written down, but really just kind of fits in. So with your
+
+293
+00:29:22,960 --> 00:29:32,640
+head traumas, I know that the overall CO2 plays a big, big factor, and I believe if the CO2 is high,
+
+294
+00:29:33,520 --> 00:29:38,560
+they get the increased intercranial pressure, correct? And if it's really low, they get the
+
+295
+00:29:38,560 --> 00:29:44,080
+cerebral vasoconstriction? Yeah. Okay. So if they're,
+
+296
+00:29:47,200 --> 00:29:49,360
+yeah, if they're hypoventilating and their end tidal gets high,
+
+297
+00:29:52,000 --> 00:29:57,920
+that can cause an increase in ICP. But then again, if we like hyperventilate them super low,
+
+298
+00:29:57,920 --> 00:30:03,760
+and that's also problematic. So yeah, we generally aim for a goal just like low of normal. If we're
+
+299
+00:30:03,760 --> 00:30:08,320
+like ventilating somebody, our normal goal would be like 35 to 45, and we'll like do it on the lower
+
+300
+00:30:08,320 --> 00:30:16,800
+end of normal or like maybe down to 30, 30 to 35. Okay. And my second question on that. So,
+
+301
+00:30:16,800 --> 00:30:22,560
+and I forget where I read this, and I don't know how common this is in head injury patients. I've
+
+302
+00:30:23,120 --> 00:30:31,840
+maybe had three pretty bad blunt trauma head patients. But just the, is there, or have you
+
+303
+00:30:31,840 --> 00:30:38,080
+been in a situation where you can't, with a normal respiratory rate, you can't keep that end tidal
+
+304
+00:30:38,080 --> 00:30:44,000
+where you want it, and it just seems like it's jacking through the roof? And if so, what do you
+
+305
+00:30:44,080 --> 00:30:52,480
+think about brief hyperventilation to do that? Or I would imagine that would cause problems in
+
+306
+00:30:52,480 --> 00:31:00,720
+and of itself, with just stacking all that pressure in the chest. Yeah, I guess I've never ran into
+
+307
+00:31:00,720 --> 00:31:11,200
+that issue. Like we sometimes have a tough time maintaining like our ventilation, like with our
+
+308
+00:31:11,200 --> 00:31:16,560
+end tidal being super high if we had like some kind of like chronic lung disease. But generally,
+
+309
+00:31:16,560 --> 00:31:23,520
+like aside from that subpopulation, like it's pretty easy to like ventilate people down, like to
+
+310
+00:31:24,800 --> 00:31:29,200
+hyperventilate or to ventilate more than whatever our normal metabolic volume would be to get their
+
+311
+00:31:29,200 --> 00:31:37,440
+end tidal to go down. We sometimes, we more often run into the opposite problem where a patient is
+
+312
+00:31:38,080 --> 00:31:42,000
+breathing way faster than we would want, which is a little bit safer for us, like as far as managing
+
+313
+00:31:42,000 --> 00:31:48,400
+vent. So we more commonly see a situation where the patient is like breathing too much and our
+
+314
+00:31:48,400 --> 00:31:53,120
+end tidal is low of goal. We don't often see it outside of that subpopulation with chronic lung
+
+315
+00:31:53,120 --> 00:32:02,320
+disease where we have a high end tidal CO2 that we can't bring down. Well, yeah, I guess I've never
+
+316
+00:32:02,320 --> 00:32:10,960
+been in that particular situation. Yeah, it seems like kind of impossible, but like unlikely to
+
+317
+00:32:10,960 --> 00:32:15,600
+happen. Yeah, yeah. Especially once you're like managing, like if you've intubated them and you're
+
+318
+00:32:15,600 --> 00:32:20,480
+managing the airway manually, then like it would be a different case. Let's say if you
+
+319
+00:32:21,520 --> 00:32:26,560
+get a patient spontaneously breathing and you had like a side stream can you long them and you're
+
+320
+00:32:26,560 --> 00:32:31,600
+monitoring it that way. But then if you saw like in that situation, if you saw that they like weren't
+
+321
+00:32:31,600 --> 00:32:37,040
+moving enough volume, like their minute volume was low and that was indicated by a high end tidal
+
+322
+00:32:37,040 --> 00:32:41,280
+CO2, that would be an indication that maybe you need to more aggressively manage airway, like start
+
+323
+00:32:41,280 --> 00:32:47,360
+PD and ventilations or work towards RSI or something like that. It seems like RSI really,
+
+324
+00:32:47,360 --> 00:32:51,120
+once you kind of give that paralytic, it seems like it removes a lot of these
+
+325
+00:32:52,240 --> 00:32:57,440
+kind of situations at hand because now you just have full control. Yeah, I mean, it seems like the
+
+326
+00:32:57,440 --> 00:33:03,520
+ideal situation because you just take everything away and then like you're in charge. Yeah. But
+
+327
+00:33:03,520 --> 00:33:07,440
+then it's all on you to like know what to do. So it's potentially problematic as well.
+
+328
+00:33:10,560 --> 00:33:16,880
+Were you nervous the first time you RSI'd somebody? Oh yeah, for sure. Yeah. Yeah. They don't give us
+
+329
+00:33:16,880 --> 00:33:23,360
+RSI where I work and I'm not, I would like to RSI people, but yeah, I would imagine it would be a
+
+330
+00:33:23,360 --> 00:33:31,200
+very nerve wracking thing. Yeah. I mean, it's definitely an interesting skill to go from like
+
+331
+00:33:31,200 --> 00:33:36,400
+work on an ambulance where you don't have access to that. And then like it being like in your
+
+332
+00:33:36,400 --> 00:33:43,440
+scope and you could potentially do it on any shift. Yeah. Like, I mean, I still get like,
+
+333
+00:33:43,440 --> 00:33:49,600
+you know, when I do have the RSI, like I'm not like a superstar. It's not like I don't get nervous
+
+334
+00:33:49,600 --> 00:33:54,560
+and like my heart doesn't go faster. But we have like systems for like how to manage that effectively.
+
+335
+00:33:54,560 --> 00:34:00,960
+Like I religiously use a checklist. Like I, you know, whenever I'm, not every time, but like often
+
+336
+00:34:00,960 --> 00:34:04,240
+when I'm at a base that has like airway heads sitting around, like I'll just get out and play
+
+337
+00:34:04,240 --> 00:34:09,520
+with it. Like I'll practice my bougie techniques and just like do a couple like manipulations
+
+338
+00:34:09,520 --> 00:34:15,680
+there. Like, I don't know. Like I think that if I didn't do those things, I would probably feel
+
+339
+00:34:15,680 --> 00:34:19,680
+a lot more nervous whenever it came up. But yeah, it was like one of the things that like, I know
+
+340
+00:34:19,680 --> 00:34:23,360
+that it's like, it could potentially be stressful. So like, whatever I can do ahead of time to
+
+341
+00:34:23,360 --> 00:34:30,720
+mitigate that then. Yeah. That has helped a lot for me. And some people just wing it and they're
+
+342
+00:34:30,720 --> 00:34:35,600
+just good at it. And they just like, like, yeah, there are like many, many medics out there who do
+
+343
+00:34:36,000 --> 00:34:41,840
+RSI and like never use a checklist, don't really do things the same way every time. And like they've
+
+344
+00:34:42,000 --> 00:34:49,200
+never failed. So, but like, I don't think we should bank on that. Right. Like, I think we should have
+
+345
+00:34:49,200 --> 00:34:53,120
+systems for those kinds of things. Yes, very much. Yeah.
+
+346
+00:34:56,960 --> 00:35:05,280
+Sweet. That cuts that out. And that is the last of my trauma. Everything else is a medical.
+
+347
+00:35:05,280 --> 00:35:11,520
+Yes. All right. Let's hear it.
+
+348
+00:35:14,320 --> 00:35:19,600
+You want to finish the questions now or you want to move on to the MI trial? It is your choice.
+
+349
+00:35:21,280 --> 00:35:24,880
+Let's talk about the, you said you had some oxygen stuff to talk about.
+
+350
+00:35:26,080 --> 00:35:32,960
+Yeah. That's what this trial is. All right. Yeah, let's do that. So essentially this group went
+
+351
+00:35:32,960 --> 00:35:38,400
+and used, they went and gathered about 6600 patients over the course of, I think four or
+
+352
+00:35:38,400 --> 00:35:46,400
+five years. And this is in Sweden. They had somewhat strict criteria. You had to be sat
+
+353
+00:35:46,400 --> 00:35:54,000
+in at 90% on room air. You had to be 30 years or older. You had to have had symptoms, your classic
+
+354
+00:35:54,000 --> 00:35:59,840
+kind of cardinal symptoms, chest pain or short of breath, less than six hours. You had to have either
+
+355
+00:35:59,920 --> 00:36:08,160
+elevated components or EKGs. And that was pretty much it. So what they wanted to find out was,
+
+356
+00:36:08,800 --> 00:36:14,960
+does oxygen actually help in your patient that is not hypoxic on room air with all these,
+
+357
+00:36:15,520 --> 00:36:21,200
+with basically heart attacks is what they wanted. And they ended up getting 75% of their patients
+
+358
+00:36:21,200 --> 00:36:29,600
+ended up with the final diagnosis of either non-stimmy or stimmy. So, so with this, their methods
+
+359
+00:36:30,320 --> 00:36:37,520
+they used six liters per minute for anywhere in between six to 12 hours. The median ended up
+
+360
+00:36:37,520 --> 00:36:42,800
+being 11 and a half hours that you did it through an open face mask. And I don't know if that is
+
+361
+00:36:42,800 --> 00:36:48,800
+like a non-re breather. I don't know if that's more of a Swedish thing or all we have is non-re breathers.
+
+362
+00:36:48,800 --> 00:36:52,560
+I guess the open face mask we have is we'll do like NED treatments through it.
+
+363
+00:36:53,440 --> 00:36:59,760
+But yeah, it's kind of like a, the non-re breather mask, but no reservoir and just oxygen into the
+
+364
+00:36:59,760 --> 00:37:04,000
+mask. And then it's not, it doesn't have like the flaps on it. It's got holes in it. So it's
+
+365
+00:37:04,720 --> 00:37:07,280
+kind of like doing blow by that for grown up, essentially.
+
+366
+00:37:09,680 --> 00:37:14,720
+So they took their two control groups. One was just the ambient air and the other one was receiving
+
+367
+00:37:14,720 --> 00:37:22,640
+the oxygen through the, again, the six liters, six to 12 hours. So they kind of looked at three
+
+368
+00:37:22,640 --> 00:37:29,680
+things. What was their final oxygen after the, what was their final oxygen on room air at the
+
+369
+00:37:29,680 --> 00:37:35,920
+end of treatment? What was the one year mortality? What was the readmission on these two groups?
+
+370
+00:37:36,640 --> 00:37:44,000
+So with the final oxygen or saturation, 99% was the oxygen group, 97% was the ambient air group.
+
+371
+00:37:44,720 --> 00:37:51,440
+For the one year mortality, it was a 0.1 difference. 5% for the oxygen group, 5.1% for the
+
+372
+00:37:51,440 --> 00:37:58,720
+ambient group. Readmission rates within one year, the oxygen group was at 3.8% and the
+
+373
+00:37:59,280 --> 00:38:05,600
+ambient air group was at 3.3%. The mortality was any cause of that though. There was no
+
+374
+00:38:06,320 --> 00:38:13,200
+repeat heart attack. It was just basic one year mortality. They kind of go on to
+
+375
+00:38:14,080 --> 00:38:20,000
+discuss a little bit further how they did it. Again, they included like the final diagnosis of
+
+376
+00:38:20,000 --> 00:38:26,960
+it. They went into more detail on the inclusion criteria. The really only real exclusion criteria
+
+377
+00:38:26,960 --> 00:38:34,160
+was if you went into cardiac arrest with EMS or you arrested at the hospital because they're going
+
+378
+00:38:34,160 --> 00:38:41,600
+to put you way past six liters per minute, just managing your airway. They, I liked it a lot
+
+379
+00:38:41,600 --> 00:38:48,480
+because they're evidence with the 6,600 patients. And from what I could find, this was the largest
+
+380
+00:38:49,360 --> 00:38:58,080
+trial at the time with the 6,600 people, 3,300 in each group, just showing that there is no
+
+381
+00:38:58,080 --> 00:39:05,920
+difference in the outcomes of at least their patients who were not hypoxic. Now granted,
+
+382
+00:39:05,920 --> 00:39:10,880
+he talked about a lower mortality rate with theirs being 5%. I think the average in Sweden
+
+383
+00:39:10,880 --> 00:39:18,800
+was 14%. They explained that by just saying a large chunk of the people that die will be hypoxic
+
+384
+00:39:18,800 --> 00:39:24,160
+so they can't be included in the criteria. So this was solely on if you're oxygenating enough
+
+385
+00:39:25,520 --> 00:39:31,280
+on your own. He did mention two other trials and I have not looked into these trials so I don't
+
+386
+00:39:31,280 --> 00:39:39,280
+want to go and speak ill of them at all. He talks about one is the AVOID trial. It's an acronym just
+
+387
+00:39:39,280 --> 00:39:45,920
+like this detox trial is. They reported larger infarcts and now this was only STEMI patients and
+
+388
+00:39:45,920 --> 00:39:53,280
+theirs that were receiving the O2. And then the Cochrane report and the 2016 update was saying
+
+389
+00:39:53,280 --> 00:40:00,960
+that there's no evidence of it. They were talking as if this is kind of something that is seen
+
+390
+00:40:02,480 --> 00:40:09,120
+with these new studies coming out and saying, but again, they did not show, this study did not
+
+391
+00:40:09,120 --> 00:40:16,800
+show any harm in it. So I was kind of wondering your thoughts on that. I personally, if I have a
+
+392
+00:40:16,800 --> 00:40:22,880
+MI patient, if they're not short of breath and they're sitting, sagging fine, I don't put them
+
+393
+00:40:22,880 --> 00:40:29,040
+on oxygen. I went and found this because I've got crew like crew members and they're great at what
+
+394
+00:40:29,040 --> 00:40:35,760
+they do, but that's what they know, you know, and will show up to a house and you know, you get busy
+
+395
+00:40:35,760 --> 00:40:39,280
+and sometimes the fire truck gets there before you, maybe you're racing back from a hospital.
+
+396
+00:40:39,280 --> 00:40:44,880
+And I've had a situation where patient was fine, everything was fine, but it looked like a non-STEMI
+
+397
+00:40:44,880 --> 00:40:50,240
+and they had them on four liters. I turned it off and I find myself often having to
+
+398
+00:40:52,160 --> 00:40:59,120
+unplug. It just seems like an EMS, it's very common to just kind of blanket oxygen people.
+
+399
+00:40:59,680 --> 00:41:08,240
+Yeah. I mean, that was how I was taught when I first, like I guess I did, I'm sorry, to my CPR
+
+400
+00:41:08,240 --> 00:41:12,160
+class and first responder stuff through a fire department. And that was the rules. Like everyone
+
+401
+00:41:12,160 --> 00:41:16,880
+gets oxygen. So it makes it look like you're caring for the patient and probably doesn't hurt.
+
+402
+00:41:16,880 --> 00:41:22,720
+Right. And to be honest, like I think that like in the last couple of years, there's a lot of like,
+
+403
+00:41:22,720 --> 00:41:30,640
+a lot of discussion about the damage that oxygen can cause. But I think in most situations,
+
+404
+00:41:30,640 --> 00:41:36,000
+particularly in EMS, like it probably doesn't impact outcomes, like as, as explained in this paper.
+
+405
+00:41:36,640 --> 00:41:41,280
+So like, if you're, if you're in a hospital setting and there's, you know, like you're leaving somebody
+
+406
+00:41:41,280 --> 00:41:47,360
+on the six liters for days and days and days, like it's probably different, but for like, you know,
+
+407
+00:41:47,360 --> 00:41:52,240
+in the study, 11 hours, like, you know, are setting like less than an hour, probably doesn't
+
+408
+00:41:52,240 --> 00:41:59,040
+matter. So like in your situation, like you have somebody with a playing of chest pain and somebody
+
+409
+00:41:59,040 --> 00:42:03,040
+else puts up an oxygen, it's probably not worth like ruffling feathers to be like, Oh, let's take
+
+410
+00:42:03,040 --> 00:42:07,280
+that off. Right. It's probably worth it. Just leave it. And then when you get in the truck and like
+
+411
+00:42:07,280 --> 00:42:14,320
+you're by yourself and you can like turn it off, it's not going to hurt anything acutely. So yeah,
+
+412
+00:42:14,320 --> 00:42:18,800
+I guess that's kind of, that's kind of where, how I feel about that. I think that this,
+
+413
+00:42:20,720 --> 00:42:28,480
+yeah, this, this comes up a lot. Like I actually just recently saw a post at the look and see who
+
+414
+00:42:28,480 --> 00:42:34,560
+it was. But there's this like phenomenon in the lungs called hypoxic pulmonary vasoconstriction.
+
+415
+00:42:34,560 --> 00:42:42,800
+Yes. So basically the way it works is if you're, if your blood vessels in your lungs
+
+416
+00:42:42,800 --> 00:42:48,160
+get hypoxic, they constrict down, which is the opposite of what happens like peripherally in your
+
+417
+00:42:48,160 --> 00:42:54,880
+body. So like in my arm, if it's hypoxic, if my arm is hypoxic, those blood vessels dilate to get
+
+418
+00:42:54,880 --> 00:43:01,520
+more oxygen there. Right. But in the lungs, there's like a, an all, an opposite reaction. And the idea
+
+419
+00:43:01,520 --> 00:43:09,440
+there is that it prevents like blood flow from being wasted. So if I have a region of the lung
+
+420
+00:43:09,440 --> 00:43:14,560
+that's like not getting oxygen, I shunt blood away from that region so that I can like keep the
+
+421
+00:43:14,560 --> 00:43:21,520
+blood going to place the target oxygen. Right. On the flip side, there was a post recently that
+
+422
+00:43:21,520 --> 00:43:29,040
+somebody put up about the idea that if you give too much oxygen to somebody, this mechanism could
+
+423
+00:43:29,840 --> 00:43:37,520
+cause like worse outcomes. So if you, I'm trying to like think through the sequence here. So if
+
+424
+00:43:37,520 --> 00:43:46,240
+you had somebody who like had poor perfusion to a part and then the Avioli, like the Avioli were
+
+425
+00:43:46,240 --> 00:43:53,280
+not, didn't have a lot of oxygen in them and their perfusion was poor, but you give more oxygen and
+
+426
+00:43:53,280 --> 00:43:59,760
+then it causes vasodilation. You could like cause a shunt where you're like wasting blood flow,
+
+427
+00:44:00,960 --> 00:44:05,840
+which talking to the steps of that, that like sort of makes sense, but I don't think that actually
+
+428
+00:44:05,920 --> 00:44:13,520
+happens to a degree that would have a clinical impact in real life because that doesn't always
+
+429
+00:44:13,520 --> 00:44:19,200
+happen super fast. It's not like an automatic one and off thing. That's something that like I,
+
+430
+00:44:19,200 --> 00:44:23,520
+I reached out to whoever was it, like posted me like, Hey, like, let's, let's talk about this.
+
+431
+00:44:23,520 --> 00:44:27,920
+Like, I'm curious to know like where this came from. I haven't heard back from them yet, but
+
+432
+00:44:29,200 --> 00:44:34,080
+I would be interested to explore that idea a little bit more. Basically like in the, in the
+
+433
+00:44:34,720 --> 00:44:39,440
+greater context of like, I think that like it's worth limiting oxygen to when it's actually
+
+434
+00:44:39,440 --> 00:44:44,480
+indicated. But I do think that there was like a movement to finding like everything wrong with
+
+435
+00:44:44,480 --> 00:44:48,960
+oxygen that is potentially problematic. Cause then you have like cases where people do need
+
+436
+00:44:48,960 --> 00:44:54,560
+oxygen and don't get it. Whereas like the damage caused by giving oxygen is, is quite limited,
+
+437
+00:44:54,560 --> 00:44:59,520
+like potentially even like negligible in the EMS setting. I say potentially cause like, I, I think
+
+438
+00:44:59,520 --> 00:45:02,960
+there probably are cases where like we probably shouldn't give it and it could cause damage,
+
+439
+00:45:02,960 --> 00:45:09,120
+but like, I don't think that those situations are that frequent in, in the EMS or even in the
+
+440
+00:45:09,120 --> 00:45:15,200
+critical care transport setting. I think it's more of like a long-term situation.
+
+441
+00:45:17,360 --> 00:45:22,240
+And I like, I like that you stated that it is that long-term cause the original reason that I
+
+442
+00:45:23,360 --> 00:45:28,560
+wanted to look into this was I just wanted to be sure that there wasn't something out there,
+
+443
+00:45:28,560 --> 00:45:33,520
+you know, saying we're just doing devastating effects to people and oh, I found this out,
+
+444
+00:45:33,520 --> 00:45:38,400
+you know, like, oh, I'm kind of incompetent. Yeah. I don't know if this is where the,
+
+445
+00:45:38,400 --> 00:45:44,320
+the whole idea started, but they're back in the day with like babies, we used to like leave them
+
+446
+00:45:44,320 --> 00:45:49,520
+on high flow oxygen for a long period of time, you know, for like days or weeks, maybe. Oh, wow.
+
+447
+00:45:50,160 --> 00:45:56,880
+And come to find out that that can cause like, I don't know, specifically it caused problems with
+
+448
+00:45:56,880 --> 00:46:01,600
+the eyes, like the eyes don't develop quite like they should. So you had like kids growing up with
+
+449
+00:46:01,600 --> 00:46:05,840
+like poor vision and they, they kind of like worked backwards and figured out that like,
+
+450
+00:46:05,840 --> 00:46:09,760
+oh, maybe we shouldn't be giving these babies auction for a long period of time. And the
+
+451
+00:46:09,760 --> 00:46:16,480
+culprit there is these like free radicals, right? Which I honestly like would have to like consult
+
+452
+00:46:16,480 --> 00:46:20,160
+the textbook to figure out how the specific details that you said that man, because I was like, I
+
+453
+00:46:20,160 --> 00:46:25,280
+don't know what the hell a free radical is. Yeah. But that, that narrative, like oxygen is bad
+
+454
+00:46:25,280 --> 00:46:29,840
+because it like hurt these babies eyes has like carried over and kind of like snowballed into this
+
+455
+00:46:29,840 --> 00:46:34,480
+effect where like everyone's like anti-oxygen other than the guys who like and gals who like
+
+456
+00:46:36,560 --> 00:46:39,680
+just grew up in like the first responder community where we put oxygen on anyone.
+
+457
+00:46:39,680 --> 00:46:44,640
+Right. So there's like that mentality still exist. And then there's like a new mentality where like,
+
+458
+00:46:44,640 --> 00:46:50,640
+oh, oxygen is bad. Don't give it to anyone. But like we, we live in the middle and in our setting
+
+459
+00:46:50,640 --> 00:46:53,920
+where we're like acutely managing patients, like it probably doesn't matter that much.
+
+460
+00:46:56,000 --> 00:47:00,160
+But yeah, I guess in summary, like if your patient's hypoxic based on like a pulse ox,
+
+461
+00:47:01,280 --> 00:47:05,360
+give them oxygen. If they're not like, we don't need to, but if somebody did and you want to
+
+462
+00:47:05,360 --> 00:47:09,280
+save face and like not rough feathers, it's probably okay. And then if it's like appropriate
+
+463
+00:47:09,280 --> 00:47:12,880
+for you to do it when they're like out of eyeshadow or whatever, then you can, then you can make your
+
+464
+00:47:12,880 --> 00:47:16,720
+own decision. But I don't know if it's worth like putting your foot down on a scene like that to be
+
+465
+00:47:16,720 --> 00:47:24,000
+like, oh, like oxygen dangerous. Yes. I've never so far, I've never had to do anything of putting
+
+466
+00:47:24,000 --> 00:47:29,920
+my foot down. And I really hope I don't because I work with the same people every day, you know,
+
+467
+00:47:29,920 --> 00:47:35,200
+it's the same ship, same crew. And they're all very, I mean, they basically raised me, you know,
+
+468
+00:47:35,200 --> 00:47:40,720
+right? So I definitely don't want to go and be pissing them off. We talking trash to where
+
+469
+00:47:40,720 --> 00:47:44,480
+everybody's pissed off once a ship anyway, you know, I don't need something serious to get them
+
+470
+00:47:44,480 --> 00:47:50,320
+upset. Yeah. And this is, this like brings up something that's like sort of related, like,
+
+471
+00:47:50,320 --> 00:47:55,280
+if there's ever like in that situation where you're like a relatively new guy in this,
+
+472
+00:47:56,320 --> 00:47:59,360
+in this setting where people are doing things that like don't align with practice,
+
+473
+00:47:59,360 --> 00:48:03,200
+but like the culture allows for like joking and hazing and that kind of thing.
+
+474
+00:48:03,200 --> 00:48:09,680
+Like you can always like address that in a joking way. Like, I don't know, like make a joke about
+
+475
+00:48:09,680 --> 00:48:14,400
+like, Oh, I didn't know what to do. So I put oxygen on them. Right? Like you can, you can,
+
+476
+00:48:14,800 --> 00:48:20,000
+address it in a way that's not like confrontational. You know, like I make the joke with like some of
+
+477
+00:48:20,000 --> 00:48:25,280
+the people I work with who like are resistant to using bougies. Like if I set you up for an airway,
+
+478
+00:48:25,280 --> 00:48:29,120
+I'm just going to take the style it out and throw in the trash and like such a bougie. Right? Like,
+
+479
+00:48:29,120 --> 00:48:35,200
+you don't have to like, you know, you like do it like, yeah, yeah, lighthearted. Yeah. So I don't
+
+480
+00:48:35,200 --> 00:48:42,080
+know. It's like just a potential thought I had there. I like it, man. As far as the, those are
+
+481
+00:48:42,080 --> 00:48:49,360
+kind of my three things that I wanted to discuss. I do feel much better than, and again, this trials
+
+482
+00:48:49,360 --> 00:48:56,000
+has a median duration of 11 and a half hours of oxygen delivery. So what are the odds that
+
+483
+00:48:57,040 --> 00:49:02,720
+the, even an hour transport, if I'm going from the sticks to like a city, city hospital,
+
+484
+00:49:03,600 --> 00:49:10,800
+that's an app. Yeah. It's really doing any harm whatsoever. Right. Yeah. I thought of another
+
+485
+00:49:10,800 --> 00:49:18,320
+example that sort of explains this. There's this concept of like absorption atelectasis. You heard
+
+486
+00:49:18,320 --> 00:49:25,520
+of that. It's like the idea is that in your Avioli, you have oxygen and mostly nitrogen. So like at
+
+487
+00:49:25,520 --> 00:49:32,240
+baseline, you have like 21% oxygen and whatever the rest is like 79%, 78%, then that's 1% of random
+
+488
+00:49:32,240 --> 00:49:37,360
+stuff. So like, if this is your Avioli and you have like just 21%, like getting absorbed into
+
+489
+00:49:37,360 --> 00:49:42,560
+the bloodstream, like it like shrinks a little bit, right? But if you like do a oxygen washout
+
+490
+00:49:42,560 --> 00:49:47,120
+and fill the whole thing up with oxygen, when the oxygen like goes into the bloodstream, like that
+
+491
+00:49:47,120 --> 00:49:53,760
+Avioli collapses. This is the theory. So the argument is that like, don't give, don't do like
+
+492
+00:49:53,760 --> 00:49:58,480
+a nitrogen washout. Like don't just give a hundred percent oxygen to all that nitrogen is gone.
+
+493
+00:49:58,480 --> 00:50:02,240
+Because if your patient's super hypoxic, then like you're going to collapse their Avioli.
+
+494
+00:50:02,800 --> 00:50:05,680
+But that said, like I don't, this is another one of those cases where like, I don't think
+
+495
+00:50:06,320 --> 00:50:09,200
+that the data fully supports that. This is like kind of up in the air.
+
+496
+00:50:09,760 --> 00:50:16,960
+Yeah. It's not just that the Avioli is being held open by like forces, like pushing it open,
+
+497
+00:50:16,960 --> 00:50:21,120
+like air in a balloon. Like there are like external things like around the surface of the
+
+498
+00:50:21,120 --> 00:50:25,280
+Avioli holding it open. Like, you know, like you have surface tension of fluid on the outside of
+
+499
+00:50:25,280 --> 00:50:31,200
+it. It's like helping it maintain its state. Like, is that the surfactant? Yeah. So yeah,
+
+500
+00:50:31,200 --> 00:50:34,560
+I'm not, I'm not convinced that that actually happens, but I don't know. It's just like another
+
+501
+00:50:34,560 --> 00:50:42,320
+interesting thought about the, the, I don't know, the oxygen haters out there. It's fun, man.
+
+502
+00:50:45,360 --> 00:50:51,280
+And just the one last piece on that. So like your surfactant kind of keeps it from collapsing,
+
+503
+00:50:51,280 --> 00:50:59,760
+correct? There's multiple things to it, but that's one of the bigger biological factors of it. Yeah.
+
+504
+00:50:59,760 --> 00:51:07,120
+And then your elastin helps it actually like the Avioli exhale in and of themselves, right?
+
+505
+00:51:07,120 --> 00:51:14,720
+Because your COPD or emphysema itself, it traps air because it destroys that elastin.
+
+506
+00:51:16,480 --> 00:51:21,600
+Yeah. So the elastin is again, something I should probably reference in the textbook before I talk
+
+507
+00:51:21,600 --> 00:51:27,360
+about, but it, fire all right. The elastin is what's like pulling it back, like it's causing it to
+
+508
+00:51:27,360 --> 00:51:34,960
+recoil versus the surfactant is like holding it open. So yeah, that, that I guess makes sense.
+
+509
+00:51:34,960 --> 00:51:40,960
+Like if the elastin is broken down, then you get like that hyperinflation. Yeah. So that's why like
+
+510
+00:51:40,960 --> 00:51:45,920
+you have these external forces that are like managing to some effect the shape of that
+
+511
+00:51:45,920 --> 00:51:50,160
+heavy. Like it's not just the pressure of the air inside of it. That's why I don't, I'm not,
+
+512
+00:51:51,120 --> 00:51:55,680
+I'm not a hundred percent convinced that like the absorption out of like this thing is valid,
+
+513
+00:51:55,680 --> 00:51:59,840
+but it likely is somewhere in the middle, right? Like maybe it has like some effect.
+
+514
+00:52:02,000 --> 00:52:06,640
+I mean, I think that's probably the case for like most of these like niche details we're trying to
+
+515
+00:52:06,640 --> 00:52:13,040
+work out. Like oxygen isn't bad, but it, you know, it does have like some therapeutic value.
+
+516
+00:52:13,760 --> 00:52:16,160
+We shouldn't never give it and we shouldn't always give it like, yeah,
+
+517
+00:52:17,040 --> 00:52:23,840
+sometimes everything in moderation. I like the things, you know, just do the things because
+
+518
+00:52:23,840 --> 00:52:28,000
+they've always been done. It's just an absolutely terrible reason to be doing anything medical.
+
+519
+00:52:29,520 --> 00:52:38,160
+Yeah, that's true. So if you're good with it, I just got a couple more questions for you.
+
+520
+00:52:38,160 --> 00:52:43,680
+Yeah. So I know we talked about, we've been talking about ketamine a lot. I feel like you've
+
+521
+00:52:43,680 --> 00:52:48,720
+told me this, but usually I'm typing notes. So I'm not doing that this time. Cause I feel like
+
+522
+00:52:48,720 --> 00:52:54,880
+sometimes I miss one or two things with the, let's say you're going to give an axial
+
+523
+00:52:54,880 --> 00:53:00,560
+pulse, right? I know we talked about the 0.25 milligrams per kilo over 10 for pain.
+
+524
+00:53:01,360 --> 00:53:07,680
+If you're going to give this for, let's just say you've innovated somebody or just any
+
+525
+00:53:07,680 --> 00:53:13,920
+procedural sedation is what we have for what, if you're pushing one milligram per kilo, I know
+
+526
+00:53:14,000 --> 00:53:19,920
+you're not going to slam it, right? Cause it seems like a bad idea, but what timing kind of, and I
+
+527
+00:53:19,920 --> 00:53:24,560
+know nobody's actually sitting there with a stopwatch on their iPhone, you know, looking at it, none of
+
+528
+00:53:24,560 --> 00:53:31,360
+us do, but would you do it kind of slower than you would like other medications or. Yeah. I mean, I,
+
+529
+00:53:32,000 --> 00:53:38,720
+I don't often like give medications where I just like slam it. A lot of times we just have like an
+
+530
+00:53:38,720 --> 00:53:43,760
+IV bag hanging cause it like makes it easier to get to like, you can put your medications in a port.
+
+531
+00:53:43,920 --> 00:53:47,440
+So like, if I were going to give a bolus dose Academy, like if I just have like a couple of
+
+532
+00:53:47,440 --> 00:53:51,040
+trips going, like I would just put it in the line and you can slam it in the line. Like it's not
+
+533
+00:53:51,040 --> 00:53:53,680
+like it's fair. I mean, get all the way in the patient right away and just let it drip in.
+
+534
+00:53:55,040 --> 00:54:00,880
+That's how I do like most of my pushes. If I am getting it as a push, like I just give it,
+
+535
+00:54:00,880 --> 00:54:06,400
+I don't know, slowly, like, you know, like I grabbed the syringe, I hook it up and then,
+
+536
+00:54:07,520 --> 00:54:11,200
+okay. I don't know. Like, so, and then I do the same thing with that with a flush, you know,
+
+537
+00:54:11,200 --> 00:54:20,080
+just slowly behind it. Yeah. I mean, I'm not, yeah. I mean, I think like if you,
+
+538
+00:54:20,080 --> 00:54:25,600
+if you're giving a big dose of ketamine and your patient's like alert, like there is, you know,
+
+539
+00:54:25,600 --> 00:54:30,640
+you could potentially cause like transient, like, um, you know, hypoventilation or something like
+
+540
+00:54:30,640 --> 00:54:35,440
+that. But like in our cases when we're giving big doses, like the patient's already intubated.
+
+541
+00:54:36,320 --> 00:54:41,920
+So it's not really so much of a worry for us. Um, yeah, I think it's more of an issue, like
+
+542
+00:54:42,640 --> 00:54:48,240
+in the like procedural sedation side of things, like let's say you're in the ER and you like
+
+543
+00:54:48,240 --> 00:54:53,120
+broke your arm and you're trying to set it. Um, in that situation, like working in the ER setting,
+
+544
+00:54:53,120 --> 00:54:56,480
+I've been in ER in a couple of years, but like, then I would be a little more diligent about like
+
+545
+00:54:56,480 --> 00:55:01,680
+giving it super slowly. Um, especially like when my patients, like it's easier to do that kind of
+
+546
+00:55:01,680 --> 00:55:04,080
+stuff. Like you're talking to a patient and you're like, all right, I'm going to give this,
+
+547
+00:55:04,080 --> 00:55:07,840
+we're going to give it over like 30 seconds and like you're just sitting there with them hanging
+
+548
+00:55:07,840 --> 00:55:13,920
+out. Like it's easier. What it was like for us, like, yeah, it's, it's not so, it's not so relevant
+
+549
+00:55:13,920 --> 00:55:19,440
+in our setting. Yes. Yeah. Yes. I like it. I gave ketamine for the first time right before I got
+
+550
+00:55:19,440 --> 00:55:26,800
+COVID. We ran a code and the lady legit like started like, as soon as I innovated their
+
+551
+00:55:26,800 --> 00:55:32,320
+entire, she had to have gone from a PEA. That's not a real PEA to now she's contracting enough for
+
+552
+00:55:32,320 --> 00:55:38,480
+pulse, but she was maybe we had like maybe five minutes left, you know, too much time for you to
+
+553
+00:55:38,480 --> 00:55:43,520
+just be flailing your hands kind of bad. It wasn't like, you know, it wasn't coordinated by any means.
+
+554
+00:55:43,520 --> 00:55:51,200
+It's just kind of flailing stops and flailing. So I gave the one and I, I just pushed it like a normal.
+
+555
+00:55:51,200 --> 00:55:55,520
+So I'm glad that you said that. Yeah. Yeah. And in that case, like if your patients didn't debate it,
+
+556
+00:55:55,520 --> 00:56:02,080
+like, I mean, we don't necessarily, like we never really need to like actually like slam medications
+
+557
+00:56:02,080 --> 00:56:07,760
+other than adenosine. But like, as long as you're giving it like, somewhat reasonably.
+
+558
+00:56:09,440 --> 00:56:15,840
+Yeah. That's the official, the official, somewhat reasonably. Yeah. I like it. Did I have this patient,
+
+559
+00:56:15,840 --> 00:56:22,400
+you know, just your frequent flyers, like call you at two in the morning type. And I took him to a,
+
+560
+00:56:22,400 --> 00:56:28,320
+just the normal ER wasn't like our local one or anything, but it was in the city. And I had a
+
+561
+00:56:28,320 --> 00:56:33,520
+nurse that was like, I told her, you know, I'll always say in this hurts. He's in pain.
+
+562
+00:56:33,520 --> 00:56:37,200
+I didn't give him any NARCS. And she's like, I'm a slam vinegar.
+
+563
+00:56:41,120 --> 00:56:42,080
+Nurse Bratzman.
+
+564
+00:56:45,760 --> 00:56:48,240
+Let me get away from you for my license is going as well.
+
+565
+00:56:50,000 --> 00:56:56,480
+So Rebel, I saw Rebel EM, it was an Instagram post and I, he was talking about glucagon for
+
+566
+00:56:56,480 --> 00:57:01,680
+the airway, the smooth muscle reaction. And he was just saying it really doesn't work was kind
+
+567
+00:57:01,680 --> 00:57:09,600
+of his thing. And I'm sure I'm strongly summarizing what he said. But then so I asked him about
+
+568
+00:57:09,600 --> 00:57:15,280
+magnesium, because I had also heard about magnesium, especially from some like older medics.
+
+569
+00:57:16,560 --> 00:57:21,840
+And one of them in particular, I love the guy to death. I mean, I respect him like his family, but
+
+570
+00:57:21,840 --> 00:57:26,800
+he told me a story about he gave a patient magnesium for like relaxing the airway. And
+
+571
+00:57:26,800 --> 00:57:32,000
+just an old man, you know, choking on a steak. And he said that by the time he got there at work,
+
+572
+00:57:32,000 --> 00:57:36,880
+now granted, who's really gonna know if magnesium was it or if he just actually passed it down
+
+573
+00:57:36,880 --> 00:57:44,000
+finally. But I just thought it was interesting how he was kind of, and I would assume the guy
+
+574
+00:57:44,000 --> 00:57:51,120
+posting for Rebel EM is rather bright. So you agree none of them really worked that well for
+
+575
+00:57:51,760 --> 00:57:59,040
+smooth muscle in the airway. Yeah, I don't know of anyone personally who's ever like
+
+576
+00:57:59,040 --> 00:58:04,800
+had any success, or even ever tried like giving glucagon, that used to be something we would teach
+
+577
+00:58:04,800 --> 00:58:11,520
+in medic programs. If you have someone choking to get glucagon, but a lot of places don't even
+
+578
+00:58:11,520 --> 00:58:14,880
+carry glucagon anymore, because it's kind of expensive and like hard to get. Yeah.
+
+579
+00:58:16,800 --> 00:58:20,640
+Yeah. And like you, if you have someone choking, you're not going to take the time to like
+
+580
+00:58:20,640 --> 00:58:23,760
+reconstitute a medication to get there. Like you're going to be, you're going to be doing other
+
+581
+00:58:23,760 --> 00:58:28,720
+things. And then like with the magnesium, like we generally don't want to get that fast. So you're
+
+582
+00:58:28,720 --> 00:58:33,040
+not going to like set it up to infuse over 10 minutes and like hope they're like still
+
+583
+00:58:33,040 --> 00:58:38,480
+10 minutes later. Like that seems a little problematic. Very much so. So yeah, like I don't,
+
+584
+00:58:38,480 --> 00:58:43,680
+I guess I haven't put a lot of thought into that one in a very long time, but I wouldn't
+
+585
+00:58:44,560 --> 00:58:49,200
+mess with like giving drugs to try and get like smooth muscle relaxation, somebody choking.
+
+586
+00:58:49,760 --> 00:58:54,400
+Yeah. It just never really seemed like a good idea. You know, like,
+
+587
+00:58:56,240 --> 00:59:03,680
+especially with bag, pretty much every use of it is slow. Yeah. You answered the hyperventilation
+
+588
+00:59:03,680 --> 00:59:11,520
+one with that. And then, you know how they say, and I guess it's more than just they say, but with
+
+589
+00:59:11,520 --> 00:59:17,840
+pediatric cardiac arrest, it's the airway and the respirations are the problem, a huge majority of
+
+590
+00:59:17,840 --> 00:59:26,640
+the time. Right. Would you, you know, would you tube them right away? Not so let's, we're not
+
+591
+00:59:26,640 --> 00:59:31,200
+skipping any of the vital stuff that we do, right? Like let's say they're in full cardiac arrest,
+
+592
+00:59:31,200 --> 00:59:34,640
+you know, you're still putting them on the monitor. You're still doing compressions. You're still
+
+593
+00:59:34,640 --> 00:59:41,600
+getting a line or an IO, but would you make it a point to tube them a lot quicker just to, because
+
+594
+00:59:41,600 --> 00:59:52,000
+not necessarily. Like I think still I make is really depends on like how many hands you have on
+
+595
+00:59:52,000 --> 00:59:57,440
+scene. Like once you have free hands to manage the airway, like that's the appropriate time.
+
+596
+00:59:57,440 --> 01:00:01,200
+Like if it's just like you and your partner, like it's probably not going to be the appropriate time
+
+597
+01:00:01,200 --> 01:00:07,520
+until someone else shows up. But like, if you're rolling up with like six humans, like you might
+
+598
+01:00:07,600 --> 01:00:12,080
+as well be sooner, but like, I don't think I would skip other things to prioritize that
+
+599
+01:00:13,120 --> 01:00:19,200
+because you are ventilating the patient, you know, with a medium, just focus on like doing
+
+600
+01:00:19,200 --> 01:00:23,680
+like good ventilations, like actually like getting that airway open and make sure the seal
+
+601
+01:00:23,680 --> 01:00:30,720
+and then laying the patient like per your resuscitation protocol. So yeah, I don't,
+
+602
+01:00:30,720 --> 01:00:33,920
+yeah, I wouldn't switch everything up to try and do that sooner.
+
+603
+01:00:34,560 --> 01:00:39,600
+Sweet. I would imagine that is a stressful enough situation to be
+
+604
+01:00:40,240 --> 01:00:44,000
+purposely putting yourself at it, like the groove that you have for code.
+
+605
+01:00:44,000 --> 01:00:49,520
+Yeah, and I think that that's, that's like a really important point is that I've noticed like
+
+606
+01:00:50,800 --> 01:00:57,360
+when I've like made mistakes, it's because I like deviate from what is normal, either because like,
+
+607
+01:00:57,360 --> 01:01:02,320
+I don't know, like something catches me off guard and like I go down a rabbit hole, or like I just
+
+608
+01:01:02,320 --> 01:01:08,640
+was lazy and not prepared. A very good example of this is like, I've always been like super
+
+609
+01:01:08,640 --> 01:01:12,960
+religious about like when I go on scene, like always taking my stuff in with me, and like in
+
+610
+01:01:12,960 --> 01:01:16,480
+my bags, you know, like it probably drives my partners crazy at work sometimes. They're like,
+
+611
+01:01:16,480 --> 01:01:20,240
+no, this is just like a, basically a BLS transfer, like, we're still going to carry everything in
+
+612
+01:01:20,240 --> 01:01:25,280
+because what if something happens? Like what if? But I ran a call once for like somebody having a
+
+613
+01:01:25,280 --> 01:01:31,680
+seizure. And like I walked in the room, like in the patient's home, there was somebody at the
+
+614
+01:01:31,680 --> 01:01:35,120
+door waving me in. And I walked in without waiting for my partner, like we'd always like
+
+615
+01:01:35,120 --> 01:01:38,880
+carry stuff in together. And the guy was no longer having a seizure, but he was up and like ready to
+
+616
+01:01:38,880 --> 01:01:43,120
+fight. And like, like a sprawny white dude, like working on the truck in Pittsburgh, like almost
+
+617
+01:01:43,120 --> 01:01:48,320
+got my ass kicked because like, I was like, excited about this seizure call, like, oh,
+
+618
+01:01:48,320 --> 01:01:51,760
+maybe I could do something cool. And I left my partner outside. And like, it was me against this
+
+619
+01:01:51,760 --> 01:01:58,880
+like, dude, who was probably gonna win that fight. So yeah, same thing with like, like airway
+
+620
+01:01:58,880 --> 01:02:03,920
+management stuff. Like now I've kind of kicked the idea of like, being too cool for checklist.
+
+621
+01:02:03,920 --> 01:02:08,240
+So I don't really have to worry about that. But like, that is a very common problem, I think,
+
+622
+01:02:08,800 --> 01:02:11,520
+or used to be a problem for me. And like, generally any messes that we like,
+
+623
+01:02:12,400 --> 01:02:18,400
+have a sense of confidence in our ability to do those things, we think we don't need help.
+
+624
+01:02:18,400 --> 01:02:22,000
+Same thing applies to the bougie. Like, nobody wants to use the bougie because they already know
+
+625
+01:02:22,000 --> 01:02:29,760
+how to intubate. But yeah, anytime you deviate from your team, like you introduce the possibility
+
+626
+01:02:29,760 --> 01:02:34,240
+of like, more problems. So if you're used to running a code specifically with adults,
+
+627
+01:02:34,240 --> 01:02:39,120
+when you have a kid, do the exact same thing, just change your doses, and your ratio, I guess,
+
+628
+01:02:39,120 --> 01:02:42,800
+yes, is the point I was trying to make, like, don't, don't think you need to switch it up.
+
+629
+01:02:44,640 --> 01:02:49,360
+Yeah, I like it. Because I'll be damned if I run a bad code, and it's a kid, you know, like,
+
+630
+01:02:49,440 --> 01:02:55,360
+it is, I feel like if I work in the business long enough, just statistically, it's going to happen,
+
+631
+01:02:55,360 --> 01:02:59,600
+you know, but let's do everything kind of like what you were saying earlier about practicing
+
+632
+01:02:59,600 --> 01:03:04,800
+your innovations and the things that are high intensity, but low frequency, you know,
+
+633
+01:03:04,800 --> 01:03:07,920
+and just doing everything you can to be prepared for it.
+
+634
+01:03:08,640 --> 01:03:15,040
+Yeah. Yeah, another another thing, like, along those lines is I don't know if you've
+
+635
+01:03:15,040 --> 01:03:18,480
+checked out the podcast, but I'll send you a link. I did an episode, I only have like a few
+
+636
+01:03:18,480 --> 01:03:23,680
+podcasts out, like I don't do it that often. But I recorded an episode like a year or so ago with a
+
+637
+01:03:23,680 --> 01:03:27,760
+buddy of mine. And he had just started a job with a new flight program. And he was trying to like
+
+638
+01:03:27,760 --> 01:03:34,560
+learn his new protocols. So he basically like recorded himself, like speaking through his
+
+639
+01:03:34,560 --> 01:03:38,400
+algorithms. And he just did it from memory until he like had them all memorized. And then like,
+
+640
+01:03:38,400 --> 01:03:41,120
+now he has them recorded on his phone. So like when he's driving to work, whatever you can like,
+
+641
+01:03:41,120 --> 01:03:47,760
+listen to them, just crush up. And I did the same thing for like my RSI procedure where I work. So
+
+642
+01:03:47,760 --> 01:03:52,560
+which is like a step by step of like how ideally I would want that scenario to go and to have it
+
+643
+01:03:52,560 --> 01:03:57,520
+as a recording on my phone. So like, like I work like all my shifts in like two week chunks,
+
+644
+01:03:57,520 --> 01:04:00,880
+I work for two weeks and have two weeks off. So when I'm going back to work, like I have this
+
+645
+01:04:00,880 --> 01:04:04,160
+like process for like getting back in the mood for going to work. And that's one of my things,
+
+646
+01:04:04,160 --> 01:04:07,840
+like, you know, when I'm like commuting to wherever I'm going, I like listen to this once or twice,
+
+647
+01:04:07,840 --> 01:04:14,800
+like, okay, like, cool, like, yeah, just like a way to like, yeah, there's a lot of like data out
+
+648
+01:04:14,800 --> 01:04:19,360
+there about like visualizing performance as a way to practice when you like don't have access
+
+649
+01:04:19,360 --> 01:04:24,960
+to the things. But I find it pretty tough to like, just like close my eyes and think about it like
+
+650
+01:04:24,960 --> 01:04:29,680
+that doesn't work for me. But like having a having an audio script playing in my mind, like,
+
+651
+01:04:30,240 --> 01:04:34,080
+is enough of an anchor to like visualizing that that it works for me. I don't have it works for
+
+652
+01:04:34,080 --> 01:04:39,040
+everyone. But I'll send you a link. It's worth like thinking about like, if there's, you know,
+
+653
+01:04:39,040 --> 01:04:43,360
+like, if you wanted to like do something like that for working in pediatric code.
+
+654
+01:04:45,200 --> 01:04:47,680
+I think that's like a reasonable thing to practice.
+
+655
+01:04:48,640 --> 01:04:54,880
+Yeah, absolutely. Well, I had talked to a doctor one time and asked him any advice for just going
+
+656
+01:04:54,880 --> 01:05:00,720
+into further school. And he said that he did that. Maybe not for situations, but just in general,
+
+657
+01:05:01,920 --> 01:05:07,680
+you know, whatever tidbit, whatever exam he had going on, he recorded on, I think, I mean, he's
+
+658
+01:05:07,680 --> 01:05:12,240
+the old man, he probably had like the actual recorders, you know, but he would say at any time
+
+659
+01:05:12,240 --> 01:05:15,840
+he was sitting somewhere, he just had a little headphone jack and he plug it up, you know,
+
+660
+01:05:15,840 --> 01:05:19,600
+he's eating lunch, he's listening to it. You know, maybe he's driving somewhere, he's listening to
+
+661
+01:05:19,600 --> 01:05:24,400
+it, he's waiting, he's listening to it. And he really spoke highly of it because he says,
+
+662
+01:05:25,200 --> 01:05:28,800
+he liked that it was his own voice. And he didn't know any research or anything. Maybe I didn't
+
+663
+01:05:28,800 --> 01:05:35,120
+ask, but he said the fact that you remember looking at information, you remember speaking it. And now
+
+664
+01:05:35,120 --> 01:05:39,280
+when you're listening to it, you're going through that in your mind again, you know, kind of like,
+
+665
+01:05:39,280 --> 01:05:44,880
+oh, this was happening when I was saying this. Yeah, I think like I anecdotally had the same
+
+666
+01:05:44,880 --> 01:05:49,520
+experience. Like I listened to like a fuck ton of podcasts, I call the time, like I spend, you know,
+
+667
+01:05:49,520 --> 01:05:53,920
+like every time I'm working out or had like time in between things, like in my car, like
+
+668
+01:05:54,480 --> 01:06:00,480
+hours and hours and hours of content. But it's so much like, I don't really absorb it all. But like
+
+669
+01:06:00,480 --> 01:06:07,360
+when I've taken the time to record something and like listen to it myself, like, one, I can't stand
+
+670
+01:06:07,440 --> 01:06:11,040
+the sign of my own voice, but two, I'm like, oh, like, this is me. And I took the time to make it
+
+671
+01:06:11,040 --> 01:06:18,080
+like it seems to, it seems to sink in a little more. So I think there is value in, in doing the
+
+672
+01:06:18,080 --> 01:06:21,840
+work to create that same thing with like making note cards, like you're studying for like, let's
+
+673
+01:06:21,840 --> 01:06:26,160
+say you're studying for your national registry, you can buy note cards pre-made like off of eBay
+
+674
+01:06:26,160 --> 01:06:30,640
+or off of Amazon or wherever you buy note cards, you say something. But if you take the time to
+
+675
+01:06:30,640 --> 01:06:36,400
+make them, like you probably get more value out of it, starting now. So I think there is value in
+
+676
+01:06:36,560 --> 01:06:42,880
+creating those things yourself versus just whatever else is out there. Plus you can like dial it into
+
+677
+01:06:42,880 --> 01:06:47,120
+like the specific things you need to know. Yes. Because anytime you have like, if you're listening
+
+678
+01:06:47,120 --> 01:06:50,720
+to a podcast, like maybe it's a really good podcast, but there's always like portions of it
+
+679
+01:06:50,720 --> 01:06:54,080
+that don't apply to what you want to know or to what your, what your clinical setting is.
+
+680
+01:06:54,080 --> 01:06:57,280
+So you kind of have to sift through it. Whereas if you're making something, it's like a hundred
+
+681
+01:06:57,280 --> 01:07:04,880
+percent relative. Yes. A hundred percent relevant. Not relative. That'd be weird. Yeah. I, I'm a huge
+
+682
+01:07:04,880 --> 01:07:10,560
+fan. I got this freaking binder. I've been working on this thing for quite some time. It's just in that
+
+683
+01:07:10,560 --> 01:07:14,480
+you remember medical school and you're kind of done learning things and you're just kind of doing
+
+684
+01:07:14,480 --> 01:07:19,360
+your clinical rotations. Like you're not done learning, but they're not forcing info down your
+
+685
+01:07:19,360 --> 01:07:25,600
+throat anymore. You know, I started making it then and it outgrew one binder, but I'm just a huge
+
+686
+01:07:25,600 --> 01:07:30,160
+thing. Even if it's, if it's typing, I'll have to go through it and highlight, you know, but I like
+
+687
+01:07:30,160 --> 01:07:36,560
+that. I just like the redundancy of it, you know, to where by time you're just purely reviewing it
+
+688
+01:07:36,560 --> 01:07:41,520
+without writing on it. Maybe it's your third or fourth or fifth time adding that information and
+
+689
+01:07:41,520 --> 01:07:45,840
+exactly what you were saying, how you can kind of tailor make your notes. Cause so many things out
+
+690
+01:07:45,840 --> 01:07:50,160
+there, like let's say you go online and you know, like the internet book of critical care, right?
+
+691
+01:07:50,160 --> 01:07:55,680
+Great website, very user friendly, but there's a lot of stuff on there. You know, it's a lot of stuff
+
+692
+01:07:55,760 --> 01:08:01,120
+to look at a lot of stuff. If you just want that one point, you know, so I really like to type it
+
+693
+01:08:01,120 --> 01:08:05,680
+up. If at all the time in the world, I just write it by hand because I rather enjoy doing things by
+
+694
+01:08:05,680 --> 01:08:15,920
+hand, but that's just not feasible. Our time is limited. Well, Brian, that's everything I got for
+
+695
+01:08:15,920 --> 01:08:22,160
+you this time.

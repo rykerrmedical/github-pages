@@ -1,0 +1,2195 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,640
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,640 --> 00:00:15,280
+care medicine.
+
+4
+00:00:15,280 --> 00:00:20,360
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,360 --> 00:00:23,860
+use of technology can facilitate that effort.
+
+6
+00:00:23,860 --> 00:00:29,060
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,060 --> 00:00:36,960
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:36,960 --> 00:00:40,700
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,700 --> 00:00:45,860
+do.
+
+10
+00:00:45,860 --> 00:01:01,740
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:01,740 --> 00:01:17,300
+Alright, Drew, thanks for coming on.
+
+12
+00:01:17,300 --> 00:01:18,300
+I appreciate it.
+
+13
+00:01:18,300 --> 00:01:19,900
+Thanks for having me.
+
+14
+00:01:19,900 --> 00:01:25,180
+Yeah, so you are the director for the EMS Institute.
+
+15
+00:01:25,180 --> 00:01:26,980
+Is that what you guys call it?
+
+16
+00:01:26,980 --> 00:01:32,740
+Yeah, so it's called the Emergency Medical Services Institute at Santa Fe Community College.
+
+17
+00:01:32,740 --> 00:01:33,740
+Right on.
+
+18
+00:01:33,740 --> 00:01:37,140
+So that's the official mouthful.
+
+19
+00:01:37,140 --> 00:01:39,260
+And you are a medic as well, correct?
+
+20
+00:01:39,260 --> 00:01:40,260
+Yes.
+
+21
+00:01:40,260 --> 00:01:41,260
+Yep.
+
+22
+00:01:41,260 --> 00:01:42,260
+Awesome.
+
+23
+00:01:42,260 --> 00:01:43,780
+And how did you end up in this role?
+
+24
+00:01:43,780 --> 00:01:49,820
+So I started here as an adjunct just coming and helping teaching the paramedic class.
+
+25
+00:01:49,820 --> 00:01:57,340
+I initially came in and did a little POCUS demonstration with the current faculty that
+
+26
+00:01:57,340 --> 00:01:58,980
+was here.
+
+27
+00:01:58,980 --> 00:02:05,980
+And the program was about to lose their program director who was moving on to another position.
+
+28
+00:02:05,980 --> 00:02:08,780
+And he had asked me if I was interested in stepping into this role.
+
+29
+00:02:08,780 --> 00:02:10,820
+So that's really how I got here.
+
+30
+00:02:10,820 --> 00:02:17,960
+So I went from adjunct to program director and then also teaching the paramedic program.
+
+31
+00:02:17,960 --> 00:02:21,440
+So that really started that journey.
+
+32
+00:02:21,440 --> 00:02:28,240
+But before that, I worked as a flight paramedic here in New Mexico and various other places
+
+33
+00:02:28,240 --> 00:02:29,960
+around the country.
+
+34
+00:02:29,960 --> 00:02:36,120
+And you also did some education or some training as a community paramedic as well, correct?
+
+35
+00:02:36,120 --> 00:02:37,120
+Yeah.
+
+36
+00:02:37,120 --> 00:02:43,200
+So I don't work as a community paramedic, but I did a program in Colorado called the
+
+37
+00:02:43,200 --> 00:02:46,360
+it's advanced paramedic practitioner program.
+
+38
+00:02:46,360 --> 00:02:51,440
+And it's a bachelor's degree that paramedics who are already licensed can go through.
+
+39
+00:02:51,440 --> 00:02:55,880
+And Colorado developed this program and after passing some legislation.
+
+40
+00:02:55,880 --> 00:02:59,940
+So there's several different colleges that offer this bachelor's degree.
+
+41
+00:02:59,940 --> 00:03:06,540
+And it trains paramedics who are interested in different specialty roles.
+
+42
+00:03:06,540 --> 00:03:12,820
+So it goes over a lot of more in-depth pathophysiology.
+
+43
+00:03:12,820 --> 00:03:14,920
+There's a semester of critical care.
+
+44
+00:03:14,920 --> 00:03:21,380
+Then you do multiple semesters of community paramedic, more primary care assessment, a
+
+45
+00:03:21,380 --> 00:03:24,660
+lot of behavioral health courses.
+
+46
+00:03:24,660 --> 00:03:31,140
+And then you do some specific community paramedic kind of prep test prep courses towards the
+
+47
+00:03:31,140 --> 00:03:32,140
+end.
+
+48
+00:03:32,140 --> 00:03:37,140
+So it gives you kind of a well-rounded education in different aspects of paramedic.
+
+49
+00:03:37,140 --> 00:03:40,800
+And then additionally, you can take like specialty classes.
+
+50
+00:03:40,800 --> 00:03:45,900
+So I did some classes in education to kind of help me in my role.
+
+51
+00:03:45,900 --> 00:03:46,900
+Right on.
+
+52
+00:03:46,900 --> 00:03:53,660
+And then is there much of a space as far as like employment in that area at the moment
+
+53
+00:03:53,660 --> 00:03:54,660
+or how does that?
+
+54
+00:03:54,660 --> 00:04:00,180
+So it's kind of a weird, I was having discussions with the Dean during the program, like really
+
+55
+00:04:00,180 --> 00:04:06,900
+what the role of it, what the why title it advanced paramedic practitioner and really
+
+56
+00:04:06,900 --> 00:04:09,180
+what that means.
+
+57
+00:04:09,200 --> 00:04:13,600
+And so Colorado has what's called a license paramedic and that's different than like a
+
+58
+00:04:13,600 --> 00:04:15,900
+certified paramedic.
+
+59
+00:04:15,900 --> 00:04:19,600
+And to get to be licensed as a paramedic, you need to have a bachelor's degree.
+
+60
+00:04:19,600 --> 00:04:25,080
+And this bachelor's degree was to make you a licensed paramedic.
+
+61
+00:04:25,080 --> 00:04:31,240
+And my understanding is that it's sort of like the standard or some kind of standard
+
+62
+00:04:31,240 --> 00:04:37,580
+to become a licensed paramedic in the state and that a licensed paramedic can work in
+
+63
+00:04:37,580 --> 00:04:41,600
+sort of any Dora regulated healthcare facility.
+
+64
+00:04:41,600 --> 00:04:45,180
+I don't know the legislation exactly.
+
+65
+00:04:45,180 --> 00:04:49,400
+So it's a little bit confusing, but I think it was intentionally titled that way to kind
+
+66
+00:04:49,400 --> 00:04:55,740
+of show maybe a trajectory towards the future of like maybe what the state wants to create
+
+67
+00:04:55,740 --> 00:04:58,900
+with paramedicine.
+
+68
+00:04:58,900 --> 00:05:04,240
+But it is not like a nurse practitioner program where you get an NPI number and you can prescribe
+
+69
+00:05:04,240 --> 00:05:06,220
+medications or anything like that.
+
+70
+00:05:06,220 --> 00:05:08,380
+So it's definitely not like that.
+
+71
+00:05:08,380 --> 00:05:09,380
+Yeah.
+
+72
+00:05:09,380 --> 00:05:13,420
+And is there anything like that at the moment in New Mexico?
+
+73
+00:05:13,420 --> 00:05:14,420
+No.
+
+74
+00:05:14,420 --> 00:05:17,660
+So New Mexico is different.
+
+75
+00:05:17,660 --> 00:05:22,300
+We do have critical care paramedics and community paramedics and all of those specialties.
+
+76
+00:05:22,300 --> 00:05:31,380
+But right now there is no like advanced practice paramedic or no role really that exists yet.
+
+77
+00:05:31,380 --> 00:05:37,380
+And I think New Mexico would be a great state for something like that given our environment
+
+78
+00:05:37,380 --> 00:05:44,540
+and some of the places where paramedics work can be very far away from resources and having
+
+79
+00:05:44,540 --> 00:05:49,740
+expanded skills and expanded abilities to manage patients out of the hospital without
+
+80
+00:05:49,740 --> 00:05:54,100
+maybe transporting them to the hospital I think would be really great for the state.
+
+81
+00:05:54,100 --> 00:05:55,660
+But we'll see in the future.
+
+82
+00:05:55,660 --> 00:05:56,660
+Yeah.
+
+83
+00:05:56,660 --> 00:05:57,660
+Yeah.
+
+84
+00:05:57,660 --> 00:06:02,700
+Whatever we could do in the field to keep people out of the hospital would be advantageous.
+
+85
+00:06:02,700 --> 00:06:06,300
+But that's still not quite happening here yet.
+
+86
+00:06:06,300 --> 00:06:07,300
+It is.
+
+87
+00:06:07,300 --> 00:06:11,420
+But I was surprised to learn like we have EMT basics that do sutures here out in the
+
+88
+00:06:11,420 --> 00:06:17,740
+field and some of the rural like Pueblos.
+
+89
+00:06:17,740 --> 00:06:20,020
+There's basics that are trained to do sutures.
+
+90
+00:06:20,020 --> 00:06:21,740
+And so I was really surprised coming here.
+
+91
+00:06:21,740 --> 00:06:26,940
+That was sort of a big difference where just depending on where you are, there may be
+
+92
+00:06:26,940 --> 00:06:28,580
+opportunities for that.
+
+93
+00:06:28,580 --> 00:06:30,660
+But we'll see if it grows.
+
+94
+00:06:30,660 --> 00:06:37,300
+I think with the way our state's EMS education is, I think it's a good state that could potentially
+
+95
+00:06:37,300 --> 00:06:38,300
+have something like that.
+
+96
+00:06:38,300 --> 00:06:39,300
+For sure.
+
+97
+00:06:39,300 --> 00:06:40,300
+Yeah.
+
+98
+00:06:40,300 --> 00:06:44,700
+I remember when I did my EMT, my basic in Virginia years ago, I could give four drugs
+
+99
+00:06:44,700 --> 00:06:45,700
+and one of them was oxygen.
+
+100
+00:06:45,700 --> 00:06:46,700
+Yeah.
+
+101
+00:06:46,700 --> 00:06:49,260
+And like a basic here in New Mexico, I don't remember how many they can give, but it's
+
+102
+00:06:49,260 --> 00:06:50,260
+a bunch.
+
+103
+00:06:50,260 --> 00:06:51,260
+It's a lot.
+
+104
+00:06:51,260 --> 00:06:52,260
+Yeah.
+
+105
+00:06:52,260 --> 00:06:56,580
+And like an intermediate can give TXA.
+
+106
+00:06:56,580 --> 00:07:02,340
+They can manage a patient on like numerous medications for an IFT, which in a lot of
+
+107
+00:07:02,340 --> 00:07:05,540
+states, paramedics aren't even allowed to manage.
+
+108
+00:07:05,540 --> 00:07:10,620
+So there is some things about working here that make it pretty unique.
+
+109
+00:07:10,620 --> 00:07:11,620
+For sure.
+
+110
+00:07:11,620 --> 00:07:12,820
+And we got the best landscapes.
+
+111
+00:07:12,820 --> 00:07:15,380
+Yes, the best landscapes, definitely.
+
+112
+00:07:15,380 --> 00:07:18,620
+And yeah, the best green chili.
+
+113
+00:07:19,620 --> 00:07:28,500
+Well, here at the community college, you guys last year started a critical care review course
+
+114
+00:07:28,500 --> 00:07:30,860
+or a critical care transport review course.
+
+115
+00:07:30,860 --> 00:07:31,860
+Yeah.
+
+116
+00:07:31,860 --> 00:07:33,260
+You want to talk about that a bit?
+
+117
+00:07:33,260 --> 00:07:34,260
+Sure.
+
+118
+00:07:34,260 --> 00:07:39,940
+So the design or the idea came from, like we talked about, there's a lot of paramedics
+
+119
+00:07:39,940 --> 00:07:45,460
+here can transport a lot of pretty sick patients, basically right out of school.
+
+120
+00:07:45,460 --> 00:07:51,940
+And locally, our fire department was getting asked to transport patients on impellas and
+
+121
+00:07:51,940 --> 00:07:58,660
+numerous trips and pediatric patients on high flow and things that typically more classically,
+
+122
+00:07:58,660 --> 00:08:03,420
+like in an urban environment, like a critical care transport team or flight team would handle
+
+123
+00:08:03,420 --> 00:08:06,300
+those types of transports.
+
+124
+00:08:06,300 --> 00:08:12,240
+And so we definitely saw a need to increase the level of training, but there was literally
+
+125
+00:08:12,240 --> 00:08:18,240
+no options other than take like an impact EMS course or flight bridge ed course, which
+
+126
+00:08:18,240 --> 00:08:26,080
+are great for test prep, but to really get hands on with an impeller device or managing
+
+127
+00:08:26,080 --> 00:08:30,720
+vent vented patients or multiple drips and what the logistics looks like.
+
+128
+00:08:30,720 --> 00:08:36,520
+We wanted to create a course where not just paramedics, but other providers as well could
+
+129
+00:08:36,520 --> 00:08:40,680
+come and get hands on training in that space.
+
+130
+00:08:40,680 --> 00:08:48,200
+And so the course is designed to be a full college credit critical care course that can
+
+131
+00:08:48,200 --> 00:08:53,040
+be used as a review course, but also to take someone from no critical care background to
+
+132
+00:08:53,040 --> 00:08:55,400
+being able to do the job.
+
+133
+00:08:55,400 --> 00:08:57,440
+And right now it's a semester long program.
+
+134
+00:08:57,440 --> 00:09:02,160
+It's a little tight for one semester to get all of the things covered that we want to
+
+135
+00:09:02,160 --> 00:09:10,100
+cover, but it prepares, you know, paramedics to take the FPC or CCP, a nurse could potentially
+
+136
+00:09:10,100 --> 00:09:13,000
+take the CFRN after this course.
+
+137
+00:09:13,000 --> 00:09:15,120
+We have respiratory therapists that are interested.
+
+138
+00:09:15,120 --> 00:09:19,680
+We have physician assistants that are interested in the course.
+
+139
+00:09:19,680 --> 00:09:23,380
+And it really just covers, you know, all of the things that you might find on a critical
+
+140
+00:09:23,380 --> 00:09:28,980
+care exam, but also a lot of the hands on kind of minutia of like moving a drip over
+
+141
+00:09:28,980 --> 00:09:33,860
+or setting up events and just zeroing an art line.
+
+142
+00:09:33,860 --> 00:09:35,980
+And how does that, how do you hook it up to your monitor?
+
+143
+00:09:35,980 --> 00:09:39,680
+All the things you don't really learn in a prep class.
+
+144
+00:09:39,680 --> 00:09:44,840
+And also we go into depth in some other topics as well as like ultrasound and things like
+
+145
+00:09:44,840 --> 00:09:45,840
+that.
+
+146
+00:09:45,840 --> 00:09:50,200
+And we've added this year now clinical rotations for the critical care class as well.
+
+147
+00:09:50,200 --> 00:09:56,160
+So they'll go to the ICU, they'll shadow a respiratory therapist as well on the ICU,
+
+148
+00:09:56,160 --> 00:09:58,800
+and then they'll do some rotations with sonography.
+
+149
+00:09:58,800 --> 00:09:59,800
+Awesome.
+
+150
+00:09:59,800 --> 00:10:06,600
+So, and you guys have like a pretty unique space here that you have a SIM lab set up
+
+151
+00:10:06,600 --> 00:10:12,640
+with both like a bedside set up where you can like work through a scenario where a
+
+152
+00:10:12,640 --> 00:10:16,360
+patient is lying on a hospital bed with a monitor on the machines attached.
+
+153
+00:10:16,360 --> 00:10:21,400
+And you also have like a back of an ambulance so you can simulate actually having to move
+
+154
+00:10:21,400 --> 00:10:23,520
+your patient while you're managing all these things.
+
+155
+00:10:23,520 --> 00:10:24,520
+Yeah.
+
+156
+00:10:24,520 --> 00:10:28,120
+Which I think is like one of the challenges for people who are new to this space.
+
+157
+00:10:28,120 --> 00:10:29,120
+Totally.
+
+158
+00:10:29,120 --> 00:10:33,120
+And that like for me being when I was a new flight paramedic, like, okay, what do you
+
+159
+00:10:33,120 --> 00:10:38,280
+hand up the tunnel first and the aircraft is at the pumps, do I hand the oxygen connection
+
+160
+00:10:38,280 --> 00:10:42,040
+for the vents, you know, and it's like, Oh, now this is wrapped around their leg, and
+
+161
+00:10:42,040 --> 00:10:43,040
+this is on the seatbelt.
+
+162
+00:10:43,040 --> 00:10:47,920
+So there's all these like little nuance things to making your life easier.
+
+163
+00:10:47,920 --> 00:10:50,800
+And so yeah, we try to simulate or create that environment.
+
+164
+00:10:50,800 --> 00:10:56,160
+So we have them go from the like a simulated ICU, move on to a gurney and then move into
+
+165
+00:10:56,160 --> 00:11:01,960
+an ambulance and they have to keep all of the equipment working and we don't let them
+
+166
+00:11:01,960 --> 00:11:05,520
+verbalize anything where they can be like, I'm just going to verbalize that I'm hooking
+
+167
+00:11:05,520 --> 00:11:06,520
+the vent up.
+
+168
+00:11:06,520 --> 00:11:09,640
+It's like, no, I actually hooked that because that's part of that logistics that makes that
+
+169
+00:11:09,640 --> 00:11:11,560
+move challenging.
+
+170
+00:11:11,560 --> 00:11:12,560
+So they get that experience.
+
+171
+00:11:12,560 --> 00:11:17,680
+And so when they come out, they're a little bit more prepared than like your typical,
+
+172
+00:11:17,680 --> 00:11:21,360
+you know, paramedic or nurse who maybe he's never done that kind of thing before.
+
+173
+00:11:21,360 --> 00:11:22,360
+Yeah, that's awesome.
+
+174
+00:11:22,360 --> 00:11:27,320
+I think that's definitely a gap in most the offerings that are out there.
+
+175
+00:11:27,320 --> 00:11:28,680
+Yeah, for sure.
+
+176
+00:11:28,680 --> 00:11:33,840
+It's really like that's all on the job learning a lot of the time and you know, which totally
+
+177
+00:11:33,840 --> 00:11:34,840
+which is good.
+
+178
+00:11:34,840 --> 00:11:39,440
+But I think it's good to show up a little bit, understand, you know, what the challenges
+
+179
+00:11:39,440 --> 00:11:40,440
+are for sure.
+
+180
+00:11:40,440 --> 00:11:41,440
+Yeah.
+
+181
+00:11:41,440 --> 00:11:45,320
+And I imagine the expectation is not that people go from your prep class to being able
+
+182
+00:11:45,320 --> 00:11:51,920
+to like competently perform like the flight role, but it's more to give them like some
+
+183
+00:11:51,920 --> 00:11:54,280
+exposure to that and get them familiar with the process.
+
+184
+00:11:54,280 --> 00:11:55,280
+They know what they're getting into.
+
+185
+00:11:55,280 --> 00:11:56,280
+Exactly.
+
+186
+00:11:56,280 --> 00:11:57,280
+Yeah.
+
+187
+00:11:57,880 --> 00:12:03,640
+You know, we're expecting them to walk out and function exactly as a flight crew member
+
+188
+00:12:03,640 --> 00:12:09,840
+should but it gives them I think a pretty good foundation, you know, and we're tweaking
+
+189
+00:12:09,840 --> 00:12:10,840
+it.
+
+190
+00:12:10,840 --> 00:12:11,840
+It's a new class.
+
+191
+00:12:11,840 --> 00:12:14,920
+So it's going to take some time to really get it to how we want it to be.
+
+192
+00:12:14,920 --> 00:12:17,720
+But I think it's it's going pretty well.
+
+193
+00:12:17,720 --> 00:12:18,960
+So right on.
+
+194
+00:12:18,960 --> 00:12:24,560
+And for folks that are here in New Mexico, when is the next class and is there space
+
+195
+00:12:24,560 --> 00:12:26,880
+or how does that work if someone is interested in participating?
+
+196
+00:12:27,480 --> 00:12:31,360
+So right now the next class is going to be over the summer semester.
+
+197
+00:12:31,360 --> 00:12:35,800
+So it'll be a bit accelerated.
+
+198
+00:12:35,800 --> 00:12:38,240
+That class is open.
+
+199
+00:12:38,240 --> 00:12:39,600
+Registration doesn't open until April.
+
+200
+00:12:39,600 --> 00:12:43,200
+So there's still a little bit of time to get your interest in.
+
+201
+00:12:43,200 --> 00:12:44,960
+Basically, people can reach out to me.
+
+202
+00:12:44,960 --> 00:12:50,240
+They can go on our website, sfcc.edu and find the paramedicine page.
+
+203
+00:12:50,240 --> 00:12:54,400
+And on there, there's a little application for the critical care program.
+
+204
+00:12:54,400 --> 00:12:57,520
+They just fill that out and they need to apply to the college.
+
+205
+00:12:57,520 --> 00:13:01,040
+They need to be licensed somewhere.
+
+206
+00:13:01,040 --> 00:13:06,880
+And either as a nurse, respiratory therapist, paramedic, PA, whoever is interested, they
+
+207
+00:13:06,880 --> 00:13:10,240
+just need to be licensed at that level or above.
+
+208
+00:13:10,240 --> 00:13:12,480
+And then, yeah, we'll get you in the class.
+
+209
+00:13:12,480 --> 00:13:13,480
+Right on.
+
+210
+00:13:13,480 --> 00:13:14,480
+Yeah, it's awesome.
+
+211
+00:13:14,480 --> 00:13:22,320
+I don't know of anyone else who's like regularly doing critical care transport classes like
+
+212
+00:13:22,320 --> 00:13:24,800
+in person in the state.
+
+213
+00:13:24,800 --> 00:13:31,600
+Yeah, there had been historically some in the state in the past down in Roswell.
+
+214
+00:13:31,600 --> 00:13:35,840
+I think there used to be one in Santa Fe many years ago.
+
+215
+00:13:35,840 --> 00:13:45,640
+But what's unique about this class is you get college degree credit for it.
+
+216
+00:13:45,640 --> 00:13:46,640
+It's transferable.
+
+217
+00:13:46,640 --> 00:13:49,520
+It's something you can take with you on your transcripts.
+
+218
+00:13:49,520 --> 00:13:53,420
+So it's not just like a hey pay us 400 bucks and we'll give you a cert.
+
+219
+00:13:53,420 --> 00:13:58,200
+So it gives you something that is a little bit more academic.
+
+220
+00:13:58,200 --> 00:14:02,840
+And yeah, it is a space in that is lacking, I think, for sure.
+
+221
+00:14:02,840 --> 00:14:07,980
+If you look, especially in the western United States, there's like very few, if any, critical
+
+222
+00:14:07,980 --> 00:14:10,860
+care programs through colleges.
+
+223
+00:14:10,860 --> 00:14:14,100
+But it's required to do that.
+
+224
+00:14:14,100 --> 00:14:18,360
+Any job in that space, you need to have that certification.
+
+225
+00:14:18,360 --> 00:14:22,880
+And the only way to get it is to take an online class or study yourself or through
+
+226
+00:14:22,880 --> 00:14:24,480
+an agency or something like that.
+
+227
+00:14:24,480 --> 00:14:25,480
+Yeah.
+
+228
+00:14:25,480 --> 00:14:28,040
+So if you're going to pay to prep for the test anyways, because you want that flight
+
+229
+00:14:28,040 --> 00:14:32,360
+job, might as well take a class that shows you how to do the hands on parts of it as
+
+230
+00:14:32,360 --> 00:14:33,360
+well.
+
+231
+00:14:33,360 --> 00:14:34,360
+Yeah.
+
+232
+00:14:34,360 --> 00:14:38,480
+And if you like to learn in person and maybe go a little more in depth and spend a little
+
+233
+00:14:38,480 --> 00:14:46,560
+more time on each one of those topics and then that hands on piece really, I think,
+
+234
+00:14:46,560 --> 00:14:50,400
+is huge that you don't get in that online class.
+
+235
+00:14:50,400 --> 00:14:51,400
+Yeah.
+
+236
+00:14:51,400 --> 00:14:55,520
+And if there's folks who have experience in that space and do some teaching, are you still
+
+237
+00:14:55,520 --> 00:14:59,960
+looking for folks to help on the carrying out the class side of things on the teaching
+
+238
+00:14:59,960 --> 00:15:00,960
+side?
+
+239
+00:15:00,960 --> 00:15:01,960
+Yeah, definitely.
+
+240
+00:15:01,960 --> 00:15:09,160
+So critical care, we have openings like yourself work for us as a skills instructor or an adjunct
+
+241
+00:15:09,160 --> 00:15:15,160
+and that really, we really need people in the critical care space that are interested
+
+242
+00:15:15,160 --> 00:15:18,320
+to come in and help with that.
+
+243
+00:15:18,320 --> 00:15:25,840
+As the class grows, we found that doing these extended simulations can be pretty involved
+
+244
+00:15:25,840 --> 00:15:26,840
+and take hours.
+
+245
+00:15:26,840 --> 00:15:31,360
+And so patient, you know, students, we want every student to get through each SIM.
+
+246
+00:15:31,360 --> 00:15:34,620
+So we would like to have more instructors.
+
+247
+00:15:34,620 --> 00:15:37,640
+We have a pretty good pool of critical care folks.
+
+248
+00:15:37,640 --> 00:15:39,460
+We have two PAs that work for us.
+
+249
+00:15:39,460 --> 00:15:44,720
+We have one PA, special forces medic that just was hired.
+
+250
+00:15:44,720 --> 00:15:51,540
+We have a couple flight medics from various agencies around.
+
+251
+00:15:51,540 --> 00:15:53,400
+We have yourself.
+
+252
+00:15:53,400 --> 00:16:01,000
+So we have a pretty good cadre of folks, but always having people to help run these simulations
+
+253
+00:16:01,000 --> 00:16:04,000
+to make sure all the students are getting that hands on is key.
+
+254
+00:16:04,000 --> 00:16:06,080
+Yeah, that makes sense.
+
+255
+00:16:06,080 --> 00:16:11,920
+So that's the critical care class that you're doing, but you also do EMT and medic classes
+
+256
+00:16:11,920 --> 00:16:12,920
+here as well.
+
+257
+00:16:12,920 --> 00:16:13,920
+Yeah, we do.
+
+258
+00:16:13,920 --> 00:16:20,220
+So everything from technically EMR all the way up to critical care.
+
+259
+00:16:20,220 --> 00:16:27,640
+So we offer basic EMT classes or EMT pretty much every semester.
+
+260
+00:16:27,640 --> 00:16:34,720
+We do advanced EMT and we have a paramedic program that goes, starts every year.
+
+261
+00:16:34,720 --> 00:16:36,840
+We start a new cohort.
+
+262
+00:16:36,840 --> 00:16:40,200
+And these all have the option to do for college credit as well?
+
+263
+00:16:40,200 --> 00:16:43,500
+Yes, our paramedic program, they all are college credit.
+
+264
+00:16:43,500 --> 00:16:48,060
+So everything is towards a degree.
+
+265
+00:16:48,060 --> 00:16:52,680
+And so people can come in with no EMS background and pursue our paramedicine degree.
+
+266
+00:16:52,680 --> 00:16:58,200
+So they will start in EMT, they'll take biology, they'll take a couple of their gen ed classes
+
+267
+00:16:58,200 --> 00:17:01,880
+and then apply to the paramedic program once they get their EMT.
+
+268
+00:17:01,880 --> 00:17:07,300
+And then they can graduate with their associates degree by the end of the paramedic program.
+
+269
+00:17:07,620 --> 00:17:14,660
+So our paramedic program is not obviously in the US, we don't require a degree, but
+
+270
+00:17:14,660 --> 00:17:21,260
+we are moving towards not a degree requirement per se, but we've made our degree program
+
+271
+00:17:21,260 --> 00:17:27,180
+for our paramedics very streamlined so that they can earn that associates degree by the
+
+272
+00:17:27,180 --> 00:17:28,640
+time they graduate.
+
+273
+00:17:28,640 --> 00:17:32,700
+And I would say like majority of our students now pursue that degree.
+
+274
+00:17:32,700 --> 00:17:38,060
+It's where before when it was like, okay, you had three extra semesters onto your already
+
+275
+00:17:38,060 --> 00:17:40,180
+four semester long paramedic program.
+
+276
+00:17:40,180 --> 00:17:44,860
+A lot of people waited to get that degree, maybe waited till later, but we've changed
+
+277
+00:17:44,860 --> 00:17:46,060
+that degree plan a bit.
+
+278
+00:17:46,060 --> 00:17:52,340
+So someone could come in with no college credit, take the gen ed, maybe some of their gen
+
+279
+00:17:52,340 --> 00:17:57,020
+ed their first semester and then finish a couple of online classes during the program
+
+280
+00:17:57,020 --> 00:17:58,420
+and graduate with the degree.
+
+281
+00:17:58,420 --> 00:18:00,060
+So that's been a big goal.
+
+282
+00:18:00,060 --> 00:18:01,060
+That's awesome.
+
+283
+00:18:01,060 --> 00:18:06,500
+And I've been out of that space for a while, but I imagine it's fairly different than how
+
+284
+00:18:06,500 --> 00:18:10,580
+most paramedic programs across the country are doing it these days.
+
+285
+00:18:10,580 --> 00:18:12,420
+Yeah.
+
+286
+00:18:12,420 --> 00:18:20,100
+The difference, the disparity between paramedic programs is pretty vast in the US.
+
+287
+00:18:20,100 --> 00:18:27,180
+It's like, so since 2013, every paramedic program in the country has to be what's called
+
+288
+00:18:27,180 --> 00:18:28,660
+K-HEP accredited.
+
+289
+00:18:28,660 --> 00:18:31,540
+And that started because it, K-HEP has been around.
+
+290
+00:18:31,540 --> 00:18:36,020
+Paramedic programs have been accredited for a very long time, but it wasn't a requirement.
+
+291
+00:18:36,020 --> 00:18:40,260
+And in 2013, the national registry said, if you're going to take the national exam, you
+
+292
+00:18:40,260 --> 00:18:43,380
+had to have gone to a K-HEP accredited program.
+
+293
+00:18:43,380 --> 00:18:45,140
+So that pretty much sealed the deal.
+
+294
+00:18:45,140 --> 00:18:48,620
+Now all 50 states utilize the national registry.
+
+295
+00:18:48,620 --> 00:18:54,220
+So every paramedic program for the most part, unless there's some states that still recognize
+
+296
+00:18:54,220 --> 00:18:59,300
+a state paramedic, all have a K-HEP accreditation.
+
+297
+00:18:59,300 --> 00:19:06,780
+And so part of that is like, if you are going to a paramedic school, you have to be awarded
+
+298
+00:19:06,780 --> 00:19:10,260
+college credit by an institution.
+
+299
+00:19:10,260 --> 00:19:14,020
+Doesn't necessarily have to be by the paramedic program, but the program itself has to be
+
+300
+00:19:14,020 --> 00:19:18,140
+sponsored by an institution that would give college credit for that.
+
+301
+00:19:18,140 --> 00:19:19,980
+And it has to be towards degree completion.
+
+302
+00:19:19,980 --> 00:19:25,620
+It couldn't just be like, we're going to give you 50 credit hours of whatever elective
+
+303
+00:19:25,620 --> 00:19:31,260
+and welding or I don't know, it has to be towards degree completion of something.
+
+304
+00:19:31,260 --> 00:19:37,060
+And so pretty much now every paramedic program, every paramedic student has the option to
+
+305
+00:19:37,060 --> 00:19:42,540
+get a degree, at least an associates degree.
+
+306
+00:19:42,540 --> 00:19:47,740
+It's just how we get there in terms of making that a requirement is a different, a little
+
+307
+00:19:47,740 --> 00:19:49,260
+bit different of a discussion.
+
+308
+00:19:49,260 --> 00:19:53,980
+But I think our model is pretty good because a student can come in and not spend much extra
+
+309
+00:19:53,980 --> 00:19:59,100
+time in school and get that college degree and really open up a lot more doors, give
+
+310
+00:19:59,100 --> 00:20:04,700
+themselves a lot more bigger jumping board, so to speak, to go to different things and
+
+311
+00:20:04,700 --> 00:20:07,520
+expand their career.
+
+312
+00:20:07,520 --> 00:20:12,420
+And I think New Mexico does a good job because we are like, we have six paramedic programs
+
+313
+00:20:12,420 --> 00:20:15,520
+and they all offer a degree and one of them is a four year degree.
+
+314
+00:20:15,520 --> 00:20:20,040
+So I think we're pretty unique in that aspect.
+
+315
+00:20:20,040 --> 00:20:25,480
+Do you know offhand how, like what percentage of your students who finish the paramedic
+
+316
+00:20:25,480 --> 00:20:28,400
+portion get a degree?
+
+317
+00:20:28,400 --> 00:20:35,700
+I don't know the exact percentage, but I know since we've updated our degree plan like this
+
+318
+00:20:35,700 --> 00:20:42,300
+current cohort, I think everybody in this cohort is pursuing that degree.
+
+319
+00:20:42,300 --> 00:20:52,460
+So that has been a big, big, big benefit for us to see that growth where before it
+
+320
+00:20:52,460 --> 00:20:59,940
+was probably in the 30% because it was such an extra add on of time.
+
+321
+00:20:59,940 --> 00:21:04,140
+And if you're trying to get out and work and you don't want to invest that extra time,
+
+322
+00:21:04,140 --> 00:21:11,020
+I do understand it's kind of, you know, it's not typical to spend seven semesters in school
+
+323
+00:21:11,020 --> 00:21:14,400
+to get a, an associates degree.
+
+324
+00:21:14,400 --> 00:21:21,320
+And our paramedic students were, when we calculated it compared to a nursing degree had somewhere
+
+325
+00:21:21,320 --> 00:21:27,400
+in the ballpark of 75 to 85 credit hours in a nursing degree, it was like 69 credit
+
+326
+00:21:27,400 --> 00:21:31,140
+hours and they're spending about the same amount of time in school.
+
+327
+00:21:31,140 --> 00:21:36,280
+So we really wanted to make sure we were like better accounting for those, those hours.
+
+328
+00:21:36,280 --> 00:21:37,280
+Right on.
+
+329
+00:21:37,280 --> 00:21:38,280
+Yeah.
+
+330
+00:21:38,280 --> 00:21:44,740
+And you mentioned that all the paramedic programs in the state now, all of them offer
+
+331
+00:21:44,740 --> 00:21:46,220
+like a similar pathway.
+
+332
+00:21:46,220 --> 00:21:47,220
+Yep.
+
+333
+00:21:47,220 --> 00:21:53,300
+Is there anything specific in like how things are done here in New Mexico or like the challenges
+
+334
+00:21:53,300 --> 00:21:58,300
+to EMS education that are specific to our state that you guys are trying to work on
+
+335
+00:21:58,300 --> 00:22:00,940
+at the moment?
+
+336
+00:22:00,940 --> 00:22:07,440
+There are, the state has a lot of challenges in healthcare in general, recruiting providers.
+
+337
+00:22:07,460 --> 00:22:12,940
+And so we, we have shortages just like every other, every other field, but the paramedic
+
+338
+00:22:12,940 --> 00:22:15,000
+shortages is pretty profound.
+
+339
+00:22:15,000 --> 00:22:22,260
+We just did a big survey across every survey, every survey across every service in New Mexico,
+
+340
+00:22:22,260 --> 00:22:27,440
+fire service, third service, hospital, private flight services.
+
+341
+00:22:27,440 --> 00:22:32,620
+And a lot of different areas in our state are pretty understaffed when it comes to paramedics.
+
+342
+00:22:32,620 --> 00:22:34,620
+And that's true across the country.
+
+343
+00:22:34,640 --> 00:22:40,440
+And I think when you look at that, people start saying, well, what are the, where are
+
+344
+00:22:40,440 --> 00:22:41,920
+those challenges coming from?
+
+345
+00:22:41,920 --> 00:22:46,160
+And the, an easy solution is to be like, well, the school's too hard.
+
+346
+00:22:46,160 --> 00:22:47,160
+The school's too long.
+
+347
+00:22:47,160 --> 00:22:52,160
+They have to take this validated national exam and it's challenging and some people
+
+348
+00:22:52,160 --> 00:22:53,360
+don't pass it.
+
+349
+00:22:53,360 --> 00:22:58,440
+And some of those things are looked at as like barriers to fixing staffing problems.
+
+350
+00:22:58,440 --> 00:23:03,240
+And so I think every paramedic program faces like some of those where they're like trying
+
+351
+00:23:03,240 --> 00:23:09,420
+to stand up to this idea that education is causing staffing problems.
+
+352
+00:23:09,420 --> 00:23:15,360
+I'm not saying that that's the sentiment here in this state, but we definitely face staffing
+
+353
+00:23:15,360 --> 00:23:18,980
+issues and staffing shortages.
+
+354
+00:23:18,980 --> 00:23:24,780
+And there's a lot of discussions about how we should go about fixing that.
+
+355
+00:23:24,780 --> 00:23:29,340
+And I think one of the ways we want to fix that is not, is by recruiting students into
+
+356
+00:23:29,340 --> 00:23:36,400
+our program and by not necessarily by increasing our standards by, and that may be counterintuitive,
+
+357
+00:23:36,400 --> 00:23:40,840
+but we want to be the program that's looked at as, you know, that's going to, where students
+
+358
+00:23:40,840 --> 00:23:43,640
+can come and learn more, do expanded clinicals.
+
+359
+00:23:43,640 --> 00:23:47,480
+Like, you know, our students get a lot of clinicals that are above and beyond what a
+
+360
+00:23:47,480 --> 00:23:48,720
+typical paramedic does.
+
+361
+00:23:48,720 --> 00:23:51,400
+I mean, they're certified in ultrasound.
+
+362
+00:23:51,400 --> 00:23:59,900
+When they graduate, they do multiple rotations with sonographers and doing ultrasounds in
+
+363
+00:23:59,900 --> 00:24:00,900
+the ER.
+
+364
+00:24:00,900 --> 00:24:06,700
+So they're pretty expert in like leading kind of technologies in the EMS world.
+
+365
+00:24:06,700 --> 00:24:11,460
+And that's what we want to utilize to like draw people into the profession of like, look,
+
+366
+00:24:11,460 --> 00:24:16,740
+there is these great clinical opportunities and this is a really rewarding job instead
+
+367
+00:24:16,740 --> 00:24:21,080
+of, all right, we're going to just teach you the bare bones and get you through a program
+
+368
+00:24:21,080 --> 00:24:25,760
+in six state, nine months and get you out in the field and then you'll quit two years
+
+369
+00:24:25,760 --> 00:24:26,760
+later.
+
+370
+00:24:26,760 --> 00:24:30,960
+So we want to make people interested in becoming paramedics.
+
+371
+00:24:30,960 --> 00:24:36,480
+And we also want to make sure that we are trying to take in as many students as we can.
+
+372
+00:24:36,480 --> 00:24:39,120
+So that's a huge challenge.
+
+373
+00:24:39,120 --> 00:24:40,760
+Like are there enough clinical sites?
+
+374
+00:24:40,760 --> 00:24:45,320
+Are there enough internships for patients or students to go to?
+
+375
+00:24:45,320 --> 00:24:47,740
+So that's something we run into.
+
+376
+00:24:48,380 --> 00:24:54,180
+We only historically have accepted only 15 students into each cohort and we're trying
+
+377
+00:24:54,180 --> 00:24:58,500
+to up that number so that we can help alleviate some of these shortages.
+
+378
+00:24:58,500 --> 00:24:59,500
+Yeah.
+
+379
+00:24:59,500 --> 00:25:07,420
+And you mentioned that you guys are including ultrasound training in your initial paramedic
+
+380
+00:25:07,420 --> 00:25:08,420
+courses.
+
+381
+00:25:08,420 --> 00:25:09,420
+Yeah.
+
+382
+00:25:09,420 --> 00:25:10,420
+Yeah, I think that's cool.
+
+383
+00:25:10,420 --> 00:25:15,700
+And we've also seen, you and I were just talking about this, a lot of the ground services
+
+384
+00:25:15,700 --> 00:25:18,900
+in our area are starting to introduce that as well.
+
+385
+00:25:18,900 --> 00:25:25,660
+Whereas traditionally it's been something that more senior providers removed from school,
+
+386
+00:25:25,660 --> 00:25:27,540
+like take that on.
+
+387
+00:25:27,540 --> 00:25:31,580
+Yeah, I think so.
+
+388
+00:25:31,580 --> 00:25:37,420
+I've seen the utility of ultrasound in my own practice and I was not one of these people
+
+389
+00:25:37,420 --> 00:25:40,480
+that was like super bought into it initially.
+
+390
+00:25:40,480 --> 00:25:46,640
+But after seeing in a variety of different realms, I mean, from working in a critical
+
+391
+00:25:46,640 --> 00:25:54,440
+care transport world and helping guide treatment decisions to working at ski patrol and detecting
+
+392
+00:25:54,440 --> 00:25:59,080
+a tension pneumothorax after a tree strike.
+
+393
+00:25:59,080 --> 00:26:05,760
+I've seen this tool that's quite simple actually to teach somebody some basic skills and really
+
+394
+00:26:05,760 --> 00:26:07,680
+make a big difference in practice.
+
+395
+00:26:07,680 --> 00:26:14,040
+And so we wanted to bring that into the paramedic world and kind of model a little bit more
+
+396
+00:26:14,040 --> 00:26:19,920
+how like a physician would be trained in medical school to use ultrasound and it's to incorporate
+
+397
+00:26:19,920 --> 00:26:24,920
+it into their assessment and to utilize those findings just as like more evidence.
+
+398
+00:26:24,920 --> 00:26:28,580
+And we also use it to teach the anatomy and physiology.
+
+399
+00:26:28,580 --> 00:26:33,240
+So they start during their anatomy and physiology, which is their entire first semester.
+
+400
+00:26:33,240 --> 00:26:40,440
+They're identifying like gallbladder, liver, kidney, renal pyramids, different vessels,
+
+401
+00:26:40,440 --> 00:26:45,640
+aorta, IVC, hepatic vessels, structures in the lung.
+
+402
+00:26:45,640 --> 00:26:50,400
+They look at heart valves, they're labeling all these things in their final, in A&P, their
+
+403
+00:26:50,400 --> 00:26:55,320
+lab final is to like, they have a list of structures and they have to find it with ultrasound
+
+404
+00:26:55,320 --> 00:26:56,320
+and label it.
+
+405
+00:26:56,320 --> 00:26:58,280
+So that's kind of how we introduce it.
+
+406
+00:26:58,280 --> 00:27:01,280
+We don't really teach any findings.
+
+407
+00:27:01,280 --> 00:27:04,840
+We're just learning how to find stuff and point it out.
+
+408
+00:27:04,840 --> 00:27:06,760
+And then each block we introduce things.
+
+409
+00:27:06,760 --> 00:27:11,260
+So like in respiratory, they learn all the basic assessments that a paramedic student
+
+410
+00:27:11,260 --> 00:27:14,960
+needs to learn, but then they're going to learn, you know, to look for lung sliding,
+
+411
+00:27:14,960 --> 00:27:20,560
+what a consolidation looks like, what B lines look like, what a pleural effusion looks like
+
+412
+00:27:20,560 --> 00:27:22,500
+and how that would present.
+
+413
+00:27:22,500 --> 00:27:27,480
+And then in cardiology, we teach them how to look for estimate ejection fraction and
+
+414
+00:27:27,480 --> 00:27:36,640
+look for like signs of infarct or ventricular strain or mitral regurgitation and as well
+
+415
+00:27:36,640 --> 00:27:40,960
+as like aortic assessment and IVC assessment.
+
+416
+00:27:40,960 --> 00:27:46,120
+They start incorporating this into scenarios and then in their medical block, they kind
+
+417
+00:27:46,120 --> 00:27:50,760
+of learn more like the rush, how to differentiate hypotension and trauma.
+
+418
+00:27:50,760 --> 00:27:53,840
+Obviously we teach them the fast and then this all kind of culminates and then they
+
+419
+00:27:53,840 --> 00:27:57,460
+go to clinicals and they get to actually do these on patients and then they spend time
+
+420
+00:27:57,460 --> 00:27:58,900
+with a sonographer.
+
+421
+00:27:58,900 --> 00:27:59,900
+So it's pretty robust.
+
+422
+00:27:59,900 --> 00:28:04,640
+I mean, it's like, it's, it's a over 15 months.
+
+423
+00:28:04,640 --> 00:28:05,940
+They get quite a bit of hours.
+
+424
+00:28:05,940 --> 00:28:06,940
+Yeah.
+
+425
+00:28:06,940 --> 00:28:10,180
+So throughout the entire course, they're developing the skillset, which I think is awesome.
+
+426
+00:28:10,180 --> 00:28:11,180
+Yeah.
+
+427
+00:28:11,180 --> 00:28:12,700
+And I think really that's how it needs to be.
+
+428
+00:28:12,700 --> 00:28:17,500
+I think this, like, I've seen a lot of rollouts of ultrasound and agencies where they do like
+
+429
+00:28:17,500 --> 00:28:22,800
+a 30 minute training and then it just sits in the ambulance and never gets used because
+
+430
+00:28:22,800 --> 00:28:25,320
+everyone's like, I don't know that training.
+
+431
+00:28:25,320 --> 00:28:26,720
+I didn't really feel super comfortable.
+
+432
+00:28:26,720 --> 00:28:27,720
+For sure.
+
+433
+00:28:27,720 --> 00:28:29,280
+Like, I don't even know if I can find the structure I'm looking for.
+
+434
+00:28:29,280 --> 00:28:30,760
+How do I even turn it on?
+
+435
+00:28:30,760 --> 00:28:31,760
+Yeah.
+
+436
+00:28:31,760 --> 00:28:32,760
+Like, so yeah.
+
+437
+00:28:32,760 --> 00:28:35,860
+And if you don't have confidence in like what you're doing, like to look for something or
+
+438
+00:28:35,860 --> 00:28:40,000
+what you're looking at, you're probably not going to adopt that into your practice.
+
+439
+00:28:40,000 --> 00:28:47,360
+So we wanted to, essentially the goal is these people can go out and train and like behind
+
+440
+00:28:47,360 --> 00:28:53,020
+you is one of our students from the Apache Nation, last cohort, he put together this
+
+441
+00:28:53,020 --> 00:29:00,680
+whole research project on how to train every, all the medics up in the Hickory Apache Nation
+
+442
+00:29:00,680 --> 00:29:02,280
+to use ultrasound.
+
+443
+00:29:02,280 --> 00:29:05,880
+And it's something now they're incorporating and it's a great tool for them because they're
+
+444
+00:29:05,880 --> 00:29:09,720
+sometimes four hours from the nearest resource.
+
+445
+00:29:09,720 --> 00:29:14,200
+So they can really get a lot more information.
+
+446
+00:29:14,200 --> 00:29:17,480
+So yeah, it's been pretty cool to see.
+
+447
+00:29:17,480 --> 00:29:18,760
+Yeah, it's awesome.
+
+448
+00:29:18,760 --> 00:29:19,760
+Yeah.
+
+449
+00:29:19,760 --> 00:29:23,440
+Do you know of any other programs, any other medic programs that are doing something similar
+
+450
+00:29:23,440 --> 00:29:24,600
+in their initial training?
+
+451
+00:29:24,600 --> 00:29:32,600
+I don't know if anybody's fully gone in as much as we have into it, but I know there
+
+452
+00:29:32,600 --> 00:29:37,680
+are a lot of programs that definitely have ultrasounds and maybe incorporate it into
+
+453
+00:29:37,680 --> 00:29:40,720
+some extent into their programs.
+
+454
+00:29:40,720 --> 00:29:44,520
+I know like EKU utilizes it.
+
+455
+00:29:44,520 --> 00:29:53,280
+I think Oklahoma City or one of the programs out there is utilizing it, but I think in
+
+456
+00:29:53,280 --> 00:30:00,660
+terms of really incorporating it into different aspects of the program, we've gone pretty
+
+457
+00:30:00,660 --> 00:30:02,000
+full in on that.
+
+458
+00:30:02,000 --> 00:30:04,800
+Yeah, that seems like it.
+
+459
+00:30:04,800 --> 00:30:07,360
+And then maybe not to this extreme, but is there anything else that you're trying to
+
+460
+00:30:07,360 --> 00:30:13,960
+do in your EMS education stuff here at Santa Fe Community College that you think is different
+
+461
+00:30:13,960 --> 00:30:16,520
+than how most folks are doing it?
+
+462
+00:30:16,520 --> 00:30:22,240
+Yeah, I mean, it's just, I think we don't treat people like paramedics, right?
+
+463
+00:30:22,240 --> 00:30:24,840
+You're going to be an advanced clinician of some kind.
+
+464
+00:30:24,840 --> 00:30:26,360
+And that's sort of how I look at it.
+
+465
+00:30:26,360 --> 00:30:34,600
+It's this idea of like, we're training you to be just working this emergency medical
+
+466
+00:30:34,600 --> 00:30:36,280
+transport mindset.
+
+467
+00:30:36,280 --> 00:30:43,800
+But we kind of are training people to be just give them a broader idea of being a healthcare
+
+468
+00:30:43,800 --> 00:30:50,320
+practitioner, so to speak, and a better idea of the healthcare system and how to navigate
+
+469
+00:30:50,320 --> 00:30:55,440
+different aspects of the healthcare system to have a deeper understanding of what is
+
+470
+00:30:55,440 --> 00:31:00,200
+going to happen with their patient further down the line in their care.
+
+471
+00:31:00,200 --> 00:31:06,240
+So there's an expectation of like our paramedic students to understand lab values, to understand
+
+472
+00:31:06,240 --> 00:31:11,120
+blood gases, to understand all the different classes of home medications when we're talking
+
+473
+00:31:11,120 --> 00:31:12,120
+about antihypertensives.
+
+474
+00:31:12,120 --> 00:31:17,040
+And is this a L type or non L type calcium channel blocker?
+
+475
+00:31:17,040 --> 00:31:19,080
+And to understand what all that stuff means.
+
+476
+00:31:19,080 --> 00:31:21,520
+And I think some paramedics out there are like, oh, that's stupid.
+
+477
+00:31:21,520 --> 00:31:22,880
+I don't need to know that stuff.
+
+478
+00:31:22,880 --> 00:31:28,280
+But for us, it's kind of looking at, well, that's what being a healthcare provider is
+
+479
+00:31:28,280 --> 00:31:29,280
+about.
+
+480
+00:31:29,280 --> 00:31:31,720
+It's like, there are things as a nurse that you had to learn that you're like, well, I
+
+481
+00:31:31,720 --> 00:31:37,400
+don't ever really utilize that in my practice, but it's about having knowledge, right?
+
+482
+00:31:37,400 --> 00:31:44,520
+And I think so our paramedic students, we want them to be, to regard themselves as clinicians
+
+483
+00:31:44,520 --> 00:31:47,640
+and not just someone that takes someone to the hospital.
+
+484
+00:31:47,640 --> 00:31:50,720
+So that's something I think that we do is different.
+
+485
+00:31:50,720 --> 00:31:54,200
+We incorporate things like vent management.
+
+486
+00:31:54,200 --> 00:31:59,360
+They learn pretty in depth by pap, they learn high flow, our respiratory therapy director
+
+487
+00:31:59,360 --> 00:32:06,280
+comes over and does lectures with them on vent management and things like that.
+
+488
+00:32:06,280 --> 00:32:11,920
+They learn what else they have blood products, like simulated, we have a blood cooler, they
+
+489
+00:32:11,920 --> 00:32:14,620
+have plasma and whole blood simulated.
+
+490
+00:32:14,620 --> 00:32:16,100
+We have blood warmers.
+
+491
+00:32:16,100 --> 00:32:22,680
+They learn more advanced procedures like the finger thoracostomies and kind of the latest
+
+492
+00:32:22,680 --> 00:32:27,040
+research in everything is sort of where we want to be and where we want them to be.
+
+493
+00:32:27,040 --> 00:32:28,040
+So that's awesome.
+
+494
+00:32:28,040 --> 00:32:29,040
+Yeah.
+
+495
+00:32:29,040 --> 00:32:31,440
+And it's cool to see.
+
+496
+00:32:31,440 --> 00:32:32,440
+It's fun.
+
+497
+00:32:32,440 --> 00:32:33,440
+It's a lot of fun to do it.
+
+498
+00:32:33,440 --> 00:32:38,120
+And I don't, it's mostly just, you know, I think getting this job was like, cool.
+
+499
+00:32:38,120 --> 00:32:40,080
+Now I can like make the paramedic program.
+
+500
+00:32:40,080 --> 00:32:43,280
+I always wanted to see exist.
+
+501
+00:32:43,280 --> 00:32:44,280
+That's kind of cool.
+
+502
+00:32:44,280 --> 00:32:45,280
+Yeah.
+
+503
+00:32:45,280 --> 00:32:46,280
+It's been really cool.
+
+504
+00:32:46,280 --> 00:32:52,680
+And I have a great group to like, I have two full time people who are just incredibly supportive
+
+505
+00:32:52,680 --> 00:32:54,080
+and helpful.
+
+506
+00:32:54,080 --> 00:32:59,680
+And then a lot of part time folks to that buy into this mission and want to come and
+
+507
+00:32:59,680 --> 00:33:04,800
+participate and you know, and that's been pretty great to have that help.
+
+508
+00:33:04,800 --> 00:33:05,800
+Awesome.
+
+509
+00:33:05,800 --> 00:33:06,800
+Yeah.
+
+510
+00:33:06,800 --> 00:33:07,800
+Cool.
+
+511
+00:33:07,800 --> 00:33:11,920
+I think the last thing I just wanted to mention is that, uh, Joe and I have been talking about,
+
+512
+00:33:11,920 --> 00:33:17,840
+uh, offering CEU hours for some of the stuff that we're doing at Riker medical.
+
+513
+00:33:17,840 --> 00:33:22,760
+So hopefully in the near future, you'll be able to get CEU through Santa Fe community
+
+514
+00:33:22,760 --> 00:33:29,280
+college for some of our podcasts that are focused on more clinical subjects.
+
+515
+00:33:29,280 --> 00:33:33,560
+Also for some of the review stuff we're doing, particularly like the event management book,
+
+516
+00:33:33,560 --> 00:33:37,480
+we have questions that are in the works for every chapter that goes with it.
+
+517
+00:33:37,480 --> 00:33:38,920
+Um, so yeah, definitely.
+
+518
+00:33:38,920 --> 00:33:39,920
+Yeah.
+
+519
+00:33:39,920 --> 00:33:41,160
+I really appreciate you helping out with that.
+
+520
+00:33:41,160 --> 00:33:43,720
+And that'll be cool when that's finalized.
+
+521
+00:33:43,720 --> 00:33:45,040
+I'm super excited.
+
+522
+00:33:45,040 --> 00:33:53,600
+I think the podcast delivery of medical education is, has been such a huge like benefit to all,
+
+523
+00:33:53,600 --> 00:33:57,440
+whether you're a nurse, paramedic, I think being able to, you know, listen to like the
+
+524
+00:33:57,440 --> 00:34:02,960
+okay medic or whoever else and pick up little clinical tidbits has been huge.
+
+525
+00:34:02,960 --> 00:34:07,520
+And so if we can participate in that in some way, I think that's awesome.
+
+526
+00:34:07,520 --> 00:34:08,520
+For sure.
+
+527
+00:34:08,520 --> 00:34:09,520
+Cool.
+
+528
+00:34:09,520 --> 00:34:10,520
+Anything else you wanted to mention?
+
+529
+00:34:10,520 --> 00:34:11,520
+Anything I didn't ask about?
+
+530
+00:34:11,520 --> 00:34:12,520
+I don't know.
+
+531
+00:34:12,520 --> 00:34:15,880
+If you want to come to paramedic school applications are open.
+
+532
+00:34:15,880 --> 00:34:16,880
+So yeah.
+
+533
+00:34:16,880 --> 00:34:19,880
+And we'll make sure we get links for everything on the notes.
+
+534
+00:34:19,880 --> 00:34:20,880
+Thank you.
+
+535
+00:34:20,880 --> 00:34:21,880
+Yeah.
+
+536
+00:34:21,880 --> 00:34:22,880
+Now our thanks for having me.
+
+537
+00:34:22,880 --> 00:34:23,880
+Thanks for chatting.
+
+538
+00:34:23,880 --> 00:34:24,880
+Thanks for coming on.
+
+539
+00:34:24,880 --> 00:34:25,880
+Yeah.
+
+540
+00:34:25,880 --> 00:34:27,480
+And that's pretty much it.
+
+541
+00:34:27,480 --> 00:34:28,480
+Thanks for tuning in.
+
+542
+00:34:28,480 --> 00:34:33,080
+But real quick, before we get going, just a couple of shout outs.
+
+543
+00:34:33,080 --> 00:34:37,860
+First is to the St. Fisher church of evidence based medicine.
+
+544
+00:34:37,860 --> 00:34:40,840
+If you haven't seen their page, definitely go check it out.
+
+545
+00:34:40,840 --> 00:34:43,560
+We used to also give a shout out to the pragmatic paramedics.
+
+546
+00:34:43,560 --> 00:34:47,360
+I don't think they're active anymore, but definitely take a look at their back episodes.
+
+547
+00:34:47,360 --> 00:34:49,760
+It's a good podcast.
+
+548
+00:34:49,760 --> 00:34:54,880
+And then lastly, shout out to my friend, Josh Pittman and his friend, Kevin Pons.
+
+549
+00:34:54,880 --> 00:35:14,160
+They're the ones who put the music together.

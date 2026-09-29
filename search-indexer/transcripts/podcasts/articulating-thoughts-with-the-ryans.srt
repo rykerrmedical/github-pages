@@ -1,0 +1,2339 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,640
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,640 --> 00:00:15,280
+care medicine.
+
+4
+00:00:15,280 --> 00:00:20,360
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,360 --> 00:00:23,860
+use of technology can facilitate that effort.
+
+6
+00:00:23,860 --> 00:00:29,060
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,060 --> 00:00:36,960
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:36,960 --> 00:00:40,700
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,700 --> 00:00:45,860
+do.
+
+10
+00:00:45,860 --> 00:01:12,500
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:15,860 --> 00:01:18,100
+Hey friends and welcome back.
+
+12
+00:01:18,100 --> 00:01:22,300
+Today on the show we've got a recording of a conversation with a Canadian medic named
+
+13
+00:01:22,300 --> 00:01:26,140
+Brian which is an amazing first name.
+
+14
+00:01:26,140 --> 00:01:30,600
+He reached out via the St. Fisher's tutoring page on Instagram.
+
+15
+00:01:30,600 --> 00:01:32,980
+If you're not familiar with that, here's the basic idea.
+
+16
+00:01:32,980 --> 00:01:38,540
+There's a handful of us who do free tutoring for medics, nurses, and other healthcare folks.
+
+17
+00:01:38,540 --> 00:01:43,820
+You just send us a note and one of us will set up a time to chat, totally free of charge.
+
+18
+00:01:43,820 --> 00:01:49,180
+It could be for anything, dialing in difficult concepts, reviewing a patient encounter, preparing
+
+19
+00:01:49,180 --> 00:01:51,460
+for an interview, whatever.
+
+20
+00:01:51,460 --> 00:01:56,100
+Check it out at sfcebm.tutors on Instagram.
+
+21
+00:01:56,100 --> 00:01:59,140
+There's also a few videos we've made of tutoring sessions.
+
+22
+00:01:59,140 --> 00:02:02,740
+Those live on the Riker Medical YouTube page.
+
+23
+00:02:02,740 --> 00:02:08,160
+But to get back to this specific chat, Ryan reached out to the squad to talk about strategies
+
+24
+00:02:08,160 --> 00:02:11,340
+to better articulate himself in the clinical setting.
+
+25
+00:02:11,340 --> 00:02:16,380
+He's working through a mentorship program or a summative field evaluation of sorts
+
+26
+00:02:16,380 --> 00:02:22,140
+and asked for help with how to best explain himself, both on scene and during debriefs.
+
+27
+00:02:22,140 --> 00:02:24,340
+So here goes.
+
+28
+00:02:24,340 --> 00:02:32,540
+Okay, so you were saying that you're a medic up in Canada?
+
+29
+00:02:32,540 --> 00:02:35,340
+Did I remember that right?
+
+30
+00:02:35,340 --> 00:02:40,340
+Yeah, I'm up in BC.
+
+31
+00:02:40,340 --> 00:02:45,800
+And we have this, for Advanced Care Paramedic, we have this mentorship program we have to
+
+32
+00:02:45,800 --> 00:02:47,680
+run through.
+
+33
+00:02:47,680 --> 00:02:54,560
+And basically, their thing is like just making sure we're safe in what we're doing.
+
+34
+00:02:54,560 --> 00:02:59,720
+For me, I came from another province after I got my ACT license.
+
+35
+00:02:59,720 --> 00:03:01,280
+So I came to BC.
+
+36
+00:03:01,280 --> 00:03:05,160
+And then it was, it's been about five years since I've been licensed.
+
+37
+00:03:05,160 --> 00:03:09,160
+So I'm starting to practice as an ACT in the field.
+
+38
+00:03:09,160 --> 00:03:18,360
+And they have this, they have this really high expectation that some, that still some
+
+39
+00:03:18,360 --> 00:03:21,700
+of the older medics hold on to.
+
+40
+00:03:21,700 --> 00:03:27,900
+Just like a really toxic history of the service of how they dealt with their ACPs.
+
+41
+00:03:27,900 --> 00:03:35,600
+And one mentor I've had, he's, he wants me to like, really kind of explain everything
+
+42
+00:03:35,600 --> 00:03:38,680
+that's going on before we treat.
+
+43
+00:03:39,200 --> 00:03:42,800
+And one of the, of course, one of the other things too is like, just be, basically my
+
+44
+00:03:42,800 --> 00:03:49,160
+issue is like having to articulate myself in this large group of people.
+
+45
+00:03:49,160 --> 00:03:55,520
+And talk about what's going on and being able to properly relay it.
+
+46
+00:03:55,520 --> 00:04:01,520
+Part of the issue too is like, it's been so long since I've worked as an ACP or in
+
+47
+00:04:01,520 --> 00:04:03,080
+a advanced care level.
+
+48
+00:04:03,080 --> 00:04:08,760
+And I'm not really too used to working with like 10 people on a scene.
+
+49
+00:04:08,760 --> 00:04:12,640
+I'm used to like me and my partner and maybe a second crew.
+
+50
+00:04:12,640 --> 00:04:13,840
+So I kind of get a little bit nervous.
+
+51
+00:04:13,840 --> 00:04:20,320
+I get a little bit, I kind of second guess myself a little bit and stuff like that.
+
+52
+00:04:20,320 --> 00:04:25,640
+So it's, they have a confidence thing, but also kind of like, I need to just start talking
+
+53
+00:04:25,640 --> 00:04:28,040
+things out more and feeling more comfortable with it.
+
+54
+00:04:28,040 --> 00:04:31,320
+So yeah, I don't know.
+
+55
+00:04:31,320 --> 00:04:34,520
+I just thought I'd shoot it out there when I say you guys were doing a free tutoring.
+
+56
+00:04:34,520 --> 00:04:36,520
+So yeah, for sure.
+
+57
+00:04:36,520 --> 00:04:37,520
+Yeah.
+
+58
+00:04:37,520 --> 00:04:38,520
+Yeah.
+
+59
+00:04:38,520 --> 00:04:41,800
+I guess I'll start with just a couple of questions.
+
+60
+00:04:41,800 --> 00:04:46,960
+Are these things that you feel like you know well, like when you're not in an environment
+
+61
+00:04:46,960 --> 00:04:49,800
+where you're feeling pressure or where you're like on a scene, like if we're just sitting
+
+62
+00:04:49,800 --> 00:04:51,920
+here, would you be able to explain them well?
+
+63
+00:04:51,920 --> 00:04:56,880
+Or are you starting at like further back where you want to start with like the basics of
+
+64
+00:04:56,880 --> 00:05:00,840
+how to explain them from the origin?
+
+65
+00:05:00,840 --> 00:05:05,360
+I think if I like I could probably like right now I could probably sit down and like explain
+
+66
+00:05:05,360 --> 00:05:10,240
+it, but it won't be a very smooth kind of transition, be kind of more long winded.
+
+67
+00:05:10,240 --> 00:05:15,680
+So I kind of want to learn to kind of like just break down, like break it down a little
+
+68
+00:05:15,680 --> 00:05:20,160
+bit more to just something to.
+
+69
+00:05:20,160 --> 00:05:25,280
+How can I put it?
+
+70
+00:05:25,280 --> 00:05:30,040
+I'll articulate it a little bit better into a shorter form instead of like the whole long
+
+71
+00:05:30,040 --> 00:05:33,400
+conversation, if that's making sense.
+
+72
+00:05:33,400 --> 00:05:34,400
+Yeah.
+
+73
+00:05:34,400 --> 00:05:37,440
+So I guess I have a couple thoughts.
+
+74
+00:05:37,440 --> 00:05:42,440
+The one is just like in terms of like public speaking in general, just being in this like
+
+75
+00:05:42,440 --> 00:05:44,320
+on the spot.
+
+76
+00:05:44,320 --> 00:05:49,800
+I know one thing that like when I went to paramedic school years ago, one of my prerequisites
+
+77
+00:05:49,800 --> 00:05:54,760
+was a public speaking class, which at the time I thought was kind of silly.
+
+78
+00:05:54,760 --> 00:05:59,520
+But it really helped me kind of like iron out the skills of like presenting, even though
+
+79
+00:05:59,520 --> 00:06:04,000
+it's not really what we do in medicine, but you are like in a learning environment expected
+
+80
+00:06:04,000 --> 00:06:07,920
+to like present a case and also like give reports and calling and radio calls and that
+
+81
+00:06:07,920 --> 00:06:08,920
+kind of thing.
+
+82
+00:06:08,920 --> 00:06:14,760
+But one thing that helped me a lot was listening to myself speak.
+
+83
+00:06:14,760 --> 00:06:20,480
+I think most people are a little averse to hearing their own voice, especially on recording.
+
+84
+00:06:20,480 --> 00:06:26,080
+I would like spend hours in like the music studio, like the music hall on campus.
+
+85
+00:06:26,080 --> 00:06:29,880
+And I would like give my practice speeches and like record them on my little iPad at
+
+86
+00:06:29,880 --> 00:06:33,320
+the time or iPod at the time and then play them back, listen to myself and like take
+
+87
+00:06:33,320 --> 00:06:34,320
+notes.
+
+88
+00:06:34,320 --> 00:06:37,000
+Like every time I made a tick, I would write it down.
+
+89
+00:06:37,000 --> 00:06:42,280
+Or if I explained something in a way that wasn't exactly how I wanted it to come out
+
+90
+00:06:42,280 --> 00:06:44,040
+of my mouth, I would take note.
+
+91
+00:06:44,040 --> 00:06:47,240
+And that was a way for me to like revise those things.
+
+92
+00:06:47,240 --> 00:06:51,520
+So I think maybe there's a way to do that with a particular case.
+
+93
+00:06:51,520 --> 00:06:55,240
+Let's say you have like a case that you know really well and there's not really a question
+
+94
+00:06:55,240 --> 00:06:59,600
+of whether you made the right decision or not, like you're confident in that or even
+
+95
+00:06:59,600 --> 00:07:01,400
+like you're following a script.
+
+96
+00:07:01,400 --> 00:07:06,560
+Maybe you could record yourself by giving a succinct report or justifying an action.
+
+97
+00:07:06,560 --> 00:07:07,560
+Okay.
+
+98
+00:07:07,560 --> 00:07:10,600
+And then sit on it for a bit and listen to it and be like, okay, did I did that sound
+
+99
+00:07:10,600 --> 00:07:11,600
+right?
+
+100
+00:07:11,600 --> 00:07:12,600
+And I listened back to it.
+
+101
+00:07:12,600 --> 00:07:14,960
+And then if not, you can like repeat it.
+
+102
+00:07:14,960 --> 00:07:20,760
+That might be one way to kind of work through like the presentation side of it.
+
+103
+00:07:20,760 --> 00:07:21,760
+Yeah.
+
+104
+00:07:21,760 --> 00:07:27,480
+And I mean, I guess you could do that also for like things that you're not sure about.
+
+105
+00:07:27,480 --> 00:07:33,760
+Like if there were something that you, I would say there's a case that you had and you weren't
+
+106
+00:07:33,760 --> 00:07:38,600
+sure about the right treatments, you can start at the very beginning, like take time to like
+
+107
+00:07:38,600 --> 00:07:41,760
+look on references and cite things and like figure out what you should have done for that
+
+108
+00:07:41,760 --> 00:07:42,760
+patient.
+
+109
+00:07:42,760 --> 00:07:43,760
+Okay.
+
+110
+00:07:43,760 --> 00:07:49,880
+Then work on that presentation side of like presenting that and where you missed whatever
+
+111
+00:07:49,880 --> 00:07:53,760
+finding you were supposed to get, like come up with like a case presentation and then
+
+112
+00:07:53,760 --> 00:07:57,560
+reiterate it by listening to yourself in the same way.
+
+113
+00:07:57,560 --> 00:08:00,740
+An alternative would be to do the same thing by writing.
+
+114
+00:08:00,740 --> 00:08:10,200
+So I found over the years that trying to explain concepts like in writing to somebody else
+
+115
+00:08:10,200 --> 00:08:15,200
+is like a good way to refine like how well you understand them.
+
+116
+00:08:15,200 --> 00:08:19,480
+So it might, it might make sense like abstractly in your mind, but then when you try and put
+
+117
+00:08:19,480 --> 00:08:23,960
+it down in words and take your time to like write it in a succinct paragraph, you're like,
+
+118
+00:08:23,960 --> 00:08:24,960
+wait a second.
+
+119
+00:08:24,960 --> 00:08:28,200
+I'm not actually sure about this part or like this one doesn't quite make sense.
+
+120
+00:08:28,200 --> 00:08:29,200
+What am I missing?
+
+121
+00:08:29,200 --> 00:08:30,200
+Yeah.
+
+122
+00:08:30,200 --> 00:08:37,000
+So a really good example of that, which is pretty basic, but like, you know, relevant
+
+123
+00:08:37,000 --> 00:08:41,520
+at this point as I'm helping like write a chapter in a book and we're talking about
+
+124
+00:08:41,520 --> 00:08:47,760
+like low flow oxygen delivery systems versus high flow oxygen delivery systems.
+
+125
+00:08:47,760 --> 00:08:56,240
+And the, the definition kind of varies depending on where you look, but in essence, like with
+
+126
+00:08:56,240 --> 00:08:59,520
+a high flow system, you're delivering enough air to have somebody on events and you set
+
+127
+00:08:59,520 --> 00:09:02,160
+their Fi to it, you know, 0.4 or 40%.
+
+128
+00:09:02,160 --> 00:09:06,720
+Like it's just going to be that way in order to breathing like 20 liters a minute or five.
+
+129
+00:09:06,720 --> 00:09:13,520
+Because if you're using a low flow system, you are taking in air from the delivery device,
+
+130
+00:09:13,520 --> 00:09:16,720
+but you're also taking it in from ambient air.
+
+131
+00:09:16,720 --> 00:09:21,840
+So your FiO2 varies, but that was something that like, when I went to explain it, I was
+
+132
+00:09:21,840 --> 00:09:22,840
+like, wait a second.
+
+133
+00:09:22,840 --> 00:09:26,080
+I don't actually like, I don't think I have a good grasp of what those two were.
+
+134
+00:09:26,080 --> 00:09:32,280
+Like I could tell you that like a nasal cannula is a low flow device and that like a ventilator
+
+135
+00:09:32,280 --> 00:09:37,080
+or a biped or whatever is a high flow oxygen delivery system, but I didn't actually know
+
+136
+00:09:37,080 --> 00:09:41,700
+the how to explain the specifics of it to somebody.
+
+137
+00:09:41,700 --> 00:09:45,920
+So just like working through that and writing like two paragraphs about that helped solidify
+
+138
+00:09:45,920 --> 00:09:46,920
+that in my mind.
+
+139
+00:09:46,920 --> 00:09:47,920
+That's a good idea.
+
+140
+00:09:47,920 --> 00:09:53,400
+I don't know if that particular example is relevant, but if there's something that I
+
+141
+00:09:53,400 --> 00:09:57,080
+don't know if you have, you know, if there's something particular that you like struggled
+
+142
+00:09:57,080 --> 00:10:04,880
+to explain or articulate or justify on scene, maybe an alternative option to like speaking
+
+143
+00:10:04,880 --> 00:10:08,320
+in and listening to yourself and revising it that way would be just to try and write
+
+144
+00:10:08,320 --> 00:10:11,320
+it out as succinctly as you can.
+
+145
+00:10:11,320 --> 00:10:16,360
+And then like from there, you can always try and like simplify your language.
+
+146
+00:10:16,360 --> 00:10:22,120
+So in writing in general, like you might write like, you know, a whole page, you know, like
+
+147
+00:10:22,120 --> 00:10:25,120
+a couple hundred words about like what it is you're trying to explain.
+
+148
+00:10:25,120 --> 00:10:26,120
+You're like, okay, now, cool.
+
+149
+00:10:26,120 --> 00:10:30,160
+I can understand, but this is going to take me way too long to stay on scene.
+
+150
+00:10:30,160 --> 00:10:35,560
+How do I deliver this message in like half a page and then like one paragraph and then
+
+151
+00:10:35,560 --> 00:10:38,680
+like really dial it and try and get one sentence out of it?
+
+152
+00:10:38,680 --> 00:10:39,680
+Okay.
+
+153
+00:10:39,680 --> 00:10:42,480
+I think that is a little bit more tough to do in medicine.
+
+154
+00:10:42,480 --> 00:10:48,840
+But it's often like a practicing just like writing courses in general with like academic
+
+155
+00:10:48,840 --> 00:10:53,880
+writing and like creative writing is a big idea and like try and bring it down into like
+
+156
+00:10:53,880 --> 00:10:54,880
+salient points.
+
+157
+00:10:54,880 --> 00:10:59,800
+And like managing the space, like I want to say what I said in like this many pages and
+
+158
+00:10:59,800 --> 00:11:02,000
+like a fraction of that.
+
+159
+00:11:02,000 --> 00:11:03,240
+And you know, that kind of depends.
+
+160
+00:11:03,240 --> 00:11:07,200
+Like some things it's just going to take longer and other things you can maybe summarize
+
+161
+00:11:07,200 --> 00:11:08,200
+more succinctly.
+
+162
+00:11:08,200 --> 00:11:09,200
+Yeah.
+
+163
+00:11:09,200 --> 00:11:10,200
+No, I like that.
+
+164
+00:11:10,200 --> 00:11:11,200
+That's a good idea.
+
+165
+00:11:11,200 --> 00:11:14,560
+That's a, I can definitely work on that.
+
+166
+00:11:14,560 --> 00:11:15,560
+Yeah.
+
+167
+00:11:15,560 --> 00:11:20,360
+And then another thing too, which I like, I'm not familiar with your system and how
+
+168
+00:11:20,360 --> 00:11:23,200
+this mentorship program works.
+
+169
+00:11:23,200 --> 00:11:29,760
+But a lot of times in a pre-hospital setting, it's okay to like not have a good reason for
+
+170
+00:11:29,760 --> 00:11:30,760
+doing something.
+
+171
+00:11:30,760 --> 00:11:36,840
+You know, like we, at least here in the US, like we often shy away from like making diagnoses
+
+172
+00:11:36,840 --> 00:11:38,680
+in the field.
+
+173
+00:11:38,680 --> 00:11:41,240
+And instead we're treating based on findings.
+
+174
+00:11:41,240 --> 00:11:46,800
+So like a basic example of this would be like my patient presents with wheezing.
+
+175
+00:11:46,800 --> 00:11:49,520
+So I'm going to give a beta agonist.
+
+176
+00:11:49,680 --> 00:11:53,080
+I'm going to give albuterol because it's a bronchodilator and that fixes the problem.
+
+177
+00:11:53,080 --> 00:12:00,160
+I'm not determining whether my patient has asthma or COPD or whatever else.
+
+178
+00:12:00,160 --> 00:12:02,160
+You can, you can treat based on findings.
+
+179
+00:12:02,160 --> 00:12:07,920
+So that might be a way to like direct your justifications for things in a little succinctly.
+
+180
+00:12:07,920 --> 00:12:09,880
+Like you don't always have to have the big picture.
+
+181
+00:12:09,880 --> 00:12:12,640
+You can explain steps along the way.
+
+182
+00:12:12,640 --> 00:12:15,880
+But then again, like you might be expected to like do all the steps.
+
+183
+00:12:15,880 --> 00:12:20,200
+So I'm not entirely sure about the context in which you're operating.
+
+184
+00:12:20,200 --> 00:12:24,560
+Yeah, it's, I spent most of my career operating like that.
+
+185
+00:12:24,560 --> 00:12:25,560
+Okay, we got a symptom.
+
+186
+00:12:25,560 --> 00:12:26,960
+Let's try and treat it.
+
+187
+00:12:26,960 --> 00:12:27,960
+Okay.
+
+188
+00:12:27,960 --> 00:12:29,560
+But like, what is the cause of the symptom?
+
+189
+00:12:29,560 --> 00:12:32,760
+And maybe are we missing something?
+
+190
+00:12:32,760 --> 00:12:36,360
+And there's a lot that there's a lot of people that do practice like that.
+
+191
+00:12:36,360 --> 00:12:41,200
+But then there's some people that are like, they want like all this information before
+
+192
+00:12:41,200 --> 00:12:42,880
+we do any type of treatment.
+
+193
+00:12:42,880 --> 00:12:47,000
+And it's like, well, that's like medic specific.
+
+194
+00:12:47,000 --> 00:12:53,600
+And sometimes it's kind of like, I'm being marked on the way they want to do it compared
+
+195
+00:12:53,600 --> 00:12:56,280
+to the way that I would ultimately do it.
+
+196
+00:12:56,280 --> 00:12:58,320
+It's like a personal preference kind of thing.
+
+197
+00:12:58,320 --> 00:13:03,520
+And it's, it's yeah, that's kind of just how the system is.
+
+198
+00:13:03,520 --> 00:13:11,880
+The mentorship system is it's like you're kind of, you're kind of like held to what
+
+199
+00:13:11,880 --> 00:13:13,720
+the current mentor is doing.
+
+200
+00:13:13,720 --> 00:13:19,240
+And some like I've had that like, I want to give this medication because of this symptom,
+
+201
+00:13:19,240 --> 00:13:20,720
+because of the symptom, like, okay, do it.
+
+202
+00:13:20,720 --> 00:13:24,160
+And I'm like, right now those are like, okay, but what about, what about their past medical
+
+203
+00:13:24,160 --> 00:13:25,160
+history?
+
+204
+00:13:25,160 --> 00:13:27,640
+What about the current medications they're on and everything else?
+
+205
+00:13:27,640 --> 00:13:30,320
+And I'm like, I'm watching this patient having a seizure right now.
+
+206
+00:13:30,320 --> 00:13:33,480
+And I'm like, I need to do something and I want to do something.
+
+207
+00:13:33,480 --> 00:13:38,800
+And I'm not, I got to get all this other stuff before I can treat.
+
+208
+00:13:38,800 --> 00:13:42,800
+And I'm like, I don't like that way of practicing.
+
+209
+00:13:42,800 --> 00:13:48,200
+I do understand for some things, but certain things I feel different.
+
+210
+00:13:48,200 --> 00:13:49,600
+I feel differently about.
+
+211
+00:13:49,600 --> 00:13:57,080
+So yeah, it's kind of like, it depends on the, the medic themselves.
+
+212
+00:13:57,080 --> 00:14:04,520
+So yeah, I mean, that, that component is a little tough because you're kind of at the,
+
+213
+00:14:04,520 --> 00:14:06,760
+at the will of the person who's evaluating you.
+
+214
+00:14:06,760 --> 00:14:07,760
+Yeah.
+
+215
+00:14:07,880 --> 00:14:15,600
+But one way I think like maybe to manage that is to set expectations like early on.
+
+216
+00:14:15,600 --> 00:14:19,720
+Like, I don't know if there's like a, like a start to your day, like while you're doing
+
+217
+00:14:19,720 --> 00:14:22,520
+your rig check, you can like bring that up.
+
+218
+00:14:22,520 --> 00:14:28,480
+Be like, Hey, like when we're on scene today, like here's kind of my plan and this is how
+
+219
+00:14:28,480 --> 00:14:29,480
+I would operate.
+
+220
+00:14:29,480 --> 00:14:30,480
+Like, what do you think about that?
+
+221
+00:14:30,480 --> 00:14:37,880
+Like kind of like maybe proactively make that assertion that you, you are going to
+
+222
+00:14:37,880 --> 00:14:40,040
+make these addictive decisions and this is like how you're going to justify it.
+
+223
+00:14:40,040 --> 00:14:42,080
+And then you can like talk those things out later.
+
+224
+00:14:42,080 --> 00:14:44,760
+I don't know if that would help or not.
+
+225
+00:14:44,760 --> 00:14:45,760
+Yeah.
+
+226
+00:14:45,760 --> 00:14:50,280
+I mean, I find that that a strategy similar to that often helps when you're working with
+
+227
+00:14:50,280 --> 00:14:53,680
+somebody that you don't work with routinely.
+
+228
+00:14:53,680 --> 00:14:57,520
+Like for me, when I'm working with somebody that, you know, I don't fly with often at
+
+229
+00:14:57,520 --> 00:14:59,640
+the beginning of my shift, I always have like a conversation.
+
+230
+00:14:59,640 --> 00:15:00,640
+Okay.
+
+231
+00:15:00,640 --> 00:15:03,880
+Like if this happens, like we have to manage an airway, like who's going to do what and
+
+232
+00:15:03,880 --> 00:15:08,200
+let's, we'll talk it through ahead of time or, you know, like before we're going on,
+
+233
+00:15:08,200 --> 00:15:14,160
+you know, sometimes we have a little bit of time to like, um, so to digest dispatch information
+
+234
+00:15:14,160 --> 00:15:18,520
+so we can pull out a reference and be like, okay, like worst case scenario, here's the
+
+235
+00:15:18,520 --> 00:15:20,520
+doses that we're going to give for this patient.
+
+236
+00:15:20,520 --> 00:15:21,720
+Here's the things that could go wrong.
+
+237
+00:15:21,720 --> 00:15:26,360
+And now we kind of like have a playbook and that makes it a little bit easier.
+
+238
+00:15:26,360 --> 00:15:32,520
+So when there's like, I don't know, options on scene or like you're making decisions,
+
+239
+00:15:32,520 --> 00:15:34,840
+a lot of it is already like factored out.
+
+240
+00:15:34,840 --> 00:15:42,160
+I don't know what that like is a viable option in your setting.
+
+241
+00:15:42,160 --> 00:15:46,960
+It's something that, uh, we, I have tried and done multiple times.
+
+242
+00:15:46,960 --> 00:15:51,600
+Um, you know, dispatch information is dispatch information.
+
+243
+00:15:51,600 --> 00:15:53,320
+It's, it is what it is.
+
+244
+00:15:53,320 --> 00:15:58,280
+But yeah, I do try to make a plan for the call as we're getting in there.
+
+245
+00:15:58,280 --> 00:16:03,800
+Um, and I guess like, I know if I could try to, if I could articulate myself a little
+
+246
+00:16:03,800 --> 00:16:09,800
+bit better and sell on that, my treatment plan, um, I could have, I know I could have
+
+247
+00:16:09,800 --> 00:16:11,440
+been better in certain situations.
+
+248
+00:16:11,440 --> 00:16:16,240
+If I was like, say it comes back to properly articulating myself and explaining really
+
+249
+00:16:16,240 --> 00:16:22,360
+what I want because of what I'm seeing instead of just like, um, just treating the symptom
+
+250
+00:16:22,360 --> 00:16:30,120
+that I'm looking at right now and, um, having that discussion later on, um, specifically
+
+251
+00:16:30,120 --> 00:16:36,440
+with certain mentors, as I said, like there's certain mentors that kind of like sell myself
+
+252
+00:16:36,440 --> 00:16:42,840
+a little bit more too, but also how the systems run here is like, they want you to be talking
+
+253
+00:16:42,840 --> 00:16:48,120
+about the call at all times, like during the call, because we're leading the call and that
+
+254
+00:16:48,120 --> 00:16:50,680
+way you kind of get everybody else on board.
+
+255
+00:16:50,680 --> 00:16:55,120
+So I don't necessarily have to say, okay, it'd be like, okay, so it looks like this
+
+256
+00:16:55,120 --> 00:16:56,440
+patient might be having a seizure.
+
+257
+00:16:56,440 --> 00:16:57,760
+Let's get an IV going in.
+
+258
+00:16:57,760 --> 00:17:00,320
+Let's start paying up some, uh, medazzling around.
+
+259
+00:17:00,320 --> 00:17:02,400
+Let's make sure we get like a sugar going.
+
+260
+00:17:02,400 --> 00:17:05,920
+Just kind of like talking out like that, even if I'm like, yeah, I think we might be having
+
+261
+00:17:05,920 --> 00:17:06,920
+a seizure here.
+
+262
+00:17:06,920 --> 00:17:07,920
+Okay.
+
+263
+00:17:07,920 --> 00:17:11,760
+Then, you know, my partner's or the other medic or the other crew there is going to
+
+264
+00:17:11,760 --> 00:17:13,640
+start working on the sugar.
+
+265
+00:17:13,640 --> 00:17:14,640
+Let's get some blood pressure.
+
+266
+00:17:14,640 --> 00:17:17,000
+Let's get some oxygen, maybe get the VVM out.
+
+267
+00:17:17,000 --> 00:17:22,920
+So I don't necessarily have to tell them what to do, but I can at least if I'm like
+
+268
+00:17:22,920 --> 00:17:26,640
+saying this is where my thought process is, this is what I'm thinking going on.
+
+269
+00:17:26,640 --> 00:17:33,520
+And this is what I'm, we're going to go towards and goal and it kind of draws everybody else
+
+270
+00:17:33,520 --> 00:17:34,520
+in.
+
+271
+00:17:34,520 --> 00:17:36,400
+So I don't have to be like, Hey, I need you to go do this.
+
+272
+00:17:36,400 --> 00:17:37,400
+I need you to go do this.
+
+273
+00:17:37,400 --> 00:17:41,800
+And it's like, there's going to be other people, especially strong other like PCPs that are
+
+274
+00:17:41,800 --> 00:17:43,960
+going to be like jumping on top of that.
+
+275
+00:17:43,960 --> 00:17:47,520
+Or even the firefighters jumping out, you'll get like the stretcher and the stair chair
+
+276
+00:17:47,520 --> 00:17:48,680
+kind of thing.
+
+277
+00:17:48,680 --> 00:17:54,320
+So that's kind of where the, like, I really want to work on that articulation on a call
+
+278
+00:17:54,320 --> 00:17:57,840
+is so that I can properly express myself.
+
+279
+00:17:57,840 --> 00:18:04,240
+And, and is, is part of what you're talking about when you mentioned like this idea of
+
+280
+00:18:04,240 --> 00:18:08,280
+articulating yourself, is it, is part of it giving those directions?
+
+281
+00:18:08,280 --> 00:18:09,280
+Yeah.
+
+282
+00:18:09,280 --> 00:18:13,320
+Part of it's giving the directions.
+
+283
+00:18:13,320 --> 00:18:19,800
+And part of it's just like, like I said, trying to condense it down and kind of talk it out
+
+284
+00:18:19,800 --> 00:18:23,560
+a little bit more with like being comfortable talking it out more.
+
+285
+00:18:23,560 --> 00:18:26,480
+So I know some of it's like a confidence thing.
+
+286
+00:18:26,480 --> 00:18:30,800
+Like I do, I do out myself a lot because it's been so long.
+
+287
+00:18:30,800 --> 00:18:36,800
+And then like, of course, the public speaking part is like, I'm out here in front of everybody.
+
+288
+00:18:36,800 --> 00:18:40,560
+And you know, all eyes are on me and it's like, okay, I'm being judged.
+
+289
+00:18:40,560 --> 00:18:47,040
+I have my mentor who's like trying to keep track of what I'm doing and everybody else.
+
+290
+00:18:47,040 --> 00:18:55,000
+And so it's just kind of like, yeah, it's like a performance anxiety in a way too.
+
+291
+00:18:55,000 --> 00:19:01,040
+So one thing that another thought that really helped me when I was like getting into this
+
+292
+00:19:01,040 --> 00:19:06,680
+is making sure you have a system for how you do everything.
+
+293
+00:19:06,680 --> 00:19:09,600
+And that way, like if you get lost, you can just fall back on that.
+
+294
+00:19:09,600 --> 00:19:16,560
+Like here in the States, we like everyone, maybe not everyone, but most programs use
+
+295
+00:19:16,560 --> 00:19:20,960
+this like template for assessment from the national registry of EMTs.
+
+296
+00:19:20,960 --> 00:19:25,640
+So most medics will be able to walk you through like step by step, like all the things because
+
+297
+00:19:25,640 --> 00:19:27,280
+they did it like a million times in medics school.
+
+298
+00:19:27,280 --> 00:19:30,440
+And then like every student that comes through has to do it the exact same way.
+
+299
+00:19:30,440 --> 00:19:33,560
+So that might be a thought process.
+
+300
+00:19:33,560 --> 00:19:39,920
+Like if you don't have like a system for how you work through the information on scene,
+
+301
+00:19:39,920 --> 00:19:41,520
+maybe like dial that in.
+
+302
+00:19:41,520 --> 00:19:46,640
+Yeah, that's one of the things I've been trying to work on as well.
+
+303
+00:19:46,640 --> 00:19:50,800
+Like the way the systems run up here, it's a lot different than I'm used to.
+
+304
+00:19:50,800 --> 00:19:55,440
+So like I get on scene and depending on the type of patient or the type of call it is,
+
+305
+00:19:55,440 --> 00:20:01,280
+I'm expected to have a decision within 10 minutes of am I transporting?
+
+306
+00:20:01,280 --> 00:20:07,480
+Am I going to hand off to the PCP crew or am I going to ride in with them?
+
+307
+00:20:07,480 --> 00:20:11,720
+Here is the treatment plan that I'm going to tell the PCPs to do on the way in.
+
+308
+00:20:11,720 --> 00:20:16,240
+Or is this going to be like, this is my patient, you guys can ride in with me to need the extra
+
+309
+00:20:16,240 --> 00:20:19,920
+hands or this is my patient, I'm just going to go in by myself.
+
+310
+00:20:19,920 --> 00:20:23,960
+So it's kind of like I have to, you're right, I do have to like, I all that in and it's
+
+311
+00:20:23,960 --> 00:20:30,000
+something I am working on because so that's like the new system I'm working in compared
+
+312
+00:20:30,000 --> 00:20:35,000
+to before where it was like, what I call my patient and you know, I'll have like an
+
+313
+00:20:35,000 --> 00:20:36,760
+hour drive time to the hospital.
+
+314
+00:20:36,760 --> 00:20:40,320
+So if I forget a few things, I'll always pick it up on the way in.
+
+315
+00:20:40,320 --> 00:20:43,800
+So my career.
+
+316
+00:20:43,800 --> 00:20:46,640
+So yeah, that's kind of one of the things I'm also working on too is trying to dial
+
+317
+00:20:46,640 --> 00:20:51,000
+that into having more streamlined, efficient assessment.
+
+318
+00:20:51,000 --> 00:20:52,000
+Yeah.
+
+319
+00:20:52,000 --> 00:20:53,000
+Yeah.
+
+320
+00:20:53,000 --> 00:20:59,960
+I mean, one thing that would maybe help is like, if you have a general template, whether
+
+321
+00:20:59,960 --> 00:21:05,640
+like a, you know, like a rubric or something you use when you were in school or that you
+
+322
+00:21:05,640 --> 00:21:09,960
+can like just track down from like, you can use the National Registry one, maybe like
+
+323
+00:21:09,960 --> 00:21:13,120
+use that as a template and then work through a practice case.
+
+324
+00:21:13,120 --> 00:21:18,200
+Like any like EMT or paramedic book probably has like cases in the back of the chapters
+
+325
+00:21:18,200 --> 00:21:20,800
+or the start of the chapter where they summarize it.
+
+326
+00:21:20,800 --> 00:21:28,440
+And maybe just like with that template, work through those cases and then like think about
+
+327
+00:21:28,440 --> 00:21:32,540
+it and then you could either like write it down and then try and make that more concise
+
+328
+00:21:32,540 --> 00:21:36,320
+or like record yourself saying it out loud and listen to it or do some combination, like
+
+329
+00:21:36,320 --> 00:21:40,800
+maybe writing it the first time and then speaking it and then, you know, going back and forth.
+
+330
+00:21:40,800 --> 00:21:47,240
+I think that might be a way to, to get reps in on that process.
+
+331
+00:21:47,240 --> 00:21:53,080
+Another thing is that a lot of like, I see this like in the instruction side of things,
+
+332
+00:21:53,080 --> 00:21:57,680
+like a lot of instructors and I assume a lot of mentors or preceptors in your setting have
+
+333
+00:21:57,760 --> 00:22:01,600
+like specific things that they, that they focus in on.
+
+334
+00:22:01,600 --> 00:22:05,920
+So for example, like in your case where you had a patient who was seizing and you wanted
+
+335
+00:22:05,920 --> 00:22:09,360
+to give a medication for the seizure, they have like things they want to know, like,
+
+336
+00:22:09,360 --> 00:22:11,000
+Oh, did you consider this?
+
+337
+00:22:11,000 --> 00:22:16,040
+You could even like maybe come up with like a framework for like, you know, like my most
+
+338
+00:22:16,040 --> 00:22:19,960
+common drugs that I give or like the emergency drugs that I have, like what's the worst case
+
+339
+00:22:19,960 --> 00:22:21,760
+scenario if I give this?
+
+340
+00:22:21,760 --> 00:22:27,100
+So at least every time I give this medication, okay, like, like a benzo for, for seizure,
+
+341
+00:22:27,100 --> 00:22:30,540
+like I'm going to give this patient for a SED or a medazolam.
+
+342
+00:22:30,540 --> 00:22:33,640
+The worst thing that can happen is this patient stops breathing, but that's okay because you're
+
+343
+00:22:33,640 --> 00:22:35,980
+here with me and we have a BVM and we can handle it.
+
+344
+00:22:35,980 --> 00:22:37,300
+So I'm going to go ahead and give it.
+
+345
+00:22:37,300 --> 00:22:40,740
+And that shows that you recognize that there are like consequences to doing anything you
+
+346
+00:22:40,740 --> 00:22:43,260
+want to do, but that you've got it covered.
+
+347
+00:22:43,260 --> 00:22:48,380
+And like, maybe you didn't like run through a checklist of like, what are my patients,
+
+348
+00:22:48,380 --> 00:22:52,580
+medications and allergies and like any interactions, but you like, you know that the worst case
+
+349
+00:22:52,580 --> 00:22:56,900
+scenario you got it covered and you're like, all right, well, all right, that's fine.
+
+350
+00:22:57,900 --> 00:23:01,580
+So yeah, I guess I'm, I don't know.
+
+351
+00:23:01,580 --> 00:23:06,220
+I mean, I think the benzo one is like pretty obvious, but yeah, that might be like just
+
+352
+00:23:06,220 --> 00:23:10,860
+a thought experiment to like work through what, what you do carry or what you like commonly
+
+353
+00:23:10,860 --> 00:23:12,700
+give and I don't know.
+
+354
+00:23:12,700 --> 00:23:13,700
+Okay.
+
+355
+00:23:13,700 --> 00:23:14,700
+Yeah, I like that.
+
+356
+00:23:14,700 --> 00:23:15,700
+That's a good idea.
+
+357
+00:23:15,700 --> 00:23:19,940
+I mean, I do think it is, I think it's unrealistic to expect anyone like even in a, like an experienced
+
+358
+00:23:19,940 --> 00:23:27,500
+clinician to be able to like rattle things off systematically on the fly.
+
+359
+00:23:27,500 --> 00:23:34,620
+But the point I think of people like leaning in on that concept is that you just have to
+
+360
+00:23:34,620 --> 00:23:36,140
+think about it in general.
+
+361
+00:23:36,140 --> 00:23:37,980
+Like you have to consider something.
+
+362
+00:23:37,980 --> 00:23:40,860
+You don't have to be able to like hit everything.
+
+363
+00:23:40,860 --> 00:23:44,500
+But a lot of times what we're looking for on like the instructor side is that you at
+
+364
+00:23:44,500 --> 00:23:48,060
+least consider that other things could be going on.
+
+365
+00:23:48,820 --> 00:23:52,940
+So yeah, I can maybe that the words they're saying are like, Oh, you like you didn't consider
+
+366
+00:23:52,940 --> 00:23:54,340
+X, Y, and Z.
+
+367
+00:23:54,340 --> 00:23:59,060
+But really what they're with the idea is that like you didn't explain that you were considering
+
+368
+00:23:59,060 --> 00:24:00,620
+something at all.
+
+369
+00:24:00,620 --> 00:24:01,620
+Yeah.
+
+370
+00:24:01,620 --> 00:24:10,180
+And I see that often with instructors where you notice like one thing, but when they try
+
+371
+00:24:10,180 --> 00:24:15,420
+and explain it, it turns into something that's like, like a multi-part process or like many
+
+372
+00:24:15,420 --> 00:24:16,420
+things.
+
+373
+00:24:16,420 --> 00:24:20,860
+But really if you have like the one, like one specific thing, it would have like alleviated
+
+374
+00:24:20,860 --> 00:24:24,060
+their concern that you didn't know the thing.
+
+375
+00:24:24,060 --> 00:24:28,860
+So yeah, again, that's like speaking very general terms, which may or may not apply
+
+376
+00:24:28,860 --> 00:24:31,220
+to like specific people you're working with.
+
+377
+00:24:31,220 --> 00:24:34,100
+But that could be one, one strategy, I think.
+
+378
+00:24:34,100 --> 00:24:35,100
+Yeah, I like that.
+
+379
+00:24:35,100 --> 00:24:37,100
+Yeah, it's a good idea.
+
+380
+00:24:37,100 --> 00:24:38,100
+Yeah.
+
+381
+00:24:38,100 --> 00:24:45,020
+And then I guess like the last thing is like if there are specific things that you like
+
+382
+00:24:45,020 --> 00:24:49,620
+don't know, if you've like caught yourself freezing up on like specific drug doses or
+
+383
+00:24:49,620 --> 00:24:55,620
+algorithms or something, at some point as a student, you just have to like rote memorize
+
+384
+00:24:55,620 --> 00:24:59,420
+those things as a clinician in practice.
+
+385
+00:24:59,420 --> 00:25:03,060
+Like once you're past all like the initial like onboarding bullshit, you can always look
+
+386
+00:25:03,060 --> 00:25:04,060
+things up.
+
+387
+00:25:04,060 --> 00:25:09,020
+But as you don't really get that option, which is, I mean, I think it's fine.
+
+388
+00:25:09,020 --> 00:25:12,860
+It's like, it's important to like work through that process.
+
+389
+00:25:12,860 --> 00:25:16,700
+But in the meantime, while you're in that like learning your mentorship environment,
+
+390
+00:25:16,700 --> 00:25:21,620
+like you may just have to like go old school and like make no cards or write algorithms
+
+391
+00:25:21,620 --> 00:25:26,900
+down over and over until you just have it rote memorized.
+
+392
+00:25:26,900 --> 00:25:29,580
+But those might be ways to work through that.
+
+393
+00:25:29,580 --> 00:25:35,620
+Like if you don't really have to like dig in your in your memories and like through
+
+394
+00:25:35,620 --> 00:25:40,780
+the network in your brain to like find out what comes after step three in your like chest
+
+395
+00:25:40,780 --> 00:25:45,540
+pain protocol, like if you just know it cold, then it like use that mental space to like
+
+396
+00:25:45,540 --> 00:25:49,020
+focus on like how to deliver your message that you want to say.
+
+397
+00:25:49,020 --> 00:25:50,020
+Yeah.
+
+398
+00:25:50,020 --> 00:25:59,340
+So like one thing that I've used a lot lately is I use the app on my phone to make no cards.
+
+399
+00:25:59,340 --> 00:26:01,220
+It's called an Anki app.
+
+400
+00:26:01,220 --> 00:26:03,460
+So I use it like I'm in school at the moment.
+
+401
+00:26:03,460 --> 00:26:06,980
+So for like as I work through classes, if there's things that like I get wrong that
+
+402
+00:26:06,980 --> 00:26:09,660
+I want to remember, I just like make more card.
+
+403
+00:26:09,660 --> 00:26:15,820
+I also have like decks for like all different things like for all of my cards or all my
+
+404
+00:26:15,820 --> 00:26:18,380
+drugs that I carry at work.
+
+405
+00:26:18,380 --> 00:26:22,060
+I have no cards for for all the drugs that are like mentioned in my protocols.
+
+406
+00:26:22,060 --> 00:26:26,700
+I have no cards for and then periodically when I have downtime, I can like flip through
+
+407
+00:26:26,700 --> 00:26:27,780
+them.
+
+408
+00:26:27,780 --> 00:26:31,100
+And in my situation, it doesn't it doesn't matter so much because I always have the ability
+
+409
+00:26:31,100 --> 00:26:37,600
+to to reference, you know, because I'm like past that like onboarding process.
+
+410
+00:26:37,600 --> 00:26:40,280
+But I have find it quite helpful when there's like weird drug doses that we don't see that
+
+411
+00:26:40,280 --> 00:26:45,040
+often just like being able to know them off the top of my head so I can focus on like
+
+412
+00:26:45,040 --> 00:26:49,440
+troubleshooting whatever's going on without having to take mental space away from the
+
+413
+00:26:49,440 --> 00:26:52,920
+patient to go look something up, even though even though it is permissible.
+
+414
+00:26:52,920 --> 00:26:59,000
+It just like helps me navigate the scene a little bit more smoothly.
+
+415
+00:26:59,000 --> 00:27:03,000
+So yeah, I mean, I guess those are the like the three ways that I've I guess the two
+
+416
+00:27:03,000 --> 00:27:05,760
+main ways that I've studied a lot is like doing no cards.
+
+417
+00:27:05,760 --> 00:27:08,040
+I used to do just writing them by hand.
+
+418
+00:27:08,040 --> 00:27:10,840
+And now I tend to do them like on my phone.
+
+419
+00:27:10,840 --> 00:27:16,280
+The other way is just like writing down protocols over, like I'll literally go through like
+
+420
+00:27:16,280 --> 00:27:17,920
+a stack of paper.
+
+421
+00:27:17,920 --> 00:27:21,920
+Like when I was in medics, I would just flip through like our state protocols one page
+
+422
+00:27:21,920 --> 00:27:27,400
+at a time like try and write the algorithm from memory, and then look back and fill in
+
+423
+00:27:27,400 --> 00:27:30,680
+the blanks that I missed and then flip the page into the next one and just like over
+
+424
+00:27:30,680 --> 00:27:31,680
+and over for hours and hours.
+
+425
+00:27:32,040 --> 00:27:33,520
+It's a very inefficient way to learn.
+
+426
+00:27:33,520 --> 00:27:36,680
+I think there probably are better ways to do it.
+
+427
+00:27:38,680 --> 00:27:42,320
+But in the absence of like a well structured program, that's something that you can do
+
+428
+00:27:42,320 --> 00:27:43,320
+on your own at home.
+
+429
+00:27:43,320 --> 00:27:45,360
+Like all you need is a paper and pencil.
+
+430
+00:27:45,360 --> 00:27:46,360
+Yeah.
+
+431
+00:27:46,360 --> 00:27:47,360
+Or you do it on a computer.
+
+432
+00:27:47,360 --> 00:27:48,360
+You're like, you don't have to kill trees.
+
+433
+00:27:48,360 --> 00:27:52,200
+You could just like type it out and then delete it and type it out again.
+
+434
+00:27:52,200 --> 00:27:55,320
+I've never actually done that, but I guess it would work here.
+
+435
+00:27:55,320 --> 00:27:58,200
+Yeah, feel strongly about the paper use.
+
+436
+00:27:58,840 --> 00:28:03,880
+Yeah, I went through our protocols and I've like I basically rewrote them into like very
+
+437
+00:28:03,880 --> 00:28:07,520
+simple note forms just to memorize them in easy.
+
+438
+00:28:07,520 --> 00:28:13,080
+It's like the odd ones, the ones we don't use a lot to just do quick references on as
+
+439
+00:28:13,080 --> 00:28:16,320
+well. So we have something similar to that.
+
+440
+00:28:16,320 --> 00:28:24,200
+Yeah. And another thought on that note is that you could also like you took your protocols
+
+441
+00:28:24,200 --> 00:28:27,000
+and you like kind of summarize them on a note card.
+
+442
+00:28:27,000 --> 00:28:32,800
+You could consider like really like reading those out loud or like reciting them from
+
+443
+00:28:32,800 --> 00:28:35,840
+memory until you get it concise.
+
+444
+00:28:35,840 --> 00:28:41,160
+And that might also help with you like identifying like, I guess, articulating your treatments
+
+445
+00:28:41,160 --> 00:28:44,640
+on scene because then you have like the verbiage from the protocols.
+
+446
+00:28:44,640 --> 00:28:50,120
+I actually I'll send you a link, but I have a podcast that I did with a friend of mine
+
+447
+00:28:50,760 --> 00:28:53,760
+a year or two ago now.
+
+448
+00:28:53,760 --> 00:29:00,160
+And he was talking on the show about how he did something very similar.
+
+449
+00:29:00,160 --> 00:29:01,280
+He called it like making scripts.
+
+450
+00:29:01,280 --> 00:29:05,440
+He like made these like audio scripts for all of his protocols as his like onboarding
+
+451
+00:29:05,440 --> 00:29:10,800
+process. And that way he could just like remember them in order to pass his like, you know,
+
+452
+00:29:10,800 --> 00:29:15,240
+it seems like a process similar to yours to pass his like onboarding situation.
+
+453
+00:29:15,240 --> 00:29:20,280
+But now even as a reference, he has all those protocols recorded on audio files.
+
+454
+00:29:20,280 --> 00:29:23,720
+So if he's like driving into work or something, he just like has them available.
+
+455
+00:29:23,720 --> 00:29:24,720
+Okay.
+
+456
+00:29:24,720 --> 00:29:29,040
+And I've done something similar for like I have similar scripts that I've made for like
+
+457
+00:29:29,040 --> 00:29:30,560
+high risk procedures where I work.
+
+458
+00:29:30,560 --> 00:29:35,560
+Like I have one that I like routinely will listen to on my way into shift.
+
+459
+00:29:35,560 --> 00:29:39,760
+And it walks me it's like my own voice walking me through the steps of how we would do an
+
+460
+00:29:39,760 --> 00:29:43,080
+RSI in the in the ideal situation.
+
+461
+00:29:43,080 --> 00:29:49,160
+So everything from like where in my bag my drugs live and my equipment lives to like
+
+462
+00:29:49,160 --> 00:29:50,640
+what I'm going to have different people do.
+
+463
+00:29:50,640 --> 00:29:58,400
+And it's just like my way of practicing the thing when all I have is like just just me
+
+464
+00:29:58,400 --> 00:30:00,760
+and myself, like I don't have like all the equipment.
+
+465
+00:30:00,760 --> 00:30:02,960
+It's a way to like visualize yourself working through it.
+
+466
+00:30:02,960 --> 00:30:07,520
+So yeah, I guess, you know, there's another potential way.
+
+467
+00:30:07,520 --> 00:30:11,160
+Yeah, I like that the recording myself.
+
+468
+00:30:11,160 --> 00:30:13,200
+I'm gonna I think I'm going to try that out.
+
+469
+00:30:13,200 --> 00:30:16,720
+I'll make a note to send you a link there.
+
+470
+00:30:16,720 --> 00:30:17,720
+Perfect.
+
+471
+00:30:17,720 --> 00:30:18,720
+Thanks.
+
+472
+00:30:18,720 --> 00:30:23,400
+So I guess like, I don't know, I don't want to overwhelm you with options, but I hope
+
+473
+00:30:23,400 --> 00:30:24,800
+some of that is helpful.
+
+474
+00:30:24,800 --> 00:30:26,760
+Yeah, no, it's good.
+
+475
+00:30:26,760 --> 00:30:30,760
+It's yeah, there's some stuff I thought about doing before, but there's a lot of you gave
+
+476
+00:30:30,760 --> 00:30:34,800
+me a lot of good ideas and how I can use it for myself.
+
+477
+00:30:34,800 --> 00:30:39,480
+Like I have like an hour I want to have drive to work every day when I go to work.
+
+478
+00:30:39,480 --> 00:30:40,960
+So I got lots of time.
+
+479
+00:30:41,080 --> 00:30:42,400
+I listened to a lot of podcasts.
+
+480
+00:30:42,400 --> 00:30:47,480
+So I got lots of time to listen to myself ramble on about whatever the key, whatever
+
+481
+00:30:47,480 --> 00:30:51,720
+I'm working on or need to put up on.
+
+482
+00:30:51,720 --> 00:30:54,040
+And yeah, I think it's great ideas.
+
+483
+00:30:54,040 --> 00:30:56,560
+A lot of really good ideas there.
+
+484
+00:30:56,560 --> 00:30:57,560
+Right on.
+
+485
+00:30:57,560 --> 00:30:58,560
+Yeah.
+
+486
+00:30:58,560 --> 00:30:59,560
+Cool.
+
+487
+00:30:59,560 --> 00:31:03,120
+Yeah, I mean, I definitely hope it helps.
+
+488
+00:31:03,120 --> 00:31:08,520
+And yeah, I guess I would maybe from all the things you talked about, just like pick one
+
+489
+00:31:08,520 --> 00:31:09,520
+or two strategies.
+
+490
+00:31:09,520 --> 00:31:13,600
+You want to like overwhelm yourself and try and do like 14 ways to like get to one end.
+
+491
+00:31:13,600 --> 00:31:14,600
+Yeah.
+
+492
+00:31:14,600 --> 00:31:15,680
+But it is okay to switch it up.
+
+493
+00:31:15,680 --> 00:31:22,000
+Like I will, you know, I tend to like switch up my style of studying or like how I'm going
+
+494
+00:31:22,000 --> 00:31:26,440
+about learning things periodically because you do get like stuck in a rut.
+
+495
+00:31:26,440 --> 00:31:33,000
+But I would say for now, like if the audio recording thing seems like the way to go,
+
+496
+00:31:33,000 --> 00:31:40,600
+like maybe, yeah, like maybe tonight you just record like one one script for one scenario
+
+497
+00:31:40,600 --> 00:31:44,880
+or one thing you've been thinking on or that you got stumped on last shift and then just
+
+498
+00:31:44,880 --> 00:31:49,200
+like listen to it on your way to work tomorrow and then think about it for a bit and listen
+
+499
+00:31:49,200 --> 00:31:51,840
+again and like eventually you can refine that idea.
+
+500
+00:31:51,840 --> 00:31:55,920
+I think that's a good way to start that process.
+
+501
+00:31:55,920 --> 00:31:57,600
+Yeah, I think so.
+
+502
+00:31:57,600 --> 00:31:58,600
+Right on.
+
+503
+00:31:59,200 --> 00:32:02,600
+How much do you have in the in your mentorship?
+
+504
+00:32:02,600 --> 00:32:07,480
+Is there a set timeline or is it just until they feel like you're ready?
+
+505
+00:32:07,480 --> 00:32:10,000
+Like there's four milestones.
+
+506
+00:32:10,000 --> 00:32:20,080
+I started my third milestone last block and the the I'm in medium support for the milestone.
+
+507
+00:32:20,080 --> 00:32:24,000
+So it's five blocks until I go from my review.
+
+508
+00:32:24,000 --> 00:32:29,240
+They see how well I'm doing if I need to extend a little bit longer, which sometimes
+
+509
+00:32:29,240 --> 00:32:36,720
+it happens or if they feel like I've accomplished the goal set out for me in that in that block.
+
+510
+00:32:36,720 --> 00:32:38,360
+And then I move on to the fourth one.
+
+511
+00:32:38,360 --> 00:32:43,160
+And then after that, it's just I get my wings and I'm on my way.
+
+512
+00:32:43,160 --> 00:32:50,960
+And each mile like the three milestones is how they grade you on your calls and how well
+
+513
+00:32:50,960 --> 00:32:51,960
+you're doing.
+
+514
+00:32:52,560 --> 00:32:55,280
+If you're dependent, assisted and independent.
+
+515
+00:32:55,280 --> 00:33:01,120
+So this third milestone, I have to have at least 70 percent assisted.
+
+516
+00:33:01,120 --> 00:33:07,200
+And that's like needing a little bit of like encouragement to do this or, you know, like
+
+517
+00:33:07,200 --> 00:33:12,120
+they have to kind of push me a little bit in one direction or like independence.
+
+518
+00:33:12,120 --> 00:33:19,600
+Just like do it all on your own and yeah, without any really too much, without too much
+
+519
+00:33:19,600 --> 00:33:21,000
+help. Like, you know, there's there's help.
+
+520
+00:33:21,000 --> 00:33:25,480
+Like we have a phone line we can call to be like, hey, I'm not sure about this.
+
+521
+00:33:25,480 --> 00:33:29,800
+What about this dosage is I need some help on this or, you know, that's acceptable.
+
+522
+00:33:29,800 --> 00:33:30,800
+That's what they want.
+
+523
+00:33:30,800 --> 00:33:35,480
+And also, if I'm working with an ACP partner, it's like I can talk to my partner about it,
+
+524
+00:33:35,480 --> 00:33:41,240
+but they just don't want, you know, us to be like totally reliant.
+
+525
+00:33:41,240 --> 00:33:43,080
+Because sometimes they don't have an ACP partner.
+
+526
+00:33:43,080 --> 00:33:49,360
+Sometimes a PCP partner and my only partner at my ACP partner is following the phone line.
+
+527
+00:33:49,360 --> 00:33:54,960
+So yeah, that's kind of how they work it out.
+
+528
+00:33:54,960 --> 00:34:00,280
+And it's a little on the subjective side, but yeah.
+
+529
+00:34:00,280 --> 00:34:05,800
+I mean, I don't know if there's like a more objective way to do those kind of things.
+
+530
+00:34:05,800 --> 00:34:08,800
+Like not really.
+
+531
+00:34:08,800 --> 00:34:16,000
+Clinical training program has this conundrum where you're kind of in this limbo area where
+
+532
+00:34:16,000 --> 00:34:17,960
+you're at the mercy of someone else.
+
+533
+00:34:17,960 --> 00:34:22,680
+And sometimes it's tougher than others just based on like temperament and personality.
+
+534
+00:34:22,680 --> 00:34:23,680
+Yeah.
+
+535
+00:34:23,680 --> 00:34:24,680
+Yeah.
+
+536
+00:34:24,680 --> 00:34:27,840
+But yeah, no, but I've enjoyed it.
+
+537
+00:34:27,840 --> 00:34:33,120
+It's yeah, I've learned a lot and just kind of like seeing how other people handle certain
+
+538
+00:34:33,120 --> 00:34:34,520
+calls and it's been quite nice.
+
+539
+00:34:34,520 --> 00:34:37,440
+So I can't complain too much.
+
+540
+00:34:37,440 --> 00:34:42,960
+Yeah, well, it definitely seems like you're on the right track with at least like, I mean,
+
+541
+00:34:42,960 --> 00:34:47,400
+many people make it through school without ever even like considering like how to do
+
+542
+00:34:47,400 --> 00:34:48,400
+the thing better.
+
+543
+00:34:48,400 --> 00:34:50,920
+They're just like powering through it.
+
+544
+00:34:50,920 --> 00:34:54,200
+So I mean, the fact that you were able to take a step back and then okay, like how can
+
+545
+00:34:54,200 --> 00:34:55,200
+I refine this process?
+
+546
+00:34:55,200 --> 00:34:57,480
+I've been like, I articulate myself better.
+
+547
+00:34:57,480 --> 00:35:02,480
+I think is a really good like step along the way.
+
+548
+00:35:02,480 --> 00:35:04,640
+A lot of people don't ever do that.
+
+549
+00:35:04,640 --> 00:35:10,080
+I took like a medical before I like thought about like how I spoke to patients like on
+
+550
+00:35:10,080 --> 00:35:15,080
+a scene or like how I interact with other people because I was like so focused in on
+
+551
+00:35:15,080 --> 00:35:17,080
+like memorizing things.
+
+552
+00:35:17,080 --> 00:35:21,320
+Like I didn't have a lot of self-reflection in that like communication side.
+
+553
+00:35:21,320 --> 00:35:23,840
+So I don't know.
+
+554
+00:35:23,840 --> 00:35:28,280
+Everyone comes about like about a different way, but I think it's awesome that you're
+
+555
+00:35:28,280 --> 00:35:31,200
+having this conversation at this point.
+
+556
+00:35:31,200 --> 00:35:32,200
+Yeah.
+
+557
+00:35:32,200 --> 00:35:33,200
+Thanks.
+
+558
+00:35:33,200 --> 00:35:38,080
+Yeah, it's been difficult, but you know, it's like I'm used to talking to a bunch of prairie
+
+559
+00:35:38,080 --> 00:35:40,400
+farmers out in the middle of Manitoba.
+
+560
+00:35:40,400 --> 00:35:46,240
+Now I'm here with, you know, Laura Mainland, BC, and it's just like different populations,
+
+561
+00:35:46,240 --> 00:35:47,240
+different people.
+
+562
+00:35:47,240 --> 00:35:51,520
+And some people don't like the way I've talked in the past and it's like, all right, then
+
+563
+00:35:51,520 --> 00:35:56,200
+I got a, I've been told I sound like an asshole or whatever the case may be.
+
+564
+00:35:56,200 --> 00:35:57,640
+I have to do something different.
+
+565
+00:35:57,640 --> 00:35:58,920
+I have to change myself.
+
+566
+00:35:58,920 --> 00:36:00,760
+I can't change the rest of the population.
+
+567
+00:36:00,760 --> 00:36:01,760
+So yeah.
+
+568
+00:36:01,760 --> 00:36:02,760
+Well, definitely.
+
+569
+00:36:02,760 --> 00:36:03,760
+Yeah.
+
+570
+00:36:03,760 --> 00:36:12,360
+Definitely reach out again, either through the channel or you got my number now.
+
+571
+00:36:12,360 --> 00:36:15,000
+And yeah, if you need a hand with anything at all, just let us know.
+
+572
+00:36:15,000 --> 00:36:16,000
+We'll do.
+
+573
+00:36:16,000 --> 00:36:17,560
+I really appreciate it.
+
+574
+00:36:17,560 --> 00:36:19,240
+And that's pretty much it.
+
+575
+00:36:19,240 --> 00:36:20,240
+Thanks for tuning in.
+
+576
+00:36:20,240 --> 00:36:24,440
+But real quick, before we go, just a few shout outs.
+
+577
+00:36:24,440 --> 00:36:29,520
+First is to Pragmatic Paramedics, another awesome podcast that we highly recommend.
+
+578
+00:36:29,520 --> 00:36:32,840
+Next is to the St. Fisher Church of Evidence-Based Medicine.
+
+579
+00:36:32,840 --> 00:36:36,080
+If you don't follow them already, definitely check them out.
+
+580
+00:36:36,080 --> 00:36:40,860
+These guys, both Pragmatic Paramedics and the St. Fisher folks have been instrumental
+
+581
+00:36:40,860 --> 00:36:44,720
+in getting our stuff out there into the world and we truly appreciate that.
+
+582
+00:36:44,720 --> 00:36:48,760
+And then we'll end things with a shout out to my good friend, Josh Pittman and his buddy,
+
+583
+00:36:48,760 --> 00:36:49,760
+Kevin Pons.
+
+584
+00:36:49,760 --> 00:36:52,280
+They put the music together for the show.
+
+585
+00:36:52,280 --> 00:37:22,120
+Until next time.

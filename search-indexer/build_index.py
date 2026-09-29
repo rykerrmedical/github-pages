@@ -402,7 +402,7 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
     if not forced and _versioned(content_signal) == previous_signal:
         stats["unchanged"] += 1
         return
-    sections, citation_entries = pdf_ingest.extract_pdf_pages(pdf_bytes, pdf_url)
+    sections, citation_entries, total_pages = pdf_ingest.extract_pdf_pages(pdf_bytes, pdf_url)
 
     # Resolve and store this PDF's citation-blurb mentions regardless of
     # whether `sections` ends up empty — this is the one point where we
@@ -470,14 +470,19 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
     # are citing a range within a document").
     content_type = pdf_ingest.content_type_tag(pdf_url)
     pdf_tags = [content_type] if content_type else []
+    # Ryan's call, 2026-09-28: an outside reference under 50 pages gets
+    # cited as one whole-document card, no page/range at all -- only a
+    # LONGER third-party paper still shows chapters/sections/ranges.
+    short_third_party = content_type is None and total_pages < 50
 
     pieces = chunker.chunk_structured_text(title, None, blocks)
     embeddings = embedder.embed_documents([p["text"] for p in pieces])
     chunk_rows = [
         {
             "locator": (
-                f"pages {p['start_page']}-{p['end_page']}" if p["start_page"] != p["end_page"]
-                else f"Page {p['start_page']}" if content_type is not None
+                "" if short_third_party
+                else f"pages {p['start_page']}-{p['end_page']}" if p["start_page"] != p["end_page"]
+                else f"page {p['start_page']}" if content_type is not None
                 else ""
             ),
             "locator_url": pdf_ingest.locator_url_for_page(pdf_url, p["start_page"]),
@@ -553,7 +558,7 @@ def _write_citation_sources(conn):
         embeddings = embedder.embed_documents(texts)
         chunk_rows = [
             {
-                "locator": f"Cited in {m['citing_title']}, Page {m['page']}",
+                "locator": f"Cited in {m['citing_title']}, page {m['page']}",
                 "locator_url": target_id,
                 "chunk_index": i,
                 "text": text,

@@ -1,0 +1,5535 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hey friends and welcome to the Riker Medical Podcast.
+
+2
+00:00:04,360 --> 00:00:09,640
+Riker Medical is a platform for education focused on emergency, transport, and critical
+
+3
+00:00:09,640 --> 00:00:15,280
+care medicine.
+
+4
+00:00:15,280 --> 00:00:20,360
+We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+
+5
+00:00:20,360 --> 00:00:23,860
+use of technology can facilitate that effort.
+
+6
+00:00:23,860 --> 00:00:29,060
+This podcast is just one piece of that whole project.
+
+7
+00:00:29,060 --> 00:00:36,960
+Also, while we may mention medical treatments and interventions along the way, remember
+
+8
+00:00:36,960 --> 00:00:40,700
+that we are just strangers on the internet and don't do things you aren't allowed to
+
+9
+00:00:40,700 --> 00:00:45,860
+do.
+
+10
+00:00:45,860 --> 00:01:10,740
+For more information about the project, visit us at RikerMedical.com.
+
+11
+00:01:10,740 --> 00:01:18,780
+Today on the show we have Melody Bishop.
+
+12
+00:01:18,780 --> 00:01:22,020
+Mel is a respiratory therapist in Canada.
+
+13
+00:01:22,020 --> 00:01:28,700
+She has worked in transport in flight, currently works as an educator for a critical care transport
+
+14
+00:01:28,700 --> 00:01:30,380
+program.
+
+15
+00:01:30,380 --> 00:01:35,940
+She also has written an awesome book that's available for free on mechanical ventilation.
+
+16
+00:01:35,940 --> 00:01:39,080
+So we'll be sure to share that link with you in the description.
+
+17
+00:01:39,080 --> 00:01:43,320
+And then if you want to follow her, she'll mention this later, but she is at Melody Bishop
+
+18
+00:01:43,320 --> 00:01:44,320
+RT.
+
+19
+00:01:44,320 --> 00:01:51,080
+Here we go.
+
+20
+00:01:51,080 --> 00:01:52,080
+Now we're official.
+
+21
+00:01:52,080 --> 00:01:54,080
+Sounds good.
+
+22
+00:01:54,080 --> 00:01:56,240
+Cool.
+
+23
+00:01:56,240 --> 00:02:02,040
+So first thing, do you go by Melody or a short version of your name?
+
+24
+00:02:02,040 --> 00:02:03,040
+I love it.
+
+25
+00:02:03,040 --> 00:02:05,320
+Actually, that's the first time anyone's ever asked me that.
+
+26
+00:02:05,320 --> 00:02:10,640
+So I go by Mel, but really my family calls me that.
+
+27
+00:02:10,640 --> 00:02:13,720
+Professionally now most people just call me Melody.
+
+28
+00:02:13,720 --> 00:02:19,760
+But I also answer to RT, Hey you, that random person over there, anything like that.
+
+29
+00:02:19,760 --> 00:02:24,080
+Melissa, Melanie, you know, anything that's remotely an M name.
+
+30
+00:02:24,080 --> 00:02:26,240
+But Mel is great too.
+
+31
+00:02:26,240 --> 00:02:27,800
+Whatever you want to call me, it's good.
+
+32
+00:02:27,800 --> 00:02:28,800
+Perfect.
+
+33
+00:02:28,800 --> 00:02:29,800
+We'll go with Mel then.
+
+34
+00:02:29,800 --> 00:02:31,680
+And what do you prefer?
+
+35
+00:02:31,680 --> 00:02:33,000
+Ryan's pretty short, so it's not.
+
+36
+00:02:33,000 --> 00:02:35,680
+Yeah, Ryan doesn't have any like shortened version.
+
+37
+00:02:35,680 --> 00:02:37,440
+So Ryan is totally fine.
+
+38
+00:02:37,440 --> 00:02:38,440
+Okay.
+
+39
+00:02:38,440 --> 00:02:39,440
+Sounds good.
+
+40
+00:02:39,440 --> 00:02:40,440
+Cool.
+
+41
+00:02:40,440 --> 00:02:50,160
+Yeah, I guess we got in touch because you have a page on Instagram that does like education
+
+42
+00:02:50,160 --> 00:02:52,740
+about respiratory therapy stuff.
+
+43
+00:02:52,740 --> 00:02:59,400
+And I think I found out about it from Mike at the World's Okay-A-Smedic podcast, because
+
+44
+00:02:59,400 --> 00:03:04,080
+I think you chatted with him or he like re-shared something of yours and you have a book that
+
+45
+00:03:04,080 --> 00:03:08,800
+you published that's available for free on like mechanical ventilation.
+
+46
+00:03:08,800 --> 00:03:10,640
+Yeah.
+
+47
+00:03:10,640 --> 00:03:11,640
+What's the story with that?
+
+48
+00:03:11,640 --> 00:03:16,400
+I'm curious to know like why you put a book out for free and mainly because everyone always
+
+49
+00:03:16,400 --> 00:03:17,840
+asked me the same question.
+
+50
+00:03:17,840 --> 00:03:18,840
+Yes.
+
+51
+00:03:18,840 --> 00:03:21,600
+Cause I know what your book and I actually knew of your book before.
+
+52
+00:03:21,600 --> 00:03:22,880
+Kudos, by the way.
+
+53
+00:03:22,880 --> 00:03:23,880
+I love it.
+
+54
+00:03:23,880 --> 00:03:24,880
+It's amazing.
+
+55
+00:03:24,880 --> 00:03:25,880
+It's much higher level.
+
+56
+00:03:25,880 --> 00:03:28,640
+It gets into more of the weeds than I did in mine.
+
+57
+00:03:28,640 --> 00:03:29,640
+But I'll get into that in a second.
+
+58
+00:03:29,640 --> 00:03:34,880
+I do want to just shout out to Mike because Crunch definitely was the reason I even started
+
+59
+00:03:34,880 --> 00:03:36,380
+Instagram.
+
+60
+00:03:36,380 --> 00:03:41,640
+He like had me on his podcast just because he thought I was funny when I messaged him
+
+61
+00:03:41,640 --> 00:03:45,480
+on Instagram and it started a beautiful friendship.
+
+62
+00:03:45,480 --> 00:03:49,680
+And then he kind of pushed me annoyingly hard and I finally like ripped the bandaid and
+
+63
+00:03:49,680 --> 00:03:51,320
+started my Instagram page.
+
+64
+00:03:51,320 --> 00:03:58,180
+But prior to that, just like around COVID, I was looking around for a different mechanical
+
+65
+00:03:58,180 --> 00:03:59,180
+ventilation books.
+
+66
+00:03:59,180 --> 00:04:05,700
+And at that time I hadn't seen yours and I had seen like books for ventilation that
+
+67
+00:04:05,700 --> 00:04:06,820
+were written by paramedics.
+
+68
+00:04:06,820 --> 00:04:11,380
+And I had seen, of course there's textbooks written by physicians, but I didn't really
+
+69
+00:04:11,380 --> 00:04:12,860
+see anything that was written by an RT.
+
+70
+00:04:12,860 --> 00:04:17,240
+And I was like, you know, there really should be an RT voice in this because I think being
+
+71
+00:04:17,240 --> 00:04:25,080
+a non-physician designation, we have an expertise in ventilation, but also a way to maybe simplify
+
+72
+00:04:25,080 --> 00:04:29,040
+the concepts and bring it down from maybe a physician level or intensivist level where
+
+73
+00:04:29,040 --> 00:04:32,760
+they might get into more of the studies and the research and be able to explain things
+
+74
+00:04:32,760 --> 00:04:34,760
+in language that's easy to understand.
+
+75
+00:04:34,760 --> 00:04:41,040
+And also coming from a standpoint from respiratory therapy with our background and being in a
+
+76
+00:04:41,040 --> 00:04:46,000
+hospital and being very immersed in best practice medicine, kind of moving out of maybe some
+
+77
+00:04:46,000 --> 00:04:50,200
+of the practices are done.
+
+78
+00:04:50,200 --> 00:04:55,280
+I don't want to come off as speaking down to any profession because that's not it at
+
+79
+00:04:55,280 --> 00:04:56,280
+all.
+
+80
+00:04:56,280 --> 00:05:00,200
+But sometimes when you have a silo of paramedics teaching paramedics or nurses teaching nurses,
+
+81
+00:05:00,200 --> 00:05:06,640
+you don't necessarily get a complete picture of best practice when it comes to ventilation.
+
+82
+00:05:06,640 --> 00:05:11,760
+So and I had seen a little bit of that specifically with my hate on for SIMV that I'm always very
+
+83
+00:05:11,760 --> 00:05:15,400
+honest about, that I would see that a lot in books that are written by paramedics of
+
+84
+00:05:15,400 --> 00:05:19,160
+still teaching it as a mode that's used quite heavily.
+
+85
+00:05:19,160 --> 00:05:24,480
+So anyways, all that to say, I wanted to have a voice as an RT to be able to speak
+
+86
+00:05:24,480 --> 00:05:29,600
+to those professions that don't necessarily have mechanical ventilation in their bread
+
+87
+00:05:29,600 --> 00:05:33,560
+and butter of their profession and be able to explain it in a way that's easy to understand
+
+88
+00:05:33,560 --> 00:05:38,800
+and within one book, take someone from nothing and give them the building blocks to be able
+
+89
+00:05:38,800 --> 00:05:43,560
+to initiate ventilation in a situation where they don't necessarily have expertise at the
+
+90
+00:05:43,560 --> 00:05:49,280
+bedside like a critical care paramedic or like a physician or an RT to be safe and to
+
+91
+00:05:49,280 --> 00:05:55,880
+not harm someone and be able to pick settings that were appropriate for their patient and
+
+92
+00:05:55,880 --> 00:06:00,800
+potentially even the therapy like non-invasive versus invasive and the mode of ventilation
+
+93
+00:06:00,800 --> 00:06:06,040
+and they might not necessarily be at the level of a critical care provider, but be safe.
+
+94
+00:06:06,040 --> 00:06:11,760
+So I wanted it to be simple, easily digestible and within a very short period, get them to
+
+95
+00:06:11,760 --> 00:06:16,140
+at least initiating safe settings and then moving through why you would make changes
+
+96
+00:06:16,140 --> 00:06:19,020
+based on gases and things like that.
+
+97
+00:06:19,020 --> 00:06:23,920
+So that was kind of where I came up with the idea of having an RT voice to do that.
+
+98
+00:06:23,920 --> 00:06:29,880
+And I started just writing it while I was flying on like longer halls, just in the back
+
+99
+00:06:29,880 --> 00:06:31,760
+of the aircraft while I was flying.
+
+100
+00:06:31,760 --> 00:06:39,180
+And then I had a wonderful resource that actually I sent the book to them and they loved it
+
+101
+00:06:39,180 --> 00:06:43,980
+and saw the value and merited it and sent it to someone that they knew who actually
+
+102
+00:06:43,980 --> 00:06:48,780
+was connected with Stu College, which is a college here in Canada.
+
+103
+00:06:48,780 --> 00:06:53,540
+And they actually sponsored and partnered with me to get it a grant for it to be able
+
+104
+00:06:53,540 --> 00:06:55,300
+to release it free.
+
+105
+00:06:55,300 --> 00:06:58,580
+And that's kind of how it happened and why I decided to write it.
+
+106
+00:06:58,580 --> 00:07:03,340
+And I wanted to write it free to get it out because I wanted there to be absolutely no
+
+107
+00:07:03,340 --> 00:07:08,500
+barriers to any person, regardless of their background, regardless of their familiarity
+
+108
+00:07:08,500 --> 00:07:12,780
+with events to at least have something to start their journey and to start their journey
+
+109
+00:07:12,780 --> 00:07:15,380
+in a way that isn't overwhelming or scary.
+
+110
+00:07:15,380 --> 00:07:22,940
+Is that group, Stu, do they run the, like the book is published on this website that
+
+111
+00:07:22,940 --> 00:07:27,020
+like makes it pretty easy to read online, like versus mine, that's just like a PDF document.
+
+112
+00:07:27,020 --> 00:07:28,940
+Do they run that website as well?
+
+113
+00:07:28,940 --> 00:07:31,580
+Like how does, how did the hosting part of it work?
+
+114
+00:07:31,580 --> 00:07:32,580
+Yeah.
+
+115
+00:07:32,580 --> 00:07:37,260
+So the way that the grant that they helped me get the grant, Stu College, so they're
+
+116
+00:07:37,260 --> 00:07:40,900
+an accredited college here in Canada, but the grant actually is through the Ontario
+
+117
+00:07:40,900 --> 00:07:41,980
+government.
+
+118
+00:07:41,980 --> 00:07:48,660
+And so they have an online publication database that is an open educational resources, which
+
+119
+00:07:48,660 --> 00:07:50,220
+is what the grant was for.
+
+120
+00:07:50,220 --> 00:07:53,460
+And it was pretty much any educational resource.
+
+121
+00:07:53,460 --> 00:07:54,460
+It didn't have to be medical.
+
+122
+00:07:54,460 --> 00:07:56,340
+It could be anything else.
+
+123
+00:07:56,340 --> 00:07:58,260
+Could apply for a grant.
+
+124
+00:07:58,260 --> 00:08:01,300
+And I had to write a proposal and the rationale and the reason why.
+
+125
+00:08:01,300 --> 00:08:05,300
+And I honestly think COVID was worked in my favor because it was right at the time when
+
+126
+00:08:05,300 --> 00:08:09,780
+COVID was coming up and ventilation actually was something that the public knew about and
+
+127
+00:08:09,780 --> 00:08:12,420
+they heard about it on the news.
+
+128
+00:08:12,420 --> 00:08:19,500
+And when I pitched it to them, I said, this is, this is to increase the expertise of multiple
+
+129
+00:08:19,500 --> 00:08:22,540
+disciplines to be able to understand the clinical ventilation.
+
+130
+00:08:22,540 --> 00:08:27,140
+And I think those magic words were what really helped in the world of COVID to get them to
+
+131
+00:08:27,140 --> 00:08:32,680
+be able to say like, yes, we will, we will publish this and we will publish it for free.
+
+132
+00:08:32,680 --> 00:08:41,120
+So it's published open source and with that copyright, it can be used by anyone.
+
+133
+00:08:41,120 --> 00:08:46,360
+But if they use the material, they have to then publish open source as well.
+
+134
+00:08:46,360 --> 00:08:49,940
+So it actually locks people into a gift that keeps giving.
+
+135
+00:08:49,940 --> 00:08:51,160
+So they can use it.
+
+136
+00:08:51,160 --> 00:08:55,080
+They can use all the content, but if they want to, they have to then publish for free
+
+137
+00:08:55,080 --> 00:08:56,080
+as well.
+
+138
+00:08:56,080 --> 00:08:57,080
+Right on.
+
+139
+00:08:57,080 --> 00:08:58,440
+Yeah, that's cool.
+
+140
+00:08:59,440 --> 00:09:03,080
+That's kind of my long, long drawn out story.
+
+141
+00:09:03,080 --> 00:09:04,760
+But yes, for sure.
+
+142
+00:09:04,760 --> 00:09:05,760
+Yeah.
+
+143
+00:09:05,760 --> 00:09:09,440
+And I imagine that was like ideal timing because I imagine it was the same for you guys up
+
+144
+00:09:09,440 --> 00:09:10,440
+there.
+
+145
+00:09:10,440 --> 00:09:15,280
+But like here in the States, we had a lot of clinicians who don't typically use ventilators
+
+146
+00:09:15,280 --> 00:09:20,200
+or who were using ventilators that they're not used to working with like during that
+
+147
+00:09:20,200 --> 00:09:21,960
+time because we just had so many patients.
+
+148
+00:09:21,960 --> 00:09:27,440
+So I think like having a resource like that probably helped out a lot.
+
+149
+00:09:28,440 --> 00:09:29,280
+Cool.
+
+150
+00:09:29,280 --> 00:09:33,960
+And you mentioned this in your narrative about like how you started the book, but you also
+
+151
+00:09:33,960 --> 00:09:34,960
+fly.
+
+152
+00:09:34,960 --> 00:09:35,960
+Not anymore.
+
+153
+00:09:35,960 --> 00:09:39,600
+So I flew for four years.
+
+154
+00:09:39,600 --> 00:09:45,920
+So now I work for a critical transport company here in Canada, but actually the company that
+
+155
+00:09:45,920 --> 00:09:48,000
+I work for is only paramedic based.
+
+156
+00:09:48,000 --> 00:09:54,800
+It is like actually one of the sole companies that I'm aware of that has a paramedic paramedic
+
+157
+00:09:54,800 --> 00:09:55,800
+pairing.
+
+158
+00:09:55,800 --> 00:10:01,080
+So I work for CCPs that fly instead of like a paramedic nurse or physician nurse or physician
+
+159
+00:10:01,080 --> 00:10:03,000
+paramedic, like other services.
+
+160
+00:10:03,000 --> 00:10:08,400
+So I work for them and I'm one of their educators and I do a lot of their mechanical ventilation
+
+161
+00:10:08,400 --> 00:10:12,440
+airway respiratory teaching for all their CCPs and I absolutely love it.
+
+162
+00:10:12,440 --> 00:10:13,440
+Right on.
+
+163
+00:10:13,440 --> 00:10:17,000
+And do you still work in a hospital as well or just the... you do?
+
+164
+00:10:17,000 --> 00:10:18,200
+Yeah, I do.
+
+165
+00:10:18,200 --> 00:10:21,180
+So I'm actually an anesthesia assistant and I'm an RT.
+
+166
+00:10:21,180 --> 00:10:26,540
+So mostly when I work clinically, I now work as an RT, but I still am an anesthesia assistant
+
+167
+00:10:26,540 --> 00:10:30,460
+and I did work in the OR as an AA for a while.
+
+168
+00:10:30,460 --> 00:10:33,460
+But now mostly my clinical shifts are just RT.
+
+169
+00:10:33,460 --> 00:10:34,460
+Cool.
+
+170
+00:10:34,460 --> 00:10:35,460
+Right on.
+
+171
+00:10:35,460 --> 00:10:41,420
+Well, you and I have been talking a fair amount about like all things mechanical ventilation,
+
+172
+00:10:41,420 --> 00:10:45,500
+but I think you've seen this list as well, but I kind of put a list of questions together
+
+173
+00:10:45,500 --> 00:10:46,500
+to ask you about.
+
+174
+00:10:46,500 --> 00:10:50,820
+I don't know if we'll have time to get through all of them, but maybe we'll just dive into
+
+175
+00:10:50,820 --> 00:10:53,100
+those and see where it takes us.
+
+176
+00:10:53,100 --> 00:10:54,100
+Absolutely.
+
+177
+00:10:54,100 --> 00:10:55,100
+Whenever you're ready.
+
+178
+00:10:55,100 --> 00:10:56,100
+All right.
+
+179
+00:10:56,100 --> 00:10:57,180
+I'm ready.
+
+180
+00:10:57,180 --> 00:11:01,300
+So the first thing that I was curious in it was like, what do you think is the... maybe
+
+181
+00:11:01,300 --> 00:11:02,940
+not the biggest difference.
+
+182
+00:11:02,940 --> 00:11:08,100
+What are like some of the differences between how mechanical ventilation is done or taught
+
+183
+00:11:08,100 --> 00:11:14,180
+in the hospital setting versus how it's done or taught in the transport setting?
+
+184
+00:11:14,180 --> 00:11:24,740
+I honestly think the main difference... there's not that many differences in a good program,
+
+185
+00:11:24,740 --> 00:11:32,340
+but I think the main difference is as an RT or in the hospital environment, our main
+
+186
+00:11:32,340 --> 00:11:36,940
+ideology when it comes to ventilation is minimizing the time on the ventilator.
+
+187
+00:11:36,940 --> 00:11:38,300
+We're not a bridge to anything.
+
+188
+00:11:38,300 --> 00:11:40,860
+We're not getting a patient somewhere.
+
+189
+00:11:40,860 --> 00:11:45,260
+Once a patient is intubated, every single action and thing that I do is to get them
+
+190
+00:11:45,260 --> 00:11:46,860
+off that ventilator.
+
+191
+00:11:46,860 --> 00:11:48,460
+That's what I see my job is as an RT.
+
+192
+00:11:48,460 --> 00:11:51,540
+It's not to intubate people or to manage ventilators.
+
+193
+00:11:51,540 --> 00:11:53,860
+It is to get people off of them.
+
+194
+00:11:53,860 --> 00:11:59,460
+So when it comes to a normalized gas, I'm weaning that patient.
+
+195
+00:11:59,460 --> 00:12:03,100
+When the patient has a spontaneous drive to breathe, I'm considering a spontaneous mode
+
+196
+00:12:03,100 --> 00:12:04,780
+immediately.
+
+197
+00:12:04,780 --> 00:12:11,740
+There is really not a place to put paralytics in for safety or to sedate people for safety
+
+198
+00:12:11,740 --> 00:12:13,520
+because you don't need to do that.
+
+199
+00:12:13,520 --> 00:12:16,380
+If they're breathing or they have a drive to breathe, you make them comfortable in the
+
+200
+00:12:16,380 --> 00:12:21,600
+vent, you decrease asynchronies and you get them off the ventilator versus in transport.
+
+201
+00:12:21,600 --> 00:12:22,900
+Safety is paramount.
+
+202
+00:12:22,900 --> 00:12:26,900
+We are moving the patients around and it does shift the mindset a bit that yes, if I have
+
+203
+00:12:26,900 --> 00:12:29,460
+a normal gas, I'm probably not going to wean my patient.
+
+204
+00:12:29,460 --> 00:12:31,500
+I'm probably going to let that ride.
+
+205
+00:12:31,500 --> 00:12:36,020
+I'll probably leave my patient deeper and not have them lighter with their sedation
+
+206
+00:12:36,020 --> 00:12:39,740
+because I'm not necessarily weaning them to extubate when I know I'm about to take them
+
+207
+00:12:39,740 --> 00:12:41,780
+out of the aircraft in a minute and disturb them.
+
+208
+00:12:41,780 --> 00:12:46,620
+So I would honestly say that's probably the main difference just by nature of it being
+
+209
+00:12:46,620 --> 00:12:51,740
+in transport that even when I was flying, I was the same way that I didn't I wasn't necessarily
+
+210
+00:12:51,740 --> 00:12:52,740
+as aggressive.
+
+211
+00:12:52,740 --> 00:12:53,740
+I know.
+
+212
+00:12:53,740 --> 00:12:54,740
+Yeah, that makes sense.
+
+213
+00:12:54,740 --> 00:12:56,740
+What do you think?
+
+214
+00:12:57,420 --> 00:13:02,700
+Do you see any differences in your in your I do?
+
+215
+00:13:02,700 --> 00:13:05,540
+I mean, I think we'll probably get into some of these, but I think.
+
+216
+00:13:05,540 --> 00:13:11,500
+Yeah, I think your take on it makes a lot of sense that you're the idea of like ventilation
+
+217
+00:13:11,500 --> 00:13:15,020
+is like you're always working to get something off like in the hospital where I work every
+
+218
+00:13:15,020 --> 00:13:18,460
+time we come on shift, whether it's day shift or night shift, we're always doing an SAT
+
+219
+00:13:18,460 --> 00:13:21,580
+and if they pass it, they will do an SBT and we're trying to get them off the ventilator
+
+220
+00:13:21,580 --> 00:13:22,580
+as soon as possible.
+
+221
+00:13:22,580 --> 00:13:24,980
+That's like always something on our to do list.
+
+222
+00:13:25,700 --> 00:13:32,060
+I think there's a lot of little things that are different in like how we teach it in transport
+
+223
+00:13:32,060 --> 00:13:34,660
+versus like in the hospital.
+
+224
+00:13:34,660 --> 00:13:40,260
+Like we spend a lot of time in transport talking about like some very like nuanced specific
+
+225
+00:13:40,260 --> 00:13:47,980
+things and like I think at the hospital side of things, they tend to have like a the approach
+
+226
+00:13:47,980 --> 00:13:50,340
+like maybe those little tiny things don't matter.
+
+227
+00:13:50,340 --> 00:13:54,820
+Like for example, like in pre hospital setting, at least where I work really big on like want
+
+228
+00:13:54,820 --> 00:13:58,420
+to find everything in mechanical ventilation, whereas in the hospital side, they're like,
+
+229
+00:13:58,420 --> 00:14:00,940
+I don't know, just put them on settings or run a gas and then if we need to adjust it,
+
+230
+00:14:00,940 --> 00:14:01,940
+we can.
+
+231
+00:14:03,140 --> 00:14:04,700
+And I don't think there's like a right or wrong.
+
+232
+00:14:04,700 --> 00:14:06,020
+It's just like a different approach.
+
+233
+00:14:07,180 --> 00:14:09,220
+Yes, I actually like that you brought that up.
+
+234
+00:14:09,220 --> 00:14:14,700
+And I know one of the questions you had sent me was about like the Gestalt of bedside RT
+
+235
+00:14:14,700 --> 00:14:18,580
+or position of like just kind of almost feeling your way through ventilation.
+
+236
+00:14:18,580 --> 00:14:21,580
+You throw them on a setting, you see the volumes they're getting and then you're making
+
+237
+00:14:21,580 --> 00:14:27,860
+changes, but you're not necessarily calculating or looking at totally the minute ventilation
+
+238
+00:14:27,860 --> 00:14:29,540
+and like targeting specific numbers.
+
+239
+00:14:29,540 --> 00:14:36,980
+And I am a big proponent of the art and the science and those two things together.
+
+240
+00:14:36,980 --> 00:14:43,060
+And I do not I do definitely see within, you know, working with paramedics so closely and
+
+241
+00:14:43,060 --> 00:14:47,380
+working with with our ends closely that yes, like they want a number to hold on to and they
+
+242
+00:14:47,380 --> 00:14:48,660
+want something to really look at.
+
+243
+00:14:48,660 --> 00:14:53,460
+But I always I always try to remind them that like those numbers aren't necessarily
+
+244
+00:14:53,460 --> 00:14:53,980
+accurate.
+
+245
+00:14:53,980 --> 00:14:55,980
+Like then you have to dive in and dig deeper.
+
+246
+00:14:55,980 --> 00:14:58,980
+Like you can't see the metabolism of the patient.
+
+247
+00:14:58,980 --> 00:15:04,660
+You can't see the VQ matching specifically unless you're doing a metabolic study to see how
+
+248
+00:15:04,660 --> 00:15:09,220
+how those numbers in that minute ventilation is really going to refer to CO2 clearance.
+
+249
+00:15:09,220 --> 00:15:12,700
+So then like you're guessing you're still at that point guessing.
+
+250
+00:15:12,700 --> 00:15:17,980
+And yes, maybe you're calculating, you know, with this minute ventilation and this CO2, then
+
+251
+00:15:17,980 --> 00:15:19,820
+I'd have to increase my minute ventilation by this.
+
+252
+00:15:19,820 --> 00:15:25,420
+But then I would argue, why not improve your dead space to actual alveolar ventilation
+
+253
+00:15:25,420 --> 00:15:28,100
+ratio a bit better, improve your VQ mismatch.
+
+254
+00:15:28,100 --> 00:15:30,460
+And then once you do that, you'll be more effective.
+
+255
+00:15:30,460 --> 00:15:35,820
+So there is always a bit more hand waving, I think, than most people would like it to
+
+256
+00:15:35,820 --> 00:15:37,260
+be when it comes to ventilation.
+
+257
+00:15:37,260 --> 00:15:41,300
+But like, as long as you're moving in the right direction, like, I don't care if you
+
+258
+00:15:41,300 --> 00:15:43,380
+want a number, we can go with numbers.
+
+259
+00:15:43,380 --> 00:15:48,300
+And I do, when I do my training, if they want numbers to look at, then I show them
+
+260
+00:15:48,300 --> 00:15:51,620
+all the different calculations they can do, because I know that some people like that
+
+261
+00:15:51,620 --> 00:15:53,660
+when they're learning to have that safety.
+
+262
+00:15:53,660 --> 00:15:58,940
+Yeah, that's kind of how I've like where I've arrived at, like where I work, like they're
+
+263
+00:15:58,940 --> 00:15:59,940
+really big on numbers.
+
+264
+00:15:59,940 --> 00:16:04,260
+So like, in the workplace, like I, we calculate everything out.
+
+265
+00:16:04,260 --> 00:16:09,140
+And realistically, a lot of times you're like calculated after the fact, like in, like what
+
+266
+00:16:09,140 --> 00:16:12,340
+I'm teaching somebody, I'd say like, here's like how you would get all the numbers if
+
+267
+00:16:12,340 --> 00:16:13,940
+you had no idea where to start.
+
+268
+00:16:13,940 --> 00:16:18,020
+But in reality, like if you're like looking at a patient on the ventilator, like if everything
+
+269
+00:16:18,020 --> 00:16:21,900
+looks good, if you like do your normal patient assessment stuff, and like everything checks
+
+270
+00:16:21,900 --> 00:16:26,620
+out like just match those settings and then and then just from there.
+
+271
+00:16:26,620 --> 00:16:31,560
+Or if you're like starting like let's say you did the RSI, just like put them on the
+
+272
+00:16:31,560 --> 00:16:34,620
+defaults that your machine goes to, and then like adjust from there.
+
+273
+00:16:34,620 --> 00:16:36,580
+I think that's totally fine to do.
+
+274
+00:16:36,580 --> 00:16:37,580
+Yeah.
+
+275
+00:16:37,580 --> 00:16:41,220
+As long as you're not like, you know, like putting a kid on the adult defaults or whatever,
+
+276
+00:16:41,220 --> 00:16:43,860
+like within reason, of course.
+
+277
+00:16:43,860 --> 00:16:46,900
+And then like when you have a moment, you can always like do the math and like get your
+
+278
+00:16:46,900 --> 00:16:49,660
+numbers and then like see how it compares.
+
+279
+00:16:49,660 --> 00:16:51,220
+Yeah, absolutely.
+
+280
+00:16:51,220 --> 00:16:55,380
+Like, I always love, you know, teaching people when you're throwing someone out in a pressure
+
+281
+00:16:55,380 --> 00:16:59,360
+control mode, like picking a pressure control of 15, it might seem like you're just picking
+
+282
+00:16:59,360 --> 00:17:01,860
+a number out, but then there's actually science behind that.
+
+283
+00:17:01,860 --> 00:17:04,780
+It's like, okay, if you know if your pressure control is 15, then you're driving pressure
+
+284
+00:17:04,780 --> 00:17:06,020
+is less than 15.
+
+285
+00:17:06,020 --> 00:17:07,460
+So you're already safe there.
+
+286
+00:17:07,460 --> 00:17:11,860
+And if you're in, you know, volume ventilation, you can pick, you can do the calculation
+
+287
+00:17:11,860 --> 00:17:13,540
+for further predictive body weight.
+
+288
+00:17:13,540 --> 00:17:17,940
+And like, again, I always like, again, so I like have my soap boxes again.
+
+289
+00:17:17,940 --> 00:17:22,100
+Like I always say measure your patient, like get your volumes and know your safe volume
+
+290
+00:17:22,100 --> 00:17:23,540
+ranges and then put those in.
+
+291
+00:17:23,540 --> 00:17:28,460
+And then, yeah, when it comes to your respiratory rate to go with it, like I always preach demographic
+
+292
+00:17:28,460 --> 00:17:32,660
+norms because I'd rather have the information back from the event to know how they're exhaling
+
+293
+00:17:32,660 --> 00:17:36,960
+and whether there's gas trapping and things like that before I start to go beyond that.
+
+294
+00:17:36,960 --> 00:17:40,240
+So I might know that I might be titrating it up, but I'm not necessarily going to,
+
+295
+00:17:40,240 --> 00:17:45,080
+you know, calculate straight out and say, I need to have a respiratory rate of 27 in
+
+296
+00:17:45,080 --> 00:17:46,600
+order to get this patient to clear CO2.
+
+297
+00:17:46,600 --> 00:17:48,080
+Like I'm not going to start there.
+
+298
+00:17:48,080 --> 00:17:50,080
+I'm going to start lower.
+
+299
+00:17:50,080 --> 00:17:52,480
+But yeah.
+
+300
+00:17:52,480 --> 00:17:57,720
+How often are you or RTs in general in your system actually getting a tape measure out
+
+301
+00:17:57,720 --> 00:18:01,560
+and measuring patients, do you think?
+
+302
+00:18:01,560 --> 00:18:02,800
+Less than they should.
+
+303
+00:18:02,800 --> 00:18:03,800
+Yeah.
+
+304
+00:18:03,800 --> 00:18:04,800
+I mean, same for us too.
+
+305
+00:18:04,800 --> 00:18:05,800
+Yeah.
+
+306
+00:18:05,800 --> 00:18:10,040
+I measure in my pocket on the flight suit, but like almost nobody does.
+
+307
+00:18:10,040 --> 00:18:11,040
+I know.
+
+308
+00:18:11,040 --> 00:18:15,520
+I, um, like I even sometimes I'll tell people like it doesn't have to be difficult.
+
+309
+00:18:15,520 --> 00:18:18,640
+Like make the good choice easy.
+
+310
+00:18:18,640 --> 00:18:21,760
+Whenever I work at clinical shift and oh my goodness, don't tell them that my RTs I do
+
+311
+00:18:21,760 --> 00:18:25,320
+this because I hope they think it's just a fairy, but I actually tape the disposable
+
+312
+00:18:25,320 --> 00:18:28,000
+tape measures to every single ventilator that's circuited.
+
+313
+00:18:28,000 --> 00:18:30,400
+So when it gets wheeled into the room, it's right there.
+
+314
+00:18:30,400 --> 00:18:33,560
+But if you make that choice easy, then they do it.
+
+315
+00:18:33,560 --> 00:18:38,360
+But like, I'll be honest, there are times, oh, sorry, I didn't mean to step on you there,
+
+316
+00:18:38,360 --> 00:18:43,840
+but there are times that like, I don't have a measuring tape close by, but I know that
+
+317
+00:18:43,840 --> 00:18:45,480
+my arm span is my height.
+
+318
+00:18:45,480 --> 00:18:49,240
+So sometimes I'll use that as an estimate before I can go grab it and then measure.
+
+319
+00:18:49,240 --> 00:18:53,040
+Um, but yeah, it's not as much as they should for sure.
+
+320
+00:18:53,040 --> 00:18:54,040
+Yeah, totally.
+
+321
+00:18:54,040 --> 00:18:55,040
+Yeah.
+
+322
+00:18:55,040 --> 00:18:58,440
+I was just going to make a comment that like lowering that like barrier to doing the thing.
+
+323
+00:18:58,440 --> 00:18:59,440
+Mm-hmm.
+
+324
+00:18:59,440 --> 00:19:00,440
+Makes sense.
+
+325
+00:19:00,440 --> 00:19:04,400
+I say the same thing when like I say it kind of ingest, but seriously, like if I set you
+
+326
+00:19:04,400 --> 00:19:10,520
+up for an intubation, like if I'm your partner, like I'm going to take the style out of the
+
+327
+00:19:10,520 --> 00:19:14,520
+ET tube and like hand you a bougie, like that's just like, I'm going to set you up for success.
+
+328
+00:19:14,520 --> 00:19:15,520
+Like that way you don't have a choice.
+
+329
+00:19:15,520 --> 00:19:18,880
+Like you just like use a thing that gives you better success.
+
+330
+00:19:18,880 --> 00:19:20,200
+Um, yeah.
+
+331
+00:19:20,200 --> 00:19:25,200
+So I think like taping a tape measure to the machine makes sense.
+
+332
+00:19:25,200 --> 00:19:32,320
+Um, yeah, I would compare it maybe to like estimating weights on patients for drug doses.
+
+333
+00:19:32,320 --> 00:19:36,760
+Like I think we think we're pretty good at it, but we're probably not.
+
+334
+00:19:36,760 --> 00:19:39,640
+So like it makes sense to take a moment to measure somebody.
+
+335
+00:19:39,640 --> 00:19:40,640
+Yeah.
+
+336
+00:19:40,640 --> 00:19:44,680
+I, I really, really suggest it cause I'll be honest.
+
+337
+00:19:44,680 --> 00:19:48,720
+My mental math, especially in times of crisis is never as good as I think it is.
+
+338
+00:19:48,720 --> 00:19:52,440
+So I, I've been off some crazy times in my career where I'm like, Oh, they're probably
+
+339
+00:19:52,440 --> 00:19:55,360
+around six foot and they're like not anywhere near that.
+
+340
+00:19:55,360 --> 00:19:57,280
+And I'm like, let's see.
+
+341
+00:19:57,280 --> 00:20:00,360
+It's hard to tell sometimes.
+
+342
+00:20:00,360 --> 00:20:01,360
+For sure.
+
+343
+00:20:01,360 --> 00:20:02,360
+Yeah.
+
+344
+00:20:02,360 --> 00:20:05,000
+Especially when you have like a patient like bundled up or like a bunch of things piled
+
+345
+00:20:05,000 --> 00:20:06,000
+on them and equipment.
+
+346
+00:20:06,000 --> 00:20:08,000
+It's like kind of hard to tell.
+
+347
+00:20:08,000 --> 00:20:12,320
+Now, not to jump back in the conversation, but you mentioned like some differences in
+
+348
+00:20:12,320 --> 00:20:14,080
+in transport versus hospital.
+
+349
+00:20:14,080 --> 00:20:21,880
+And like, um, one thing that I have appreciated so much in, in my career is, um, changing
+
+350
+00:20:21,880 --> 00:20:27,980
+and moving to transport from a hospital environment and having other health, um, healthcare disciplines
+
+351
+00:20:27,980 --> 00:20:33,720
+teach me that like, especially when it came to airway and like the OR did a lot to teach
+
+352
+00:20:33,720 --> 00:20:42,200
+me, but I appreciated so much the, like how you said, like the making the best choice,
+
+353
+00:20:42,200 --> 00:20:49,240
+like the first choice and that like setting yourself up for every single patient that
+
+354
+00:20:49,240 --> 00:20:53,680
+you have the worst case scenario at your forefront and like in the OR we're good at that, but
+
+355
+00:20:53,680 --> 00:21:00,480
+that's something that I would say as a profession, I don't see as much as I'd like to see within
+
+356
+00:21:00,480 --> 00:21:05,600
+respiratory therapy when it comes to airway management, that they don't tend to set themselves
+
+357
+00:21:05,600 --> 00:21:11,440
+up using, you know, dash one a success for like airways and really thinking about like
+
+358
+00:21:11,440 --> 00:21:13,560
+the concerns for hypotension and hypoxia.
+
+359
+00:21:13,560 --> 00:21:20,120
+And like I even using passive oxygenation methods during their intubation and that for
+
+360
+00:21:20,120 --> 00:21:23,320
+EMS, that's probably horrific because that was years and years ago that that was brought
+
+361
+00:21:23,320 --> 00:21:24,320
+into practice.
+
+362
+00:21:24,320 --> 00:21:30,160
+But I, I still find, I think they have ways to go and to move and to improve in that area.
+
+363
+00:21:30,160 --> 00:21:36,720
+And I've appreciated so much how I've been taught in that way that I, I, I follow.
+
+364
+00:21:37,480 --> 00:21:43,600
+I feel like I'm a blend of professions now from the, the amazing growth that I've had
+
+365
+00:21:43,600 --> 00:21:47,600
+from different, like from paramedics and nurses within working with them in the past.
+
+366
+00:21:47,600 --> 00:21:50,240
+So it's been, it's been really amazing for me.
+
+367
+00:21:50,240 --> 00:21:51,240
+Yeah.
+
+368
+00:21:51,240 --> 00:21:52,240
+Yeah.
+
+369
+00:21:52,240 --> 00:21:57,680
+That's interesting that you mentioned that I think like in the critical care transport
+
+370
+00:21:57,680 --> 00:22:03,720
+in the flight world, I think like we've done a pretty decent job, like encouraging everyone
+
+371
+00:22:03,720 --> 00:22:06,800
+to do that sort of stuff.
+
+372
+00:22:06,800 --> 00:22:11,760
+I see it less in the hospital and I have a theory that that's maybe just because there's
+
+373
+00:22:11,760 --> 00:22:16,160
+like, it's a much more like hierarchical system in the hospital.
+
+374
+00:22:16,160 --> 00:22:21,740
+So like a junior provider, like doing something that seems unusual, like there's like some
+
+375
+00:22:21,740 --> 00:22:23,840
+resistance to that.
+
+376
+00:22:23,840 --> 00:22:28,060
+Whereas like in our setting, like medics and nurses and whoever's like flying on the aircraft
+
+377
+00:22:28,060 --> 00:22:31,320
+in whatever program you are in the States, for the most part, like it's a pretty level
+
+378
+00:22:31,320 --> 00:22:32,640
+playing field.
+
+379
+00:22:32,640 --> 00:22:38,000
+So that, that dynamic is maybe like attenuated or doesn't exist to some degree.
+
+380
+00:22:38,000 --> 00:22:40,520
+Um, yeah, I don't know.
+
+381
+00:22:40,520 --> 00:22:43,800
+I have to think about that one a little bit more.
+
+382
+00:22:43,800 --> 00:22:45,800
+Have you, have you noticed that as well in the hospital?
+
+383
+00:22:45,800 --> 00:22:50,880
+Like the things that are bread and butter to you as like, as a provider that you don't
+
+384
+00:22:50,880 --> 00:22:54,520
+necessarily see like from what you've seen in transport versus hospital.
+
+385
+00:22:54,520 --> 00:22:55,520
+Yeah.
+
+386
+00:22:55,520 --> 00:22:56,520
+Yeah, for sure.
+
+387
+00:22:56,520 --> 00:23:02,000
+Like a lot of like the like pre-oxygenation stuff you were mentioning, like, you know,
+
+388
+00:23:02,000 --> 00:23:07,760
+getting a patient's head of bed up pre-oxygen with like OPA or NPA and using epic oxygenation,
+
+389
+00:23:07,760 --> 00:23:13,040
+like we did that stuff religiously in the field, but I don't really see that often in
+
+390
+00:23:13,040 --> 00:23:14,040
+the hospital.
+
+391
+00:23:14,040 --> 00:23:21,000
+Um, yeah, I also think in general, this is like maybe not totally related to events,
+
+392
+00:23:21,000 --> 00:23:26,640
+like airway management is like a huge deal to us in the pre-hospital setting.
+
+393
+00:23:26,640 --> 00:23:27,960
+Like we put a lot of emphasis on it.
+
+394
+00:23:27,960 --> 00:23:30,320
+Like we take a lot of pride in like doing that.
+
+395
+00:23:30,320 --> 00:23:35,180
+Um, whereas in the hospital, like all the clinicians, it's just one of like a whole
+
+396
+00:23:35,180 --> 00:23:40,320
+bunch of procedures they do and you always have like a team of people like to back you
+
+397
+00:23:40,320 --> 00:23:42,360
+up if things go wrong.
+
+398
+00:23:42,360 --> 00:23:48,480
+So I think there's like, it seems like the urgency to do the thing or maybe not the urgency
+
+399
+00:23:48,480 --> 00:23:52,480
+because it's not like, it's not a sense of urgency to get it done, but like maybe the
+
+400
+00:23:52,480 --> 00:23:54,800
+focus on it is less so.
+
+401
+00:23:54,800 --> 00:23:58,360
+Like for us, if we like take a second attempt on an airway, it's a big deal.
+
+402
+00:23:58,360 --> 00:24:00,600
+Like in the hospital, like I don't think anyone cares.
+
+403
+00:24:00,600 --> 00:24:01,600
+Like it's fine.
+
+404
+00:24:01,600 --> 00:24:02,600
+Be like, Hey, it was all right.
+
+405
+00:24:02,600 --> 00:24:05,520
+You're like, you didn't let the patient do you say that we bagged him, like try again.
+
+406
+00:24:05,520 --> 00:24:08,960
+But like for us, we put like a lot of emphasis on that, like first pass assess.
+
+407
+00:24:08,960 --> 00:24:10,120
+And I think that's fine.
+
+408
+00:24:10,120 --> 00:24:12,000
+Like I don't think there's anything wrong with it.
+
+409
+00:24:12,000 --> 00:24:14,320
+Um, I think it's just like a difference of priorities.
+
+410
+00:24:14,320 --> 00:24:18,320
+Like we have something to prove or as like in the hospital, they don't maybe.
+
+411
+00:24:19,320 --> 00:24:21,520
+I'd like to think it matters though.
+
+412
+00:24:21,520 --> 00:24:25,920
+Like the numbers in the studies say that the more attempts you have, the more negative
+
+413
+00:24:25,920 --> 00:24:26,920
+outcomes.
+
+414
+00:24:26,920 --> 00:24:30,640
+But yeah, I feel like we could talk about airway like all day, like it's a whole other
+
+415
+00:24:30,640 --> 00:24:33,520
+totally, whole other topic.
+
+416
+00:24:33,520 --> 00:24:34,520
+Yeah.
+
+417
+00:24:34,520 --> 00:24:36,520
+We'll say that one for next time.
+
+418
+00:24:36,520 --> 00:24:42,840
+I'm going to get in trouble with all my RTS.
+
+419
+00:24:42,840 --> 00:24:49,720
+Another thing that we do, or we talk a lot about in transport is clamping ET tubes.
+
+420
+00:24:49,720 --> 00:24:52,680
+Uh, and I was curious to get your take on that.
+
+421
+00:24:52,680 --> 00:24:56,880
+And then I'll spill the beans about what I see like in the hospital side of things.
+
+422
+00:24:56,880 --> 00:24:59,680
+Oh, I see it all in the hospital side of things.
+
+423
+00:24:59,680 --> 00:25:00,680
+Um, yeah.
+
+424
+00:25:00,680 --> 00:25:07,880
+And I feel again, like, so first off, I do have to say like when I teach clamping, I
+
+425
+00:25:07,880 --> 00:25:10,560
+am huge on teaching clamping on exhalation.
+
+426
+00:25:10,560 --> 00:25:12,520
+And the reason for that is we're maintaining PEEP.
+
+427
+00:25:12,520 --> 00:25:17,720
+And it's yes, like there is a lot of depending on the machine you use and the mode of ventilation
+
+428
+00:25:17,720 --> 00:25:22,800
+you use, there's definitely pressure control is never going to go beyond that peak pressure.
+
+429
+00:25:22,800 --> 00:25:27,680
+And there is often, you know, not necessarily a huge concern whether you're clamping on
+
+430
+00:25:27,680 --> 00:25:31,680
+inspiration, but I always say for every single ventilator, if you don't know how your ventilator
+
+431
+00:25:31,680 --> 00:25:35,720
+works and you don't know what mode of ventilation the patient's going to be in on the other
+
+432
+00:25:35,720 --> 00:25:41,100
+end, if you're, excuse me, if you're in any other mode of ventilation, like a volume mode,
+
+433
+00:25:41,100 --> 00:25:43,000
+you can have those pressures go too high.
+
+434
+00:25:43,000 --> 00:25:47,340
+So with clamping on exhalation, you are ensuring you're not applying too much pressure to the
+
+435
+00:25:47,340 --> 00:25:52,060
+lung to over-distend or cause potentially a double stack of a breath.
+
+436
+00:25:52,060 --> 00:25:53,860
+And every ventilator works differently.
+
+437
+00:25:53,860 --> 00:25:57,700
+And I've had ventilators before that if it's disconnects and it's on, it's going to send
+
+438
+00:25:57,700 --> 00:26:02,020
+the pressure out that could potentially before it connects and reads the pressure back, it
+
+439
+00:26:02,020 --> 00:26:05,200
+could expose the lung and we don't really know.
+
+440
+00:26:05,200 --> 00:26:09,220
+So that being said, there's that whole concern of, well, are we going, we're going to be
+
+441
+00:26:09,220 --> 00:26:10,940
+losing pressure once we clamp.
+
+442
+00:26:10,940 --> 00:26:15,780
+And if we don't clamp at the end of inspiration, our pressure is going to drop lower.
+
+443
+00:26:15,780 --> 00:26:21,540
+But then I do have to say we're not carrying, this is going to sound bad, but we're not
+
+444
+00:26:21,540 --> 00:26:27,200
+carrying that much because if that's the truth that we're going to like absolutely collapse
+
+445
+00:26:27,200 --> 00:26:32,980
+and have our patient like completely de-recruit in a second, we wouldn't be able to suction
+
+446
+00:26:32,980 --> 00:26:38,520
+our patients and we suction our patients and expose them to negative pressure, which then
+
+447
+00:26:38,520 --> 00:26:43,580
+could cause de-recruitment and it does cause desaturation, but they do recruit again.
+
+448
+00:26:43,580 --> 00:26:48,060
+So when people talk about needing to give them a higher pressure when clamping and clamping
+
+449
+00:26:48,060 --> 00:26:51,400
+at the end of inspiration to ensure that during the transition, they're not going to lose
+
+450
+00:26:51,400 --> 00:26:54,540
+too much pressure, I say we'll do suction your patients.
+
+451
+00:26:54,540 --> 00:27:00,100
+So for safety to maintain as much peep as we can, because they can de-recruit and some
+
+452
+00:27:00,100 --> 00:27:04,300
+ARDS patients are more sensitive or, you know, difficult to ventilate in general, hypoxia
+
+453
+00:27:04,300 --> 00:27:06,920
+patients are more sensitive to de-recruitment.
+
+454
+00:27:06,920 --> 00:27:10,280
+I suggest clamping at the end of exhalation for safety.
+
+455
+00:27:10,280 --> 00:27:15,980
+And the reason I do that is just because you don't necessarily know what mode of ventilation
+
+456
+00:27:15,980 --> 00:27:18,400
+they're going to be in on the other end.
+
+457
+00:27:18,400 --> 00:27:19,400
+Totally.
+
+458
+00:27:19,400 --> 00:27:20,400
+Yeah.
+
+459
+00:27:20,400 --> 00:27:23,940
+And I think this is something we've talked about before because I was always taught and
+
+460
+00:27:23,940 --> 00:27:31,420
+teach to clamp on inhalation for that reason where like if you clamp it, like we don't
+
+461
+00:27:31,420 --> 00:27:36,500
+know if your clamp's going to hold that seal, like maybe clamping is like a slow leak, but
+
+462
+00:27:36,500 --> 00:27:38,300
+I think it does make sense.
+
+463
+00:27:38,300 --> 00:27:43,060
+There is the risk there that you can stack, like you're holding peak pressure basically
+
+464
+00:27:43,060 --> 00:27:45,640
+and then you're giving another breath on top of that.
+
+465
+00:27:45,640 --> 00:27:49,400
+And we kind of talked about you could get into the nitty gritty on this.
+
+466
+00:27:49,400 --> 00:27:53,180
+Like if you had someone in a pressure control mode, probably isn't that big of a deal because
+
+467
+00:27:53,180 --> 00:27:54,180
+you're pressure limited.
+
+468
+00:27:54,180 --> 00:27:59,180
+Or if you had them in a volume control but you have tight parameters set on your limits,
+
+469
+00:27:59,180 --> 00:28:00,660
+then it's also a way to mitigate that.
+
+470
+00:28:00,660 --> 00:28:06,480
+But I think that's maybe something I would think about revisiting and how I teach that.
+
+471
+00:28:07,480 --> 00:28:12,680
+But in reality, like I think you make a good point that like we break the circuit all the
+
+472
+00:28:12,680 --> 00:28:17,400
+time like in the hospital, like we're breaking the circuit, like a handful of times it shifts
+
+473
+00:28:17,400 --> 00:28:20,000
+even on like super sick RZ patients.
+
+474
+00:28:20,000 --> 00:28:26,600
+So part of me thinks that like maybe this like ET tube clamping thing like doesn't matter.
+
+475
+00:28:26,600 --> 00:28:31,260
+It's something that we like routinely focus on in transport.
+
+476
+00:28:31,260 --> 00:28:34,240
+But to be honest, I've never seen anyone ever do it in the hospital.
+
+477
+00:28:34,240 --> 00:28:39,040
+So I was just like curious if that's a normal finding or just an anomaly for me.
+
+478
+00:28:39,040 --> 00:28:44,420
+My practice is any patient who is on a peep greater than 10, it is an absolute necessity
+
+479
+00:28:44,420 --> 00:28:48,800
+to clamp when I'm transferring them for anything in hospital.
+
+480
+00:28:48,800 --> 00:28:55,600
+And as best like I would still argue for any patient that is on peeps that aren't just
+
+481
+00:28:55,600 --> 00:29:00,040
+minimum, there isn't a harming clamping as long even for a patient who is awake and you
+
+482
+00:29:00,040 --> 00:29:02,320
+can talk to them and explain what you're about to do.
+
+483
+00:29:02,320 --> 00:29:05,840
+There's no harm in doing that clamping to maintain.
+
+484
+00:29:05,840 --> 00:29:12,800
+And I just suggest just decrease the time, like make sure that it's a very quick procedure.
+
+485
+00:29:12,800 --> 00:29:16,260
+But for patients that do de-recruit, like why not?
+
+486
+00:29:16,260 --> 00:29:17,560
+Why not clamp?
+
+487
+00:29:17,560 --> 00:29:21,800
+Why put yourself like you're really shooting yourself in the face, but you know what's
+
+488
+00:29:21,800 --> 00:29:26,360
+going to happen over time and that you're going to have de-recruitment specifically
+
+489
+00:29:26,360 --> 00:29:31,160
+with heterogeneous closing pressures of different alveoli, there are more damage than others.
+
+490
+00:29:31,160 --> 00:29:34,060
+And yes, we may not maintain all of the pressure.
+
+491
+00:29:34,060 --> 00:29:38,380
+We may have some pressure loss, but some pressure maintained is better than none.
+
+492
+00:29:38,380 --> 00:29:40,720
+So I would still suggest why not.
+
+493
+00:29:40,720 --> 00:29:47,240
+Yeah, I think that's a good point that like, as long as you like mitigate the risk of like
+
+494
+00:29:47,240 --> 00:29:53,560
+stacking another breath on top of like a clamp, so either by clamping an exhalation or making
+
+495
+00:29:53,560 --> 00:29:57,840
+sure your pressure control or like having your upper like your high pressure limit set
+
+496
+00:29:57,840 --> 00:30:03,720
+tight, as long as you do something to prevent damage from it, I think you can like advocate
+
+497
+00:30:03,720 --> 00:30:07,480
+that you should do it across the board.
+
+498
+00:30:07,480 --> 00:30:10,560
+So yeah, I would agree with that.
+
+499
+00:30:10,560 --> 00:30:14,720
+Cool, just carry on with our list here.
+
+500
+00:30:14,720 --> 00:30:21,040
+What are your thoughts about peep and fluid displacement?
+
+501
+00:30:21,040 --> 00:30:23,560
+Like pushing fluid out of the lungs?
+
+502
+00:30:23,560 --> 00:30:24,560
+Yeah.
+
+503
+00:30:24,560 --> 00:30:27,320
+This is a fun one, right?
+
+504
+00:30:28,120 --> 00:30:35,720
+So I was taught back in the day that peep and pressure push fluid out of the lungs.
+
+505
+00:30:35,720 --> 00:30:44,600
+I now at this point, the way I see it, is it more that peep can help be a bit of a stop
+
+506
+00:30:44,600 --> 00:30:51,960
+gap to stop the leaking while the lymphatic system clears the fluid with like the shifts
+
+507
+00:30:51,960 --> 00:30:55,880
+to like hydrostatic fluid, like pressures and all of those.
+
+508
+00:30:55,880 --> 00:30:59,520
+But at the end of the day, realistically, what we're doing is we're just expanding
+
+509
+00:30:59,520 --> 00:31:02,400
+the alveoli more to give more surface area.
+
+510
+00:31:02,400 --> 00:31:05,880
+There isn't a push of fluid across that alveolar membrane.
+
+511
+00:31:05,880 --> 00:31:10,400
+It just the lymphatic system is what clears it more than anything.
+
+512
+00:31:10,400 --> 00:31:11,400
+What are your thoughts?
+
+513
+00:31:11,400 --> 00:31:14,560
+Yeah, I agree with you.
+
+514
+00:31:14,560 --> 00:31:19,840
+I think all of us were taught at one point that like peep pushes fluid out of the alveoli.
+
+515
+00:31:19,840 --> 00:31:24,180
+It seems pretty clear that like the benefit in terms of oxygenation is just increased
+
+516
+00:31:24,180 --> 00:31:25,180
+surface area.
+
+517
+00:31:25,180 --> 00:31:31,780
+But I think I'm not totally convinced that like it doesn't help displace fluid to some
+
+518
+00:31:31,780 --> 00:31:35,980
+degree, but I think the timeline is like much more prolonged than it would matter in most
+
+519
+00:31:35,980 --> 00:31:36,980
+transports.
+
+520
+00:31:36,980 --> 00:31:42,620
+Like I think like increasing surface area in the alveoli and like making the membrane
+
+521
+00:31:42,620 --> 00:31:49,540
+thinner like a lot like would allow that fluid to leave more quickly over time.
+
+522
+00:31:49,540 --> 00:31:51,820
+But I think it's like more prolonged thing.
+
+523
+00:31:51,820 --> 00:31:57,380
+Like my read of it is that like this is something that happens like over like hours to days,
+
+524
+00:31:57,380 --> 00:32:01,140
+not something like you're not going to like push all the fluid in a CHF or as long as
+
+525
+00:32:01,140 --> 00:32:03,660
+out in like 20 minutes on the way to the hospital.
+
+526
+00:32:03,660 --> 00:32:04,660
+Yeah.
+
+527
+00:32:04,660 --> 00:32:08,460
+And I think as well, like if you are displacing fluid from the alveoli, where is it going
+
+528
+00:32:08,460 --> 00:32:09,460
+to go?
+
+529
+00:32:09,460 --> 00:32:10,940
+It's going to sit in the alveoli, like a pulmonary membrane.
+
+530
+00:32:10,940 --> 00:32:13,180
+Like it's not going away.
+
+531
+00:32:13,180 --> 00:32:17,580
+And then there it's still impacting the ability of oxygen to diffuse.
+
+532
+00:32:17,580 --> 00:32:22,300
+So realistically, what needs to happen is you need to have the lymphatic system drain
+
+533
+00:32:22,300 --> 00:32:23,700
+that fluid away.
+
+534
+00:32:23,700 --> 00:32:28,460
+So the displacement won't help you at all because all it's going to do is still be sitting
+
+535
+00:32:28,460 --> 00:32:33,100
+there, you know, between the the capillaries and the alveoli.
+
+536
+00:32:33,100 --> 00:32:40,620
+So even though it may displace it out of the lung alveoli slightly, it's not displaced
+
+537
+00:32:40,620 --> 00:32:41,940
+out of the entire system.
+
+538
+00:32:41,940 --> 00:32:43,580
+So it's still working against you.
+
+539
+00:32:43,580 --> 00:32:47,420
+So realistically, the body needs to clear that.
+
+540
+00:32:47,420 --> 00:32:54,580
+And PEEP allows, you know, potentially less leaking into the lungs and that can then over
+
+541
+00:32:54,580 --> 00:32:55,860
+time be cleared.
+
+542
+00:32:55,860 --> 00:33:01,140
+So that like that's kind of how if you really want to get into how I currently now think
+
+543
+00:33:01,140 --> 00:33:04,020
+of it in my mind, that's like that's kind of more of how I think about it.
+
+544
+00:33:04,020 --> 00:33:08,780
+But now I try to just really focus more on like we're increasing surface area to allow
+
+545
+00:33:08,780 --> 00:33:13,260
+more, you know, area for gas exchange to occur.
+
+546
+00:33:13,260 --> 00:33:16,220
+And then like, we're not necessarily pushing the fluid out.
+
+547
+00:33:16,220 --> 00:33:17,220
+But totally.
+
+548
+00:33:17,220 --> 00:33:18,220
+Yeah.
+
+549
+00:33:18,220 --> 00:33:24,700
+And I think in general, like that, maybe just because like the transition from like working
+
+550
+00:33:24,700 --> 00:33:28,660
+as like a ground medic to critical care, but I think that understanding of the concept
+
+551
+00:33:28,660 --> 00:33:33,700
+is definitely like, is now presented differently than when I was first learning this sounds
+
+552
+00:33:33,700 --> 00:33:35,180
+like maybe the same for you.
+
+553
+00:33:35,180 --> 00:33:36,180
+Mm hmm.
+
+554
+00:33:36,180 --> 00:33:37,180
+Absolutely.
+
+555
+00:33:37,180 --> 00:33:41,620
+And there's so many things like that that I was taught, you know, when I was newer to
+
+556
+00:33:41,620 --> 00:33:47,460
+the career that I've relearned over the years or like learned in a different frame or a
+
+557
+00:33:47,460 --> 00:33:48,460
+different form.
+
+558
+00:33:48,460 --> 00:33:54,340
+And it's crazy how all of that can, you know, change over the span of just a few years.
+
+559
+00:33:54,340 --> 00:33:56,540
+Like I've only been practicing now 17 years.
+
+560
+00:33:56,540 --> 00:34:02,420
+And like, I feel like what I learned back then is so vastly different to now.
+
+561
+00:34:02,420 --> 00:34:03,420
+Yeah.
+
+562
+00:34:03,420 --> 00:34:04,420
+Yeah.
+
+563
+00:34:04,660 --> 00:34:08,860
+I think that yeah, I think that's bound to happen with time.
+
+564
+00:34:08,860 --> 00:34:15,620
+What are your thoughts on like a hypotensive ventilator strategy?
+
+565
+00:34:15,620 --> 00:34:22,580
+Like doing things on the vent to like, yeah, I think everyone like agrees that like putting
+
+566
+00:34:22,580 --> 00:34:25,940
+somebody on positive pressure, mechanical ventilation can like decrease blood return
+
+567
+00:34:25,940 --> 00:34:27,700
+to the heart and cause them to become hypotensive.
+
+568
+00:34:27,700 --> 00:34:33,060
+But what about like intentionally using event strategy in a hypotensive patient to like
+
+569
+00:34:33,060 --> 00:34:36,580
+prevent it from happening to whatever degree you can?
+
+570
+00:34:36,580 --> 00:34:37,580
+Yeah.
+
+571
+00:34:37,580 --> 00:34:41,140
+And I think you were referring to a specific strategy, right?
+
+572
+00:34:41,140 --> 00:34:43,260
+When like with the question.
+
+573
+00:34:43,260 --> 00:34:44,260
+Yeah.
+
+574
+00:34:44,260 --> 00:34:50,700
+So basically you would use like a higher tidal volume and a lower rate.
+
+575
+00:34:50,700 --> 00:34:57,180
+So you like basically like decrease the amount of time when you're pushing air into lungs
+
+576
+00:34:57,180 --> 00:35:01,780
+above your peep and then you could potentially even like drop your peep to zero.
+
+577
+00:35:01,780 --> 00:35:07,300
+So like the, I guess like the most extreme version of this would be like have a tidal
+
+578
+00:35:07,300 --> 00:35:11,540
+volume is like high as you deem safe for your patient with a rate as low as you can to maintain
+
+579
+00:35:11,540 --> 00:35:16,980
+whatever you think is a minimum minute ventilation and then leave your peep at zero.
+
+580
+00:35:16,980 --> 00:35:23,500
+And that would be like the least impact you could have on like blood return to the heart
+
+581
+00:35:23,500 --> 00:35:24,500
+on preload.
+
+582
+00:35:24,500 --> 00:35:25,500
+Yeah.
+
+583
+00:35:25,500 --> 00:35:30,060
+Cause it's like less time under extreme pressure kind of idea and then like no pressure.
+
+584
+00:35:30,060 --> 00:35:31,060
+Yeah.
+
+585
+00:35:31,140 --> 00:35:32,300
+I looked into it.
+
+586
+00:35:32,300 --> 00:35:36,460
+I actually tried to look at some of the studies cause it I'll be honest, I'll be very honest.
+
+587
+00:35:36,460 --> 00:35:40,100
+Like I don't know close to enough about everything.
+
+588
+00:35:40,100 --> 00:35:42,980
+And I feel like the more I hear, I'm like, I've never heard of that before.
+
+589
+00:35:42,980 --> 00:35:45,180
+I'd never heard of this before.
+
+590
+00:35:45,180 --> 00:35:49,740
+So in my career, I've never used a strategy like this ever other than just focusing on
+
+591
+00:35:49,740 --> 00:35:53,100
+diminishing or decreasing peep as much as possible.
+
+592
+00:35:53,100 --> 00:35:58,220
+And to be fair, we never really have to because we, most clinical settings, we have access
+
+593
+00:35:58,220 --> 00:36:02,460
+to other things like we can give flu compressors and like you can do all the other, but like
+
+594
+00:36:02,460 --> 00:36:06,700
+there is like a subset of like clinicians out there who work in like resource limited
+
+595
+00:36:06,700 --> 00:36:10,620
+settings where like they may not have access to that stuff or maybe like on the way later.
+
+596
+00:36:10,620 --> 00:36:11,620
+So yeah.
+
+597
+00:36:11,620 --> 00:36:12,620
+Yeah.
+
+598
+00:36:12,620 --> 00:36:17,100
+And I think that that's a valid point cause I, I'll, whenever I hear about hypovolemia
+
+599
+00:36:17,100 --> 00:36:21,260
+or like different strategies for that, I always say a little like fix the problem, like try
+
+600
+00:36:21,260 --> 00:36:26,740
+to support the heart, support the blood, like the blood pressure and whatever means you
+
+601
+00:36:26,740 --> 00:36:30,780
+can that's appropriate to the type of shock that you have in order to then be able to
+
+602
+00:36:30,780 --> 00:36:32,820
+ventilate the patient appropriately.
+
+603
+00:36:32,820 --> 00:36:39,460
+So I guess like my, my concern with the idea of like, you know, hyper low rates and larger
+
+604
+00:36:39,460 --> 00:36:47,620
+volumes like in the one study I read, they used volumes that were well beyond what is
+
+605
+00:36:47,620 --> 00:36:55,620
+deemed, you know, quote unquote safe in some like in the schools of like arts net studies
+
+606
+00:36:55,620 --> 00:37:00,140
+that we've had from 25 years ago now of like, you know, 12 mils per kilo was the study that
+
+607
+00:37:00,140 --> 00:37:05,380
+I read that they used, which my concern with that would be what are the plateau pressures
+
+608
+00:37:05,380 --> 00:37:07,820
+that that lung is experiencing?
+
+609
+00:37:07,820 --> 00:37:13,420
+And then with that you are then going down to zero peep completely collapsing the alveoli
+
+610
+00:37:13,420 --> 00:37:16,900
+and then the shearing forces and the driving pressures that you're then experiencing to
+
+611
+00:37:16,900 --> 00:37:20,100
+reopen those alveoli from completely nothing.
+
+612
+00:37:20,100 --> 00:37:24,740
+Like when you just think about the compliance of the lung in that very low period, if you're
+
+613
+00:37:24,740 --> 00:37:28,900
+not adding peep, that's the time where you're going to need a lot more pressure in order
+
+614
+00:37:28,900 --> 00:37:30,020
+to open.
+
+615
+00:37:30,020 --> 00:37:36,580
+So you're you're exposing those lungs to probably more pressure than, you know, I would like
+
+616
+00:37:36,580 --> 00:37:37,740
+to see.
+
+617
+00:37:37,740 --> 00:37:43,860
+And then I wonder over for these patients that are potentially bleeding and potentially
+
+618
+00:37:43,860 --> 00:37:47,900
+in a traumatic arrest, they're already at an increased risk of risk of ARDS and then
+
+619
+00:37:47,900 --> 00:37:51,260
+you're potentially going to be exposing them to these large pressures.
+
+620
+00:37:51,260 --> 00:37:52,260
+It makes me nervous.
+
+621
+00:37:52,260 --> 00:37:58,620
+Like I would definitely I feel like I need to read more about it and to talk to people
+
+622
+00:37:58,620 --> 00:38:04,300
+with larger brains than mine to explain the rationale and to show me how they think that
+
+623
+00:38:04,300 --> 00:38:07,020
+this would still be lung protective for the patient.
+
+624
+00:38:07,020 --> 00:38:13,340
+I would still argue, you know, keep your peeps low, keep your pressures on the lower side,
+
+625
+00:38:13,340 --> 00:38:18,220
+and you'd really have to show me and convince me that like high, high pressures and high
+
+626
+00:38:18,220 --> 00:38:22,020
+volumes that you're going to be experiencing these large areas would actually show you
+
+627
+00:38:22,020 --> 00:38:28,500
+over time, you know, a significant amount of lowered pressure over time to then show
+
+628
+00:38:28,500 --> 00:38:30,260
+an improvement with blood pressure.
+
+629
+00:38:30,260 --> 00:38:32,220
+So that's kind of like my roundabout answer.
+
+630
+00:38:32,220 --> 00:38:37,500
+Yeah, I think that's the part that is like kind of a big unknown at the moment.
+
+631
+00:38:37,500 --> 00:38:45,060
+It's like, it makes intuitive sense that this would like potentially like mitigate that
+
+632
+00:38:45,060 --> 00:38:49,140
+effect of like dropping preload in a mechanically ventilated patient, but like at what cost?
+
+633
+00:38:49,140 --> 00:38:51,460
+And that's like, that's the unknown part.
+
+634
+00:38:51,460 --> 00:38:55,580
+Like at what point does it like not become in the patient's benefit to do that kind of
+
+635
+00:38:55,580 --> 00:38:56,580
+thing?
+
+636
+00:38:56,580 --> 00:39:00,740
+And like I said, like we could almost always like leave the vent strategy alone and use
+
+637
+00:39:00,740 --> 00:39:07,020
+other interventions to increase, like to address the hypotension.
+
+638
+00:39:07,020 --> 00:39:13,100
+So it's not really like a, does much matter for most of us like where we practice, but
+
+639
+00:39:13,100 --> 00:39:17,740
+it was more of like a question just like in the worst case scenario, like if you're out
+
+640
+00:39:17,740 --> 00:39:21,860
+straight or not island and all you have is your ventilator, which doesn't really happen
+
+641
+00:39:21,860 --> 00:39:22,860
+to most of us, but
+
+642
+00:39:22,860 --> 00:39:25,740
+Hey, you know, have a ventilator.
+
+643
+00:39:25,740 --> 00:39:26,740
+We'll travel.
+
+644
+00:39:26,740 --> 00:39:27,740
+Why not?
+
+645
+00:39:27,740 --> 00:39:31,420
+I had a BBM in my car for like years and years and years before I finally was like, okay,
+
+646
+00:39:31,420 --> 00:39:35,100
+the expiry date is really past the point that I would ever want to use this.
+
+647
+00:39:35,100 --> 00:39:37,340
+And also now I'm like, I don't really know.
+
+648
+00:39:37,340 --> 00:39:41,220
+I want to have this in my car because then I feel like I have to use it.
+
+649
+00:39:41,220 --> 00:39:42,220
+Yeah.
+
+650
+00:39:42,220 --> 00:39:43,220
+Yeah.
+
+651
+00:39:43,220 --> 00:39:46,620
+Anyways, side note, but I, I would need to read more for sure.
+
+652
+00:39:46,620 --> 00:39:51,500
+Like it's an interesting idea, but like, Hey, like pre hospital blood, I'm on the train
+
+653
+00:39:51,500 --> 00:39:52,500
+too.
+
+654
+00:39:52,500 --> 00:39:53,820
+Everyone should have it.
+
+655
+00:39:53,820 --> 00:39:57,620
+Yeah, for sure.
+
+656
+00:39:57,620 --> 00:40:03,660
+You have mentioned a couple of times in some of your posts about going with a title volume
+
+657
+00:40:03,660 --> 00:40:05,820
+of eight mils per kilo versus six.
+
+658
+00:40:05,820 --> 00:40:09,780
+Do you want to talk about that a bit?
+
+659
+00:40:09,780 --> 00:40:10,780
+Yeah.
+
+660
+00:40:10,780 --> 00:40:16,420
+Um, so for arts patients, that is the one population and I'm speaking about out ventilation
+
+661
+00:40:16,420 --> 00:40:22,220
+here, but, um, for ARDS patients or patients that are showing evidence that you're dealing
+
+662
+00:40:22,220 --> 00:40:26,260
+with ARDS, that's the one patient population was, I would say start at six.
+
+663
+00:40:26,260 --> 00:40:33,420
+But when it comes to any other patient pathology, and even when you look at ARDS net protocol,
+
+664
+00:40:33,420 --> 00:40:38,860
+as long as like, if you had a patient that was acidotic, that as long as you had a room
+
+665
+00:40:38,860 --> 00:40:44,260
+in your plateau pressures, ARDS net protocol taught you to go up to eight mils per kilo.
+
+666
+00:40:44,260 --> 00:40:48,380
+They would tell you to increase your total volumes, um, by one mil per kilo until you
+
+667
+00:40:48,380 --> 00:40:50,380
+got to eight mils per kilo.
+
+668
+00:40:50,380 --> 00:40:52,900
+And that is part of our net protocol.
+
+669
+00:40:52,900 --> 00:40:56,860
+Like that is six to eight mils per kilo within the protocol that we've been using, but everyone
+
+670
+00:40:56,860 --> 00:41:01,660
+kind of micro focuses on the six, which again, that is the initial settings for ARDS.
+
+671
+00:41:01,660 --> 00:41:06,060
+But for everybody else, we know that eight, as long as you're driving pressures and plateau
+
+672
+00:41:06,060 --> 00:41:11,560
+pressures are within range, it gives you a much more effective alveolar ventilation.
+
+673
+00:41:11,560 --> 00:41:14,300
+This is, you know, just basic physiology.
+
+674
+00:41:14,300 --> 00:41:16,360
+We know we have dead space.
+
+675
+00:41:16,360 --> 00:41:21,080
+And now with the emergence of, you know, a bunch of literature looking at intermediate
+
+676
+00:41:21,080 --> 00:41:26,680
+tidal volumes, there is this whole idea of this driving pressure, you know, targeted
+
+677
+00:41:26,680 --> 00:41:32,800
+tidal volumes that for patients that have higher compliant lungs, that they really can
+
+678
+00:41:32,800 --> 00:41:34,520
+get larger total volumes.
+
+679
+00:41:34,520 --> 00:41:38,040
+Some of the studies are going well beyond eight mils per kilo, as long as your driving
+
+680
+00:41:38,040 --> 00:41:43,840
+pressure is safe and, you know, sub 14, 15, 14, and that range there.
+
+681
+00:41:43,840 --> 00:41:50,040
+So again, I teach if you have room with your driving pressure and plateau pressure, consider,
+
+682
+00:41:50,040 --> 00:41:53,760
+and you need to normalize gases, consider going up to eight mils per kilo.
+
+683
+00:41:53,760 --> 00:41:58,080
+And the new body of research, looking at mechanical power and like all of these things are starting
+
+684
+00:41:58,080 --> 00:42:05,000
+to like bring all these other ideas into the picture where we know that tidal volumes,
+
+685
+00:42:05,000 --> 00:42:07,520
+keeping them low is not the only piece of the puzzle anymore.
+
+686
+00:42:07,520 --> 00:42:12,320
+And if you just think about it intuitively, like if we are banging the crap of our lungs
+
+687
+00:42:12,320 --> 00:42:15,840
+open and closed every single time we do that, that's going to cause trauma.
+
+688
+00:42:15,840 --> 00:42:16,840
+We know that.
+
+689
+00:42:16,840 --> 00:42:20,240
+So it's not just the amount of volumes, not just the amount of pressure.
+
+690
+00:42:20,240 --> 00:42:24,600
+It could also be the rate and it could also be just the amount of power that we're pushing
+
+691
+00:42:24,600 --> 00:42:25,720
+into the lungs from the vent.
+
+692
+00:42:25,720 --> 00:42:30,280
+So there is more to the picture and I'm not teaching beyond eight at all.
+
+693
+00:42:30,280 --> 00:42:31,640
+And please don't misunderstand me.
+
+694
+00:42:31,640 --> 00:42:36,280
+And if your patient has ARDS, I still abide by the idea of starting at six mils.
+
+695
+00:42:36,280 --> 00:42:40,800
+But if you have the ability and you need to normalize gases going with a larger volume
+
+696
+00:42:40,800 --> 00:42:45,080
+and getting to eight mils per kilo, if it's safe with safe pressures, it's going to be
+
+697
+00:42:45,080 --> 00:42:48,400
+more effective.
+
+698
+00:42:48,400 --> 00:42:54,360
+And then when you're, let's say like hypothetical, we started a patient on six mils per kilo
+
+699
+00:42:54,360 --> 00:43:02,200
+and then the driving pressure is like 10 and the plateau is obviously fine.
+
+700
+00:43:02,200 --> 00:43:06,880
+You're going up to eight and then you're just stopping there.
+
+701
+00:43:06,880 --> 00:43:11,960
+Or do you ever find a reason to go past that if the driving pressure is still low?
+
+702
+00:43:11,960 --> 00:43:12,960
+Great question.
+
+703
+00:43:12,960 --> 00:43:17,880
+As of now, I am still maxing myself at eight mils per kilo.
+
+704
+00:43:17,880 --> 00:43:23,240
+And we don't have enough evidence yet to go beyond that in my opinion, for me to change
+
+705
+00:43:23,240 --> 00:43:24,920
+my practice beyond that.
+
+706
+00:43:24,920 --> 00:43:28,760
+Like I think the PREVENT trial was a really great study to start to look at that and to
+
+707
+00:43:28,760 --> 00:43:31,200
+look at the intermediate volumes.
+
+708
+00:43:31,200 --> 00:43:33,760
+But we still just, we don't have enough.
+
+709
+00:43:33,760 --> 00:43:39,680
+I know that eight mils per kilo is safe and I know that it is even safe in ARDS patients.
+
+710
+00:43:39,680 --> 00:43:47,040
+And until we have more data to show that for sure, you know, in non-ARDS patients going
+
+711
+00:43:47,040 --> 00:43:52,400
+up to X number of mils per kilogram of predictive body weight with X driving pressure and X
+
+712
+00:43:52,400 --> 00:43:55,120
+mechanical power is safe as well.
+
+713
+00:43:55,120 --> 00:43:59,280
+I don't think that I'm ready to get there, but I think the next few years are going to
+
+714
+00:43:59,280 --> 00:44:01,920
+be really, really interesting.
+
+715
+00:44:01,920 --> 00:44:05,120
+Like just to remind people, like if you go back, because there's going to be some that
+
+716
+00:44:05,120 --> 00:44:07,760
+listen to this, probably it's going to, it's going to irk them.
+
+717
+00:44:07,760 --> 00:44:12,880
+But if you go back to the ARDS net study back from, that everything is based on, it compared
+
+718
+00:44:12,880 --> 00:44:17,400
+six mils per kilogram of predictive body weight to 12 mils per kilogram of predictive body
+
+719
+00:44:17,400 --> 00:44:18,400
+weight.
+
+720
+00:44:18,400 --> 00:44:19,480
+There was no in between.
+
+721
+00:44:19,480 --> 00:44:22,000
+And the ARDS net protocol went to six to eight.
+
+722
+00:44:22,000 --> 00:44:23,000
+So that is all safe.
+
+723
+00:44:23,000 --> 00:44:24,000
+We know that's safe.
+
+724
+00:44:24,000 --> 00:44:28,460
+And now we're looking at the 10 to 12 range and what that means.
+
+725
+00:44:28,460 --> 00:44:29,820
+And again, I'm not there yet.
+
+726
+00:44:29,820 --> 00:44:31,580
+I'm not doing that yet.
+
+727
+00:44:31,580 --> 00:44:34,020
+But who knows where the next few years will take us.
+
+728
+00:44:34,020 --> 00:44:35,020
+Okay.
+
+729
+00:44:35,020 --> 00:44:36,780
+And then a follow up question.
+
+730
+00:44:36,780 --> 00:44:43,420
+So let's say we start someone on title volume of six mils per kilo and we like did all of
+
+731
+00:44:43,420 --> 00:44:44,420
+our math.
+
+732
+00:44:44,420 --> 00:44:48,820
+So we come up to like a rate of 16 or 17 and then we increase our title volume up to eight
+
+733
+00:44:48,820 --> 00:44:51,260
+mils per kilo and we're still safe.
+
+734
+00:44:51,260 --> 00:44:56,460
+But now our minute volume is a little higher than our initial goal and we say our end title
+
+735
+00:44:56,460 --> 00:44:57,460
+start to drop.
+
+736
+00:44:57,460 --> 00:44:58,460
+So we're at 30.
+
+737
+00:44:58,460 --> 00:44:59,460
+What do you do?
+
+738
+00:44:59,460 --> 00:45:00,460
+Excellent question.
+
+739
+00:45:00,460 --> 00:45:05,060
+And I think here it depends a lot on what's the patient doing.
+
+740
+00:45:05,060 --> 00:45:11,020
+It depends a lot on like, no, your sedation and kind of your environment.
+
+741
+00:45:11,020 --> 00:45:12,020
+Are you in transport?
+
+742
+00:45:12,020 --> 00:45:13,020
+Are you not?
+
+743
+00:45:13,020 --> 00:45:19,500
+Because I think at that point you can choose if your patient is breathing and their intrinsic
+
+744
+00:45:19,500 --> 00:45:23,680
+respiratory rate is on the higher end, then I would probably drop my title volume.
+
+745
+00:45:23,680 --> 00:45:28,880
+But if my patient isn't, then, you know, at that point, both numbers are safe.
+
+746
+00:45:28,880 --> 00:45:29,880
+You can choose.
+
+747
+00:45:29,880 --> 00:45:33,520
+I probably would still suggest dropping your title volume down because why not?
+
+748
+00:45:33,520 --> 00:45:35,360
+It'll mean less pressure to the lungs.
+
+749
+00:45:35,360 --> 00:45:38,440
+Less pressure is a good thing and your rates aren't high.
+
+750
+00:45:38,440 --> 00:45:43,080
+But if the situation was that I was at eight mils per kilo and a higher rate, I probably
+
+751
+00:45:43,080 --> 00:45:46,600
+would come down on my rate if I was at a rate of like 26 or something.
+
+752
+00:45:46,600 --> 00:45:51,360
+And that's, I guess the art versus I like there.
+
+753
+00:45:51,360 --> 00:45:53,600
+I'm like, there's no right wrong answer.
+
+754
+00:45:53,600 --> 00:45:56,920
+Pick an answer and try it.
+
+755
+00:45:56,920 --> 00:46:00,800
+One other thing I wanted to mention, Ryan, is like back to the situation of like trying
+
+756
+00:46:00,800 --> 00:46:02,240
+to get to eight mils.
+
+757
+00:46:02,240 --> 00:46:09,640
+Like before I'll I'll increase my pressures or, you know, if I was in like a PRVC mode,
+
+758
+00:46:09,640 --> 00:46:13,800
+like increase my volumes right away for the vent to then decide or whatever, or a no volume
+
+759
+00:46:13,800 --> 00:46:18,640
+control mode, I would probably optimize my inspiratory time if I have a ventilator that
+
+760
+00:46:18,640 --> 00:46:20,040
+I have that option.
+
+761
+00:46:20,040 --> 00:46:26,040
+So if I'm on a mode that has a TI, if I'm in a pressure mode of any kind, I would look
+
+762
+00:46:26,040 --> 00:46:31,440
+to optimize time and use time to my favor and see if I can potentially get more volume
+
+763
+00:46:31,440 --> 00:46:35,000
+with the same amount of pressure before I even go to increase pressures.
+
+764
+00:46:35,000 --> 00:46:40,720
+That's kind of one great tool that you can do as well in order to optimize.
+
+765
+00:46:40,720 --> 00:46:43,040
+I'm sure you know, Ryan, but others might not.
+
+766
+00:46:43,040 --> 00:46:44,040
+Totally.
+
+767
+00:46:44,040 --> 00:46:46,080
+Just to like clarify that point.
+
+768
+00:46:46,080 --> 00:46:53,040
+So you're saying if you have somebody who were currently the way we have the vent set
+
+769
+00:46:53,040 --> 00:46:57,480
+up, we're getting that six mils per kilo and you're trying to get more volume per breath,
+
+770
+00:46:57,480 --> 00:47:00,880
+like closer to eight, you would just prolong your inspiratory time.
+
+771
+00:47:00,880 --> 00:47:02,680
+Yeah, and it doesn't always work.
+
+772
+00:47:02,680 --> 00:47:06,800
+Like you have to look at your waveforms and this is where I am a huge proponent for if
+
+773
+00:47:06,800 --> 00:47:10,840
+you're using a ventilator, you need to you need to dive into waveforms because that is
+
+774
+00:47:10,840 --> 00:47:11,840
+everything.
+
+775
+00:47:12,520 --> 00:47:15,360
+And I again, I feel like I'm preaching to someone that knows this.
+
+776
+00:47:15,360 --> 00:47:23,400
+So when it comes to looking at your inspiratory flow time curve, if you see that your inspiratory
+
+777
+00:47:23,400 --> 00:47:28,760
+flow is not coming down to zero before the breath cycles into exhalation, because remembering
+
+778
+00:47:28,760 --> 00:47:33,480
+that in any pressure mode that has an inspiratory time, your cycling mechanism is your inspiratory
+
+779
+00:47:33,480 --> 00:47:34,480
+time.
+
+780
+00:47:34,480 --> 00:47:40,880
+So if you are able to extend that inspiratory time, you will then get more volume.
+
+781
+00:47:40,880 --> 00:47:44,960
+But if your flow comes down to zero and you extend your your inspiratory time, you're
+
+782
+00:47:44,960 --> 00:47:49,000
+going to end up with an inspiratory zero flow hold, which will not give you more volume.
+
+783
+00:47:49,000 --> 00:47:52,520
+So you have to know your waveforms and look at your inspiratory waveform to be able to
+
+784
+00:47:52,520 --> 00:47:55,720
+see whether time will work in your favor or not.
+
+785
+00:47:55,720 --> 00:48:00,280
+So normally the classic picture is you'll see your your peak inspiratory flow, you'll
+
+786
+00:48:00,280 --> 00:48:03,920
+see your flow start to decay on that that decelerating slope that you see.
+
+787
+00:48:03,920 --> 00:48:07,560
+But then before it comes, it cuts off and just falls off click.
+
+788
+00:48:07,560 --> 00:48:11,640
+And if you see that, then you know that you had accessible flow, you should see that
+
+789
+00:48:11,640 --> 00:48:19,080
+flow time away from coming close to zero to be able to determine whether increasing time
+
+790
+00:48:19,080 --> 00:48:20,840
+will work in your favor or not.
+
+791
+00:48:20,840 --> 00:48:21,840
+Right.
+
+792
+00:48:21,840 --> 00:48:25,520
+Yeah, and this is something that's cool now that the price point has really come down
+
+793
+00:48:25,520 --> 00:48:26,880
+on the Hamilton.
+
+794
+00:48:26,880 --> 00:48:29,800
+And everyone seems to be using those in transport like all over the world.
+
+795
+00:48:29,800 --> 00:48:34,640
+It's now that we have access to those like waveforms and loops, which is pretty cool.
+
+796
+00:48:34,640 --> 00:48:35,640
+Yeah.
+
+797
+00:48:35,720 --> 00:48:37,040
+Oh, you said loops.
+
+798
+00:48:37,040 --> 00:48:38,040
+Oh, right.
+
+799
+00:48:38,040 --> 00:48:39,040
+Let loops.
+
+800
+00:48:39,040 --> 00:48:41,200
+Do you use the loops on the Hamilton T1?
+
+801
+00:48:41,200 --> 00:48:43,200
+We I mean, we look at them.
+
+802
+00:48:43,200 --> 00:48:49,000
+The thing is, I'm not convinced that maybe I just don't know enough about it, but I think
+
+803
+00:48:49,000 --> 00:48:52,200
+the loops give you information that you can also get elsewhere.
+
+804
+00:48:52,200 --> 00:48:53,200
+Yes.
+
+805
+00:48:53,200 --> 00:48:58,120
+So I'm not I'm not convinced that like you should go looking at the shapes of your loops
+
+806
+00:48:58,120 --> 00:49:04,080
+to like make a diagnosis, but it can confirm something, you know, or you can like see in
+
+807
+00:49:04,080 --> 00:49:07,480
+real time as you're doing any intervention.
+
+808
+00:49:07,480 --> 00:49:10,800
+But I don't know if I would like start there to go like troubleshooting what's going on
+
+809
+00:49:10,800 --> 00:49:11,800
+with my patient.
+
+810
+00:49:11,800 --> 00:49:17,640
+Yeah, a little pearl that I eventually I will get my Instagram posts to this point where
+
+811
+00:49:17,640 --> 00:49:20,120
+I'm going to go through this and go on a rant about it.
+
+812
+00:49:20,120 --> 00:49:23,840
+If you're using the Hamilton T1 and you are using your pressure volume loops, you are
+
+813
+00:49:23,840 --> 00:49:26,760
+you don't you don't know what you're looking at.
+
+814
+00:49:26,760 --> 00:49:28,560
+And I say that with all the love in the world.
+
+815
+00:49:28,560 --> 00:49:31,920
+And don't worry, because like I didn't have a good understanding either when I graduated
+
+816
+00:49:31,920 --> 00:49:32,920
+as an RT.
+
+817
+00:49:33,920 --> 00:49:37,040
+Remember that the Hamilton T1 is a pressure ventilator.
+
+818
+00:49:37,040 --> 00:49:41,400
+So the idea with your pressure volume loop, the best mode of ventilation to be able to
+
+819
+00:49:41,400 --> 00:49:47,000
+look at a pressure volume loop and get information out of it is when you need a ventilator where
+
+820
+00:49:47,000 --> 00:49:49,640
+everything is consistent except for one variable.
+
+821
+00:49:49,640 --> 00:49:55,800
+So a volume control mode where volume is consistent per breath and flow is controlled will give
+
+822
+00:49:55,800 --> 00:49:58,560
+you pressure being the variable that is changing.
+
+823
+00:49:58,560 --> 00:50:04,640
+So with the loops, then you can look for your opening pressures, your closing pressures,
+
+824
+00:50:04,640 --> 00:50:05,920
+you can look for over distention.
+
+825
+00:50:05,920 --> 00:50:09,400
+And yes, it's a bit hand wavy with opening pressures and closing pressures on which one
+
+826
+00:50:09,400 --> 00:50:10,560
+we use and all those things.
+
+827
+00:50:10,560 --> 00:50:15,480
+But looking for those inflection points, like really, it has it has to be a volume control
+
+828
+00:50:15,480 --> 00:50:16,480
+mode.
+
+829
+00:50:16,480 --> 00:50:20,960
+So on the Hamilton T1, we we know we don't have a true volume control mode.
+
+830
+00:50:20,960 --> 00:50:24,200
+We are using a pressure mode of ventilation regardless.
+
+831
+00:50:24,200 --> 00:50:29,640
+And since pressure is limited and volume is changing and flow is changing, you blow
+
+832
+00:50:29,640 --> 00:50:35,160
+past your inflection points with your pressures with it being a pressure mode too quickly
+
+833
+00:50:35,160 --> 00:50:41,200
+because the vent is just cycling up and then it's flattening your curve right when realistically
+
+834
+00:50:41,200 --> 00:50:44,880
+you'd be getting your information about over distention because we're limiting pressure.
+
+835
+00:50:44,880 --> 00:50:47,480
+So with that, you lose all of that great information.
+
+836
+00:50:47,480 --> 00:50:52,440
+So at that point, all you're left with is leaks, which you can see elsewhere, spontaneous
+
+837
+00:50:52,440 --> 00:50:54,280
+efforts, you can see elsewhere.
+
+838
+00:50:54,280 --> 00:50:59,320
+And then also you're missing everything else that you could use them for.
+
+839
+00:50:59,320 --> 00:51:04,720
+So you would maybe look at a loop on you'd like in a hospital setting like where I work,
+
+840
+00:51:04,720 --> 00:51:08,800
+like everyone is in volume control ventilation with a volume control, like a true volume
+
+841
+00:51:08,800 --> 00:51:13,200
+control ventilator, but not so much with pressure control, unless you're just like dirtying
+
+842
+00:51:13,200 --> 00:51:15,720
+out and trying to confirm what you think you already know.
+
+843
+00:51:15,720 --> 00:51:16,720
+Yeah.
+
+844
+00:51:16,720 --> 00:51:20,600
+And I tend to even I don't use even loops that much in volume control, but I would use
+
+845
+00:51:20,600 --> 00:51:21,600
+it more.
+
+846
+00:51:21,600 --> 00:51:25,400
+So when it comes to like looking for the beaking, for example, that would show you
+
+847
+00:51:25,400 --> 00:51:27,320
+over distention.
+
+848
+00:51:27,320 --> 00:51:31,280
+That's something that is very handy to look at for a volume control mode.
+
+849
+00:51:31,280 --> 00:51:37,960
+But again, you'll never see that with a pressure control mode of ventilation, which is what
+
+850
+00:51:37,960 --> 00:51:39,280
+we have on the Health and T1.
+
+851
+00:51:39,280 --> 00:51:40,280
+Yeah.
+
+852
+00:51:40,280 --> 00:51:42,280
+I've never used them more for like curiosity's sake.
+
+853
+00:51:42,280 --> 00:51:45,000
+Be like, oh, like what I think is going on with the patient.
+
+854
+00:51:45,000 --> 00:51:47,640
+I remember like what the shape is supposed to look like.
+
+855
+00:51:47,640 --> 00:51:50,880
+So then you like pull it up and like, oh yeah, cool.
+
+856
+00:51:50,880 --> 00:51:51,880
+Maybe not.
+
+857
+00:51:51,880 --> 00:51:56,320
+The one thing that one of my amazing coworkers, she teaches when she talks about loops is
+
+858
+00:51:56,320 --> 00:52:00,500
+really the only thing you're really looking at is like the upright football means a more
+
+859
+00:52:00,500 --> 00:52:01,600
+compliant lung.
+
+860
+00:52:01,600 --> 00:52:06,960
+So if the football drops to the side and horizon, then you have a less compliant lung.
+
+861
+00:52:06,960 --> 00:52:11,160
+But then you can look at your page three monitoring, just look at your C stat in real time.
+
+862
+00:52:11,160 --> 00:52:17,360
+So there isn't enough value to lose both my flow time waveform and my volume waveform.
+
+863
+00:52:17,360 --> 00:52:20,560
+Like keep your flow time waveform up on the screen is what I always tell people.
+
+864
+00:52:20,560 --> 00:52:22,920
+Yeah, I think most people are just like pulling it up to like take it.
+
+865
+00:52:22,920 --> 00:52:23,920
+Well, that's what I do.
+
+866
+00:52:23,920 --> 00:52:27,160
+I just like pull it up and take a peek at it and like flip through and like look at
+
+867
+00:52:27,160 --> 00:52:28,760
+all the cool things that the Hamilton gives you.
+
+868
+00:52:28,760 --> 00:52:32,000
+Like look at your dynamic lung, let your loops and then you like put it back on your home
+
+869
+00:52:32,000 --> 00:52:35,680
+screen because that's where you like need to keep an eye on things.
+
+870
+00:52:35,680 --> 00:52:36,680
+Yeah.
+
+871
+00:52:36,680 --> 00:52:38,680
+Yeah, I guess.
+
+872
+00:52:38,680 --> 00:52:39,680
+Yeah.
+
+873
+00:52:39,680 --> 00:52:47,080
+So you mentioned looking at your like using your waveforms to adjust your inspiratory
+
+874
+00:52:47,080 --> 00:52:52,760
+time to decide if you can like give more or less time to maximize that tidal volume.
+
+875
+00:52:52,760 --> 00:52:57,560
+What do you think if you had to like pick a couple of like important things for folks
+
+876
+00:52:57,560 --> 00:53:01,840
+in transport to be able to like pick out of the waveforms at a glance, what's another
+
+877
+00:53:01,840 --> 00:53:04,680
+thing or two you would put on that list?
+
+878
+00:53:04,680 --> 00:53:07,720
+Fast trapping like that's like hands down.
+
+879
+00:53:07,720 --> 00:53:10,920
+So just making sure like it gets back to your set peep.
+
+880
+00:53:10,920 --> 00:53:11,920
+Yeah.
+
+881
+00:53:11,920 --> 00:53:16,800
+So making sure your flow time waveform it comes and even like your pressure waveforms
+
+882
+00:53:16,800 --> 00:53:21,880
+like that's not a good place to look at for auto peeping because the vent is going to
+
+883
+00:53:21,880 --> 00:53:25,840
+show you on that pressure waveform, whatever you've set.
+
+884
+00:53:25,840 --> 00:53:32,920
+It won't read accurately the pressures when it comes to I know and this is if you read
+
+885
+00:53:32,920 --> 00:53:40,040
+in that manual auto peeping is a wild thing and it's a little bit of a soapbox again,
+
+886
+00:53:40,040 --> 00:53:41,040
+I can get on.
+
+887
+00:53:41,040 --> 00:53:42,040
+Yeah.
+
+888
+00:53:42,040 --> 00:53:47,960
+So you have to like keep an eye on the pressure waveform to see if it comes back to your set
+
+889
+00:53:47,960 --> 00:53:48,960
+peep.
+
+890
+00:53:48,960 --> 00:53:54,880
+Yes, but it's only it may still show that it gets the peep but it's not actually all
+
+891
+00:53:54,880 --> 00:53:55,880
+the way there.
+
+892
+00:53:55,880 --> 00:53:56,880
+Yes.
+
+893
+00:53:56,880 --> 00:53:57,880
+Interesting.
+
+894
+00:53:57,880 --> 00:54:04,640
+So when I teach even like on Patreon monitoring we have auto peep is something we can read.
+
+895
+00:54:04,640 --> 00:54:07,040
+I don't trust that that is grain of salt grain of salt.
+
+896
+00:54:07,040 --> 00:54:10,240
+It's based on your settings and it's something that is calculated.
+
+897
+00:54:10,440 --> 00:54:14,760
+Especially when you have auto peeping in the lung, it is a dynamic process that is not
+
+898
+00:54:14,760 --> 00:54:18,200
+happening homogeneously through that lung.
+
+899
+00:54:18,200 --> 00:54:23,240
+So with that, unless you can do a true expiratory hold to then get equilibration of pressure
+
+900
+00:54:23,240 --> 00:54:27,400
+and actually read what is being felt with auto peeping.
+
+901
+00:54:27,400 --> 00:54:31,240
+If it quacks like a duck, meaning if you see on your expiratory flow waveform that you're
+
+902
+00:54:31,240 --> 00:54:35,640
+not getting back to zero, you have auto peep regardless of what your pressure waveform
+
+903
+00:54:35,640 --> 00:54:36,640
+says.
+
+904
+00:54:36,640 --> 00:54:40,600
+Regardless of what auto peeping you have on the other end, that expiratory flow time
+
+905
+00:54:40,600 --> 00:54:46,200
+waveform is the Bible that you need to follow when it comes to looking for auto peep.
+
+906
+00:54:46,200 --> 00:54:50,560
+And until that flow time waveform comes back to zero, treat it like you're still auto peeping
+
+907
+00:54:50,560 --> 00:54:57,400
+because it's going to underestimate in every other aspect what your auto peep is.
+
+908
+00:54:57,400 --> 00:55:00,400
+So you could have just to like reiterate this point because this is something that is new
+
+909
+00:55:00,400 --> 00:55:01,400
+to me.
+
+910
+00:55:01,400 --> 00:55:05,840
+You could have your pressure time waveform drop back to whatever baseline you have set
+
+911
+00:55:05,840 --> 00:55:12,320
+as peep and still have, and on your other pages in your monitoring on the Hamilton,
+
+912
+00:55:12,320 --> 00:55:14,440
+it could say like auto peep is zero.
+
+913
+00:55:14,440 --> 00:55:18,400
+But if you're seeing that the flow time, the flow waveform doesn't come all the way back
+
+914
+00:55:18,400 --> 00:55:23,680
+to zero, you could still have some degree of auto peep in certain regions of the lung.
+
+915
+00:55:23,680 --> 00:55:24,680
+Yes.
+
+916
+00:55:24,680 --> 00:55:28,160
+And to clarify, normally what will happen is that your auto peep will be reading like
+
+917
+00:55:28,160 --> 00:55:32,120
+point two, something very, very small.
+
+918
+00:55:32,120 --> 00:55:35,720
+But your, your expiratory flow time waveform is not coming back to zero.
+
+919
+00:55:35,720 --> 00:55:39,320
+And what I can guarantee you, even if you froze your waveform and you scrolled back
+
+920
+00:55:39,320 --> 00:55:42,600
+and you were reading your pressure and it's saying that you're reading like pretty much
+
+921
+00:55:42,600 --> 00:55:46,600
+5.5.1, 5.2, that is underestimating.
+
+922
+00:55:46,600 --> 00:55:49,800
+That is underestimating a thousand percent.
+
+923
+00:55:49,800 --> 00:55:53,280
+That auto peep reading that it's saying is point two is probably a lot higher than that.
+
+924
+00:55:53,280 --> 00:55:55,560
+And it's going to continue getting worse.
+
+925
+00:55:55,560 --> 00:55:57,240
+And you can see this in the manual.
+
+926
+00:55:57,240 --> 00:56:01,960
+If you read through the T1 manual, it says clearly multiple times that auto peep is,
+
+927
+00:56:01,960 --> 00:56:06,240
+is estimated and that it should not be counted on when it comes to this.
+
+928
+00:56:06,240 --> 00:56:07,960
+And there's also some really great studies.
+
+929
+00:56:07,960 --> 00:56:11,680
+I can actually send them to you after I'll look them up and send them to you that talk
+
+930
+00:56:11,680 --> 00:56:16,840
+about the fact that unless you're doing a true expiratory hold, auto peep is always
+
+931
+00:56:16,840 --> 00:56:17,840
+underestimated.
+
+932
+00:56:17,840 --> 00:56:22,480
+So using that flow time waveform as what grounds you as like there is auto peep and it's worse
+
+933
+00:56:22,480 --> 00:56:25,480
+than I think and fix it, fix it, fix it.
+
+934
+00:56:25,480 --> 00:56:26,640
+Right on.
+
+935
+00:56:26,640 --> 00:56:31,920
+And how much of a like trying to think of like how to ask this question, like how much
+
+936
+00:56:31,920 --> 00:56:34,720
+of a disparity is there?
+
+937
+00:56:34,720 --> 00:56:39,680
+Like we often teach it like a couple points of auto peep is like not a big deal as long
+
+938
+00:56:39,680 --> 00:56:42,200
+as they're not like seeing an increase.
+
+939
+00:56:42,200 --> 00:56:46,000
+Like as long as they're seeing a significant change.
+
+940
+00:56:46,000 --> 00:56:51,600
+So would you like always act on not seeing your flow time waveform, your flow all the
+
+941
+00:56:51,600 --> 00:56:53,540
+come all the way back to zero?
+
+942
+00:56:53,540 --> 00:56:57,700
+Would you like just note it and see if it changing it's worse or would you always address
+
+943
+00:56:57,700 --> 00:57:01,340
+it and get it back to zero?
+
+944
+00:57:01,340 --> 00:57:04,660
+I always try to fix auto peep.
+
+945
+00:57:04,660 --> 00:57:11,060
+That is that is my, my core in my body because it's hard to really tell until you know later
+
+946
+00:57:11,060 --> 00:57:16,540
+on now there are situations where the patient is doing it themselves specifically you can
+
+947
+00:57:16,540 --> 00:57:20,500
+think about, you know, obese patients or COPD patients where they end up doing it a little
+
+948
+00:57:20,500 --> 00:57:21,500
+bit.
+
+949
+00:57:21,500 --> 00:57:26,780
+So in those cases, I'm not too worried, but in like an asthmatic or a COPD, even then
+
+950
+00:57:26,780 --> 00:57:30,220
+I will still try to fix it by decreasing my rates.
+
+951
+00:57:30,220 --> 00:57:36,460
+If my rates are greater than, you know, 10, and I'm still seeing that flow time waveform
+
+952
+00:57:36,460 --> 00:57:38,500
+come back to zero, I am decreasing my rates.
+
+953
+00:57:38,500 --> 00:57:43,420
+So it's hard, it's hard to say like, because there isn't like one size fits all.
+
+954
+00:57:43,420 --> 00:57:48,380
+Usually, I will always act on a full time waveform that is not coming back to zero,
+
+955
+00:57:48,380 --> 00:57:53,220
+unless I have already got them down to again, like sub 10 in my respiratory rate.
+
+956
+00:57:53,220 --> 00:57:57,820
+And I'm still there and the patient is seeming to be stable.
+
+957
+00:57:57,820 --> 00:58:02,100
+And I'm still like going down every other route of trying to treat it in every way that
+
+958
+00:58:02,100 --> 00:58:03,100
+I possibly can.
+
+959
+00:58:03,100 --> 00:58:04,100
+I don't know.
+
+960
+00:58:04,100 --> 00:58:06,660
+Yeah, that makes sense.
+
+961
+00:58:06,660 --> 00:58:07,660
+Cool.
+
+962
+00:58:07,660 --> 00:58:10,500
+Anything else on the waveforms?
+
+963
+00:58:10,500 --> 00:58:13,100
+Oh my gosh, so much.
+
+964
+00:58:13,100 --> 00:58:14,980
+I feel like I could talk about waveforms like
+
+965
+00:58:14,980 --> 00:58:16,100
+I think those are like too good.
+
+966
+00:58:16,100 --> 00:58:18,180
+There's like two easy things to see.
+
+967
+00:58:18,180 --> 00:58:19,180
+Yes.
+
+968
+00:58:19,180 --> 00:58:24,420
+Yeah, like you can see in a glance, you don't have to like, yeah, and to like look too hard.
+
+969
+00:58:24,420 --> 00:58:26,580
+And then like another one is leaks.
+
+970
+00:58:26,580 --> 00:58:28,540
+And I have like all of these things as well.
+
+971
+00:58:28,540 --> 00:58:32,180
+I had videos on my Instagram that kind of go through them for those that are listening
+
+972
+00:58:32,180 --> 00:58:37,500
+that you can go and I walk you through auto peeping and leaks and how to recognize them
+
+973
+00:58:37,500 --> 00:58:40,620
+and all these different things and just the basics of the waveforms in general.
+
+974
+00:58:40,620 --> 00:58:45,420
+And I am at some point in the near future, starting to move into all the worlds of the
+
+975
+00:58:45,420 --> 00:58:49,740
+different asynchronies or dis-synchronies, however you like to say it, that exist and
+
+976
+00:58:49,740 --> 00:58:54,940
+how to recognize them and what to do about it and what they mean.
+
+977
+00:58:54,940 --> 00:58:58,980
+And trying to again, just do it in a way that makes sense and is really easy and approachable
+
+978
+00:58:58,980 --> 00:58:59,980
+to understand.
+
+979
+00:58:59,980 --> 00:59:04,940
+And it really isn't that hard once you know what to look for.
+
+980
+00:59:04,940 --> 00:59:09,980
+So like I would say the three major things are that auto peeping with your expiratory
+
+981
+00:59:09,980 --> 00:59:15,380
+waveform leaks to be able to recognize them because they can really screw up what you're
+
+982
+00:59:15,380 --> 00:59:19,740
+reading and what you're seeing, remembering as well the volumes you're seeing specifically
+
+983
+00:59:19,740 --> 00:59:23,780
+on the T1, but most ventilators, the volumes you see on your main monitoring panel is expired
+
+984
+00:59:23,780 --> 00:59:24,860
+volumes.
+
+985
+00:59:24,860 --> 00:59:29,420
+And so a lot of people don't understand that if they have a leak in place that the volumes
+
+986
+00:59:29,420 --> 00:59:34,060
+they're delivering are probably, they are higher than that and they could be beyond
+
+987
+00:59:34,060 --> 00:59:39,900
+what is safe, especially when it gets to the tiny humans and ventilating the babies.
+
+988
+00:59:39,900 --> 00:59:44,140
+And if they have an uncuffed tube, like this is very important when you're dealing with
+
+989
+00:59:44,140 --> 00:59:46,180
+the mode of ventilation that you're in and all those things.
+
+990
+00:59:46,180 --> 00:59:47,180
+Yeah.
+
+991
+00:59:47,180 --> 00:59:51,860
+And just to clarify this point, because I think that's a really good point is that when
+
+992
+00:59:51,860 --> 00:59:57,340
+you're measuring your exhaled volume, it's only what comes out of the tube.
+
+993
+00:59:57,340 --> 01:00:04,300
+You could put like 700 mils in and you only see 500 of it come out of the tube because
+
+994
+01:00:04,300 --> 01:00:05,860
+the rest leaks around.
+
+995
+01:00:05,860 --> 01:00:10,540
+So you could end up giving a lot more air than you think.
+
+996
+01:00:10,540 --> 01:00:11,540
+Yes.
+
+997
+01:00:11,540 --> 01:00:12,540
+Yeah.
+
+998
+01:00:12,740 --> 01:00:18,420
+And every modern ventilator should have a way for you to look through your monitoring
+
+999
+01:00:18,420 --> 01:00:21,940
+to see what volume went in and the vent will read it.
+
+1000
+01:00:21,940 --> 01:00:27,940
+But just recognizing that what is on the main screen as the default one you see from every
+
+1001
+01:00:27,940 --> 01:00:29,420
+ventilator I've ever worked with.
+
+1002
+01:00:29,420 --> 01:00:30,820
+And there's a lot of them.
+
+1003
+01:00:30,820 --> 01:00:32,820
+It's always expired.
+
+1004
+01:00:32,820 --> 01:00:34,700
+And that's always something that kind of shocks people.
+
+1005
+01:00:34,700 --> 01:00:39,860
+And like, if you're dealing with a CMV plus on the Hamilton T1 or what's the other name
+
+1006
+01:00:39,860 --> 01:00:48,500
+for an APV CMV or something, that is a volume target mode that is targeting exhaled volumes
+
+1007
+01:00:48,500 --> 01:00:51,900
+and going to deliver pressures to hit that exhaled volume.
+
+1008
+01:00:51,900 --> 01:00:55,740
+So leaks will work against you if you're not able to recognize them.
+
+1009
+01:00:55,740 --> 01:00:59,060
+And it's a very easy thing to see and to be able to then act on.
+
+1010
+01:00:59,060 --> 01:01:00,060
+Yeah.
+
+1011
+01:01:00,060 --> 01:01:05,700
+I think the only exception in terms of ventilators that we still see out there that don't have
+
+1012
+01:01:05,700 --> 01:01:12,020
+a flow sensor to measure an exhaled volume would be the, what's the new name for the
+
+1013
+01:01:12,020 --> 01:01:15,780
+ZOEMV or the old Eagle Med.
+
+1014
+01:01:15,780 --> 01:01:20,020
+Those ones don't have a sensor to measure like exhaled flow.
+
+1015
+01:01:20,020 --> 01:01:23,660
+But those are mostly getting phased out, but we still see them sometimes.
+
+1016
+01:01:23,660 --> 01:01:28,900
+Well, and hey, not knocking events that don't have a proximal flow sensor at the patient,
+
+1017
+01:01:28,900 --> 01:01:30,380
+I've used with many of them.
+
+1018
+01:01:30,380 --> 01:01:35,660
+And like my absolute favorite ventilator I've ever used, RIP PB840, I loved you.
+
+1019
+01:01:36,100 --> 01:01:40,700
+Did not have a flow sensor at the patient and it read the volumes back at the vent and
+
+1020
+01:01:40,700 --> 01:01:42,180
+that vent was brilliant.
+
+1021
+01:01:42,180 --> 01:01:43,500
+I loved it so much.
+
+1022
+01:01:43,500 --> 01:01:44,500
+It's gone now.
+
+1023
+01:01:44,500 --> 01:01:50,900
+I'm still crying about it, but the vents are still great, but they still are reading what's
+
+1024
+01:01:50,900 --> 01:01:55,220
+coming back to the machine to then tell you on that main screen.
+
+1025
+01:01:55,220 --> 01:01:58,420
+And I didn't get to my third thing, but to say really quickly is auto triggering.
+
+1026
+01:01:58,420 --> 01:02:01,660
+That's the other thing that everyone should be able to recognize in a waveform.
+
+1027
+01:02:01,660 --> 01:02:02,820
+Right on.
+
+1028
+01:02:02,820 --> 01:02:06,740
+And we'll direct everyone to your videos if they're not familiar with that.
+
+1029
+01:02:06,740 --> 01:02:10,020
+Yes, I go through all the different causes.
+
+1030
+01:02:10,020 --> 01:02:11,020
+Cool.
+
+1031
+01:02:11,020 --> 01:02:12,980
+How are we doing on time?
+
+1032
+01:02:12,980 --> 01:02:13,980
+Do you still have time?
+
+1033
+01:02:13,980 --> 01:02:14,980
+We got a hand for you.
+
+1034
+01:02:14,980 --> 01:02:15,980
+Yeah, why not?
+
+1035
+01:02:15,980 --> 01:02:16,980
+All right.
+
+1036
+01:02:16,980 --> 01:02:17,980
+Yeah.
+
+1037
+01:02:17,980 --> 01:02:22,140
+For troubleshooting, what are your thoughts on the dope mnemonic?
+
+1038
+01:02:22,140 --> 01:02:23,140
+I love it.
+
+1039
+01:02:23,140 --> 01:02:28,820
+I do suggest the dopes with the S's, as many S's as you can fit on the end.
+
+1040
+01:02:29,340 --> 01:02:36,300
+I think there is a lot of issues that come with ventilation when it comes to synchronizing.
+
+1041
+01:02:36,300 --> 01:02:39,060
+And I don't like the S being sedation.
+
+1042
+01:02:39,060 --> 01:02:41,500
+I like the S being synchronizing.
+
+1043
+01:02:41,500 --> 01:02:48,100
+If you have the ability to change your ventilation, even in micro amounts to make it more comfortable
+
+1044
+01:02:48,100 --> 01:02:55,660
+to mean less sedation, that is something that I would really strongly recommend for practitioners
+
+1045
+01:02:55,660 --> 01:02:59,340
+as the next frontier in their ventilation skills.
+
+1046
+01:02:59,340 --> 01:03:03,980
+It might not be your first level, but once you're comfortable where you are, then starting
+
+1047
+01:03:03,980 --> 01:03:09,940
+to learn about trying to look for those signs in the waveforms telling you your patient's
+
+1048
+01:03:09,940 --> 01:03:15,100
+uncomfortable, it'll mean less sedation, which will then mean a better blood pressure, which
+
+1049
+01:03:15,100 --> 01:03:18,860
+will then mean less inotropes or vasopressors.
+
+1050
+01:03:18,860 --> 01:03:23,420
+And it feeds into a much happier transport for you.
+
+1051
+01:03:23,420 --> 01:03:24,420
+Not just...
+
+1052
+01:03:24,420 --> 01:03:25,420
+Yeah.
+
+1053
+01:03:25,420 --> 01:03:32,260
+This is something that when I was putting the vent book together, a lot of how I talked
+
+1054
+01:03:32,260 --> 01:03:37,620
+about adjusting things on the ventilator for patient comfort was more of trying things
+
+1055
+01:03:37,620 --> 01:03:42,900
+and seeing if it works because this was before the Hamilton was readily available.
+
+1056
+01:03:42,900 --> 01:03:49,540
+So it's something I need to revisit how to present that idea now that you have data to
+
+1057
+01:03:49,540 --> 01:03:50,540
+look at.
+
+1058
+01:03:50,620 --> 01:03:57,260
+Whereas sometimes you have somebody who tolerates being in volume control, this is pre-Hamilton
+
+1059
+01:03:57,260 --> 01:04:01,180
+days just fine, and other patients, they're really uncomfortable on it, but you put them
+
+1060
+01:04:01,180 --> 01:04:04,620
+in pressure control and it works.
+
+1061
+01:04:04,620 --> 01:04:07,420
+Prior to waveforms or without waveforms, it's hard to...
+
+1062
+01:04:07,420 --> 01:04:11,460
+You're just guessing and trying different things, but I think now there's maybe a better
+
+1063
+01:04:11,460 --> 01:04:14,860
+way to present that where you're looking for specific things and making changes based on
+
+1064
+01:04:14,860 --> 01:04:21,860
+that, such as having a strategy for how you're adjusting your inventory time.
+
+1065
+01:04:21,860 --> 01:04:27,340
+Or yeah, that's something I need to maybe look back over on the next version, refine
+
+1066
+01:04:27,340 --> 01:04:28,340
+a little bit.
+
+1067
+01:04:28,340 --> 01:04:29,340
+Mm-hmm.
+
+1068
+01:04:29,340 --> 01:04:32,420
+Especially like almost everyone now is using the T1, so we have a lot more data than we
+
+1069
+01:04:32,420 --> 01:04:33,420
+did before.
+
+1070
+01:04:33,420 --> 01:04:34,420
+Yeah.
+
+1071
+01:04:34,420 --> 01:04:37,820
+And that frontier I think is such a...
+
+1072
+01:04:37,820 --> 01:04:40,100
+It is my favorite realm of ventilation.
+
+1073
+01:04:40,100 --> 01:04:46,380
+It's an area that I am still daily obsessed with and am reading about and feel like I
+
+1074
+01:04:46,380 --> 01:04:51,380
+am nowhere near the pinnacle of what I can possibly learn.
+
+1075
+01:04:51,380 --> 01:04:55,780
+And I do want to just encourage everybody that feels a bit overwhelmed that this was
+
+1076
+01:04:55,780 --> 01:04:59,900
+not stuff that was covered very well when I went to RT school.
+
+1077
+01:04:59,900 --> 01:05:03,100
+That was 18, 19, okay?
+
+1078
+01:05:03,100 --> 01:05:04,100
+Yeah.
+
+1079
+01:05:04,100 --> 01:05:10,060
+Almost 20 years ago that I started my RT school and that like vents were just starting to
+
+1080
+01:05:10,060 --> 01:05:11,540
+have waveforms.
+
+1081
+01:05:11,540 --> 01:05:16,700
+I was still working with ventilators in an ICU that did not have a screen that had numerics
+
+1082
+01:05:16,700 --> 01:05:20,060
+just like you would have seen in like the LTV that like spit out across the screen and
+
+1083
+01:05:20,060 --> 01:05:21,580
+you just scroll through.
+
+1084
+01:05:21,580 --> 01:05:26,660
+So waveforms were the next level and some vents had them, some did not.
+
+1085
+01:05:26,660 --> 01:05:30,800
+And then starting work and starting my clinical, yes, most vents did.
+
+1086
+01:05:30,800 --> 01:05:34,620
+But then it wasn't something that really was fit into the program very well.
+
+1087
+01:05:34,620 --> 01:05:38,500
+And I know a lot of RTs that are graduating, it's still something that they don't feel
+
+1088
+01:05:38,500 --> 01:05:40,420
+was covered as well.
+
+1089
+01:05:40,420 --> 01:05:42,780
+So it's something that a lot of RTs are still learning as well.
+
+1090
+01:05:42,780 --> 01:05:48,820
+So don't feel like it's scared too far too outside the realm of, you know, what you could
+
+1091
+01:05:48,820 --> 01:05:49,820
+know.
+
+1092
+01:05:49,820 --> 01:05:53,780
+It's not, it's actually once you understand what you're looking for and once you can recognize
+
+1093
+01:05:53,780 --> 01:06:00,140
+normal, that is where you start recognizing normal and then recognizing when something
+
+1094
+01:06:00,140 --> 01:06:02,660
+does not look normal.
+
+1095
+01:06:02,660 --> 01:06:04,100
+And then the rest is gravy.
+
+1096
+01:06:04,100 --> 01:06:09,300
+You just start to look at your patient and why would your flows go up or down?
+
+1097
+01:06:09,300 --> 01:06:10,500
+What could be happening?
+
+1098
+01:06:10,500 --> 01:06:12,340
+And then it all falls from there.
+
+1099
+01:06:12,340 --> 01:06:13,340
+Yeah.
+
+1100
+01:06:13,340 --> 01:06:15,340
+Yeah, it totally makes sense.
+
+1101
+01:06:15,340 --> 01:06:19,380
+I mean, same thing, like that's kind of how we, or at least when I was learning EKGs,
+
+1102
+01:06:19,380 --> 01:06:20,380
+we taught them the same way.
+
+1103
+01:06:20,380 --> 01:06:24,620
+Like you need to look at like do 12 leads on all your patients for the first year or
+
+1104
+01:06:24,620 --> 01:06:26,660
+two so you can like identify what's normal.
+
+1105
+01:06:26,660 --> 01:06:29,380
+Then when you see something funky, you may not know what it is, but you're like, okay,
+
+1106
+01:06:29,380 --> 01:06:32,660
+like I got to figure this out because like something is not normal.
+
+1107
+01:06:32,660 --> 01:06:33,660
+Yeah.
+
+1108
+01:06:34,220 --> 01:06:37,340
+I think that's a good approach.
+
+1109
+01:06:37,340 --> 01:06:40,580
+Just to loop back to the dope question, the reason I asked that question is because I
+
+1110
+01:06:40,580 --> 01:06:44,380
+tend to be like a anti-dope mnemonic person.
+
+1111
+01:06:44,380 --> 01:06:49,420
+I think I'm like anti-mnemonics in general because I think like a lot of times we have
+
+1112
+01:06:49,420 --> 01:06:54,980
+so many to remember and then, you know, like oftentimes you can like remember the letters
+
+1113
+01:06:54,980 --> 01:06:57,740
+but you don't actually like remember what they stand for.
+
+1114
+01:06:57,740 --> 01:07:01,900
+I think they can like, they can like hang you up a little bit.
+
+1115
+01:07:01,900 --> 01:07:09,500
+We also like, I have noticed in transport, we tend to like teach that the dope mnemonic
+
+1116
+01:07:09,500 --> 01:07:13,540
+addresses like all the possible problems you could run into with ventilation, which is
+
+1117
+01:07:13,540 --> 01:07:14,700
+definitely not true.
+
+1118
+01:07:14,700 --> 01:07:21,260
+So yeah, like I sometimes, I'm not convinced that it's like the best framework for like
+
+1119
+01:07:21,260 --> 01:07:25,140
+approaching problems, but I think like as long as you're aware of the limitations that
+
+1120
+01:07:25,140 --> 01:07:27,100
+everything is like totally fine to use.
+
+1121
+01:07:27,100 --> 01:07:35,340
+I just, yeah, I think we sometimes assume it is like a, yeah, an all descriptive like
+
+1122
+01:07:35,340 --> 01:07:38,900
+recipe for figuring out what's going on with the ventilator and it's not necessarily the
+
+1123
+01:07:38,900 --> 01:07:39,900
+case.
+
+1124
+01:07:39,900 --> 01:07:41,180
+I agree with you a hundred percent.
+
+1125
+01:07:41,180 --> 01:07:47,260
+Like, to be very transparent, the last time I actually thought about dopes in my actual
+
+1126
+01:07:47,260 --> 01:07:51,580
+practice, I don't even, I can't remember.
+
+1127
+01:07:51,580 --> 01:07:52,660
+I can't remember.
+
+1128
+01:07:52,660 --> 01:07:59,420
+And it's like now when I walk to a bedside, I am using my eyes, I am using my hands and
+
+1129
+01:07:59,420 --> 01:08:05,540
+I'm using like, I can, I can look in the waveform and know what's going on.
+
+1130
+01:08:05,540 --> 01:08:10,660
+Like pretty much if you show me a waveform, I can tell you what's wrong.
+
+1131
+01:08:10,660 --> 01:08:15,260
+Like the ventilator, like it's very easy to tell.
+
+1132
+01:08:15,260 --> 01:08:19,140
+I can feel the circuit and I, and I know whether I need to suction my patient.
+
+1133
+01:08:19,140 --> 01:08:23,380
+Like it's, I can look at my patient and how they're breathing and see the problem.
+
+1134
+01:08:23,380 --> 01:08:29,700
+So you, you evolve past that, but sometimes in a time of cognitive load, like having the
+
+1135
+01:08:29,700 --> 01:08:34,500
+dopes pneumonic to fall back on, especially if you're nearing your journey, I'll never
+
+1136
+01:08:34,500 --> 01:08:35,500
+knock it.
+
+1137
+01:08:35,500 --> 01:08:40,100
+Never, not once, because I think it will save a lot of people in a situation of like, I
+
+1138
+01:08:40,100 --> 01:08:41,420
+don't know what to do.
+
+1139
+01:08:41,420 --> 01:08:44,140
+Well, one of the S's is sedation.
+
+1140
+01:08:44,140 --> 01:08:45,780
+So I can't fix this.
+
+1141
+01:08:45,780 --> 01:08:47,060
+I don't know what's wrong.
+
+1142
+01:08:47,100 --> 01:08:51,100
+So okay, I guess we're at the point where we're calling for paralysis and extra and
+
+1143
+01:08:51,100 --> 01:08:53,700
+more sedation and that's okay.
+
+1144
+01:08:53,700 --> 01:08:57,620
+Like safety is paramount and we need to be safe for our patients.
+
+1145
+01:08:57,620 --> 01:09:00,860
+And if you don't know what's going on, disconnect and beg.
+
+1146
+01:09:00,860 --> 01:09:06,300
+If you can't fix the problem or, you know, it's not begging and it's the patient fighting,
+
+1147
+01:09:06,300 --> 01:09:10,460
+then there is always other things you can do in order to, to fix it.
+
+1148
+01:09:10,460 --> 01:09:11,460
+So I don't know.
+
+1149
+01:09:11,460 --> 01:09:13,900
+I think people do evolve past the pneumonics.
+
+1150
+01:09:13,900 --> 01:09:15,220
+I very much agree with you.
+
+1151
+01:09:15,220 --> 01:09:21,700
+And I think there is a point where it doesn't serve the purpose anymore, but I will never
+
+1152
+01:09:21,700 --> 01:09:24,620
+knock someone for needing it or needing to rely on it.
+
+1153
+01:09:24,620 --> 01:09:25,620
+Yeah, totally.
+
+1154
+01:09:25,620 --> 01:09:31,780
+Same thing like I don't, yeah, like in our EMT or like even first responder classes,
+
+1155
+01:09:31,780 --> 01:09:36,300
+we teach like this thing called decab, BTS, like all of the injuries you could see when
+
+1156
+01:09:36,300 --> 01:09:39,700
+they like doing your assessment, like everyone like memorized that, but eventually you get
+
+1157
+01:09:39,700 --> 01:09:43,260
+to a point where you like, you don't actually like need to rehearse them out loud every
+
+1158
+01:09:43,260 --> 01:09:46,020
+time you like assess a patient.
+
+1159
+01:09:46,020 --> 01:09:47,020
+Yes.
+
+1160
+01:09:47,020 --> 01:09:51,860
+Yeah, absolutely.
+
+1161
+01:09:51,860 --> 01:09:57,140
+You talked already about, you mentioned it twice, like paralysis and transport.
+
+1162
+01:09:57,140 --> 01:10:01,180
+I think that's worth like discussing a little bit more.
+
+1163
+01:10:01,180 --> 01:10:05,020
+I think there's generally like mixed opinions on this.
+
+1164
+01:10:05,020 --> 01:10:10,340
+One take is that we shouldn't paralyze our patients because we want to support spontaneous
+
+1165
+01:10:10,340 --> 01:10:15,780
+ventilation and there's like a whole bunch of advantages to that.
+
+1166
+01:10:15,780 --> 01:10:20,300
+And then the other side is that you are also responsible for keeping that tube where it
+
+1167
+01:10:20,300 --> 01:10:25,660
+belongs like in the correct spot and paralyzing them allows you to do that better.
+
+1168
+01:10:25,660 --> 01:10:29,020
+I was curious to know like your thoughts in transport or what your practice is when you
+
+1169
+01:10:29,020 --> 01:10:31,620
+were flying.
+
+1170
+01:10:31,620 --> 01:10:37,060
+I can count on less than three fingers how many patients that I personally paralyzed
+
+1171
+01:10:37,060 --> 01:10:41,140
+in transport.
+
+1172
+01:10:41,140 --> 01:10:46,940
+I do have to preface this with the fact that in my flight environment that I worked, we
+
+1173
+01:10:46,940 --> 01:10:54,740
+were like pre pre hospital flying up to remote communities that we did not do a lot of IFT
+
+1174
+01:10:54,740 --> 01:10:57,060
+transfers like from facility to facility.
+
+1175
+01:10:57,060 --> 01:11:00,580
+So I'm sure they're with doing inter-facility transports.
+
+1176
+01:11:00,580 --> 01:11:04,340
+I probably would have come across when patients who are already paralyzed or already further
+
+1177
+01:11:04,340 --> 01:11:08,580
+along in the course of their disease that they would have required paralysis.
+
+1178
+01:11:08,580 --> 01:11:13,180
+But of the patients that I transported and a lot of them vented for long periods like
+
+1179
+01:11:13,180 --> 01:11:18,020
+I always try to gently remind people like that some of the transports I did was upwards
+
+1180
+01:11:18,020 --> 01:11:20,340
+of greater than seven hours.
+
+1181
+01:11:20,340 --> 01:11:26,500
+I was flying insane distances and I didn't have to rely on that.
+
+1182
+01:11:26,500 --> 01:11:32,660
+I flew in a lot of extreme weather conditions and there were times that I had to give a
+
+1183
+01:11:32,660 --> 01:11:39,620
+lot of sedation or give a bolus but I tended not to fall on paralysis.
+
+1184
+01:11:39,620 --> 01:11:44,620
+Now again, I said this as well before but I'll say it again, I will never knock a provider
+
+1185
+01:11:44,620 --> 01:11:47,500
+for going to paralysis if there is a concern.
+
+1186
+01:11:47,500 --> 01:11:52,220
+There is a degree of comfort that I have with being able to recognize when a patient starts
+
+1187
+01:11:52,220 --> 01:11:53,540
+to rouse and wake up.
+
+1188
+01:11:53,540 --> 01:11:59,380
+I can see it in the ventilator in the waveform and I also always always always carried
+
+1189
+01:11:59,380 --> 01:12:06,300
+very, very easily accessible medications to deepen them and also predose them when
+
+1190
+01:12:06,300 --> 01:12:11,900
+it was coming to a situation about going into minus 80 degree wind chills which I would
+
+1191
+01:12:11,900 --> 01:12:13,140
+be exposing them to.
+
+1192
+01:12:13,140 --> 01:12:17,020
+So all this to say, not too many times I've done it in my practice.
+
+1193
+01:12:17,020 --> 01:12:22,560
+I don't think it's needed as much as it's done but again, if it comes down to safety
+
+1194
+01:12:22,560 --> 01:12:27,180
+as the need, I would never ever question a decision.
+
+1195
+01:12:27,940 --> 01:12:29,140
+Yeah, I'm kind of the same way.
+
+1196
+01:12:29,140 --> 01:12:32,340
+We like very rarely will paralyze a patient.
+
+1197
+01:12:32,340 --> 01:12:39,900
+But that said, I think there's like the maybe a misunderstanding that like paralyzing a
+
+1198
+01:12:39,900 --> 01:12:45,300
+patient is like dangerous for the patient and I think sometimes that maybe is like a
+
+1199
+01:12:45,300 --> 01:12:46,820
+little bit overblown.
+
+1200
+01:12:46,820 --> 01:12:51,500
+I think it's totally fine in most cases like if you paralyze a patient to get them through
+
+1201
+01:12:51,500 --> 01:12:55,220
+like a bumpy section of road or why you're like loading them.
+
+1202
+01:12:55,220 --> 01:13:01,980
+I think it's yeah, like in years past I would have maybe had like stronger opinions on
+
+1203
+01:13:01,980 --> 01:13:06,660
+that like, oh, like don't do that because we were like salvage whatever like spontaneous
+
+1204
+01:13:06,660 --> 01:13:07,660
+effort they have.
+
+1205
+01:13:07,660 --> 01:13:11,380
+But I think like with time I've kind of realized that like it's probably just fine.
+
+1206
+01:13:11,380 --> 01:13:16,620
+And I think the caveat I would say on the other end is like going back to the beginning
+
+1207
+01:13:16,620 --> 01:13:19,900
+when I talked about like my job as an RT is to get someone off of the ventilator as quick
+
+1208
+01:13:19,900 --> 01:13:21,380
+as possible.
+
+1209
+01:13:21,380 --> 01:13:24,660
+I really did fly by that mantra as well.
+
+1210
+01:13:24,660 --> 01:13:29,900
+And like the other side of dropping a patient off at a hospital is something that a lot
+
+1211
+01:13:29,900 --> 01:13:33,300
+of people in transport don't necessarily see.
+
+1212
+01:13:33,300 --> 01:13:37,540
+And I can I can truly say especially when receiving a patient from a critical care flight
+
+1213
+01:13:37,540 --> 01:13:40,420
+team, I'm not going to change their settings.
+
+1214
+01:13:40,420 --> 01:13:43,380
+I'm going to copy their settings, whatever they're on, and I'm going to put the patient
+
+1215
+01:13:43,380 --> 01:13:44,540
+on the same settings.
+
+1216
+01:13:44,540 --> 01:13:48,300
+And if they're paralyzed, that means they're on a control mode.
+
+1217
+01:13:48,300 --> 01:13:52,940
+And then by the time the nurses do the bed move and they get the patient settled and
+
+1218
+01:13:52,940 --> 01:13:57,300
+they get all the monitors on and I'm allowed to go back into the bedside to even get a
+
+1219
+01:13:57,300 --> 01:14:05,100
+gas or ask for a gas or have a gas drawn, most likely the actual timeline after the
+
+1220
+01:14:05,100 --> 01:14:09,780
+patient arrives in the hospital that they are going to have a vent change done is going
+
+1221
+01:14:09,780 --> 01:14:13,660
+to be at least four hours later, if not potentially a little longer.
+
+1222
+01:14:13,660 --> 01:14:17,060
+There are some hospitals that don't lean on nights and don't make changes on nights.
+
+1223
+01:14:17,140 --> 01:14:19,780
+Like I said, there's a whole range of things.
+
+1224
+01:14:19,780 --> 01:14:24,820
+So whatever length your transport was, if they were paralyzed, even with the paralysis
+
+1225
+01:14:24,820 --> 01:14:31,400
+waking up, if they turn the paralysis off and lighten them, it's going to be a lot longer
+
+1226
+01:14:31,400 --> 01:14:36,060
+clinically for that patient to be on a ventilator versus if they were in a control mode and
+
+1227
+01:14:36,060 --> 01:14:39,940
+breathing above and they got transferred over and that stimulation made them breathe a couple
+
+1228
+01:14:39,940 --> 01:14:43,980
+more points as an RT at the bedside, I might be like, I'm going to slip into pressure for
+
+1229
+01:14:43,980 --> 01:14:45,460
+it and see what they do.
+
+1230
+01:14:45,460 --> 01:14:50,860
+So that might then accelerate that patient by two, three days.
+
+1231
+01:14:50,860 --> 01:14:54,900
+Yeah, that's a significant time.
+
+1232
+01:14:54,900 --> 01:14:55,900
+Yeah.
+
+1233
+01:14:55,900 --> 01:14:58,180
+So is it harmful?
+
+1234
+01:14:58,180 --> 01:14:59,180
+No.
+
+1235
+01:14:59,180 --> 01:15:01,420
+Safety in transport is paramount and I agree with you.
+
+1236
+01:15:01,420 --> 01:15:05,980
+It's not going to hurt your patient to paralyze them and if it makes it safer, then absolutely
+
+1237
+01:15:05,980 --> 01:15:08,540
+do it 100%.
+
+1238
+01:15:08,540 --> 01:15:12,820
+But if it means getting that patient off the ventilator even one day sooner, that's something
+
+1239
+01:15:12,820 --> 01:15:13,820
+to think about.
+
+1240
+01:15:13,820 --> 01:15:14,820
+It's food for thought.
+
+1241
+01:15:14,820 --> 01:15:16,820
+It's a way to do it safely.
+
+1242
+01:15:16,820 --> 01:15:18,820
+Right on.
+
+1243
+01:15:18,820 --> 01:15:19,820
+Cool.
+
+1244
+01:15:19,820 --> 01:15:22,620
+I just had one other thing to chat about.
+
+1245
+01:15:22,620 --> 01:15:28,620
+What do you know about volumetric kibnography?
+
+1246
+01:15:28,620 --> 01:15:29,620
+Not a heck of a lot.
+
+1247
+01:15:29,620 --> 01:15:33,780
+You threw that question at the end and I was like, oh, like I'll be honest, but I like
+
+1248
+01:15:33,780 --> 01:15:34,780
+the question.
+
+1249
+01:15:34,780 --> 01:15:38,740
+I didn't tell you, I didn't want to talk about it because A, I think it's important to really
+
+1250
+01:15:38,740 --> 01:15:41,900
+stress the fact that I don't know everything.
+
+1251
+01:15:41,900 --> 01:15:46,020
+I read a little bit of the studies on it and I say it looks kind of cool.
+
+1252
+01:15:46,020 --> 01:15:47,020
+I'm intrigued.
+
+1253
+01:15:47,020 --> 01:15:48,020
+I'm interested.
+
+1254
+01:15:48,020 --> 01:15:55,500
+I'd like to see more and probably get my hands on it and play with it a bit.
+
+1255
+01:15:55,500 --> 01:15:57,860
+Have you had a chance to use it?
+
+1256
+01:15:57,860 --> 01:16:00,900
+I only have read about it.
+
+1257
+01:16:00,900 --> 01:16:04,860
+But I have a, my understanding of the tech, and I guess maybe we can give a little bit
+
+1258
+01:16:04,860 --> 01:16:10,180
+of background, but the idea here is that you can measure the quantity of CO2 that is exhaled
+
+1259
+01:16:10,180 --> 01:16:15,540
+instead of the way we do kibnography, you're just measuring like a peak concentration.
+
+1260
+01:16:15,540 --> 01:16:20,860
+You could actually measure in milliliters or liters how much oxygen is being exhaled
+
+1261
+01:16:20,860 --> 01:16:23,660
+with a breath or over a given amount of time.
+
+1262
+01:16:23,660 --> 01:16:26,500
+I think the advantage, if I recall right, it's been a while since I looked into this,
+
+1263
+01:16:26,500 --> 01:16:36,380
+is that it would allow you to accurately measure what the patient's dead space is.
+
+1264
+01:16:36,380 --> 01:16:41,940
+And I think that provides a lot of value because dead space is kind of this elusive,
+
+1265
+01:16:41,940 --> 01:16:49,500
+complicated idea that makes mechanical ventilation really intimidating for a lot of people.
+
+1266
+01:16:49,500 --> 01:16:55,720
+But I think we tend to overthink the problem.
+
+1267
+01:16:55,720 --> 01:17:00,100
+There are some things we can do in transport or even at bedside to minimize the effect.
+
+1268
+01:17:00,100 --> 01:17:03,140
+And after that, that's kind of what we can do.
+
+1269
+01:17:03,140 --> 01:17:07,380
+But I think being able to see it in real time, like when you pop whatever little gadget
+
+1270
+01:17:07,380 --> 01:17:11,020
+you have in the vent circuit out and see how it changes, I think something like that would
+
+1271
+01:17:11,020 --> 01:17:15,900
+be highly advantageous, even if you didn't have it on all the patients you're ventilating,
+
+1272
+01:17:15,900 --> 01:17:20,460
+but if it was available in sim labs or even on non-invasive so you can demonstrate to
+
+1273
+01:17:20,460 --> 01:17:21,700
+somebody.
+
+1274
+01:17:21,700 --> 01:17:27,700
+I think that technology would be really good for learning and teaching, even if you didn't
+
+1275
+01:17:27,700 --> 01:17:30,380
+have it for every patient.
+
+1276
+01:17:30,380 --> 01:17:34,860
+I think it would really help give a number to those people that need numbers in order
+
+1277
+01:17:34,860 --> 01:17:44,860
+to have them start to flex their targets when it comes to ventilation and really drive home
+
+1278
+01:17:44,860 --> 01:17:50,940
+the point that sometimes a slightly larger breath and a slightly lower rate is more effective.
+
+1279
+01:17:50,940 --> 01:17:56,460
+And if you look at the math, it makes sense that you are actually clearing CO2 at a better
+
+1280
+01:17:56,460 --> 01:17:58,500
+rate.
+
+1281
+01:17:58,500 --> 01:18:02,820
+So I think it would help for those people that struggle with that, that don't understand,
+
+1282
+01:18:02,820 --> 01:18:06,380
+I don't understand, I'm increasing my respiratory rate and my CO2s aren't coming down.
+
+1283
+01:18:06,380 --> 01:18:07,380
+Why not?
+
+1284
+01:18:07,380 --> 01:18:12,020
+And it's like, because you're barely changing anything because the volumes you're giving
+
+1285
+01:18:12,020 --> 01:18:15,340
+are barely clearing dead space.
+
+1286
+01:18:15,340 --> 01:18:17,420
+So it would help.
+
+1287
+01:18:17,420 --> 01:18:24,380
+I think the thing that also gives you that value already and not a quantifiable, not
+
+1288
+01:18:24,380 --> 01:18:28,860
+like a number that you can actually look at and hold in your hands tangibly and say,
+
+1289
+01:18:28,860 --> 01:18:30,460
+this is how much of my volume is getting in.
+
+1290
+01:18:30,460 --> 01:18:34,540
+But when you correlate your gases to your end title, you're already really looking at
+
+1291
+01:18:34,540 --> 01:18:40,580
+that relationship and seeing how much of an issue you have in VQ matching.
+
+1292
+01:18:40,580 --> 01:18:45,180
+And that then can lead you down the path of can we optimize this in any way?
+
+1293
+01:18:45,180 --> 01:18:47,100
+And can we improve?
+
+1294
+01:18:47,100 --> 01:18:50,580
+And then kind of lead you down the path of is people going to work in our favor or not
+
+1295
+01:18:50,580 --> 01:18:53,020
+using physiology as your grounding.
+
+1296
+01:18:53,020 --> 01:18:56,580
+But I like the idea of a number for those people that need it in order to be able to
+
+1297
+01:18:56,580 --> 01:18:59,100
+start to ventilate more effectively.
+
+1298
+01:18:59,100 --> 01:19:00,100
+Yeah.
+
+1299
+01:19:00,100 --> 01:19:03,460
+And I think the point you make about gases definitely makes sense.
+
+1300
+01:19:03,460 --> 01:19:09,820
+But in transport, we oftentimes, we don't have that or we have like a single data point,
+
+1301
+01:19:09,820 --> 01:19:16,020
+like even places that are doing gases, they will do one, maybe like a second one on arrival.
+
+1302
+01:19:16,020 --> 01:19:20,460
+But in the hospital setting, you can get those every four hours for like, you might have
+
+1303
+01:19:20,460 --> 01:19:24,700
+the same vented patient for like three days, you can like trend it and see how it goes.
+
+1304
+01:19:24,700 --> 01:19:28,260
+That's something that like a lot of folks in transport just like never have had access
+
+1305
+01:19:28,260 --> 01:19:29,260
+to.
+
+1306
+01:19:29,260 --> 01:19:34,860
+They just can't take out of our, yeah, not really out of our, I don't know what it is.
+
+1307
+01:19:34,860 --> 01:19:38,500
+We just don't see patients for that period of time, like you're not able to appreciate
+
+1308
+01:19:38,500 --> 01:19:40,540
+those trends.
+
+1309
+01:19:40,540 --> 01:19:43,980
+But something like being able to like, yeah, like eventually, I think the tech will be
+
+1310
+01:19:43,980 --> 01:19:49,140
+there where you just like your end title detector on your monitor will like measure that cap
+
+1311
+01:19:49,140 --> 01:19:55,020
+nography like in terms of a volume, not just like a single number.
+
+1312
+01:19:55,020 --> 01:19:57,020
+I imagine that will exist.
+
+1313
+01:19:57,020 --> 01:20:01,820
+I think the dead space specifically is going to be like a benefit.
+
+1314
+01:20:01,820 --> 01:20:04,620
+I really do.
+
+1315
+01:20:04,620 --> 01:20:11,460
+I think I do want to see it a bit more in use and like maybe studied against like those
+
+1316
+01:20:11,460 --> 01:20:13,460
+patients where we're using blood gases.
+
+1317
+01:20:13,460 --> 01:20:18,860
+I would love to see the value of having every service that has ventilators have a point
+
+1318
+01:20:18,860 --> 01:20:23,980
+of care machine because I think there is value in actually targeting and chasing the
+
+1319
+01:20:23,980 --> 01:20:29,300
+number that you should be chasing instead of a bad reflection that sometimes doesn't
+
+1320
+01:20:29,300 --> 01:20:32,540
+even reflect the thing you should be chasing.
+
+1321
+01:20:32,540 --> 01:20:39,060
+So like at the end of the day, pH is what we want, not PCO2 and not end title CO2.
+
+1322
+01:20:39,060 --> 01:20:40,660
+Like pH is where we want to be.
+
+1323
+01:20:40,660 --> 01:20:46,020
+And if you don't know what core, what compensation your patient has and what process like you
+
+1324
+01:20:46,020 --> 01:20:50,260
+could be chasing a completely different animal.
+
+1325
+01:20:50,260 --> 01:20:56,220
+And so I think like I would love to throw my support behind something like that.
+
+1326
+01:20:56,220 --> 01:20:57,700
+And yes, the machines are finicky.
+
+1327
+01:20:57,700 --> 01:20:58,900
+I stat versus epoch.
+
+1328
+01:20:58,900 --> 01:21:02,500
+I've used them both and both have their drawbacks.
+
+1329
+01:21:02,500 --> 01:21:09,820
+But like it's still such that the value you get back is so high.
+
+1330
+01:21:09,820 --> 01:21:11,300
+So that's kind of my stance.
+
+1331
+01:21:11,300 --> 01:21:15,020
+I'm not, but I'm curious to see where the volumetric and title goes.
+
+1332
+01:21:15,020 --> 01:21:19,040
+And I think even for places that don't like carry their own ice stats, like a lot of
+
+1333
+01:21:19,040 --> 01:21:25,940
+hospitals now like have like point of care tests like in the ICUs or in the EOS.
+
+1334
+01:21:25,940 --> 01:21:27,700
+Yeah, like a gem.
+
+1335
+01:21:27,700 --> 01:21:33,780
+So even if it's not like part of your like programs capabilities, you can still like
+
+1336
+01:21:33,780 --> 01:21:36,140
+they're going to run a gem as soon as that patient gets set up.
+
+1337
+01:21:36,140 --> 01:21:38,980
+So just like hanging around for 15 minutes and like take a look at it.
+
+1338
+01:21:38,980 --> 01:21:42,860
+And then you can like get an idea like, yeah, it's like ventilating my patient to this like
+
+1339
+01:21:42,860 --> 01:21:44,940
+glow and title.
+
+1340
+01:21:44,940 --> 01:21:49,980
+And then I like look at their gas and they actually like, oh man, they're like pH like
+
+1341
+01:21:49,980 --> 01:21:50,980
+got worse.
+
+1342
+01:21:50,980 --> 01:21:53,020
+Like maybe I should have ventilated them to like a lower goal.
+
+1343
+01:21:53,020 --> 01:21:59,020
+You know, you didn't like adjust your strategy a little bit just without like receiving hospitals
+
+1344
+01:21:59,020 --> 01:22:00,020
+data point.
+
+1345
+01:22:00,020 --> 01:22:04,060
+It's not part of like your like what you're doing clinically.
+
+1346
+01:22:04,060 --> 01:22:06,140
+Yeah, absolutely.
+
+1347
+01:22:06,140 --> 01:22:08,780
+It changes changes what you're targeting for sure.
+
+1348
+01:22:08,780 --> 01:22:09,780
+Yeah.
+
+1349
+01:22:09,780 --> 01:22:10,780
+Yeah.
+
+1350
+01:22:10,780 --> 01:22:11,780
+Cool.
+
+1351
+01:22:11,780 --> 01:22:15,700
+So one of my questions is there anything else that you wanted to mention or that you?
+
+1352
+01:22:15,700 --> 01:22:20,020
+Honestly, like I feel like we could talk all day.
+
+1353
+01:22:20,020 --> 01:22:23,500
+Like there's there's so many things and I think this was a this was fun.
+
+1354
+01:22:23,500 --> 01:22:26,980
+Like we had some tech issues in the beginning, but it was it was a lot of fun.
+
+1355
+01:22:26,980 --> 01:22:27,980
+We figured it out.
+
+1356
+01:22:27,980 --> 01:22:28,980
+We did.
+
+1357
+01:22:28,980 --> 01:22:34,020
+And I feel like I don't know enough about you Ryan, but I feel like I won't bore your
+
+1358
+01:22:34,020 --> 01:22:36,460
+for the podcast with asking you questions about you.
+
+1359
+01:22:36,460 --> 01:22:38,940
+Instead, I'll just bunny you on Instagram.
+
+1360
+01:22:38,940 --> 01:22:41,860
+But I for everyone just that's listening.
+
+1361
+01:22:41,860 --> 01:22:46,940
+If you want to follow me, if you're interested in hearing more and like feel free.
+
+1362
+01:22:46,940 --> 01:22:53,900
+I love being a resource and you can find me on melody Bishop underscore RT.
+
+1363
+01:22:53,900 --> 01:22:58,380
+But otherwise just to that because she puts up with all my questions.
+
+1364
+01:22:58,380 --> 01:22:59,380
+I really do.
+
+1365
+01:22:59,380 --> 01:23:04,900
+Like I just I want to be a friendly neighborhood RT that people aren't scared of asking anything
+
+1366
+01:23:04,900 --> 01:23:08,380
+that they think is a stupid question, but I can guarantee you it isn't stupid because
+
+1367
+01:23:08,380 --> 01:23:12,180
+I've asked way stupider ones in my in my life.
+
+1368
+01:23:12,180 --> 01:23:18,500
+So it is I just want to be an easily accessible and friendly person that you'll never feel
+
+1369
+01:23:18,500 --> 01:23:21,060
+stupid to reach out to.
+
+1370
+01:23:21,060 --> 01:23:22,060
+Awesome.
+
+1371
+01:23:22,060 --> 01:23:24,780
+Well, we appreciate that.
+
+1372
+01:23:24,780 --> 01:23:26,420
+And that's pretty much it.
+
+1373
+01:23:26,420 --> 01:23:27,420
+Thanks for tuning in.
+
+1374
+01:23:27,420 --> 01:23:31,660
+But real quick before we go, just a few shout outs.
+
+1375
+01:23:31,660 --> 01:23:33,480
+First is to pragmatic paramedics.
+
+1376
+01:23:33,480 --> 01:23:36,740
+Another awesome podcast that we highly recommend.
+
+1377
+01:23:36,740 --> 01:23:40,060
+Next is to the St. Fisher Church of evidence based medicine.
+
+1378
+01:23:40,060 --> 01:23:43,300
+If you don't follow them already, definitely check them out.
+
+1379
+01:23:43,300 --> 01:23:48,080
+These guys, both pragmatic paramedics and the St. Fisher folks have been instrumental
+
+1380
+01:23:48,080 --> 01:23:51,940
+in getting our stuff out there into the world and we truly appreciate that.
+
+1381
+01:23:51,940 --> 01:23:56,020
+And then we'll end things with a shout out to my good friend, Josh Pittman and his buddy,
+
+1382
+01:23:56,020 --> 01:23:57,340
+Kevin Pons.
+
+1383
+01:23:57,340 --> 01:23:59,500
+They put the music together for the show.
+
+1384
+01:23:59,500 --> 01:24:29,340
+Until next time.
