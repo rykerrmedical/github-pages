@@ -5,6 +5,19 @@ Edit the values below to fit your setup. Nothing here needs an API key —
 everything runs locally.
 """
 
+import socket
+
+# Ryan's call, 2026-09-30: a CI run hung for 3+ hours on the Whisper
+# model checkpoint download -- openai-whisper's own downloader uses
+# urllib.request.urlopen() with no timeout at all, so when the transfer
+# stalls right at the end instead of cleanly closing, the read() call
+# waiting for EOF blocks forever. This has nothing to do with
+# REQUEST_TIMEOUT_SECONDS below, which only covers our own requests.*
+# calls. Setting a global socket default here means anything that
+# doesn't pass its own timeout -- including that urllib call -- falls
+# back to this instead of hanging indefinitely.
+socket.setdefaulttimeout(300)
+
 # Sites to crawl. Each entry is a base URL; the crawler will try
 # <base>/sitemap.xml first and fall back to a same-domain link crawl.
 #

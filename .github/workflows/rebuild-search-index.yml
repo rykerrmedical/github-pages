@@ -76,6 +76,7 @@ jobs:
 
       - name: Build index
         working-directory: search-indexer
+        timeout-minutes: 180
         run: python build_index.py
 
       # See build_tier3_index.py's docstring: WikEM and Deranged Physiology
