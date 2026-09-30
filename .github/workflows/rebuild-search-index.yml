@@ -38,6 +38,9 @@ jobs:
         working-directory: search-indexer
         run: pip install -r requirements.txt
 
+      - name: Install ffmpeg (required by Whisper for podcast transcription)
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Set up deploy SSH key
         env:
           SSH_KEY: ${{ secrets.RYKERR_DEPLOY_SSH_KEY }}
