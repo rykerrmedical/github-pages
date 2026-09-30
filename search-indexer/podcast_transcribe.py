@@ -174,6 +174,24 @@ def _process_episode(conn, ep, force_substr, stats):
     finally:
         os.unlink(audio_path)
 
+    # Ryan's call, 2026-09-29: every episode opens with the same fixed
+    # ~75s intro bumper spliced onto the audio (same clip, every time,
+    # confirmed never varies) -- a real search-quality problem, not
+    # just a display nuisance: read verbatim on every episode, it's
+    # near-identical content competing for relevance on every query,
+    # and because it uses broad domain vocabulary ("emergency,
+    # transport, and critical care medicine") without being specific
+    # to any one episode's actual topic, it can outscore genuinely
+    # on-topic content deeper in the episode -- especially with a
+    # narrower rerank pool giving the real answer less of a chance to
+    # be rescued. Dropped here, BEFORE group_segments() windows them,
+    # rather than just blanking the first chunk's locator afterward --
+    # this way the intro can never become a searchable/matchable chunk
+    # at all, and whatever real content follows gets a clean first
+    # chunk starting at its own true timestamp instead of being merged
+    # with intro text.
+    segments = [s for s in segments if s[0] >= config.PODCAST_INTRO_DURATION_SECONDS]
+
     if not segments:
         print(f"  ! no speech detected in {ep['title']!r}, skipping")
         return

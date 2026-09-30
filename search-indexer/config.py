@@ -268,3 +268,10 @@ YOUTUBE_PIPELINE_VERSION = 2
 # build_index.py runs from, same convention as OUTPUT_DB_PATH above.
 PODCAST_TRANSCRIPT_DIR = "transcripts/podcasts"
 YOUTUBE_TRANSCRIPT_DIR = "transcripts/youtube"
+
+# Ryan's call, 2026-09-29: every podcast episode opens with the exact
+# same fixed ~75s intro bumper (same audio clip, spliced onto every
+# episode, confirmed never varies) -- not specific to any one
+# episode's actual topic, so it should never become a searchable/
+# matchable chunk. See podcast_transcribe.py's segment filtering.
+PODCAST_INTRO_DURATION_SECONDS = 75
