@@ -31,9 +31,11 @@ First real use downloads its model file to a local cache
 """
 import hashlib
 import os
+import subprocess
 import tempfile
 import time
 
+import numpy as np
 import requests
 
 import config
@@ -127,14 +129,44 @@ def _download_audio(audio_url):
             return None
 
 
+def _decode_audio(audio_path, timeout=300):
+    """Decodes audio_path to a 16kHz mono float32 numpy array -- same
+    output openai-whisper's own internal load_audio() produces, except
+    with an actual timeout. Whisper shells out to ffmpeg itself with NO
+    timeout at all on that subprocess call, so one malformed/truncated
+    download can hang the whole job forever with zero error, zero log
+    line, nothing -- this is what silently hung CI for 3+ hours and then
+    again for over an hour on the very next run. Doing the decode here
+    ourselves and handing Whisper the already-decoded array (transcribe()
+    takes a numpy array exactly as well as a path) routes around
+    Whisper's own unprotected ffmpeg call entirely."""
+    cmd = [
+        "ffmpeg", "-nostdin", "-threads", "0",
+        "-i", audio_path,
+        "-f", "s16le", "-ac", "1", "-acodec", "pcm_s16le", "-ar", "16000",
+        "-",
+    ]
+    try:
+        proc = subprocess.run(cmd, capture_output=True, check=True, timeout=timeout)
+    except subprocess.TimeoutExpired:
+        raise RuntimeError(f"ffmpeg timed out decoding {audio_path!r} after {timeout}s")
+    except subprocess.CalledProcessError as e:
+        stderr = e.stderr.decode(errors="replace")[-500:] if e.stderr else ""
+        raise RuntimeError(f"ffmpeg failed decoding {audio_path!r}: {stderr}")
+    return np.frombuffer(proc.stdout, np.int16).flatten().astype(np.float32) / 32768.0
+
+
 def _transcribe(audio_path):
     """Returns [(start_seconds, end_seconds, text), ...] in order, text
     already stripped, empty segments dropped. fp16=False since this runs
     on CPU (openai-whisper defaults to fp16, which only helps on a GPU
     and prints a noisy warning + silently falls back on CPU anyway --
-    setting it explicitly just skips that)."""
+    setting it explicitly just skips that). Audio is decoded ourselves
+    first via _decode_audio rather than letting Whisper shell out to
+    ffmpeg with no timeout of its own -- see that function's docstring."""
     model = _get_model()
-    result = model.transcribe(audio_path, language="en", fp16=False)
+    audio = _decode_audio(audio_path)
+    result = model.transcribe(audio, language="en", fp16=False)
     return [
         (seg["start"], seg["end"], seg["text"].strip())
         for seg in result["segments"] if seg["text"].strip()
