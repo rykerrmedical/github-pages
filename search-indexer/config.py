@@ -5,7 +5,9 @@ Edit the values below to fit your setup. Nothing here needs an API key —
 everything runs locally.
 """
 
+import faulthandler
 import socket
+import sys
 
 # Ryan's call, 2026-09-30: a CI run hung for 3+ hours on the Whisper
 # model checkpoint download -- openai-whisper's own downloader uses
@@ -17,6 +19,18 @@ import socket
 # doesn't pass its own timeout -- including that urllib call -- falls
 # back to this instead of hanging indefinitely.
 socket.setdefaulttimeout(300)
+
+# Ryan's call, 2026-09-30 (cont'd): that fix, plus a follow-up one that
+# routed around Whisper's internal ffmpeg call too, still didn't stop
+# the exact same freeze from recurring at the exact same spot -- no
+# error, no new log line, for 20+ minutes, well past the 300s timeout
+# above. That means neither fix covers whatever's actually blocking
+# (DNS resolution is the next suspect -- Python's socket timeout does
+# not reliably cover it). Rather than guess a third time, this watchdog
+# dumps every thread's real stack trace to stderr every 2 minutes for
+# as long as the process runs. No effect on a normal run -- it only
+# reports. If it hangs again, the log will show exactly which line.
+faulthandler.dump_traceback_later(120, repeat=True, file=sys.stderr)
 
 # Sites to crawl. Each entry is a base URL; the crawler will try
 # <base>/sitemap.xml first and fall back to a same-domain link crawl.
