@@ -410,6 +410,12 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
     if not forced and _versioned(content_signal) == previous_signal:
         stats["unchanged"] += 1
         return
+    # Printed with flush=True and before the call, not after -- 2026-10-02,
+    # added to catch a real pymupdf segfault (not a Python exception, so
+    # the try/except in index_pdfs can't catch it and the whole process
+    # dies with no chance to flush normal buffered output). This is the
+    # only way to know which PDF it was.
+    print(f"  extracting {pdf_url} ...", flush=True)
     sections, citation_entries, total_pages = pdf_ingest.extract_pdf_pages(pdf_bytes, pdf_url)
 
     # Resolve and store this PDF's citation-blurb mentions regardless of

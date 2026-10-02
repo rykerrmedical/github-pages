@@ -278,20 +278,26 @@ def _is_tier2(m):
 def search(query_text, top_k=5, db_path=None, use_reranking=None, dedupe=True):
     """Mirrors server/retrieval.py's search() — two-stage retrieval (cheap
     cosine pool -> cross-encoder rerank) plus the same answer-priority
-    tiers: tier 1 (webpage/pdf — Ryan's own content) is searched and
-    reranked first; if its best result clears config.TIER1_GOOD_ENOUGH_SCORE,
-    it leads the results, trimmed to top_k. Otherwise the pool widens to
-    include tier 2 (citation blurbs) and reranks the combined set. Either
-    way, any tier-2 citation clearing the much higher
-    config.TIER2_BOOST_SCORE bar gets appended on top (up to
-    config.TIER2_BOOST_MAX), even when tier 1 already led — see
-    server/config.py for how both thresholds were calibrated against
-    real queries.
+    tiers: tier 1 (webpage/pdf — Ryan's own content) and tier 2 (citation
+    blurbs) are each reranked independently, then filtered to
+    config.MIN_DISPLAY_SCORE.
+
+    Ryan's call, 2026-10-02 (interim, while he works out a fuller
+    score-margin design): config.TIER1_RESERVED_SLOTS of tier 1's own
+    best results are shown unconditionally, regardless of how they'd
+    otherwise compare to tier 2. The rest of top_k is then filled with
+    whichever remaining results (from EITHER tier) score best overall,
+    so tier 2 can fill every remaining slot when tier 1 doesn't have
+    enough good content, rather than being capped by a fixed count.
+    This always returns at most top_k results. config.TIER1_GOOD_ENOUGH_SCORE
+    /TIER2_BOOST_SCORE/TIER2_BOOST_MAX still exist in config.py (real
+    calibration data, possibly reused later) but nothing here reads
+    them right now — see server/retrieval.py for the full note.
 
     dedupe=False (the CLI's --no-dedupe) skips collapsing same-citation
     chunks, for eyeballing the raw ranking — see server/retrieval.py for
     why this can't just re-sort by score afterwards without breaking the
-    tier-1-leads positioning.
+    tier-1-reserved positioning.
 
     Before embedding, the query is run through query_expansion.expand_query
     so domain acronyms (ARDS, COPD, etc.) also match chunks that only use
@@ -321,26 +327,36 @@ def search(query_text, top_k=5, db_path=None, use_reranking=None, dedupe=True):
     tier2_idx = [i for i, m in enumerate(metas) if _is_tier2(m)]
     tier2_ranked = _rerank_pool(expanded_query, metas, scores, tier2_idx, pool_size, dedupe)
 
-    if tier1_ranked and tier1_ranked[0]["rerank_score"] >= config.TIER1_GOOD_ENOUGH_SCORE:
-        results = tier1_ranked[:top_k]
-    else:
-        combined_idx = tier1_idx + tier2_idx
-        results = _rerank_pool(expanded_query, metas, scores, combined_idx, pool_size, dedupe)[:top_k]
+    # Individual-result floor applied to each tier's own pool up front
+    # (config.MIN_DISPLAY_SCORE) -- see server/retrieval.py's docstring.
+    tier1_ranked = [r for r in tier1_ranked if r["rerank_score"] >= config.MIN_DISPLAY_SCORE]
+    tier2_ranked = [r for r in tier2_ranked if r["rerank_score"] >= config.MIN_DISPLAY_SCORE]
 
-    seen = {(r["source_id"], r["locator"]) for r in results}
-    boosted = 0
-    for hit in tier2_ranked:
-        if hit["rerank_score"] < config.TIER2_BOOST_SCORE:
+    # See docstring (config.TIER1_RESERVED_SLOTS). Reserve tier 1's own
+    # best first, unconditionally; fill whatever's left of top_k with
+    # the best remaining results from either tier, by score.
+    reserved = tier1_ranked[: config.TIER1_RESERVED_SLOTS]
+    seen = {(r["source_id"], r["locator"]) for r in reserved}
+
+    rest = sorted(
+        (
+            r
+            for r in tier1_ranked[config.TIER1_RESERVED_SLOTS :] + tier2_ranked
+            if (r["source_id"], r["locator"]) not in seen
+        ),
+        key=lambda r: r["rerank_score"],
+        reverse=True,
+    )
+
+    results = list(reserved)
+    for r in rest:
+        if len(results) >= top_k:
             break
-        key = (hit["source_id"], hit["locator"])
+        key = (r["source_id"], r["locator"])
         if key in seen:
             continue
-        hit = dict(hit, boosted=True)
-        results.append(hit)
+        results.append(r)
         seen.add(key)
-        boosted += 1
-        if boosted >= config.TIER2_BOOST_MAX:
-            break
 
     if dedupe:
         results = _demote_pointer_mentions(results)

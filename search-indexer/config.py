@@ -176,6 +176,14 @@ TIER2_SOURCE_TYPES = {"citation"}
 TIER1_GOOD_ENOUGH_SCORE = 2.0
 TIER2_BOOST_SCORE = 4.0
 TIER2_BOOST_MAX = 2
+# Added 2026-10-02 -- confirmed missing from this file despite
+# query_test.py's search() needing it (a real drift, same class as the
+# RERANK_CANDIDATE_POOL mismatch already on record). Mirrors
+# server/config.py's value.
+MIN_DISPLAY_SCORE = -3.0
+# Ryan's call, 2026-10-02 (interim design -- see server/config.py for
+# the full note). Mirrors server/config.py's value.
+TIER1_RESERVED_SLOTS = 2
 
 # --- Blog tags (front matter) ---
 # Where to look for Jekyll post source files (named YYYY-MM-DD-slug.md,
