@@ -208,24 +208,12 @@ def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None, 
             forced = force_substr is not None and (
                 force_substr in url.lower() or force_substr in page["title"].lower()
             )
-            # Signal has to cover everything that can change what gets
-            # embedded now that a page is title + blurb + structured
-            # blocks rather than one flat text field — a blurb edit or a
-            # heading change with the same body prose underneath should
-            # still trigger a re-embed.
-            content_repr = "\x1e".join([
-                page["title"], page["blurb"] or "",
-                *(f"{b['heading_path'] or ''}\x1f{b['text']}" for b in page["blocks"]),
-            ])
-            content_signal = _hash_text(content_repr)
-            if not forced and store.get_source_signal(conn, url) == content_signal:
-                stats["unchanged"] += 1
-                continue
-
-            pieces = chunker.chunk_structured_text(page["title"], page["blurb"], page["blocks"])
-            if not pieces:
-                continue
-
+            # Tags computed before the content signal (not after, as
+            # before 2026-10-02) because tags are now embedded as part of
+            # the chunk text (see chunker.py) -- a tag-only edit has to
+            # change the signal too, or the incremental-rebuild skip
+            # below would leave the old, untagged embedding in place
+            # until something else about the page happened to change.
             fm_tags = frontmatter_tags.match_tags_for_page(post_index, url, page["title"])
             if fm_tags:
                 page_tags = fm_tags
@@ -237,6 +225,26 @@ def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None, 
                 page_tags = tags_module.extract_tags(html)
             if page_tags:
                 stats["with_tags"] += 1
+
+            # Signal has to cover everything that can change what gets
+            # embedded now that a page is title + tags + blurb +
+            # structured blocks rather than one flat text field — a
+            # blurb edit, a tag edit, or a heading change with the same
+            # body prose underneath should all still trigger a re-embed.
+            content_repr = "\x1e".join([
+                page["title"], "\x1f".join(sorted(page_tags or [])), page["blurb"] or "",
+                *(f"{b['heading_path'] or ''}\x1f{b['text']}" for b in page["blocks"]),
+            ])
+            content_signal = _hash_text(content_repr)
+            if not forced and store.get_source_signal(conn, url) == content_signal:
+                stats["unchanged"] += 1
+                continue
+
+            pieces = chunker.chunk_structured_text(
+                page["title"], page["blurb"], page["blocks"], tags=page_tags
+            )
+            if not pieces:
+                continue
 
             embeddings = embedder.embed_documents([p["text"] for p in pieces])
             chunk_rows = [

@@ -2,6 +2,7 @@
 title: Medication Guidelines
 layout: default
 permalink: /clinical-resources/medication-guidelines/
+tags: [pharmacology]
 ---
 
 # Medication Guidelines

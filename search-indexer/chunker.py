@@ -63,8 +63,17 @@ def chunk_text(text):
     return _word_windows(text)
 
 
-def chunk_structured_text(title, blurb, blocks):
+def chunk_structured_text(title, blurb, blocks, tags=None):
     """title: page/document title, always led with, in every chunk.
+    tags: optional list of topic tags (e.g. from frontmatter_tags.py),
+        led with as "[Tags: a, b, c]" right after the title -- added
+        2026-10-02 after confirming pages had real topical signal
+        (Jekyll front-matter tags, or the author's own site taxonomy)
+        that was captured and stored in the DB but never actually fed
+        into what gets embedded, so a query using the tag word itself
+        (e.g. "pharmacology") couldn't match a page that is clearly
+        about that topic but never uses the word in its own prose.
+        None/empty -- omitted entirely, same as blurb.
     blurb: short description, or None/empty -- omitted entirely when
         absent rather than embedding a blank line.
     blocks: [{"heading_path": str or None, "text": str, **extra}, ...],
@@ -88,6 +97,8 @@ def chunk_structured_text(title, blurb, blocks):
     of a long section.
     """
     lead_lines = [f"[{title}]"]
+    if tags:
+        lead_lines.append(f"[Tags: {', '.join(tags)}]")
     if blurb:
         lead_lines.append(blurb)
 

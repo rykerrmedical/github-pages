@@ -2,6 +2,7 @@
 title: Continuing Education
 layout: default
 permalink: /coned-ceus/
+tags: [education/ teaching, general information]
 ---
 
 # Continuing Education

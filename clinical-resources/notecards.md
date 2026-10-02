@@ -2,6 +2,7 @@
 title: Notecards
 layout: default
 permalink: /clinical-resources/notecards/
+tags: [education/ teaching, general information]
 ---
 
 # Notecards

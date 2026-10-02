@@ -2,6 +2,7 @@
 title: The Tech Side
 permalink: /the-tech-side/
 layout: default
+tags: [tech stuff]
 ---
 
 # The Tech Side

@@ -2,6 +2,7 @@
 title: Airway Stuff
 layout: default
 permalink: /clinical-resources/airway-stuff/
+tags: [airway, patient assessment]
 ---
 
 # Airway Stuff

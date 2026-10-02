@@ -2,6 +2,7 @@
 title: Protocols and Cheat Sheets
 layout: default
 permalink: /clinical-resources/protocols-and-cheat-sheets/
+tags: [pediatrics, obstetrics/ gynecology, patient assessment, general information]
 ---
 
 <style>

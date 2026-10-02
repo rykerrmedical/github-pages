@@ -34,9 +34,9 @@ _MEDICAL_SYNONYMS = {
     "DKA": ["diabetic ketoacidosis"],
     "PE": ["pulmonary embolism"],
     "DVT": ["deep vein thrombosis"],
-    "ETT": ["endotracheal tube"],
-    "ETI": ["endotracheal intubation"],
-    "RSI": ["rapid sequence intubation"],
+    "ETT": ["endotracheal tube", "airway"],
+    "ETI": ["endotracheal intubation", "airway"],
+    "RSI": ["rapid sequence intubation", "airway"],
     "GCS": ["Glasgow Coma Scale"],
     "ROSC": ["return of spontaneous circulation"],
     "TBI": ["traumatic brain injury"],
@@ -58,9 +58,9 @@ _MEDICAL_SYNONYMS = {
     "DIB": ["difficulty in breathing", "shortness of breath"],
     "POCUS": ["point of care ultrasound"],
     "IO": ["intraosseous"],
-    "OPA": ["oropharyngeal airway"],
-    "NPA": ["nasopharyngeal airway"],
-    "LMA": ["laryngeal mask airway"],
+    "OPA": ["oropharyngeal airway", "airway"],
+    "NPA": ["nasopharyngeal airway", "airway"],
+    "LMA": ["laryngeal mask airway", "airway"],
     "ACS": ["acute coronary syndrome"],
     # Shorthand for a WORD rather than a diagnosis/procedure name — the
     # gap Ryan flagged directly: "tx for a PE" should still find a
@@ -75,6 +75,28 @@ _MEDICAL_SYNONYMS = {
     "RX": ["prescription", "treatment"],
     "FX": ["fracture"],
     "ABX": ["antibiotics"],
+    # Reverse-direction entries, 2026-10-02: site content is now tagged
+    # with a plain canonical word (e.g. "pharmacology", "airway", "pocus"
+    # -- see chunker.py/build_index.py) and that word is embedded right
+    # into the chunk. These let someone searching a different, more
+    # natural phrasing for the same thing still reach it, the same idea
+    # as the acronym entries above but in the other direction (full word
+    # -> the tag's own word, not abbreviation -> spelled-out term).
+    "DRUG": ["pharmacology"],
+    "DRUGS": ["pharmacology"],
+    "MED": ["pharmacology"],
+    "MEDS": ["pharmacology"],
+    "MEDICATION": ["pharmacology"],
+    "MEDICATIONS": ["pharmacology"],
+    "FORMULARY": ["pharmacology"],
+    "INTUBATION": ["airway"],
+    "BOUGIE": ["airway"],
+    "LARYNGOSCOPY": ["airway"],
+    "ULTRASOUND": ["pocus", "point of care ultrasound"],
+    "SONOGRAPHY": ["pocus", "point of care ultrasound"],
+    # Deliberately no bare "US" entry -- too real a false-positive risk
+    # as the pronoun "us" (matching is case-insensitive, so "show us the
+    # guide" would otherwise trigger a POCUS expansion on "us" alone).
 }
 
 # built once at import time: {ACRONYM: compiled word-boundary regex}

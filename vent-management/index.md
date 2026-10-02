@@ -5,6 +5,7 @@ redirect_from:
   - /clinical-resources/vent-management/
 permalink: /vent-management/
 layout: default
+tags: [mechanical ventilation]
 ---
 
 # Vent Management Book

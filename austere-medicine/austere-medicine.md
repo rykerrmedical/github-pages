@@ -2,6 +2,7 @@
 title: Austere Medicine
 permalink: /austere-medicine/
 layout: default
+tags: [austere medicine, general information]
 ---
 
 <style>
