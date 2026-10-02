@@ -57,9 +57,24 @@ def _slugify(text):
 
 
 def find_post_files(repo_root="."):
-    """Walks repo_root for any *.md file matching Jekyll's required
-    post filename convention (YYYY-MM-DD-slug.md), regardless of which
-    directory it's in."""
+    """Walks repo_root for every *.md file, deriving a filename-based slug
+    for each -- the Jekyll post date prefix (YYYY-MM-DD-), if present, is
+    stripped; otherwise the bare filename stem is used as-is. Only files
+    that actually turn out to have non-empty `tags:` front matter are kept
+    by build_post_index() below, so including every .md file here (not
+    just dated posts) carries no real risk of false matches -- it just
+    means a plain static page's tags can be found the same way a post's
+    already were.
+
+    2026-10-02 fix: this used to require Jekyll's dated post filename
+    (YYYY-MM-DD-slug.md) to even look at a file, which meant it silently
+    never discovered tags on any static page (e.g.
+    clinical-resources/medication-guidelines.md) -- confirmed as the real
+    root cause of several pages' tags never making it into the live index
+    at all (via query_test.py --find "Tags: pharmacology" turning up
+    nothing anywhere in 14,325 chunks), despite the tags being correctly
+    present in front matter and chunker.py/build_index.py being correctly
+    wired to embed them."""
     root = Path(repo_root)
     found = []
     for path in root.rglob("*.md"):
@@ -67,7 +82,9 @@ def find_post_files(repo_root="."):
             continue
         m = POST_FILENAME_RE.match(path.name)
         if m:
-            found.append((path, m.group(2)))  # (path, raw-slug-from-filename)
+            found.append((path, m.group(2)))  # dated post: slug w/ date prefix stripped
+        else:
+            found.append((path, path.stem))   # static page: bare filename stem
     return found
 
 

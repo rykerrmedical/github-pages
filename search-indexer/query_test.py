@@ -246,6 +246,23 @@ def _group_by_source(hits):
     return out
 
 
+def _dedupe_to_one_per_source(ranked):
+    """Mirrors server/retrieval.py's _dedupe_to_one_per_source -- see
+    there for the full reasoning (2026-10-02: a tagged page's chunks all
+    carry that page's tag, so without this, one document's chunks could
+    crowd out distinct sources -- including burning both of
+    TIER1_RESERVED_SLOTS on itself -- for a tag-matching query)."""
+    seen = set()
+    out = []
+    for r in ranked:
+        key = r["source_id"]
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(r)
+    return out
+
+
 def _rerank_pool(query_text, metas, scores, allowed_idx, pool_size, dedupe):
     pool = _pool_by_cosine(scores, allowed_idx, pool_size)
     candidates = [{**metas[i], "score": float(scores[i])} for i in pool]
@@ -323,9 +340,15 @@ def search(query_text, top_k=5, db_path=None, use_reranking=None, dedupe=True):
 
     tier1_idx = [i for i, m in enumerate(metas) if _is_tier1(m)]
     tier1_ranked = _rerank_pool(expanded_query, metas, scores, tier1_idx, pool_size, dedupe)
-
     tier2_idx = [i for i, m in enumerate(metas) if _is_tier2(m)]
     tier2_ranked = _rerank_pool(expanded_query, metas, scores, tier2_idx, pool_size, dedupe)
+
+    # Mirrors server/retrieval.py's _dedupe_to_one_per_source -- skipped
+    # under --no-dedupe (dedupe=False) so that flag still shows the raw,
+    # undeduped ranking as documented.
+    if dedupe:
+        tier1_ranked = _dedupe_to_one_per_source(tier1_ranked)
+        tier2_ranked = _dedupe_to_one_per_source(tier2_ranked)
 
     # Individual-result floor applied to each tier's own pool up front
     # (config.MIN_DISPLAY_SCORE) -- see server/retrieval.py's docstring.
