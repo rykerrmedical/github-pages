@@ -803,6 +803,38 @@ def _is_meta_section_heading(heading_path):
     return last in _META_SECTION_HEADINGS
 
 
+# A table-of-contents or alphabetical/drug-name index page that ISN'T
+# caught by _is_meta_section_heading above, because its heading doesn't
+# literally say "Table of Contents" -- it's filed under something
+# generic like "Formulary" instead. Confirmed real, 2026-10-02: the
+# (H)EMS Drug Guide's garbled "pages 1-2" search result turned out to be
+# a drug-name index with dot-leader page numbers ("Nitroglycerin
+# ...................41"), nested under heading_path "Formulary" --
+# invisible to a heading-name check. Detects by CONTENT SHAPE instead,
+# same approach as _looks_like_references_page/_looks_like_changelog_page
+# above: a run of 2+ dot-leader groups immediately followed by a short
+# page number is the one shape a real TOC/index has that ordinary
+# instructional prose essentially never does (a plain decimal like
+# "3.14" only ever has ONE period, so it can't trip this).
+#
+# Spot-tested against the ENTIRE live index (7,725 PDF chunks, every
+# indexed PDF) before wiring this in: 17 chunks matched with >=3 hits,
+# across 4 different PDFs -- the Drug Guide (the original bug), two
+# Cochrane review papers' own literal "TABLE OF CONTENTS" pages
+# (Orotracheal intubation in infants..., Oxygen therapy for acute
+# myocardial infarction), and the Ketamine Metabolite Pharmacology
+# paper's academic section-outline TOC. Every one of the 17 was a real
+# true positive on manual inspection -- zero false positives anywhere
+# in the corpus at min_matches=3, which is why that's the threshold
+# used here (matches _looks_like_references_page/_looks_like_changelog_
+# page's own min_matches=3 default).
+_TOC_DOT_LEADER_RE = re.compile(r"(?:\.\s*){2,}\d{1,3}\b")
+
+
+def _looks_like_toc_page(text, min_matches=3):
+    return len(_TOC_DOT_LEADER_RE.findall(text)) >= min_matches
+
+
 def _strip_repeated_boilerplate(pages):
     """Catches the more generic case: a header/footer line (page number,
     site URL, doc title) that's byte-for-byte identical across most
@@ -1314,6 +1346,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     skipped_references = 0
     skipped_changelog = 0
     skipped_meta_section = 0
+    skipped_toc = 0
     current_h1 = None
     current_h2 = None
     for i, candidates, plain_text, page_links in raw_pages:
@@ -1364,6 +1397,9 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
         if _looks_like_changelog_page(text):
             skipped_changelog += 1
             continue
+        if _looks_like_toc_page(text):
+            skipped_toc += 1
+            continue
 
         kept_pages.append((i, heading_path, text))
 
@@ -1393,6 +1429,13 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
             f"  ! {pdf_url}: skipped {skipped_meta_section} page(s) headed \"Table of Contents\", "
             f"\"Summary of Changes\", or similar (pure navigation/bookkeeping, never a citable result — "
             f"see _is_meta_section_heading)"
+        )
+
+    if skipped_toc:
+        print(
+            f"  ! {pdf_url}: skipped {skipped_toc} page(s) that look like a table-of-contents or "
+            f"alphabetical/drug-name index (dot-leader page numbers, not instructional content — "
+            f"see _looks_like_toc_page)"
         )
 
     before_marker_cleanup = len(citations)
