@@ -86,7 +86,17 @@ jobs:
       # from a non-cloud IP occasionally and doing a one-off manual
       # upload — see DEPLOY.md. This step still runs every time so IBCC
       # stays fresh automatically.
-      - name: Build tier-3 local index (WikEM / Deranged Physiology / IBCC)
+      #
+      # LITFL joined this same local index 2026-10-02 (previously its
+      # own live search API, now needs a comparable title-match score
+      # for the priority-bonus ranking design — see tier3_sources.py).
+      # Whether GitHub's runner IPs are blocked by litfl.com too is NOT
+      # yet confirmed either way — _index_site leaves a site's existing
+      # rows untouched on a failed/empty discovery rather than wiping
+      # them, so this is safe to just let run and see: if it works here,
+      # LITFL gets free automatic refreshes same as IBCC; if not, it
+      # falls back to the same manual-run treatment as WikEM/DP below.
+      - name: Build tier-3 local index (WikEM / Deranged Physiology / LITFL / IBCC)
         working-directory: search-indexer
         run: python build_tier3_index.py
 

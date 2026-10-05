@@ -13,9 +13,16 @@ those only ever store short blurbs Ryan personally wrote about a cited
 work; this touches someone else's site directly, so it's scoped as
 narrowly as the source's own robots.txt allows.
 
-LITFL is deliberately NOT here — it has its own free, open live search
-API (litfl.com/wp-json/wp/v2/search), so there's nothing to pre-crawl or
-store for it; server/tier3.py calls that API directly at query time.
+LITFL moved IN here, 2026-10-02 (previously queried live via its own
+search API at query time -- see server/tier3.py's history): Ryan's
+priority-bonus scoring design needs every tier-3 site on the SAME
+comparable title-match score, and LITFL's live search API returns no
+score at all, only a bare top result -- it could never participate in
+that scoring. Turns out to be the EASIEST of the four to crawl, not the
+hardest: LITFL's own WordPress REST API (litfl.com/wp-json/wp/v2/posts)
+is a clean, intended, paginated listing of every real post with its
+title and link, no scraping workaround needed at all (unlike DP/WikEM
+below, whose own search is blocked to bots and had to be worked around).
 
 Each site's real, confirmed (2026-09-18, against the live sites) access
 rules:
@@ -196,6 +203,90 @@ def discover_deranged_physiology_titles():
     return [(_dp_title_from_url(u), u) for u in chapter_urls]
 
 
+# --- LITFL ---
+
+_LITFL_POSTS_API = "https://litfl.com/wp-json/wp/v2/posts"
+_LITFL_PER_PAGE = 100
+
+
+def discover_litfl_titles():
+    """Walks /wp-json/wp/v2/posts page by page -- a real, intended,
+    paginated API, so this just stops at the first page that comes back
+    shorter than a full page (the standard "that was the last page"
+    signal), no total-count header parsing needed. title.rendered comes
+    back as HTML (WordPress escapes entities like &#8217;), hence the
+    html.unescape()."""
+    import html as _html
+
+    titles = []
+    page = 1
+    while True:
+        resp = _get(f"{_LITFL_POSTS_API}?per_page={_LITFL_PER_PAGE}&page={page}&_fields=title,link")
+        if resp is None:
+            break
+        try:
+            posts = resp.json()
+        except ValueError:
+            print(f"  ! page {page}: couldn't parse JSON, stopping")
+            break
+        if not posts:
+            break
+        for post in posts:
+            title = _html.unescape((post.get("title") or {}).get("rendered", "")).strip()
+            link = post.get("link")
+            if title and link:
+                titles.append((title, link))
+        print(f"  page {page}: {len(posts)} post(s) (running total {len(titles)})")
+        if len(posts) < _LITFL_PER_PAGE:
+            break
+        page += 1
+
+    if not titles:
+        print("  LITFL's REST API gave nothing to a plain HTTP client (it sits behind bot "
+              "protection that only lets real browsers through) -- falling back to the "
+              "committed browser-collected snapshot instead")
+        titles = _load_litfl_snapshot()
+
+    print(f"LITFL: {len(titles)} unique real post(s) discovered")
+    return titles
+
+
+# Snapshot files collected by hand with a REAL browser (2026-10-03), because
+# litfl.com returns 403 to plain HTTP clients (curl/requests) -- even for
+# robots.txt, even with a browser User-Agent -- while serving every page and
+# its public REST API normally to a real browser. Each line: URL<TAB>title.
+# litfl_titles.tsv  = litfl.com via its own /wp-json/wp/v2/posts + /pages
+# partone_titles.tsv = partone.litfl.com (a separate static site, no API)
+_LITFL_SNAPSHOT_FILES = ["litfl_titles.tsv", "partone_titles.tsv"]
+
+
+def _load_litfl_snapshot():
+    import os
+
+    here = os.path.join(os.path.dirname(os.path.abspath(__file__)), "tier3_data")
+    seen = set()
+    out = []
+    for name in _LITFL_SNAPSHOT_FILES:
+        path = os.path.join(here, name)
+        if not os.path.exists(path):
+            print(f"  ! snapshot file missing: {path}")
+            continue
+        n_before = len(out)
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.rstrip("\n")
+                if not line or "\t" not in line:
+                    continue
+                url, title = line.split("\t", 1)
+                url, title = url.strip(), title.strip()
+                if not url or not title or url in seen:
+                    continue
+                seen.add(url)
+                out.append((title, url))
+        print(f"  snapshot {name}: {len(out) - n_before} title(s)")
+    return out
+
+
 # --- IBCC ---
 
 _IBCC_TOC = "https://emcrit.org/ibcc/toc/"
@@ -235,6 +326,10 @@ SITES = {
     "deranged_physiology": {
         "display_name": "Deranged Physiology",
         "discover": discover_deranged_physiology_titles,
+    },
+    "litfl": {
+        "display_name": "Life in the Fast Lane",
+        "discover": discover_litfl_titles,
     },
     "wikem": {
         "display_name": "WikEM",

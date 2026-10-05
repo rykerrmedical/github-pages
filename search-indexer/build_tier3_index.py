@@ -1,7 +1,8 @@
 """
-Builds/refreshes tier 3's local title index — Deranged Physiology, WikEM,
-and IBCC (see tier3_sources.py for what each site allows and why LITFL
-isn't here: it has its own live search API instead).
+Builds/refreshes tier 3's local title index — Deranged Physiology, LITFL,
+WikEM, and IBCC (see tier3_sources.py for what each site allows and,
+for LITFL, why it moved from a live-search-only call into this same
+local index on 2026-10-02).
 
 Deliberately SEPARATE from build_index.py's normal nightly run: these
 three sites' content doesn't change day to day the way Ryan's own site
