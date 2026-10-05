@@ -31,7 +31,7 @@ For comparison, the standard baby rigid stylet is normally 6F:
 
 Purported uses for the thing are for intubation and for tube exchange.  We’ll touch on both and then discuss opinions on it as a tool in general.
 
-###Intubation w/ the Neonatal Bougie
+### Intubation w/ the Neonatal Bougie
 
 The primary use for the bougie in adult patients is to facilitate intubation, whether it is used routinely or reserved for difficult airways.  The situation is a bit more nuanced in pediatric patients (see [the video](https://youtu.be/in8RQ8yzBU0-v2aL1INpPZ7z76N) we mentioned at the start) and then even more so for neonates.  The bougie is NOT often used for intubation in infants and neonates (rather, it is more commonly used for tube exchange - more on that shortly).
 
@@ -84,7 +84,7 @@ And then for another take on neonatal intubation and use of the bougie, [refer t
 
 (just know that it was made by and is hosted on the website of the people that make one of these neonatal bougies…)
 
-###Tube Exchange w/ the Neonatal Bougie
+### Tube Exchange w/ the Neonatal Bougie
 
 The more common use for the neonatal bougie is as a tube exchanger.  We might want to swap out an ETT in the infant or neonate for any number of reasons:
 
@@ -124,7 +124,7 @@ And then a few pointers if one does find the need to do this sort of thing in pr
 
 Basically treat the thing as if it were a primary intubation attempt.  Just in case.
 
-###General Thoughts on the Neonatal Bougie
+### General Thoughts on the Neonatal Bougie
 
 Having only used the thing on manikins in a controlled setting and also having very limited experience with baby intubation, here’s the verdict:
 
