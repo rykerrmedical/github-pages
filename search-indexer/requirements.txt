@@ -27,10 +27,25 @@ pymupdf>=1.24
 # doesn't hard-fail without them, and (2) transformers doesn't disable
 # PyTorch support for being too old.
 torch==2.5.1
-sentence-transformers>=3.0
+sentence-transformers==6.1.0  # pinned, see 2026-10-14 note below
 numpy>=1.26
 tqdm>=4.66
 pyyaml>=6.0
+
+# Pinned 2026-10-14 after the nightly CI rebuild broke (runs #73+, first
+# failure Oct 7; #72 on Oct 6 was the last green one): sentence-transformers
+# is left unpinned above, so each CI run resolved the NEWEST transformers,
+# and a release newer than the one below calls torch.accelerator at import
+# time -- which doesn't exist in torch==2.5.1 -- so `import embedder` died
+# with "AttributeError: module 'torch' has no attribute 'accelerator'"
+# before indexing even started. These are the exact versions installed in
+# the local venv312 where the indexer is known to work with torch 2.5.1.
+# If you ever bump torch (see the comment above), unpin/bump these together
+# and re-verify on a real machine first.
+transformers==5.17.0
+tokenizers==0.23.2
+huggingface_hub==1.33.0
+safetensors==0.8.0
 
 # Podcast transcription (podcast_transcribe.py). Standard openai-whisper
 # -- needs a system ffmpeg install too (`brew install ffmpeg` on macOS,

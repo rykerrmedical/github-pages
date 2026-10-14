@@ -384,7 +384,18 @@ def download_pdf(pdf_url, _retry=True):
                 print(f"  ! {pdf_url} exceeds PDF_MAX_BYTES, skipping")
                 return None
             chunks.append(piece)
-        return b"".join(chunks)
+        data = b"".join(chunks)
+        # A 200 response is not proof of a PDF: a real miss, 2026-10-07,
+        # WHO's server answered the Red Book URL with an HTML "Sorry /
+        # Oops! Something went wrong" page, which was extracted and
+        # indexed as the PDF's text, replacing 349 good chunks with 3
+        # junk ones. Real PDFs start with "%PDF-" (within the first KB);
+        # anything else is treated as a failed fetch, so the existing
+        # index entry for this URL is left exactly as it was.
+        if b"%PDF-" not in data[:1024]:
+            print(f"  ! {pdf_url} did not return a PDF (got {len(data)} bytes of something else), skipping")
+            return None
+        return data
     except Exception as e:
         if _retry:
             time.sleep(2)
