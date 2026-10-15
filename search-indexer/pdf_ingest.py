@@ -27,6 +27,7 @@ import pymupdf  # formerly imported as `fitz` — that alias is now deprecated
 from bs4 import BeautifulSoup
 
 import config
+import toc_sections
 from crawl import SESSION, _normalize  # reuse the same session/User-Agent
 
 # Bump this whenever a change in THIS FILE would produce different chunks
@@ -122,7 +123,11 @@ def _canonicalize_pdf_url(url):
     m = _ARCHIVE_ORG_TAIL_RE.search(parsed.path)
     if not m:
         return url
-    return f"https://archive.org/download/{m.group(1)}"
+    # One canonical spelling of the file name too: the same file linked once with a
+    # literal space and once as %20 was indexed twice (12 Lead EKG draft). quote(unquote())
+    # leaves already-encoded names byte-identical (checked against every PDF in the index).
+    tail = urlparse.quote(urlparse.unquote(m.group(1)), safe="/")
+    return f"https://archive.org/download/{tail}"
 
 
 _BLOG_POST_URL_RE = re.compile(r"/\d{4}/\d{2}/\d{2}/")
@@ -839,7 +844,7 @@ def _is_meta_section_heading(heading_path):
 # in the corpus at min_matches=3, which is why that's the threshold
 # used here (matches _looks_like_references_page/_looks_like_changelog_
 # page's own min_matches=3 default).
-_TOC_DOT_LEADER_RE = re.compile(r"(?:\.\s*){2,}\d{1,3}\b")
+_TOC_DOT_LEADER_RE = re.compile(r"(?:(?:\.\s*){2,}|…)\s*\d{1,3}\b")
 
 
 def _looks_like_toc_page(text, min_matches=3):
@@ -1204,6 +1209,34 @@ def _normalize_ligatures(text):
     return text.translate(_LIGATURE_MAP) if text else text
 
 
+def _merge_tiny_sections(sections, min_words=25):
+    """Third-party documents only. A ToC entry whose own text is a few words
+    (a heading followed at once by a sub-heading, or a stray label) would
+    otherwise become its own near-empty chunk. Fold it into the NEXT section
+    (the last one folds backward), keeping its title as a lead-in so the words
+    are still findable. Ryan's own documents are never merged: every one of
+    their sections and subsections is kept."""
+    out = []
+    carry = None
+    for sec in sections:
+        if carry is not None:
+            sec = {**sec, "text": carry["text"] + "\n\n" + sec["text"],
+                   "start_page": min(carry["start_page"], sec["start_page"])}
+            carry = None
+        if len(sec["text"].split()) < min_words:
+            title = (sec["heading_path"] or "").split("; ")[-1]
+            lead = f"{title}: " if title and not sec["text"].startswith(title) else ""
+            carry = {**sec, "text": lead + sec["text"]}
+            continue
+        out.append(sec)
+    if carry is not None:
+        if out:
+            out[-1] = {**out[-1], "text": out[-1]["text"] + "\n\n" + carry["text"], "end_page": carry["end_page"]}
+        else:
+            out.append(carry)
+    return out
+
+
 def extract_pdf_pages(pdf_bytes, pdf_url):
     """Returns (sections, citations).
 
@@ -1299,6 +1332,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     # Single pass: pull dict + plain text + links together per page,
     # then close the document — nothing below this needs pymupdf again.
     raw_pages = []  # (page_number, heading_candidates, plain_text, page_links)
+    page_lines = []  # per page: line records for toc_sections (same dict call, no extra pass)
     size_counts = Counter()
     ocr_attempted = 0
     ocr_failed = 0
@@ -1309,6 +1343,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
         ocr_attempted += attempted
         ocr_failed += failed
         candidates = _heading_candidates_from_dict(page_dict)
+        page_lines.append(toc_sections.lines_from_page_dict(page_dict))
         page_links = extract_page_links(page)
         raw_pages.append((i, candidates, plain_text, page_links))
         for block in page_dict.get("blocks", []):
@@ -1316,8 +1351,27 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
                 spans = line.get("spans", [])
                 if spans:
                     size_counts[round(max(s["size"] for s in spans), 1)] += 1
-    doc.close()
     total_pages = len(raw_pages)
+    # The document's own table of contents (embedded outline, or a printed
+    # ToC page) -- when present it decides where sections start, instead of
+    # font-size guessing. See toc_sections.py.
+    section_map = None
+    try:
+        section_map = toc_sections.build_section_map(
+            doc, page_lines, total_pages, prefer_full_ocr,
+            doc[0].rect.width if len(doc) else 612.0,
+        )
+    except Exception as e:
+        print(f"  ! {pdf_url}: ToC section detection failed ({e}); using font-based headings")
+    doc.close()
+    anchors_by_page, start_stack, toc_page_set = {}, {}, set()
+    if section_map:
+        anchors_by_page, start_stack = toc_sections.compute_start_stacks(section_map["entries"], total_pages)
+        toc_page_set = section_map["toc_pages"]
+        print(
+            f"  - {pdf_url}: sectioned by its {section_map['source']} table of contents "
+            f"({len(section_map['entries'])} entries)"
+        )
 
     body_size = size_counts.most_common(1)[0][0] if size_counts else None
     tier1_min = (body_size + _HEADING_TIER1_OFFSET) if body_size is not None else None
@@ -1361,6 +1415,9 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     current_h1 = None
     current_h2 = None
     for i, candidates, plain_text, page_links in raw_pages:
+        if (i - 1) in toc_page_set:
+            skipped_toc += 1  # the printed table of contents itself: navigation, not content
+            continue
         heading_texts_this_page = []  # headings physically printed on
         # THIS page (reading order) -- feeds _strip_leading_heading_echo
         # below; current_h1/current_h2 below track the running section
@@ -1380,7 +1437,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
 
         text = _clean_page_text(plain_text)
         text = _strip_known_boilerplate(text, page_number=i)
-        if heading_texts_this_page:
+        if heading_texts_this_page and not section_map:
             text = _strip_leading_heading_echo(text, heading_texts_this_page)
 
         text, blurb_entries = extract_citation_blurbs(text)
@@ -1399,7 +1456,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
         if len(text) < config.PDF_MIN_CHARS_PER_PAGE:
             skipped_scanned += 1
             continue
-        if _is_meta_section_heading(heading_path):
+        if not section_map and _is_meta_section_heading(heading_path):
             skipped_meta_section += 1
             continue
         if _looks_like_references_page(text):
@@ -1463,6 +1520,26 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     if dropped:
         print(f"  ! {pdf_url}: {dropped} page(s) were nothing but repeated header/footer text once stripped, dropped")
 
+    if section_map:
+        expanded = []
+        meta_dropped = 0
+        for page_number, legacy_path, text in kept_pages:
+            segs, _ = toc_sections.split_page_text(
+                text, page_number, page_lines[page_number - 1],
+                anchors_by_page.get(page_number, []), start_stack.get(page_number, []),
+            )
+            for seg_path, seg_text in segs:
+                if not seg_text.strip():
+                    continue
+                path = seg_path or legacy_path  # text before the first ToC entry keeps its font-detected heading
+                if _is_meta_section_heading(path):
+                    meta_dropped += 1
+                    continue
+                expanded.append((page_number, path, seg_text))
+        if meta_dropped:
+            print(f"  ! {pdf_url}: skipped {meta_dropped} section piece(s) headed \"Table of Contents\", \"Summary of Changes\", or similar")
+        kept_pages = expanded
+
     # Pass 2: group the surviving pages into sections — a contiguous run
     # of pages sharing the same heading_path becomes ONE section instead
     # of one chunk per page. See this function's docstring for why.
@@ -1489,6 +1566,9 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
                 "heading_path": heading_path, "texts": [text],
             }
     _flush_section()
+
+    if section_map and not prefer_full_ocr:
+        sections = _merge_tiny_sections(sections)
 
     if citations:
         with_links = sum(1 for c in citations if c["links"])

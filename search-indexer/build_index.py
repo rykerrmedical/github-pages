@@ -487,7 +487,7 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
     # Ryan's call, 2026-09-28: an outside reference under 50 pages gets
     # cited as one whole-document card, no page/range at all -- only a
     # LONGER third-party paper still shows chapters/sections/ranges.
-    short_third_party = content_type is None and total_pages < 50
+    short_third_party = content_type is None and total_pages <= 25
 
     pieces = chunker.chunk_structured_text(title, None, blocks)
     embeddings = embedder.embed_documents([p["text"] for p in pieces])
