@@ -808,6 +808,33 @@ _META_SECTION_HEADINGS = {
 }
 
 
+# A ToC-mapped document's bibliography is its own section ("References",
+# often nested under "Conclusions" in journal outlines) and its APA-style
+# page detector below misses other reference styles (Pharmacol Rev's
+# "Smith AB, Jones C (2018) Title. Journal 12:1-9"). Found live 2026-10-16:
+# the 41-page Panos/Zanos ketamine review had 73 chunks of bibliography that
+# outranked the paper's actual content for "ketamine pharmacology" queries.
+# Bibliography entries are never an answer; the cited works themselves are
+# tracked separately via the citation-blurb machinery, not these sections.
+_REFERENCE_LIST_HEADINGS = {
+    "references", "reference", "reference list", "references cited",
+    "bibliography", "literature cited", "works cited", "cited references",
+    "selected references", "selected bibliography", "notes and references",
+    "references and notes", "references and further reading",
+}
+
+
+def _is_reference_list_heading(heading_path):
+    """Last component of a ToC-mode heading path is a bibliography heading
+    ("IV. Conclusions; References" -> True). Also tolerates a leading
+    number/letter ("7. References", "VIII. References")."""
+    if not heading_path:
+        return False
+    last = heading_path.split("; ")[-1].strip().lower().rstrip(":.")
+    last = re.sub(r"^(?:\d+(?:\.\d+)*|[ivxlc]+|[a-z])[.)]?\s+", "", last)
+    return last in _REFERENCE_LIST_HEADINGS
+
+
 def _is_meta_section_heading(heading_path):
     """Checked against the LAST (most specific) component of
     heading_path (levels joined with "; ", e.g. "Introduction; Summary
@@ -1523,6 +1550,7 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
     if section_map:
         expanded = []
         meta_dropped = 0
+        refs_dropped = 0
         for page_number, legacy_path, text in kept_pages:
             segs, _ = toc_sections.split_page_text(
                 text, page_number, page_lines[page_number - 1],
@@ -1535,7 +1563,12 @@ def extract_pdf_pages(pdf_bytes, pdf_url):
                 if _is_meta_section_heading(path):
                     meta_dropped += 1
                     continue
+                if _is_reference_list_heading(path):
+                    refs_dropped += 1
+                    continue
                 expanded.append((page_number, path, seg_text))
+        if refs_dropped:
+            print(f"  ! {pdf_url}: skipped {refs_dropped} bibliography section piece(s) (References / Bibliography)")
         if meta_dropped:
             print(f"  ! {pdf_url}: skipped {meta_dropped} section piece(s) headed \"Table of Contents\", \"Summary of Changes\", or similar")
         kept_pages = expanded

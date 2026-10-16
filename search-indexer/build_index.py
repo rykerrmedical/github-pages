@@ -442,7 +442,27 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
                 "page": entry["page"], "number": entry["number"], "label": entry["label"],
                 "blurb": entry["blurb"], "target_id": None, "target_title": None, "target_category": None,
             })
-    store.replace_citation_mentions(conn, pdf_url, title, mention_rows)
+    # GUARD (found 2026-10-16, CI run #84): the GitHub runner has no
+    # rykerr-references checkout, so every blurb that needs a repo lookup comes
+    # out unresolved. Re-extracting the Vent Book there overwrote its 338
+    # resolved mentions with 274 unresolved ones, and prune_missing_sources then
+    # deleted 248 citation sources from the live index. With no reference index
+    # loaded, keep whatever resolved mentions this PDF already has.
+    keep_old_mentions = False
+    if not by_permalink and not by_author_year:
+        old_resolved = conn.execute(
+            "SELECT COUNT(*) FROM citation_mentions WHERE citing_source_id=? AND target_id IS NOT NULL",
+            (pdf_url,),
+        ).fetchone()[0]
+        new_resolved = sum(1 for m in mention_rows if m["target_id"])
+        if old_resolved > new_resolved:
+            keep_old_mentions = True
+            print(
+                f"  ! no rykerr-references checkout: keeping {old_resolved} previously-resolved citation "
+                f"mention(s) for {pdf_url.rsplit('/', 1)[-1]} instead of overwriting them with {new_resolved}"
+            )
+    if not keep_old_mentions:
+        store.replace_citation_mentions(conn, pdf_url, title, mention_rows)
     conn.commit()
     if mention_rows:
         unresolved = sum(1 for m in mention_rows if not m["target_id"])
@@ -496,8 +516,7 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
             "locator": (
                 "" if short_third_party
                 else f"pages {p['start_page']}-{p['end_page']}" if p["start_page"] != p["end_page"]
-                else f"page {p['start_page']}" if content_type is not None
-                else ""
+                else f"page {p['start_page']}"
             ),
             "locator_url": pdf_ingest.locator_url_for_page(pdf_url, p["start_page"]),
             "chunk_index": i,
