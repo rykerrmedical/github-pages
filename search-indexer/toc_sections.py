@@ -22,6 +22,7 @@ Everything here works on `page_lines` -- a per-page list of line records
 built by lines_from_page_dict() from the same get_text("dict") call the
 caller already makes, so no extra pymupdf passes are needed.
 """
+import difflib
 import re
 import statistics
 
@@ -43,8 +44,25 @@ def norm(s):
     return re.sub(r"[^a-z0-9]", "", _ZERO_WIDTH_RE.sub("", s).lower())
 
 
+def _despace_letters(s):
+    """"A B S T R A C T \xa0 O F \xa0 X" (Cochrane's letter-spaced headings, words
+    separated by a no-break space) -> "Abstract Of X". Left alone when the
+    word breaks cannot be told apart."""
+    tokens = s.split()
+    if len(tokens) >= 5 and "\xa0" in s and sum(len(t) == 1 for t in tokens) >= 0.8 * len(tokens):
+        words = [re.sub(r"\s+", "", w) for w in re.split(r"\s*\xa0\s*", s.strip()) if w.strip()]
+        return " ".join(w.capitalize() for w in words)
+    return s
+
+
+def _is_letter_spaced(s):
+    tokens = s.split()
+    return len(tokens) >= 5 and sum(len(t) == 1 for t in tokens) >= 0.8 * len(tokens)
+
+
 def clean_title(s):
     s = _ZERO_WIDTH_RE.sub("", s)
+    s = _despace_letters(s)
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
@@ -145,37 +163,57 @@ def _line_match(title, title_norm, ln):
     return None
 
 
+_NUMBERING_PREFIX_RE = re.compile(r"^(?:annex\s+)?\d+(?:\.\d+)*\.?\s+(?=\S)", re.IGNORECASE)
+
+
 def find_title_line(title, lines, start_idx=0, want_bold=None, body_size=None, allow_two_line=True):
     """Returns (idx, span_len, kind) of the first line at/after start_idx
-    that is the title (kind "full"/"runin"; a two-line wrapped title has
-    span_len 2), else None. want_bold: True = emphasised lines only;
-    False = any non-list line; None = both, emphasised first."""
+    that is the title, else None. kind: "full" (the line is the title),
+    "runin" (line opens with "Title:"), or "stripped" (a numbered ToC title
+    such as "5. Clinical care ..." whose body heading is printed without its
+    number). A two-line wrapped title has span_len 2. want_bold: True =
+    emphasised lines only; False = any non-list line; None = both,
+    emphasised first. The full title is always preferred over the
+    number-stripped one."""
     tn = norm(title)
     if not tn:
         return None
+    variants = [(title, tn, None)]
+    stripped = _NUMBERING_PREFIX_RE.sub("", title, count=1).strip()
+    if stripped != title and len(norm(stripped)) >= 5:
+        variants.append((stripped, norm(stripped), "stripped"))
 
     def emphasised(ln):
         return ln["bold"] or (body_size is not None and ln["size"] >= body_size + 0.4)
 
-    def scan(pred):
+    def scan(pred, variant):
+        t, tnorm, force_kind = variant
         for i in range(start_idx, len(lines)):
             ln = lines[i]
             if ln["list_item"] or not pred(ln):
                 continue
-            kind = _line_match(title, tn, ln)
+            kind = _line_match(t, tnorm, ln)
             if kind:
-                return i, 1, kind
+                return i, 1, (force_kind or kind)
             if allow_two_line and i + 1 < len(lines):
                 nxt = lines[i + 1]
-                if not nxt["list_item"] and pred(nxt) and _title_matches_text(tn, ln["text"] + " " + nxt["text"]):
-                    return i, 2, "full"
+                if not nxt["list_item"] and pred(nxt) and _title_matches_text(tnorm, ln["text"] + " " + nxt["text"]):
+                    return i, 2, (force_kind or "full")
         return None
 
+    preds = []
     if want_bold is True:
-        return scan(emphasised)
-    if want_bold is False:
-        return scan(lambda ln: True)
-    return scan(emphasised) or scan(lambda ln: True)
+        preds = [emphasised]
+    elif want_bold is False:
+        preds = [lambda ln: True]
+    else:
+        preds = [emphasised, lambda ln: True]
+    for variant in variants:          # full title first, then number-stripped
+        for pred in preds:
+            hit = scan(pred, variant)
+            if hit:
+                return hit
+    return None
 
 
 # --------------------------------------------------------------------------
@@ -310,10 +348,50 @@ def _toc_page_candidates(page_lines, max_scan=10, min_leaders=5):
     return pages
 
 
+_PAGE_NUM_TOKEN_RE = re.compile(r"^(?:\d{1,4}|[ivxlcdm]{1,6})$", re.IGNORECASE)
+_NUMBERED_TITLE_RE = re.compile(r"^(?:annex\s+)?\d+(?:\.\d+)*\.?\s+\S", re.IGNORECASE)
+_INLINE_TRAILING_PAGE_RE = re.compile(r"^(.*\S)\s+(\d{1,4})$")
+
+
+def _leaderless_candidates(page_lines, page_width, max_scan=15, min_rows=8):
+    """Pages (first max_scan) carrying at least min_rows right-aligned page-
+    number fragments -- a printed contents list WITHOUT dot leaders
+    (WHO's "4.4 Repatriation ........ 27" style with the number set flush
+    right instead)."""
+    pages = []
+    for pi in range(min(max_scan, len(page_lines))):
+        n = sum(
+            1 for ln in page_lines[pi]
+            if _PAGE_NUM_TOKEN_RE.match(ln["text"].strip()) and ln["x"] >= 0.6 * page_width
+        )
+        if n >= min_rows:
+            pages.append(pi)
+    return pages
+
+
+def _leaderless_row(row, text, page_width):
+    """(title, page_number_or_None, has_page_number) for one merged row of a
+    leader-less contents page."""
+    if len(row) >= 2:
+        last = row[-1]
+        if _PAGE_NUM_TOKEN_RE.match(last["text"].strip()) and last["x"] >= 0.6 * page_width:
+            title = " ".join(l["text"] for l in row[:-1]).strip()
+            tok = last["text"].strip()
+            return title, (int(tok) if tok.isdigit() else None), True
+    m = _INLINE_TRAILING_PAGE_RE.match(text)
+    if m and _NUMBERED_TITLE_RE.match(text):
+        return m.group(1), int(m.group(2)), True
+    return text, None, False
+
+
 def parse_printed_toc(page_lines, page_width=612.0):
     """Returns (entries, toc_page_indexes). entries: [{"level","title",
     "printed_page"}]. Empty if no printed ToC found."""
     toc_pages = _toc_page_candidates(page_lines)
+    leaderless = False
+    if not toc_pages:
+        toc_pages = _leaderless_candidates(page_lines, page_width)
+        leaderless = bool(toc_pages)
     if not toc_pages:
         return [], []
     # contiguous run starting at the first candidate (a ToC can spill over)
@@ -328,7 +406,7 @@ def parse_printed_toc(page_lines, page_width=612.0):
             continue
         mid = page_width / 2.0
         xs = [ln["x"] for ln in lines]
-        two_col = sum(1 for x in xs if x > mid + 10) >= 5 and sum(1 for x in xs if x < mid - 40) >= 5
+        two_col = (not leaderless) and sum(1 for x in xs if x > mid + 10) >= 5 and sum(1 for x in xs if x < mid - 40) >= 5
         cols = {0: [], 1: []}
         for ln in lines:
             cols[1 if (two_col and ln["x"] >= mid) else 0].append(ln)
@@ -349,13 +427,17 @@ def parse_printed_toc(page_lines, page_width=612.0):
                 row = sorted(row, key=lambda l: l["x"])
                 text = " ".join(l["text"] for l in row).strip()
                 first = row[0]
-                title, num, has_leader = _leader_info(text)
+                if leaderless:
+                    title, num, has_leader = _leaderless_row(row, text, page_width)
+                else:
+                    title, num, has_leader = _leader_info(text)
                 title = clean_title(title)
                 letters = re.sub(r"[^A-Za-z]", "", title)
                 if has_leader and len(letters) >= 2:
-                    if pending and abs(pending[1] - first["x"]) <= 3:
+                    near = bool(pending) and 0 <= first["y"] - pending[2] <= 30  # a wrapped line sits right below
+                    if pending and near and abs(pending[1] - first["x"]) <= 3:
                         title = clean_title(pending[0] + " " + title)
-                    elif pending and pending[1] < first["x"] - 3 and len(pending[0]) < 60:
+                    elif pending and near and pending[1] < first["x"] - 3 and len(pending[0]) < 60 and pending[2] >= 60:
                         # a leader-less parent heading ("Procedures") followed by
                         # indented children -- it is a section of its own
                         raw.append((clean_title(pending[0]), None, pending[1] - col_min_x, cid))
@@ -366,10 +448,10 @@ def parse_printed_toc(page_lines, page_width=612.0):
                 elif first["bold"] or text.startswith("("):
                     pending = None  # group header / "(X - see Y)" cross-reference
                 elif len(letters) >= 3:
-                    pending = (text, first["x"])
+                    pending = (text, first["x"], first["y"])
                 else:
                     pending = None
-            if pending and pending[1] - col_min_x <= 3 and len(pending[0]) < 60:
+            if pending and pending[1] - col_min_x <= 3 and len(pending[0]) < 60 and pending[2] >= 60:
                 raw.append((clean_title(pending[0]), None, pending[1] - col_min_x, cid))
     if len(raw) < 4:
         return [], []
@@ -389,6 +471,7 @@ def parse_printed_toc(page_lines, page_width=612.0):
     entries = [
         {"level": level_of(x), "title": t, "printed_page": n}
         for t, n, x, _ in raw
+        if norm(t) not in ("contents", "tableofcontents", "content")
     ]
     return entries, run
 
@@ -442,7 +525,9 @@ def anchor_printed_entries(entries, page_lines, toc_pages, body_size, min_match_
             body_title = e["title"]
             if found[3] == "full" and found[2] == 1:
                 cand = _strip_footnote_digits(clean_title(page_lines[found[0]][found[1]]["text"]).rstrip(":"))
-                if 2 < len(cand) <= 120:
+                # adopt the body's own wording only when it is a near-identical
+                # spelling (fixes ToC typos: "Crystal loids" -> "Crystalloids")
+                if 2 < len(cand) <= 120 and not _is_letter_spaced(cand) and difflib.SequenceMatcher(None, norm(cand), norm(e["title"])).ratio() >= 0.85:
                     body_title = cand
             results.append({**e, "title": body_title, "page": found[0] + 1, "line_idx": found[1],
                             "span": found[2], "matched": True, "runin": found[3] == "runin"})
