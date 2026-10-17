@@ -31,6 +31,7 @@ First real use downloads its model file to a local cache
 """
 import hashlib
 import os
+import re
 import subprocess
 import tempfile
 import time
@@ -48,16 +49,20 @@ import transcript_files
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": config.USER_AGENT})
 
-_model = None
+_models = {}
 
 
-def _get_model():
-    global _model
-    if _model is None:
+def podcast_model_name():
+    return getattr(config, "PODCAST_WHISPER_MODEL_NAME", None) or config.WHISPER_MODEL_NAME
+
+
+def _get_model(name=None):
+    name = name or config.WHISPER_MODEL_NAME
+    if name not in _models:
         import whisper
-        print(f"  loading Whisper model {config.WHISPER_MODEL_NAME} -- first run downloads it...")
-        _model = whisper.load_model(config.WHISPER_MODEL_NAME)
-    return _model
+        print(f"  loading Whisper model {name} -- first run downloads it...")
+        _models[name] = whisper.load_model(name)
+    return _models[name]
 
 
 def _get_remote_signal(audio_url):
@@ -82,11 +87,11 @@ def _get_remote_signal(audio_url):
 
 
 def _versioned(signal):
-    """Folds WHISPER_MODEL_NAME + WHISPER_PIPELINE_VERSION into a raw
+    """Folds the podcast model name + WHISPER_PIPELINE_VERSION into a raw
     signal, so changing either forces exactly one re-transcribe per
     episode on the next run -- same idea as pdf_ingest._versioned /
     PDF_PIPELINE_VERSION."""
-    return f"{signal}::wv{config.WHISPER_PIPELINE_VERSION}::{config.WHISPER_MODEL_NAME}"
+    return f"{signal}::wv{config.WHISPER_PIPELINE_VERSION}::{podcast_model_name()}"
 
 
 def _hash_file(path):
@@ -156,21 +161,64 @@ def _decode_audio(audio_path, timeout=300):
     return np.frombuffer(proc.stdout, np.int16).flatten().astype(np.float32) / 32768.0
 
 
-def _transcribe(audio_path):
+def drop_repetition_loops(segments):
+    """Removes Whisper hallucination loops: (a) a single segment that is
+    mostly the same word over and over, (b) runs of 3+ identical
+    consecutive segments (only the first two of the run are kept). Returns
+    (clean_segments, dropped_count)."""
+    min_words = getattr(config, "WHISPER_LOOP_MIN_WORDS", 8)
+    max_ratio = getattr(config, "WHISPER_LOOP_MAX_UNIQUE_RATIO", 0.25)
+    out, dropped = [], 0
+    run_text, run_len = None, 0
+    for seg in segments:
+        text = seg[2]
+        words = re.findall(r"[\w']+", text.lower())
+        if len(words) >= min_words and len(set(words)) / len(words) <= max_ratio:
+            dropped += 1
+            continue
+        norm = " ".join(words)
+        if norm and norm == run_text:
+            run_len += 1
+            if run_len >= 3:
+                dropped += 1
+                continue
+        else:
+            run_text, run_len = norm, 1
+        out.append(seg)
+    return out, dropped
+
+
+def _transcribe(audio_path, model_name=None, legacy=False):
     """Returns [(start_seconds, end_seconds, text), ...] in order, text
-    already stripped, empty segments dropped. fp16=False since this runs
-    on CPU (openai-whisper defaults to fp16, which only helps on a GPU
-    and prints a noisy warning + silently falls back on CPU anyway --
-    setting it explicitly just skips that). Audio is decoded ourselves
-    first via _decode_audio rather than letting Whisper shell out to
-    ffmpeg with no timeout of its own -- see that function's docstring."""
-    model = _get_model()
+    already stripped, empty segments dropped, repetition loops removed.
+    fp16=False since this runs on CPU. Audio is decoded ourselves first
+    via _decode_audio rather than letting Whisper shell out to ffmpeg with
+    no timeout of its own -- see that function's docstring.
+
+    condition_on_previous_text=False: with it on (Whisper's default) one
+    bad window can feed itself into the next and loop for minutes.
+    legacy=True reproduces the pre-2026-10-16 call (used only by
+    whisper_compare.py as a baseline)."""
+    model = _get_model(model_name)
     audio = _decode_audio(audio_path)
-    result = model.transcribe(audio, language="en", fp16=False)
-    return [
+    if legacy:
+        result = model.transcribe(audio, language="en", fp16=False)
+    else:
+        kwargs = dict(language="en", fp16=False, condition_on_previous_text=False)
+        prompt = getattr(config, "WHISPER_INITIAL_PROMPT", None)
+        if prompt:
+            kwargs["initial_prompt"] = prompt
+        result = model.transcribe(audio, **kwargs)
+    segments = [
         (seg["start"], seg["end"], seg["text"].strip())
         for seg in result["segments"] if seg["text"].strip()
     ]
+    if legacy:
+        return segments
+    segments, dropped = drop_repetition_loops(segments)
+    if dropped:
+        print(f"  - dropped {dropped} repetition-loop segment(s)")
+    return segments
 
 
 def _process_episode(conn, ep, force_substr, stats):
@@ -202,7 +250,7 @@ def _process_episode(conn, ep, force_substr, stats):
             return
 
         print(f"  - transcribing {ep['title']!r}...")
-        segments = _transcribe(audio_path)
+        segments = _transcribe(audio_path, model_name=podcast_model_name())
     finally:
         os.unlink(audio_path)
 

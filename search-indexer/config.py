@@ -248,6 +248,38 @@ PODCAST_TRANSCRIBE_ENABLED = True
 # audio decoding.
 WHISPER_MODEL_NAME = "small.en"
 
+# Model used for PODCAST episodes only (YouTube keeps WHISPER_MODEL_NAME
+# above, so changing this does not invalidate YouTube signals). Ryan's call,
+# 2026-10-16: episodes are transcribed once, on his own Mac via
+# retranscribe_podcasts.py, so a slow, more accurate model is fine -- the
+# small.en output garbled clinical terms (intubate -> "innovate",
+# thoracostomy -> "tort cost to me"). Chosen with whisper_compare.py.
+# Runs of this model on a GitHub runner are far too slow: new episodes
+# should be transcribed locally (CI would hang), see retranscribe_podcasts.py.
+PODCAST_WHISPER_MODEL_NAME = "small.en"
+
+# Passed to Whisper as initial_prompt. Whisper only applies this to the
+# FIRST 30-second window of an episode (with condition_on_previous_text
+# off the prompt is dropped after that), so it mainly nudges spelling/
+# punctuation early on; the bigger model does the real work. Keep under
+# ~200 tokens. Applies to YouTube transcription too, but YouTube signals
+# do not include it, so already-transcribed videos are not redone.
+WHISPER_INITIAL_PROMPT = (
+    "A podcast from Rykerr Medical about EMS, critical care transport and "
+    "emergency medicine. Terms: thoracostomy, needle decompression, "
+    "intubation, RSI, ketamine, rocuronium, tranexamic acid (TXA), whole blood, "
+    "hemorrhagic shock, REBOA, ventilator, PEEP, tidal volume, ARDS, "
+    "capnography, ECG, STEMI, hyperkalemia, POCUS, cricothyrotomy, "
+    "supraglottic airway, EMCrit, LITFL, Rykerr."
+)
+
+# Safety net against Whisper hallucination loops ("to, to, to, ..." for
+# 45 seconds in the Doc Fisher episode). A segment with at least this many
+# words whose distinct-word ratio is at or below WHISPER_LOOP_MAX_UNIQUE_RATIO
+# is dropped, as are runs of 3+ identical consecutive segments (first two kept).
+WHISPER_LOOP_MIN_WORDS = 8
+WHISPER_LOOP_MAX_UNIQUE_RATIO = 0.25
+
 # Folded into every transcript's content_signal (see
 # podcast_transcribe._versioned) so bumping this -- or WHISPER_MODEL_NAME
 # above -- forces every episode to be re-transcribed once on the next
