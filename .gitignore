@@ -45,3 +45,17 @@ search-indexer/__pycache__/
 search-indexer/*.db
 search-indexer/build_log_*.txt
 _to_delete/
+
+# Search indexer scratch/backups -- never push these (the live index is built in CI;
+# a single backup is >100 MB and GitHub rejects the whole push)
+search-indexer/*.db.*
+search-indexer/*.db-journal
+search-indexer/*.db-wal
+search-indexer/*.db-shm
+search-indexer/*.bak
+search-indexer/*.bak_*
+search-indexer/toc_probe_out.json
+search-indexer/pdf-probe/
+pdf-probe/
+*.bak
+*.bak_*
