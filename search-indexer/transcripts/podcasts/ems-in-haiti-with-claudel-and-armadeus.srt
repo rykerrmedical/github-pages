@@ -1,2063 +1,1611 @@
 1
-00:00:00,000 --> 00:00:04,360
-Hey friends and welcome to the Riker Medical Podcast.
+00:01:19,800 --> 00:01:23,460
+paramedic school in the U.S. in order to become Haiti's first paramedic.
 
 2
-00:00:04,360 --> 00:00:09,720
-Riker Medical is a platform for education focused on emergency, transport, and critical
+00:01:24,220 --> 00:01:31,500
+We're joined by another amazing human, Armadeus, who's helped Claudel in his EMS journey over the past 10 years or so.
 
 3
-00:00:09,720 --> 00:00:15,360
-care medicine.
+00:01:32,200 --> 00:01:39,340
+We had some technical issues getting Claudel linked into the call from Haiti, but you'll get the idea, and his voice does eventually come through.
 
 4
-00:00:15,360 --> 00:00:20,440
-We believe that the sharing of knowledge should be free, accessible to all, and that innovative
+00:01:40,140 --> 00:01:46,960
+I open this conversation up with a question to both Claudel and Armadeus about how they know one another, but then we lost Claudel for a bit.
 
 5
-00:00:20,440 --> 00:00:23,960
-use of technology can facilitate that effort.
+00:01:47,460 --> 00:01:50,340
+So we'll pick it up with Armadeus responding to that question.
 
 6
-00:00:23,960 --> 00:00:29,240
-This podcast is just one piece of that whole project.
+00:01:51,140 --> 00:01:53,860
+How do you guys, Claude Del Marridaeus, know one another?
 
 7
-00:00:29,240 --> 00:00:37,040
-Also, while we may mention medical treatments and interventions along the way, remember
+00:01:55,060 --> 00:01:59,080
+I'll just talk about how, from my perspective, how we get.
 
 8
-00:00:37,040 --> 00:00:40,800
-that we are just strangers on the internet and don't do things you aren't allowed to
+00:01:59,740 --> 00:02:10,860
+So in 2010, there was a large earthquake in Haiti that occurred, 7.0, and it was devastating to the country.
 
 9
-00:00:40,800 --> 00:00:43,800
-do.
+00:02:10,860 --> 00:02:20,620
+It ended up actually killing a quarter million people from what they can estimate, probably more, but confirmed around a quarter million people.
 
 10
-00:00:43,800 --> 00:01:12,480
-For more information about the project, visit us at RikerMedical.com.
+00:02:21,600 --> 00:02:34,240
+And so I actually have been in the fire service as a firefighter paramedic since 1999 and had been to some disasters.
 
 11
-00:01:13,800 --> 00:01:19,760
-Today on the show we are going to talk about a project to get my good friend Claudel to
-
-12
-00:01:19,760 --> 00:01:24,680
-paramedic school in the US in order to become Haiti's first paramedic.
-
-13
-00:01:24,680 --> 00:01:30,060
-We are joined by another amazing human, Armadeus, who has helped Claudel in his EMS journey
-
-14
-00:01:30,060 --> 00:01:32,680
-over the past 10 years or so.
-
-15
-00:01:32,680 --> 00:01:36,800
-We had some technical issues getting Claudel linked into the call from Haiti, but you will
-
-16
-00:01:36,800 --> 00:01:40,520
-get the idea and his voice does eventually come through.
-
-17
-00:01:40,520 --> 00:01:44,320
-I opened this conversation up with a question to both Claudel and Armadeus about how they
-
-18
-00:01:44,320 --> 00:01:47,760
-know one another, but then we lost Claudel for a bit.
-
-19
-00:01:47,760 --> 00:01:51,360
-So we will pick it up with Armadeus responding to that question.
-
-20
-00:01:51,360 --> 00:01:54,400
-How do you guys, Claudel and Armadeus, know one another?
-
-21
-00:01:54,400 --> 00:01:59,840
-I will just talk about how, from my perspective, how we went.
-
-22
-00:01:59,840 --> 00:02:10,320
-So in 2010 there was a large earthquake in Haiti that occurred, 7.0, and it was devastating
-
-23
-00:02:10,320 --> 00:02:11,320
-to the country.
-
-24
-00:02:11,320 --> 00:02:17,880
-It ended up actually killing a quarter million people from what they can estimate, probably
-
-25
-00:02:17,880 --> 00:02:22,480
-more but confirmed around a quarter million people.
-
-26
-00:02:22,480 --> 00:02:33,160
-So I actually have been in the fire service as a firefighter paramedic since 1999 and
-
-27
-00:02:33,160 --> 00:02:34,320
-it had been to some disasters.
-
-28
-00:02:34,320 --> 00:02:38,760
+00:02:34,240 --> 00:02:37,340
 I went to Hurricane Katrina when that happened.
 
-29
-00:02:38,760 --> 00:02:45,880
-And then when the Haiti earthquake happened, it just kind of sent the same signals, if
+12
+00:02:38,320 --> 00:02:52,160
+And then when the Haiti earthquake happened, it just kind of sent the same signals, if you will, through my body where I just felt that need to go and help because I had some of the skills to go do it.
 
-30
-00:02:45,880 --> 00:02:51,040
-you will, through my body where I just felt that need to go and help because I had some
+13
+00:02:52,160 --> 00:03:03,060
+And so for Haiti, I kind of did the same thing for Katrina, where I just started calling the people in the industry that I know.
 
-31
-00:02:51,040 --> 00:02:53,560
-of the skills to go do it.
+14
+00:03:03,300 --> 00:03:06,560
+And we put together a small team.
 
-32
-00:02:53,560 --> 00:03:01,160
-So for Haiti, I kind of did the same thing for Katrina where I just started calling the
+15
+00:03:06,560 --> 00:03:11,140
+It was just actually one, two, three, four, six of us.
 
-33
-00:03:01,160 --> 00:03:05,240
-people in the industry that I know.
+16
+00:03:11,840 --> 00:03:17,100
+And we flew down to Santo Domingo in the Dominican Republic, rented a van.
 
-34
-00:03:05,240 --> 00:03:06,640
-We put together a small team.
+17
+00:03:17,100 --> 00:03:25,240
+and we had about 1200 pounds of medical gear with us that we had gotten through donations or gifts
 
-35
-00:03:06,640 --> 00:03:12,760
-It was just actually six of us.
+18
+00:03:25,240 --> 00:03:34,480
+and we basically made a point to drive into Haiti and and help any way we could so that's kind of
 
-36
-00:03:12,760 --> 00:03:20,720
-We flew down to Santo Domingo in the Dominican Republic, rented a van, and we had about 1200
+19
+00:03:34,480 --> 00:03:41,760
+how all of this started for me anyway. So did you meet Claudel in that first trip down there?
 
-37
-00:03:20,720 --> 00:03:27,480
-pounds of medical gear with us that we had gotten through donations or gifts.
+20
+00:03:41,760 --> 00:04:08,760
+Yeah, so we basically, we knew of a small group of people who were trying to get a field hospital started. And that was just through a phone network. And we kind of got an idea of where it was. And we pulled up a Google Maps using GPS coordinates and just kind of saw this little area where it was an old amusement park for kids.
 
-38
-00:03:27,480 --> 00:03:32,760
-We basically made a point to drive into Haiti and help any way we could.
+21
+00:04:08,760 --> 00:04:11,960
+and it had these walls that were still standing and some covered structures,
 
-39
-00:03:32,760 --> 00:03:38,560
-So that's kind of how all of this started for me anyway.
+22
+00:04:11,960 --> 00:04:15,060
+and it just seemed like a securable area.
 
-40
-00:03:38,560 --> 00:03:42,920
-So did you meet Claudel in that first trip down there?
+23
+00:04:15,280 --> 00:04:21,160
+So we drove into town, followed the satellite map directly to where we needed to go,
 
-41
-00:03:42,920 --> 00:03:43,920
-Yeah.
+24
+00:04:21,160 --> 00:04:25,800
+and we showed up and started this field hospital.
 
-42
-00:03:43,920 --> 00:03:51,440
-So we basically, we knew of a small group of people who were trying to get a field hospital
+25
+00:04:26,060 --> 00:04:31,880
+And then Claudel had come in with a small group of folks because they knew how to speak English.
 
-43
-00:03:51,440 --> 00:03:54,800
-started and that was just through a phone network.
+26
+00:04:32,180 --> 00:04:36,780
+So right after the earthquake, I think they were kind of looking for an opportunity to help out
 
-44
-00:03:54,800 --> 00:04:02,880
-And we kind of got an idea of where it was and we pulled up Google Maps using GPS coordinates
+27
+00:04:36,780 --> 00:04:39,680
+and heard about us and what we were trying to do.
 
-45
-00:04:02,880 --> 00:04:08,880
-and just kind of saw this little area where it was an old amusement park for kids and
-
-46
-00:04:08,880 --> 00:04:13,040
-it had these walls that were still standing and some covered structures and it just seemed
-
-47
-00:04:13,040 --> 00:04:15,320
-like a securable area.
-
-48
-00:04:15,320 --> 00:04:22,280
-So we drove into town, followed the satellite map directly to where we needed to go and
-
-49
-00:04:22,280 --> 00:04:28,200
-we showed up and started this field hospital and then Claudel had come in with a small
-
-50
-00:04:28,200 --> 00:04:32,160
-group of folks because they knew how to speak English.
-
-51
-00:04:32,160 --> 00:04:36,200
-So right after the earthquake, I think they were kind of looking for an opportunity to
-
-52
-00:04:36,200 --> 00:04:39,840
-help out and heard about us and what we were trying to do.
-
-53
-00:04:39,840 --> 00:04:45,360
+28
+00:04:39,680 --> 00:04:44,760
 And yeah, they just showed up and started translating for us.
 
-54
-00:04:45,360 --> 00:04:48,840
-And that's how I met Claudel.
+29
+00:04:45,180 --> 00:04:48,120
+And that's, yeah, that's how I met Claudel.
 
-55
-00:04:48,840 --> 00:04:50,840
+30
+00:04:48,480 --> 00:04:49,220
 That's awesome.
 
-56
-00:04:50,840 --> 00:04:51,840
+31
+00:04:50,100 --> 00:04:50,660
 Yeah.
 
-57
-00:04:52,400 --> 00:04:57,560
+32
+00:04:51,900 --> 00:04:56,580
 And then subsequently, were you involved with the EMT training through MPAC down there?
 
-58
-00:04:57,560 --> 00:04:59,560
+33
+00:04:57,580 --> 00:04:57,860
 Yeah.
 
-59
-00:04:59,560 --> 00:05:02,200
+34
+00:04:58,020 --> 00:05:01,800
 So I actually started MPAC Northwest.
 
-60
-00:05:02,200 --> 00:05:04,200
-Oh, okay.
+35
+00:05:02,980 --> 00:05:03,540
+Okay.
 
-61
-00:05:04,200 --> 00:05:12,320
-And so that was in 2010, it was just myself and a group of my friends.
-
-62
-00:05:12,320 --> 00:05:18,640
-So we had actually planned on just going down to Haiti for a couple weeks right after the
-
-63
-00:05:18,640 --> 00:05:21,640
-earthquake to help stabilize and then get out of there.
-
-64
-00:05:21,640 --> 00:05:24,760
-Because it was at that point, it wasn't a formal organization.
-
-65
-00:05:24,760 --> 00:05:29,560
-It was literally just, hey bros, we've been on a lot of stuff together.
-
-66
-00:05:29,560 --> 00:05:31,600
-You want to go get into this mess?
-
-67
-00:05:31,600 --> 00:05:34,200
-And that's kind of how it started.
-
-68
-00:05:34,200 --> 00:05:36,360
-So that's awesome.
-
-69
-00:05:36,360 --> 00:05:37,360
+36
+00:05:03,720 --> 00:05:04,020
 Yeah.
 
-70
-00:05:37,360 --> 00:05:42,720
-And then the EMT training actually happened the following year because like I said, we
+37
+00:05:04,020 --> 00:05:11,120
+And so that was in, it was my, you know, in 2010, it was just myself and a group of my friends.
 
-71
-00:05:42,720 --> 00:05:47,280
-had planned on just being there for a couple of weeks and just people kept showing up at
+38
+00:05:11,520 --> 00:05:21,460
+And so, you know, we had actually planned on just going down to Haiti for a couple weeks right after earthquake to help stabilize and then get out of there.
 
-72
-00:05:47,280 --> 00:05:48,600
-the gates to be seen.
+39
+00:05:21,460 --> 00:05:24,880
+Because it's, it was at that point, it wasn't a formal organization.
 
-73
-00:05:48,600 --> 00:05:53,880
-And we realized, holy crap, this is way bigger than what we initially thought.
+40
+00:05:24,880 --> 00:05:29,620
+It was literally just, you know, hey, bros, we've been on a lot of stuff together.
 
-74
-00:05:53,880 --> 00:05:59,800
-And other small grassroots disaster organizations started showing up and then we all started
+41
+00:05:29,780 --> 00:05:32,580
+You want to go get into this mess, you know, and that's kind of how it started.
 
-75
-00:05:59,800 --> 00:06:02,680
-collaborating working together.
+42
+00:05:34,020 --> 00:05:48,360
+So that's awesome. Yeah. And then the EMP training actually happened the following year because, you know, like I said, we had planned on just being there for a couple of weeks and and just people kept showing up at the gates to be seen.
 
-76
-00:06:02,680 --> 00:06:08,880
-That lasted two weeks, turned into 12 months.
+43
+00:05:48,360 --> 00:06:01,060
+And we realized, holy crap, this is way bigger than what we initially thought. And other small grassroots disaster organizations started showing up and then we all started collaborating, working together.
 
-77
-00:06:08,880 --> 00:06:11,720
+44
+00:06:01,060 --> 00:06:07,840
+And that lasted two weeks, turned into 12 months.
+
+45
+00:06:08,360 --> 00:06:10,600
 And we kept that field hospital running.
 
-78
-00:06:11,720 --> 00:06:16,640
-And we were about ready to leave after that first year is when all the translators approached
+46
+00:06:11,580 --> 00:06:16,900
+And we were about ready to leave after that first year is when all the translators approached us
 
-79
-00:06:16,640 --> 00:06:22,440
-us and asked us about teaching them something before we left.
+47
+00:06:16,900 --> 00:06:21,140
+and asked us about teaching them something before we left.
 
-80
-00:06:22,440 --> 00:06:24,600
+48
+00:06:22,320 --> 00:06:24,500
 And it wasn't difficult.
 
-81
-00:06:24,600 --> 00:06:30,480
-I mean, aside from coordinating all the instructors to come down from the States and that was all
+49
+00:06:24,660 --> 00:06:28,880
+I mean, aside from, you know, coordinating all the instructors to come down from the states.
 
-82
-00:06:30,480 --> 00:06:35,080
-very difficult because we also had to raise the money to fly all the instructors down
+50
+00:06:28,880 --> 00:06:37,280
+And that was all very difficult because we also had to raise the money to fly all the instructors down there and house and everything else, too.
 
-83
-00:06:35,080 --> 00:06:38,840
-there and housing and everything else too.
+51
+00:06:38,480 --> 00:06:42,940
+But, yeah, so that's kind of how that started.
 
-84
-00:06:38,840 --> 00:06:43,120
-But yeah, so that's kind of how that started.
+52
+00:06:43,060 --> 00:06:45,480
+And then we graduated another class after that.
 
-85
-00:06:43,120 --> 00:06:47,760
-And then we graduated another class after that and we made sure that they all had jobs
+53
+00:06:45,620 --> 00:06:47,780
+And we made sure that they all had jobs.
 
-86
-00:06:47,760 --> 00:06:51,040
-and yeah.
+54
+00:06:48,060 --> 00:06:52,240
+And, yeah, and then 10 years goes by.
 
-87
-00:06:51,040 --> 00:06:59,280
-And then 10 years goes by and I'm still trying to sort out how one little trip to go help
+55
+00:06:52,240 --> 00:06:59,000
+and uh you know i'm still trying to sort out how uh how one little trip to go help
 
-88
-00:06:59,280 --> 00:07:01,760
-post-earthquake turned into everything that it has.
+56
+00:06:59,000 --> 00:07:05,080
+post earthquake turned into everything that it has so yeah that's amazing yeah hey claudel you're
 
-89
-00:07:01,760 --> 00:07:03,560
-Yeah, it's amazing.
+57
+00:07:05,080 --> 00:07:12,080
+back i don't know if you can hear us but claudel are you with us hello
 
-90
-00:07:03,560 --> 00:07:04,560
-Yeah.
+58
+00:07:12,080 --> 00:07:19,780
+hey claudel so i i just told the entire story of how we met just in the beginning
 
-91
-00:07:04,560 --> 00:07:05,560
-Hey, Claudel, you're back.
+59
+00:07:19,780 --> 00:07:34,880
+yeah so so for people who uh may maybe haven't worked overseas or gone traveling too much
 
-92
-00:07:05,560 --> 00:07:09,800
-I don't know if you can hear us, but I'm just kidding.
+60
+00:07:34,880 --> 00:07:40,980
+this is just kind of how it is period doing anything overseas it's just kind of caribbean
 
-93
-00:07:09,800 --> 00:07:12,120
-Claudel, are you with us?
+61
+00:07:40,980 --> 00:07:46,740
+time caribbean technology you just gotta wait yeah i remember when i was working down there
 
-94
-00:07:12,120 --> 00:07:13,120
-Yeah.
+62
+00:07:46,740 --> 00:07:51,280
+trying to make phone calls back home like it seems so simple you just like facetime someone
 
-95
-00:07:13,120 --> 00:07:16,240
-Hey, Claudel.
+63
+00:07:51,280 --> 00:07:57,620
+or call them on whatsapp i would have i also had skype on my phone um you could use like google
 
-96
-00:07:16,240 --> 00:07:20,960
-So I just told the entire story of how we met just in the beginning.
+64
+00:07:57,620 --> 00:08:01,600
+voice i just had like all options and sometimes i would call somebody like four times from each
 
-97
-00:07:20,960 --> 00:07:35,160
-Yeah, so for people who maybe haven't worked overseas or gone traveling too much, this
+65
+00:08:01,600 --> 00:08:07,740
+of these different mechanisms to try and finally get through to them yeah yeah the the concept of
 
-98
-00:07:35,160 --> 00:07:37,880
-is just kind of how it is, period.
+66
+00:08:07,740 --> 00:08:14,500
+multiple sim cards in one phone yeah pretty awesome so when were you down there
 
-99
-00:07:37,880 --> 00:07:40,040
-Doing anything overseas.
+67
+00:08:14,500 --> 00:08:22,260
+I was down there, I think, summer of 2018 till summer 2019.
 
-100
-00:07:40,040 --> 00:07:42,800
-It's just kind of Caribbean time, Caribbean technology.
-
-101
-00:07:42,800 --> 00:07:44,560
-You just got to wait.
-
-102
-00:07:44,560 --> 00:07:48,400
-Yeah, I remember when I was working down there trying to make phone calls back home.
-
-103
-00:07:48,400 --> 00:07:50,040
-Like it seems so simple.
-
-104
-00:07:50,040 --> 00:07:52,800
-You just like FaceTime someone or call them on WhatsApp.
-
-105
-00:07:52,800 --> 00:07:56,960
-I also had Skype on my phone.
-
-106
-00:07:56,960 --> 00:07:57,960
-You could use Google Voice.
-
-107
-00:07:57,960 --> 00:08:01,360
-I just had like all options and sometimes I would call somebody like four times from
-
-108
-00:08:01,360 --> 00:08:05,760
-each of these different mechanisms to try and finally get through to them.
-
-109
-00:08:05,760 --> 00:08:06,760
-Yeah.
-
-110
-00:08:06,760 --> 00:08:10,080
-The concept of multiple SIM cards in one phone.
-
-111
-00:08:10,080 --> 00:08:11,080
-Yeah.
-
-112
-00:08:11,080 --> 00:08:13,240
-Pretty awesome.
-
-113
-00:08:13,240 --> 00:08:15,960
-So when were you down there?
-
-114
-00:08:15,960 --> 00:08:22,680
-I was down there I think summer of 2018 till summer of 2019.
-
-115
-00:08:22,680 --> 00:08:23,680
+68
+00:08:23,120 --> 00:08:23,600
 Oh, okay.
 
-116
-00:08:23,680 --> 00:08:25,480
+69
+00:08:23,780 --> 00:08:24,880
 Yeah, you spent some time down there.
 
-117
-00:08:25,480 --> 00:08:32,320
-Yeah, I was working at Heydir Eminence with Claudel and I would spend like every other
+70
+00:08:25,640 --> 00:08:30,500
+Yeah, so I was working at Hater Ambulance with Claudel,
 
-118
-00:08:32,320 --> 00:08:33,320
-month there.
+71
+00:08:30,980 --> 00:08:32,900
+and I would spend, like, every other month there.
 
-119
-00:08:33,320 --> 00:08:36,360
-So I think until I spent like seven or eight months down there.
+72
+00:08:33,000 --> 00:08:35,840
+So I think until I spent, like, seven or eight months down there.
 
-120
-00:08:36,360 --> 00:08:37,360
+73
+00:08:36,200 --> 00:08:36,980
 Okay, cool.
 
-121
-00:08:37,360 --> 00:08:39,360
-But it was like off and on.
+74
+00:08:37,280 --> 00:08:38,500
+But it was, like, off and on.
 
-122
-00:08:39,360 --> 00:08:42,680
+75
+00:08:40,100 --> 00:08:42,100
 Yeah, so that's how he and I know each other.
 
-123
-00:08:42,680 --> 00:08:43,680
+76
+00:08:42,400 --> 00:08:42,800
 Okay.
 
-124
-00:08:43,680 --> 00:08:50,960
-Yeah, and at the time when I was down there, we were trying to find a way to do med school
+77
+00:08:44,500 --> 00:08:52,720
+Yeah, and at the time when I was down there, we were trying to find a way to do medic school for our three EMTs there in Haiti.
 
-125
-00:08:50,960 --> 00:08:54,680
-for our three EMTs there in Haiti.
+78
+00:08:53,160 --> 00:08:53,500
+Yeah.
 
-126
-00:08:54,680 --> 00:08:57,240
+79
+00:08:54,280 --> 00:08:56,420
 But it proved to be pretty difficult.
 
+80
+00:08:57,700 --> 00:08:59,180
+It never quite panned out.
+
+81
+00:08:59,280 --> 00:09:04,040
+And then there were some internal issues and kind of everything got put on hold for a while.
+
+82
+00:09:06,300 --> 00:09:13,340
+So, yeah, this is a great backup plan for Claudel because the plan we were trying to get going never actually happened.
+
+83
+00:09:13,340 --> 00:09:20,900
+yeah well uh i as i mean the same lessons we all learned is everything in haiti is hard
+
+84
+00:09:20,900 --> 00:09:28,660
+you know and uh i think when you initially try to gauge a project you kind of gauge it in american
+
+85
+00:09:28,660 --> 00:09:34,780
+terms you know how hard is it going to be to put on an emt class well it's pretty hard in america
+
+86
+00:09:34,780 --> 00:09:39,760
+but you know it's literally comes down to as and from the instructor perspective it's
+
+87
+00:09:39,760 --> 00:09:44,740
+you know, you got to show up three nights a week and give up a few weekends for two, three months.
+
+88
+00:09:46,000 --> 00:09:50,780
+And it's, it seems doable, but then you try to translate that into how am I going to teach an
+
+89
+00:09:50,780 --> 00:09:59,240
+EMP class in Haiti with, you know, it's a 12 week program and you have, you know, 12 or 15
+
+90
+00:09:59,240 --> 00:10:07,200
+different instructors you have to fly down. And yeah, so it's pretty interesting how all that
+
+91
+00:10:07,200 --> 00:10:14,000
+works out. I think it's definitely best to train a few paramedics in the States. And then if there
+
+92
+00:10:14,000 --> 00:10:18,900
+was, you know, to be a program to be developed down there, there's, it's going to take some time.
+
+93
+00:10:18,900 --> 00:10:24,500
+And there's obviously going to have to be a development of trust between the national registry
+
+94
+00:10:24,500 --> 00:10:29,720
+or the hosting university or whoever it is that's going to certify these classes, these medics,
+
+95
+00:10:29,720 --> 00:10:38,080
+right right yeah i mean i think once there are a few haitian paramedics who can you know get that
+
+96
+00:10:38,080 --> 00:10:42,240
+experience in the u.s or wherever else they get it from and then take it back there i think that's
+
+97
+00:10:42,240 --> 00:10:48,400
+the that's the key especially because the there's not really a a robust 9-1-1 system to get that
+
+98
+00:10:48,400 --> 00:10:54,460
+experience like we have in other places yeah i mean i mean the the good news is about these guys
+
+99
+00:10:54,460 --> 00:11:01,340
+um haiti air ambulances generally not obviously you know not all the time but generally people
+
+100
+00:11:01,340 --> 00:11:08,640
+who require a flight are pretty sick so you know at least having exposure to those cases in haiti is
+
+101
+00:11:08,640 --> 00:11:14,060
+well my hopes are that that would be enough to keep these guys trained up and i haven't personally
+
+102
+00:11:14,060 --> 00:11:21,060
+worked or flown for a but from from you know the visiting the site i mean it's seems pretty
+
+103
+00:11:21,060 --> 00:11:26,220
+squared away i would even argue there might be some bases in the states that aren't as squared
+
+104
+00:11:26,220 --> 00:11:33,700
+away right as that base is so man it's a bummer looks like we're not gonna be able to have a
+
+105
+00:11:33,700 --> 00:11:42,080
+cloud with us huh yeah i know he keeps coming and going oh we got you yeah cool hey say something
+
+106
+00:11:42,080 --> 00:11:42,660
+while you're here.
+
+107
+00:11:47,220 --> 00:11:48,700
+What is the next question?
+
+108
+00:11:48,700 --> 00:11:50,260
+I missed so much.
+
+109
+00:11:55,640 --> 00:11:58,000
+Well, why don't you tell us about Impact Haiti
+
+110
+00:11:58,000 --> 00:11:59,160
+and how that all started?
+
+111
+00:12:01,200 --> 00:12:05,380
+Oh, Impact Haiti started in 2011.
+
+112
+00:12:07,020 --> 00:12:09,160
+And we got a sister organization,
+
+113
+00:12:09,480 --> 00:12:11,460
+which is Impact Not 20.
+
+114
+00:12:11,460 --> 00:12:21,200
+okay and then started as I said 2011 and Amadez Davidson that's where I met Amadez Davidson at
+
+115
+00:12:21,200 --> 00:12:28,280
+Borsche Park so he came after the F grade to help okay and then we created that organization
+
+116
+00:12:28,280 --> 00:12:38,300
+okay and I am still part of MPAC 80 and helping teaching first responder and then
+
+117
+00:12:38,300 --> 00:12:40,020
+EMT class, okay?
+
+118
+00:12:40,560 --> 00:12:42,680
+So in the past, we
+
+119
+00:12:42,680 --> 00:12:44,360
+had, you know,
+
+120
+00:12:45,520 --> 00:12:46,380
+Impact Northwest
+
+121
+00:12:46,380 --> 00:12:48,480
+but for now,
+
+122
+00:12:48,660 --> 00:12:50,440
+we are like an out
+
+123
+00:12:50,440 --> 00:12:52,800
+on, you know, and trying to
+
+124
+00:12:52,800 --> 00:12:53,900
+move forward.
+
+125
+00:12:54,580 --> 00:12:56,560
+So still the same
+
+126
+00:12:56,560 --> 00:12:58,380
+goal, teaching and
+
 127
-00:08:57,240 --> 00:08:59,360
-They never quite panned out.
+00:12:58,380 --> 00:13:00,160
+then helping, you know.
 
 128
-00:08:59,360 --> 00:09:04,920
-And there were some internal issues and kind of everything got put on hold for a while.
+00:13:01,600 --> 00:13:02,640
+Yeah, but in the
 
 129
-00:09:04,920 --> 00:09:12,520
-So yeah, this is a great backup plan for Claudel because the plan we were trying to get going
+00:13:02,640 --> 00:13:04,340
+past, we used to do mobile
 
 130
-00:09:12,520 --> 00:09:13,880
-never actually happened.
+00:13:04,340 --> 00:13:06,260
+clinic and then
 
 131
-00:09:13,880 --> 00:09:23,640
-Yeah, well, I mean, the same lessons we all learned is everything in Haiti is hard.
+00:13:06,260 --> 00:13:08,000
+several classes, you know,
 
 132
-00:09:23,640 --> 00:09:28,680
-I think when you initially try to gauge a project, you kind of gauge it in American
+00:13:08,300 --> 00:13:12,580
+Yeah, but I think we still got the same dream.
 
 133
-00:09:28,680 --> 00:09:32,920
-terms, you know, how hard is it going to be to put on an EMT class?
+00:13:13,200 --> 00:13:15,060
+And praise the Lord, our mother is Davidson.
 
 134
-00:09:32,920 --> 00:09:38,240
-Well, it's pretty hard in America, but you know, it's literally comes down to as from
+00:13:15,920 --> 00:13:24,040
+So I think he's helping now by creating the website, okay, for Empire KD.
 
 135
-00:09:38,240 --> 00:09:42,440
-the instructor perspective, it's, you know, you got to show up three nights a week and
-
-136
-00:09:42,440 --> 00:09:46,440
-give up a few weekends for two, three months.
-
-137
-00:09:46,440 --> 00:09:51,400
-And it seems doable, but then you try to translate that into how am I going to teach an EMT class
-
-138
-00:09:51,400 --> 00:09:59,600
-in Haiti with, you know, it's a 12 week program and you have, you know, 12 or 15 different
-
-139
-00:09:59,600 --> 00:10:02,960
-instructors you have to fly down.
-
-140
-00:10:02,960 --> 00:10:07,840
-And yeah, so it's pretty interesting how that works out.
-
-141
-00:10:07,840 --> 00:10:13,400
-I think it's definitely best to train a few paramedics in the States.
-
-142
-00:10:13,400 --> 00:10:18,120
-And then if there was, you know, to be a program to be developed down there, this is going
-
-143
-00:10:18,120 --> 00:10:23,560
-to take some time and there's obviously going to have to be a development of trust between
-
-144
-00:10:23,560 --> 00:10:28,480
-the national registry or the hosting university or whoever it is that's going to certify these
-
-145
-00:10:28,480 --> 00:10:30,840
-classes, these medics, right?
-
-146
-00:10:30,840 --> 00:10:31,840
-Right.
-
-147
-00:10:31,840 --> 00:10:32,840
-Yeah.
-
-148
-00:10:32,840 --> 00:10:38,840
-I mean, I think once there are a few Haitian paramedics who can get that experience in
-
-149
-00:10:38,840 --> 00:10:42,840
-the US or wherever else they get it from and then take it back there, I think that's the
-
-150
-00:10:42,840 --> 00:10:49,640
-key, especially because there's not really a robust 911 system to get that experience
-
-151
-00:10:49,640 --> 00:10:50,960
-like we have in other places.
-
-152
-00:10:50,960 --> 00:10:51,960
-Yeah.
-
-153
-00:10:51,960 --> 00:10:58,080
-I mean, I mean the good news is about these guys, Haiti Air Ambulance is generally, not
-
-154
-00:10:58,080 --> 00:11:02,600
-obviously, you know, not all the time, but generally people who require a flight are
-
-155
-00:11:02,600 --> 00:11:03,600
-pretty sick.
-
-156
-00:11:03,600 --> 00:11:10,760
-So at least having exposure to those cases in Haiti is, well, my hopes are that that
-
-157
-00:11:10,760 --> 00:11:13,240
-would be enough to keep these guys trained up.
-
-158
-00:11:13,240 --> 00:11:19,520
-And I haven't personally worked or flown for a, but from, you know, the visiting the site,
-
-159
-00:11:19,520 --> 00:11:22,520
-I mean, it's seems pretty squared away.
-
-160
-00:11:22,520 --> 00:11:28,040
-I would argue there might be some bases in the States that aren't as squared away as
-
-161
-00:11:28,040 --> 00:11:29,040
-that basis.
-
-162
-00:11:29,040 --> 00:11:31,040
-So man, it's a bummer.
-
-163
-00:11:31,040 --> 00:11:35,520
-It looks like we're not going to be able to have a cloud all with us, huh?
-
-164
-00:11:35,520 --> 00:11:36,520
-Yeah, I know.
-
-165
-00:11:36,520 --> 00:11:37,520
-It keeps coming and going.
-
-166
-00:11:37,520 --> 00:11:39,520
-Oh, we got you.
-
-167
-00:11:39,520 --> 00:11:40,520
-Yeah.
-
-168
-00:11:41,280 --> 00:11:43,280
-Hey, say something while you're here.
-
-169
-00:11:47,560 --> 00:11:49,040
-That is the next question.
-
-170
-00:11:49,040 --> 00:11:50,040
-I may.
-
-171
-00:11:56,040 --> 00:12:01,160
-Well, why don't you tell us about impact Haiti and how that all started?
-
-172
-00:12:01,160 --> 00:12:05,680
-Oh, impact Haiti started on 2011.
-
-173
-00:12:05,680 --> 00:12:11,720
-So and we got a sister organization, which is impact not 20.
-
-174
-00:12:11,720 --> 00:12:18,960
-OK, and then started, as I said, 2011 and Amadeus Davison.
-
-175
-00:12:18,960 --> 00:12:22,440
-That's where I met Amadeus Davison at Bojie Park.
-
-176
-00:12:22,440 --> 00:12:25,240
-So it came after the upgrade to here.
-
-177
-00:12:25,240 --> 00:12:28,920
-OK, and then we created that organization.
-
-178
-00:12:28,920 --> 00:12:38,680
-OK, and I am still part of impact Haiti and helping teaching first responder and then
-
-179
-00:12:38,680 --> 00:12:39,680
-EMT class.
-
-180
-00:12:39,680 --> 00:12:48,200
-OK, so in the past, we had, you know, impact not to us, but it was, you know, but for
-
-181
-00:12:48,200 --> 00:12:54,360
-now, we are like an hour on, you know, and trying to move forward.
-
-182
-00:12:54,360 --> 00:12:58,000
-OK, so still the same goal teaching.
-
-183
-00:12:58,000 --> 00:13:06,240
-And then helping, you know, yeah, but in the past, we used to do mobile clinic and then
-
-184
-00:13:06,240 --> 00:13:08,440
-several classes, you know.
-
-185
-00:13:08,440 --> 00:13:15,960
-Yeah, but I think we still got the same dream and praise the Lord Amadeus Davison.
-
-186
-00:13:15,960 --> 00:13:24,240
-So I think he's helping now by creating the website, OK, for impact Haiti.
-
-187
-00:13:24,240 --> 00:13:26,280
+00:13:24,300 --> 00:13:25,880
 And then we are trying to move on.
 
-188
-00:13:26,280 --> 00:13:27,280
+136
+00:13:25,880 --> 00:13:26,600
 Yeah.
 
-189
-00:13:28,000 --> 00:13:37,960
-So impact Haiti and New Twist help us teaching the first EMT class.
+137
+00:13:27,760 --> 00:13:38,160
+So Empire KD and Twist help us teaching the first EMT class, okay?
 
-190
-00:13:37,960 --> 00:13:42,960
-OK, so when I graduated September 2011.
+138
+00:13:38,300 --> 00:13:50,040
+So when I graduated September 2011, okay, and after the first class, we had two other classes, EMT classes, I meant.
 
-191
-00:13:42,960 --> 00:13:50,600
-OK, and after the first class, we had two other classes, EMT classes I met.
+139
+00:13:50,460 --> 00:13:56,940
+And a few first responder classes, okay, yeah, and we still have the same dream.
 
-192
-00:13:50,600 --> 00:13:57,280
-And if you first responder classes, OK, yeah, and we still have the same dream.
+140
+00:13:57,240 --> 00:13:59,620
+We don't want to give up, okay.
 
-193
-00:13:57,280 --> 00:14:00,720
-We don't want to give up.
-
-194
-00:14:00,720 --> 00:14:03,080
+141
+00:14:00,440 --> 00:14:00,920
 Yeah.
 
-195
-00:14:03,080 --> 00:14:08,320
-And do you guys have an idea of how many EMS providers, how many teams you guys have trained
+142
+00:14:02,680 --> 00:14:08,100
+And do you guys have an idea, like, how many EMS providers, how many NTs you guys have trained?
 
-196
-00:14:08,320 --> 00:14:11,440
+143
+00:14:08,300 --> 00:14:11,900
 in the last 10 years since you guys started?
 
-197
-00:14:11,440 --> 00:14:13,920
+144
+00:14:11,900 --> 00:14:14,780
 OK, you want to answer this?
 
-198
-00:14:13,920 --> 00:14:16,360
+145
+00:14:14,780 --> 00:14:16,320
 I'll tell you what, I'll give it a shot.
 
-199
-00:14:16,360 --> 00:14:18,000
+146
+00:14:16,320 --> 00:14:17,820
 You can fill in the holes.
 
-200
-00:14:18,000 --> 00:14:26,560
-So the first two EMT classes that we trained were I think the first one was 14 students
+147
+00:14:17,820 --> 00:14:24,280
+So the first two EMT classes that we trained were,
 
-201
-00:14:26,560 --> 00:14:32,760
-and the second one was what, 18 students, Claudio, the second EMT class?
+148
+00:14:24,280 --> 00:14:26,620
+I think the first one was 14 students,
 
-202
-00:14:32,760 --> 00:14:34,560
-The second was Amadeus Davison.
+149
+00:14:26,620 --> 00:14:30,420
+and the second one was, what, 18 students, Claudel?
 
-203
-00:14:34,560 --> 00:14:36,680
-It was about 25.
+150
+00:14:30,420 --> 00:14:32,620
+The second EMT class?
 
-204
-00:14:36,680 --> 00:14:38,840
-Oh, wow, wow, wow.
+151
+00:14:32,620 --> 00:14:37,360
+The second was about 25.
 
-205
-00:14:38,840 --> 00:14:40,160
-OK, yeah.
+152
+00:14:37,360 --> 00:14:52,080
+Oh, wow, wow, wow. Okay, yeah. So the thing is, this kind of just grew, this whole thing grew organically, because like I said, we worked with, essentially, the first entire class of EMTs were the translators that worked with us.
 
-206
-00:14:40,160 --> 00:14:45,600
-So the thing is, this kind of just grew, this whole thing grew organically because like
+153
+00:14:52,080 --> 00:15:09,160
+And I think if there's anything, whether it was intentional or not, you know, when you join EMS or pre-hospital or even medicine, there's that just the general idea that we need to not only learn, but also be educators.
 
-207
-00:14:45,600 --> 00:14:51,240
-I said, we worked with essentially the first entire class of EMTs were the translators
+154
+00:15:09,800 --> 00:15:20,000
+And I think these guys took that on naturally and started teaching first responder classes almost immediately after they had picked up their EMT lessons.
 
-208
-00:14:51,240 --> 00:14:54,040
-that worked with us.
+155
+00:15:20,000 --> 00:15:25,060
+So, but to answer your question, I mean, we're in the several hundred first responders.
 
-209
-00:14:54,040 --> 00:15:01,000
-And I think if there's anything, whether it was intentional or not, when you join EMS
-
-210
-00:15:01,000 --> 00:15:07,480
-or pre-hospital or even medicine, there's just the general idea that we need to not
-
-211
-00:15:07,480 --> 00:15:10,200
-only learn, but also be educators.
-
-212
-00:15:10,200 --> 00:15:16,760
-And I think these guys took that on naturally and started teaching first responder classes
-
-213
-00:15:16,760 --> 00:15:20,120
-almost immediately after they had picked up their EMT lessons.
-
-214
-00:15:21,120 --> 00:15:25,640
-But to answer your question, I mean, we're in the several hundred first responders.
-
-215
-00:15:25,640 --> 00:15:28,640
+156
+00:15:25,780 --> 00:15:28,200
 So EMTs, right, Claudel, something around there?
 
-216
-00:15:28,640 --> 00:15:29,640
-Yeah, they were around.
+157
+00:15:28,780 --> 00:15:30,520
+Yeah, yes, I agree.
 
-217
-00:15:29,640 --> 00:15:30,640
-Yes, I agree.
-
-218
-00:15:30,640 --> 00:15:31,640
+158
+00:15:30,760 --> 00:15:30,940
 Yeah.
 
-219
-00:15:33,720 --> 00:15:37,160
-And yeah, I'm just going to throw in there real quick.
+159
+00:15:33,560 --> 00:15:37,120
+And I'm just going to say, I was just going to throw in there real quick.
 
-220
-00:15:37,160 --> 00:15:39,520
-It's a real mind melt to know.
+160
+00:15:37,180 --> 00:15:43,740
+It's a real mind melt to know 10 years ago, you know, we just accidentally kind of put on this EMT class.
 
-221
-00:15:39,520 --> 00:15:45,360
-Ten years ago, we just accidentally kind of put on this EMT class and then to show up.
+161
+00:15:43,740 --> 00:15:48,920
+And then to show up, you know, I went down there earlier this year and spent some time with Claudel.
 
-222
-00:15:45,360 --> 00:15:49,440
-I went down there earlier this year and spent some time with Claudel.
+162
+00:15:48,920 --> 00:16:01,540
+But to see these people in uniform and like huge turnouts, you know, 20, 30 students showing up two, three times a week on their own dime, just out of commitment to the community.
 
-223
-00:15:49,440 --> 00:15:55,800
-But to see these people in uniform and like huge turnouts, you know, 20, 30 students showing
+163
+00:16:01,540 --> 00:16:06,080
+It's really amazing to see. So we're hoping to keep that going.
 
-224
-00:15:55,800 --> 00:16:01,640
-up two, three times a week on their own dime, just out of commitment to the community.
+164
+00:16:06,080 --> 00:16:33,480
+And, you know, to add to this incredible work that Impact Haiti, Claudel and his cohorts have been doing down there over the past decade, we're trying to create a scholarship program through Impact Haiti where maybe after Claudel gets through, maybe we can send a second or third or fourth medic to the United States for training or to develop enough funds and a system where we can start actually teaching paramedic classes in Haiti itself.
 
-225
-00:16:01,640 --> 00:16:03,920
-It's really amazing to see.
+165
+00:16:33,480 --> 00:16:40,180
+that would be outstanding but uh that'd be awesome yeah that'd be all up to these guys to direct so
 
-226
-00:16:03,920 --> 00:16:06,320
-So we're hoping to keep that going.
+166
+00:16:40,180 --> 00:16:50,020
+so as far as claudel going to paramedic school in the u.s what's the what's the status on that
 
-227
-00:16:06,320 --> 00:16:12,080
-And, you know, to add to this incredible work that impact Haiti, Claudel and his cohorts
+167
+00:16:50,020 --> 00:16:54,560
+how do we have like a date of when we think he's going to start school are there still hurdles we
 
-228
-00:16:12,080 --> 00:16:19,080
-have been doing down there over the past decade, we're trying to create a scholarship program
+168
+00:16:54,560 --> 00:17:03,120
+got to get over before that happens what's that landscape look like yeah go ahead claudel
 
-229
-00:16:19,080 --> 00:16:24,640
-through impact Haiti, where maybe after Claudel gets through, maybe we can send a second or
+169
+00:17:03,120 --> 00:17:29,000
+Yeah, you know, there is some hiccups, you know, in the process, but we still keep on going. We are not stopping. Yeah. As you know, there is an issue and political issue in Haiti for now. And the embassy is closed. Okay. So we're supposed to wait until it's possible to get the F1 visa. Okay.
 
-230
-00:16:24,640 --> 00:16:30,040
-third or fourth medic to the United States for training or to develop enough funds and
+170
+00:17:29,000 --> 00:17:32,980
+and then it seems like we will,
 
-231
-00:16:30,040 --> 00:16:33,640
-a system where we can start actually teaching paramedic classes in Haiti itself.
+171
+00:17:33,580 --> 00:17:37,960
+I will start school in January, right, Amadeus?
 
-232
-00:16:33,640 --> 00:16:34,640
-That would be outstanding.
-
-233
-00:16:34,640 --> 00:16:35,640
-But that'd be awesome.
-
-234
-00:16:35,640 --> 00:16:40,080
-Yeah, that'd be all up to these guys to direct.
-
-235
-00:16:40,080 --> 00:16:49,000
-So so as far as Claudel going to paramedic school in the US, what's the what's the
-
-236
-00:16:49,240 --> 00:16:50,240
-status on that?
-
-237
-00:16:50,240 --> 00:16:53,240
-How do we have like a date of when we think it's going to start school?
-
-238
-00:16:53,240 --> 00:16:57,000
-Are there still hurdles we got to get over before that happens?
-
-239
-00:16:57,000 --> 00:17:00,000
-What's that landscape look like?
-
-240
-00:17:00,000 --> 00:17:01,000
+172
+00:17:38,460 --> 00:17:38,780
 Yeah.
 
-241
-00:17:01,000 --> 00:17:04,000
-Go ahead, Claudel.
-
-242
-00:17:04,000 --> 00:17:10,520
-Yeah, you know, there is some hiccups, you know, and the process, but we still keep on
-
-243
-00:17:10,520 --> 00:17:11,520
-going.
-
-244
-00:17:11,520 --> 00:17:13,520
-We are not stopping.
-
-245
-00:17:13,520 --> 00:17:14,520
+173
+00:17:39,980 --> 00:17:40,580
 Yeah.
 
-246
-00:17:14,680 --> 00:17:21,440
-How does he know there is an issue and political issue in Haiti for now and the embassy is
+174
+00:17:40,860 --> 00:17:45,080
+Yeah, so we had a primary plan of starting this fall.
 
-247
-00:17:21,440 --> 00:17:22,040
-close.
+175
+00:17:46,100 --> 00:17:47,660
+It's a university, or I'm sorry,
 
-248
-00:17:22,040 --> 00:17:28,360
-OK, so we're supposed to wait until it's possible to get the F1 visa.
+176
+00:17:47,940 --> 00:17:50,340
+Dixie State University runs on a semester system.
 
-249
-00:17:28,360 --> 00:17:29,360
-OK.
+177
+00:17:50,480 --> 00:17:52,620
+So we're hoping for this fall,
 
-250
-00:17:29,360 --> 00:17:36,920
-And then it seems like we will I will start school in January.
+178
+00:17:52,700 --> 00:17:54,160
+which would be an August start date,
 
-251
-00:17:37,040 --> 00:17:37,400
-Right.
+179
+00:17:54,160 --> 00:17:56,420
+but because of the F-1 visa and embassy issue,
 
-252
-00:17:37,400 --> 00:17:38,280
-Amadeus?
+180
+00:17:56,800 --> 00:17:58,300
+we're going to have to probably kick it down
 
-253
-00:17:38,280 --> 00:17:39,280
-Yeah.
+181
+00:17:58,300 --> 00:18:00,440
+until spring, which actually starts in January.
 
-254
-00:17:40,320 --> 00:17:40,960
-Yeah.
+182
+00:18:02,000 --> 00:18:07,400
+But I think it'll all work out if we can get the reciprocity for his EMT,
 
-255
-00:17:41,040 --> 00:17:41,440
-Yeah.
+183
+00:18:07,620 --> 00:18:10,740
+which we have a pathway to accomplish.
 
-256
-00:17:41,440 --> 00:17:45,240
-So we had a primary plan of starting this fall.
+184
+00:18:12,020 --> 00:18:17,600
+So if he can get his prereqs done starting January,
 
-257
-00:17:45,960 --> 00:17:50,440
-It's the university or I'm sorry, Dixie State University runs on a semester system.
+185
+00:18:17,880 --> 00:18:21,140
+and then he'll be able to roll right into the paramedic program,
 
-258
-00:17:50,440 --> 00:17:54,240
-So we're hoping for this fall, which would be an August start date.
+186
+00:18:21,240 --> 00:18:22,800
+which will start in August of 22.
 
-259
-00:17:54,240 --> 00:17:58,400
-But because of the F1 visa and embassy issue, we're going to have to probably kick it down
-
-260
-00:17:58,400 --> 00:18:00,760
-till spring, which actually starts in January.
-
-261
-00:18:00,760 --> 00:18:08,400
-And but I think it'll all work out if we can get the reciprocity for his EMT, which we
-
-262
-00:18:08,400 --> 00:18:12,040
-have a pathway to accomplish.
-
-263
-00:18:12,040 --> 00:18:20,800
-So he rex done this starting January and then he'll be able to roll right into the paramedic
-
-264
-00:18:20,800 --> 00:18:23,200
-program, which will start in August of twenty two.
-
-265
-00:18:23,200 --> 00:18:25,080
+187
+00:18:23,100 --> 00:18:24,880
 So that's the current plan.
 
-266
-00:18:25,080 --> 00:18:28,360
+188
+00:18:25,480 --> 00:18:27,820
 I thought I heard Claudel trying to add something there.
 
-267
-00:18:28,360 --> 00:18:29,360
-Oh, yeah.
+189
+00:18:28,300 --> 00:18:42,820
+Oh, yeah, yeah. I was about to say, you know, we will not give up. It's a long process, you know, and it's life. It is what it is. OK. And because of the hiccups, that doesn't mean we're going to stop, you know.
 
-268
-00:18:29,360 --> 00:18:30,360
+190
+00:18:42,820 --> 00:18:45,840
+and as Amadou said
+
+191
+00:18:45,840 --> 00:18:48,920
+after I will become the first paramedic
+
+192
+00:18:48,920 --> 00:18:51,940
+so there will be a few people
+
+193
+00:18:51,940 --> 00:18:53,480
+and two or three or more
+
+194
+00:18:53,480 --> 00:18:55,320
+you know where we'll keep on training
+
+195
+00:18:55,320 --> 00:18:58,200
+you know and the US to become paramedical
+
+196
+00:18:58,200 --> 00:19:00,980
+so yeah so it's not a single dream
+
+197
+00:19:00,980 --> 00:19:03,980
+but it's a long process
+
+198
+00:19:03,980 --> 00:19:05,460
+you know to help other people
+
+199
+00:19:05,460 --> 00:19:09,340
+I mean Haitian become paramedic also
+
+200
+00:19:09,340 --> 00:19:10,200
+yeah
+
+201
+00:19:10,200 --> 00:19:12,480
+yeah that's awesome
+
+202
+00:19:12,480 --> 00:19:17,280
+So there's not any paramedics currently in Haiti.
+
+203
+00:19:17,940 --> 00:19:20,340
+What is EMS like there?
+
+204
+00:19:20,920 --> 00:19:23,280
+What level are the providers trained to?
+
+205
+00:19:23,440 --> 00:19:24,940
+And what kind of ambulances are they in?
+
+206
+00:19:25,080 --> 00:19:26,180
+Or what kind of service is it?
+
+207
+00:19:27,880 --> 00:19:28,320
 Yeah.
 
-269
-00:18:30,360 --> 00:18:32,760
-I was about to say, you know, we will not give up.
+208
+00:19:29,040 --> 00:19:35,000
+We got Cannambulance, which is the national case for the government.
 
-270
-00:18:32,760 --> 00:18:36,640
-It's a long process, you know, and it's life.
-
-271
-00:18:36,640 --> 00:18:37,640
-It is what it is.
-
-272
-00:18:37,640 --> 00:18:38,640
-OK.
-
-273
-00:18:38,640 --> 00:18:45,000
-And because of the hip-hop, that doesn't mean we're going to stop, you know, and as
-
-274
-00:18:45,000 --> 00:18:49,400
-a mother said, after I will become the first paramedic.
-
-275
-00:18:49,400 --> 00:18:55,600
-So there will be a few people and two or three or more, you know, we will keep on training,
-
-276
-00:18:55,600 --> 00:18:58,400
-you know, and the US to become paramedic.
-
-277
-00:18:58,400 --> 00:19:05,040
-So, yeah, so it's not a single dream, but it's a long process, you know, to help other
-
-278
-00:19:05,040 --> 00:19:06,040
-people.
-
-279
-00:19:06,040 --> 00:19:07,040
-And that's what I mean.
-
-280
-00:19:07,040 --> 00:19:09,800
-Haitian become a paramedic also.
-
-281
-00:19:09,800 --> 00:19:10,800
-Yeah.
-
-282
-00:19:10,800 --> 00:19:13,120
-Yeah, that's awesome.
-
-283
-00:19:13,120 --> 00:19:20,000
-So if there's so there's not any paramedics currently in Haiti, what is the what is EMS
-
-284
-00:19:20,000 --> 00:19:21,360
-like there?
-
-285
-00:19:21,360 --> 00:19:25,160
-What level are the providers trained to and like what kind of ambulances are they in or
-
-286
-00:19:25,160 --> 00:19:27,920
-what kind of service is it?
-
-287
-00:19:27,920 --> 00:19:35,760
-Yeah, we got cannon villains, which is the national gates for the government.
-
-288
-00:19:35,760 --> 00:19:40,000
+209
+00:19:36,000 --> 00:19:37,720
 So it's European.
 
-289
-00:19:40,000 --> 00:19:45,720
-They are following that European protocols, you know, they got a driver on the ambulance
+210
+00:19:39,240 --> 00:19:41,980
+They are following the European protocols.
 
-290
-00:19:45,720 --> 00:19:48,480
-and a nurse and a first responder.
+211
+00:19:42,480 --> 00:19:47,960
+They got a driver on the ambulance and a nurse and a first responder.
 
-291
-00:19:48,480 --> 00:19:57,200
-OK, so that training they receive seems like the same as I mean, any empty, almost the
+212
+00:19:48,440 --> 00:19:48,540
+Okay.
 
-292
-00:19:57,200 --> 00:19:58,200
-same.
+213
+00:19:48,540 --> 00:19:56,340
+So that training they received seems like the same as, I mean, any empty.
 
-293
-00:19:58,200 --> 00:19:59,840
+214
+00:19:56,660 --> 00:19:56,780
+Okay.
+
+215
+00:19:56,800 --> 00:19:57,580
+Almost the same.
+
+216
+00:19:57,860 --> 00:19:59,900
 So the difference is a language.
 
-294
-00:19:59,840 --> 00:20:02,160
-OK, it's in French.
+217
+00:20:00,180 --> 00:20:00,360
+Okay.
 
-295
-00:20:02,160 --> 00:20:03,160
+218
+00:20:00,420 --> 00:20:01,040
+It's in French.
+
+219
+00:20:01,260 --> 00:20:01,360
+Okay.
+
+220
+00:20:01,940 --> 00:20:02,320
 Yeah.
 
-296
-00:20:03,160 --> 00:20:08,840
-And MSPP cannon villains got a few ground ambulances.
+221
+00:20:02,560 --> 00:20:08,380
+And MSPP can ambulance got a few ground ambulances.
 
-297
-00:20:08,840 --> 00:20:14,600
-OK, you know, it's not perfect, but they are doing the job anyway.
+222
+00:20:08,920 --> 00:20:09,260
+Okay.
 
-298
-00:20:14,600 --> 00:20:15,600
-Yeah.
+223
+00:20:09,260 --> 00:20:12,040
+you know it's not perfect but
 
-299
-00:20:15,600 --> 00:20:24,360
-And we got a few private ground ambulance services also about, let's say, three of them, which
+224
+00:20:12,040 --> 00:20:14,000
+they are doing the job anyway
 
-300
-00:20:24,360 --> 00:20:29,480
-is a human violence and the salmon villains.
+225
+00:20:14,000 --> 00:20:16,240
+yeah and we got
 
-301
-00:20:29,920 --> 00:20:33,040
-And there is a cross ambulance.
+226
+00:20:16,240 --> 00:20:18,200
+a few private
 
-302
-00:20:33,040 --> 00:20:38,120
-OK, yeah, there is not a lot, but we are still doing the job.
+227
+00:20:18,200 --> 00:20:20,220
+ground ambulance
 
-303
-00:20:38,120 --> 00:20:39,800
-OK, yeah.
+228
+00:20:20,220 --> 00:20:21,980
+services also about
 
-304
-00:20:39,800 --> 00:20:44,200
-So there is no, I mean, critical care.
+229
+00:20:21,980 --> 00:20:23,920
+let's say three of them
 
-305
-00:20:44,200 --> 00:20:47,240
-You know, it's just basic care.
+230
+00:20:23,920 --> 00:20:26,020
+which is hero ambulance
 
-306
-00:20:47,240 --> 00:20:52,400
-OK, those EMTs, nurses are giving and those ground ambulances.
+231
+00:20:26,020 --> 00:20:28,080
+and there is
 
-307
-00:20:52,400 --> 00:20:53,720
-OK, yeah.
+232
+00:20:28,080 --> 00:20:29,620
+some ambulance okay
 
-308
-00:20:53,720 --> 00:20:56,480
-And yeah, that's that's it.
+233
+00:20:29,620 --> 00:20:32,360
+and there is red cross
 
-309
-00:20:56,480 --> 00:20:59,480
-I don't know if you want to add something about this.
+234
+00:20:32,360 --> 00:20:34,300
+ambulance okay yeah there is
 
-310
-00:20:59,480 --> 00:21:05,200
-You know, you are in Haiti and you see, oh, it's going on.
+235
+00:20:34,300 --> 00:20:35,360
+not a lot but
 
-311
-00:21:05,200 --> 00:21:07,400
-So you want to add something about this?
+236
+00:20:35,360 --> 00:20:38,020
+we are still doing the job
 
-312
-00:21:07,400 --> 00:21:12,800
-Yeah, I think trying to articulate what you're explaining, Cludel, because obviously for
+237
+00:20:38,020 --> 00:20:48,400
+okay yeah so there is no i mean critical care you know it's just um basic care okay that those
 
-313
-00:21:12,800 --> 00:21:18,040
-folks who have been in Haiti, we completely understand the picture of what you're saying.
+238
+00:20:48,400 --> 00:20:56,860
+emts nurses are given and those ground ambulances okay yeah and um yeah that's that's it i don't
 
-314
-00:21:18,040 --> 00:21:22,680
-But I think for some maybe EMTs or paramedics who've only worked in the States or in Canada
+239
+00:20:56,860 --> 00:21:04,020
+know if you want to add something a mother is you know you're in haiti and you see oh it's you know
 
-315
-00:21:22,680 --> 00:21:25,200
-might not quite understand.
+240
+00:21:04,020 --> 00:21:11,500
+going on. So you want to add something? Yeah, I think trying to articulate what you're explaining,
 
-316
-00:21:25,200 --> 00:21:33,560
-So if I can be as bold to try to articulate a little bit, it's kind of like maybe where
+241
+00:21:11,680 --> 00:21:16,000
+Claudel, because obviously, for folks who have been in Haiti, we completely understand the
 
-317
-00:21:33,560 --> 00:21:40,000
-the US was back in the 50s and 60s in terms of pre-hospital care capabilities.
+242
+00:21:16,000 --> 00:21:21,520
+picture of what you're saying. But I think for some maybe EMTs or paramedics who've only worked
 
-318
-00:21:40,000 --> 00:21:47,120
-So much of the population still relies on if the person who hit you hopefully stops
+243
+00:21:21,520 --> 00:21:29,680
+in the States or in Canada might, might not quite understand. So if I can, you know, be as bold to
 
-319
-00:21:47,120 --> 00:21:48,600
-and takes you to the hospital.
+244
+00:21:29,680 --> 00:21:35,500
+try to articulate it a little bit. It's kind of like maybe where the U.S. was back in the 50s and
 
-320
-00:21:48,600 --> 00:21:52,560
-So I think that's a very common occurrence that still happens in Haiti.
+245
+00:21:35,500 --> 00:21:43,480
+60s in terms of pre-hospital care capabilities. So much of the population still relies on if
 
-321
-00:21:53,560 --> 00:21:54,560
-Yeah.
+246
+00:21:43,480 --> 00:21:49,620
+the person who hit you hopefully stops and takes you to the hospital. So I think that's a very
 
-322
-00:21:54,560 --> 00:22:00,880
-And the infrastructure is so over taxed and just not able to keep up with the population
+247
+00:21:49,620 --> 00:21:57,560
+common occurrence that still happens in Haiti. Yeah. And the infrastructure is so overtaxed
 
-323
-00:22:00,880 --> 00:22:02,080
-in the city of Port-au-Prince.
+248
+00:21:57,560 --> 00:22:01,940
+and just not able to keep up with the population in the city of Port-au-Prince.
 
-324
-00:22:02,080 --> 00:22:08,040
-So it's even if you had a fleet of ambulances that were capable, having an ambulance show
+249
+00:22:02,160 --> 00:22:05,640
+So even if you had a fleet of ambulances that were capable,
 
-325
-00:22:08,040 --> 00:22:13,760
-up to you within half an hour to an hour is pretty iffy.
+250
+00:22:06,240 --> 00:22:13,020
+having an ambulance show up to you within half an hour to an hour is pretty iffy.
 
-326
-00:22:13,760 --> 00:22:18,760
-And then when somebody does show up, like Cludel said, they're basic level, first responder
+251
+00:22:13,700 --> 00:22:16,120
+And then when somebody does show up, like Claudel said,
 
-327
-00:22:18,760 --> 00:22:20,160
-level trained folks.
+252
+00:22:16,220 --> 00:22:20,060
+they're basic level, first responder level trained folks.
 
-328
-00:22:20,160 --> 00:22:24,760
+253
+00:22:20,380 --> 00:22:24,260
 So they're going to throw you in the back of the truck and drive as fast as possible
 
-329
-00:22:24,760 --> 00:22:27,800
+254
+00:22:24,260 --> 00:22:27,660
 is kind of the care plan down there.
 
-330
-00:22:27,800 --> 00:22:29,560
-So yeah.
+255
+00:22:28,040 --> 00:22:31,240
+So, yeah, and having, you know,
 
-331
-00:22:29,560 --> 00:22:37,400
-And having mid-level providers and paramedics would most certainly elevate and force multiply
+256
+00:22:31,440 --> 00:22:33,160
+mid-level providers and paramedics
 
-332
-00:22:37,400 --> 00:22:40,800
-the system for sure.
+257
+00:22:33,160 --> 00:22:35,760
+would most certainly elevate
 
-333
-00:22:40,800 --> 00:22:46,400
-You got to have advanced providers to kind of lead the way, show the light and raise
+258
+00:22:35,760 --> 00:22:39,700
+and force multiply the system for sure.
 
-334
-00:22:46,400 --> 00:22:47,400
-the bar.
+259
+00:22:40,360 --> 00:22:41,980
+You know, you got to have advanced providers
 
-335
-00:22:47,400 --> 00:22:51,920
+260
+00:22:41,980 --> 00:22:44,800
+to kind of lead the way, show the light,
+
+261
+00:22:45,040 --> 00:22:46,940
+and raise the bar.
+
+262
+00:22:46,940 --> 00:22:48,900
 So, you know.
 
+263
+00:22:51,420 --> 00:22:54,240
+And then there are also some of the EMS providers
+
+264
+00:22:54,240 --> 00:22:58,280
+some of the EMTs and first responders that you guys have trained who are working in facilities
+
+265
+00:22:58,280 --> 00:23:09,400
+as well, right, in the hospitals? Yeah, mostly at Benamit Hospital, and I think there is an
+
+266
+00:23:09,400 --> 00:23:19,900
+organization hospital called JPHRO. So I think those two hospitals, you will find EMTs working.
+
+267
+00:23:19,900 --> 00:23:25,680
+Yeah, but besides those two, you will not find any EMTs.
+
+268
+00:23:25,960 --> 00:23:27,940
+It's just going to be first responders.
+
+269
+00:23:29,260 --> 00:23:38,400
+But no advanced level like paramedic intubating people, like pushing knocks.
+
+270
+00:23:38,760 --> 00:23:40,140
+Yeah, you will not find those.
+
+271
+00:23:40,440 --> 00:23:42,380
+So in the ground ambulance, no.
+
+272
+00:23:42,380 --> 00:23:50,920
+and then you Claudel had most of your experiences at EMT both in the hospital at Bernard Mevs there
+
+273
+00:23:50,920 --> 00:23:55,040
+in Port-au-Prince but also flying with Haiti or ambulance do you want to talk about that a bit
+
+274
+00:23:55,040 --> 00:24:06,760
+and tell us about how you got into that role yeah I studied as a first responder 2010 and then 2011
+
+275
+00:24:06,760 --> 00:24:14,000
+September 2011, became one of the first EMT, you know, for Haiti.
+
+276
+00:24:14,780 --> 00:24:19,380
+And right after Amadeus Davidson, Impact Northwest,
+
+277
+00:24:20,020 --> 00:24:29,840
+found a job for all of us, okay, at the hospital Benamivs, okay.
+
+278
+00:24:29,840 --> 00:24:41,640
+And since that, I'm still working for Benamips Hospital as a translator and treating patient also as an EMT.
+
+279
+00:24:42,360 --> 00:24:55,980
+And 2014, so there was, let's say, 80 ambulances showed up and they want to hire EMTs and translators.
+
+280
+00:24:55,980 --> 00:25:06,680
+So I applied for that job and I was one of the four EMTs, okay, they choose to ride along with them, okay.
+
+281
+00:25:07,140 --> 00:25:16,560
+And yeah, so I started as the beginning, as the beginner, okay, at AD Ambulance, okay.
+
+282
+00:25:16,900 --> 00:25:19,160
+And until now, still flying with them.
+
+283
+00:25:19,160 --> 00:25:24,440
+It was a dream, and finally that dream becomes true.
+
+284
+00:25:25,040 --> 00:25:34,280
+And I feel proud to work with AD Air Ambulance and then helping them, you know, basic stuff and critical stuff also.
+
+285
+00:25:35,340 --> 00:25:40,000
+And, yeah, like intubating patients and studying IV.
+
+286
+00:25:40,000 --> 00:25:49,580
+and I remember Ryan Kerr, you helped me putting my first, you helped me starting, yeah, my first
+
+287
+00:25:49,580 --> 00:25:58,520
+EJ, okay, that was phenomenal, okay, and then EJ is still doing the same thing, okay, and sometimes
+
+288
+00:25:58,520 --> 00:26:06,000
+they change us role, you know, we are allowed to start IVs, you know, to, yeah, to do a lot, okay,
+
+289
+00:26:06,000 --> 00:26:14,840
+So I want to move forward, become a paramedic, helping more people and then teaching more people also.
+
+290
+00:26:15,500 --> 00:26:21,600
+OK. And then having the first paramedic class in Haiti for Haiti.
+
+291
+00:26:22,100 --> 00:26:24,320
+OK. So that's that's a trend.
+
+292
+00:26:26,080 --> 00:26:30,620
+And do you have any idea what that process will look like once you finish school?
+
+293
+00:26:30,620 --> 00:26:38,220
+because I remember from when I was down there, there was talk about the complications related
+
+294
+00:26:38,220 --> 00:26:44,040
+to working a paramedic program into the public health system and getting the Ministry of Health
+
+295
+00:26:44,040 --> 00:26:52,920
+involved in that. Yeah, it was complicated. Government change from time to time, and you
+
+296
+00:26:52,920 --> 00:26:59,700
+never know when you will find a good, yeah, directors, you know, minister.
+
+297
+00:26:59,700 --> 00:27:01,500
+Yeah, it's kind of hard.
+
+298
+00:27:01,780 --> 00:27:07,440
+But for now, we are working closely with Cannes Ambulance and MSPP.
+
+299
+00:27:07,900 --> 00:27:11,940
+So they want to work with AED Ambulance, okay?
+
+300
+00:27:12,480 --> 00:27:17,700
+And AED Ambulance also is working in a process to help, I mean,
+
+301
+00:27:18,100 --> 00:27:19,880
+to become paramedic, okay?
+
+302
+00:27:19,880 --> 00:27:25,060
+And, yeah, I mean, that's the base, that's the ambulance.
+
+303
+00:27:25,680 --> 00:27:27,340
+And we are working closely.
+
+304
+00:27:27,860 --> 00:27:33,400
+And imagine Claudel leaving Haiti and go to United States,
+
+305
+00:27:33,500 --> 00:27:34,740
+becoming paramedic.
+
+306
+00:27:34,840 --> 00:27:38,880
+It's not like individual perspective.
+
+307
+00:27:39,660 --> 00:27:41,180
+It's just for the nation.
+
+308
+00:27:41,360 --> 00:27:42,300
+It's for Haiti.
+
+309
+00:27:42,900 --> 00:27:47,660
+And then I will still, I want to work for Haiti Ambulance,
+
+310
+00:27:47,660 --> 00:27:53,180
+and I will still be at AD Ambulance and then helping teaching, okay,
+
+311
+00:27:53,280 --> 00:27:57,560
+coordinate the first class at AD Ambulance, okay.
+
+312
+00:27:58,040 --> 00:27:59,660
+I'm in paramedic class, okay.
+
+313
+00:27:59,840 --> 00:28:03,160
+So it's still, and I hope in the future,
+
+314
+00:28:03,620 --> 00:28:09,280
+so we will still cooperate with Can Ambulance and the government, okay,
+
+315
+00:28:09,580 --> 00:28:12,320
+to teach the first paramedic class and, yeah,
+
+316
+00:28:12,320 --> 00:28:16,000
+and still going and still teaching the EMT class, yeah.
+
+317
+00:28:17,660 --> 00:28:21,460
+And how many of you guys are involved in Impact Haiti now?
+
+318
+00:28:21,540 --> 00:28:22,780
+How many of you instructors are there?
+
+319
+00:28:23,880 --> 00:28:29,440
+So for now, we got, let's see, Claude, Benya, Primae.
+
+320
+00:28:30,160 --> 00:28:35,160
+And we are about five to seven instructors.
+
+321
+00:28:36,980 --> 00:28:46,000
+And every Thursday, we meet together and working on the psychomodular exams.
+
+322
+00:28:46,000 --> 00:28:49,100
+I mean the EMT psychomotor exam.
+
+323
+00:28:49,680 --> 00:28:52,560
+So every Thursday we meet together to work on that.
+
+324
+00:28:53,280 --> 00:28:53,460
+Yeah.
+
+325
+00:28:56,380 --> 00:29:02,920
+And then I guess the last question I had is what can folks do to help out with this process,
+
+326
+00:29:03,260 --> 00:29:08,900
+both to get Claudel secured to a seat in a paramedic program in the States,
+
+327
+00:29:09,100 --> 00:29:13,020
+but also to help with the greater project of training EMS providers there in Haiti?
+
+328
+00:29:13,020 --> 00:29:25,940
+well we we um for claudel we have um a gofundme um and uh we're we figured between um tuition
+
+329
+00:29:25,940 --> 00:29:31,440
+and walk around money and and uh housing and that kind of stuff uh we we can get it done for about
+
+330
+00:29:31,440 --> 00:29:36,800
+twenty thousand dollars and we've we've we're at about sixteen thousand so uh more than three
+
+331
+00:29:36,800 --> 00:29:44,260
+quarters away to our goal. And so you can visit our GoFundMe page. And that's basically just
+
+332
+00:29:44,260 --> 00:29:50,260
+type in Google and type in GoFundMe. And you can say help Claudel go to paramedic school,
+
+333
+00:29:50,260 --> 00:30:00,700
+and that'll pop up. Or the other way is you can just go right to impact Haiti.org. So E-M-P-A-C-T
+
+334
+00:30:00,700 --> 00:30:06,300
+Haiti.org and that'll take you to the impact Haiti webpage and it'll have
+
+335
+00:30:06,300 --> 00:30:09,860
+Claudel story and a donate button that goes right to the GoFundMe site there
+
 336
-00:22:51,920 --> 00:22:55,920
-And then there are also some of the EMS providers, some of the EMTs and first responder that
+00:30:09,860 --> 00:30:12,860
+as well. So, um, yeah.
 
 337
-00:22:55,920 --> 00:23:01,280
-you guys have trained who are working in facilities as well, right, in the hospitals?
+00:30:12,920 --> 00:30:15,760
+So at this point we're just trying to, um,
 
 338
-00:23:01,280 --> 00:23:02,880
-Yeah.
+00:30:15,980 --> 00:30:19,760
+while we've gotten Claudel admitted and we're going through the process of
 
 339
-00:23:02,880 --> 00:23:07,400
-Mostly at Benhamid Hospital.
+00:30:19,760 --> 00:30:24,360
+visa. And, um, so as soon as we get all that sorted out,
 
 340
-00:23:07,400 --> 00:23:13,240
-And I think there is an organization hospital called GPHRO.
+00:30:24,440 --> 00:30:29,360
+hopefully he starts in January and then hopefully he's graduated. Um,
 
 341
-00:23:13,240 --> 00:23:16,600
-So I think those two hospitals.
+00:30:29,360 --> 00:30:36,660
+It'll be around summer, fall of 23, actually, right?
 
 342
-00:23:16,600 --> 00:23:20,360
-So you will find EMTs working.
+00:30:36,720 --> 00:30:37,240
+Or 22.
 
 343
-00:23:20,360 --> 00:23:21,360
-Yeah.
+00:30:38,800 --> 00:30:40,040
+I can't think straight.
 
 344
-00:23:21,360 --> 00:23:25,480
-But besides those two, you will not find any EMTs.
+00:30:40,160 --> 00:30:42,600
+Anyway, it's going to be a year once he gets accepted.
 
 345
-00:23:25,480 --> 00:23:26,480
-Okay.
+00:30:43,720 --> 00:30:44,540
+So, yeah.
 
 346
-00:23:26,480 --> 00:23:29,240
-It's just going to be first responders, you know.
+00:30:44,540 --> 00:30:57,660
+So if we get him through that program and get him certified and get him back to Haiti and working, I think at that point we can start entertaining who maybe the second candidate will be.
 
 347
-00:23:29,240 --> 00:23:30,240
-Yeah.
+00:30:57,660 --> 00:31:02,260
+and we'll just keep working that through Impact Haiti.
 
 348
-00:23:30,240 --> 00:23:35,960
-But no advanced level like paramedic can to beat and to beating people, you know, like
+00:31:03,400 --> 00:31:05,740
+And so you can go to the website for updates.
 
 349
-00:23:35,960 --> 00:23:38,400
-pushing, I mean, knocks.
+00:31:06,700 --> 00:31:09,780
+And also, you know, we'll throw some stuff out on Instagram,
 
 350
-00:23:38,400 --> 00:23:39,400
-Yeah.
+00:31:10,440 --> 00:31:13,640
+Impact Haiti, or my Instagram is medicarmadeus.
 
 351
-00:23:39,400 --> 00:23:40,560
-You will not find those.
+00:31:14,180 --> 00:31:16,360
+And I do regular updates on there too.
 
 352
-00:23:40,560 --> 00:23:42,600
-So in the ground and the lens.
+00:31:17,880 --> 00:31:21,100
+And is your organization Impact Northwest?
 
 353
-00:23:42,600 --> 00:23:44,760
-No.
+00:31:21,500 --> 00:31:22,300
+That's what it's called, right?
 
 354
-00:23:44,760 --> 00:23:50,840
-And then you, Claudel, have most of your experiences at EMT, both in the hospital at Bernard Meves,
+00:31:23,020 --> 00:31:23,600
+Yeah, yeah.
 
 355
-00:23:50,840 --> 00:23:53,920
-there in Port-au-Prince, but also flying with Haiti or ambulance.
+00:31:23,720 --> 00:31:25,180
+Is that still active?
 
 356
-00:23:53,920 --> 00:23:58,600
-Do you want to talk about that a bit and tell us about how you got into that role?
+00:31:25,180 --> 00:31:29,640
+I'm no longer actually with the organization, but it is active.
 
 357
-00:23:58,600 --> 00:24:00,000
-Yeah.
+00:31:29,960 --> 00:31:31,500
+They're out of the Seattle area.
 
 358
-00:24:00,000 --> 00:24:11,080
-I studied as a first responder 2010 and then 2011, September 2011 became one of the first
+00:31:31,700 --> 00:31:33,640
+I live down in the southwest now.
 
 359
-00:24:11,080 --> 00:24:14,720
-EMT, you know, for Haiti.
+00:31:34,440 --> 00:31:40,500
+And so, yeah, that's an organization that I helped start, and it's going strong.
 
 360
-00:24:14,720 --> 00:24:24,760
-And right after Amadeus Davidson, I found a job for all of us.
+00:31:40,620 --> 00:31:43,000
+They have an incredible USAR team that's active.
 
 361
-00:24:24,760 --> 00:24:25,760
-Okay.
+00:31:43,440 --> 00:31:48,540
+It's actually, I believe, the only volunteer urban search and rescue team in the country that's FEMA certified.
 
 362
-00:24:25,760 --> 00:24:29,520
-At hospital Bernard Meves.
+00:31:48,540 --> 00:31:55,820
+and um and they're still you know since haiti um impact northwest has been all over the world
 
 363
-00:24:29,520 --> 00:24:30,520
-Okay.
+00:31:55,820 --> 00:32:00,520
+to all the major events that's happened over the last decade so it's yeah they're doing very well
 
 364
-00:24:30,520 --> 00:24:39,000
-And since that I still working for Bernard Meves hospital as a translator and treating
+00:32:00,520 --> 00:32:07,020
+um i my heart has always been with medicine and i just kind of left it in haiti so it's been
 
 365
-00:24:39,000 --> 00:24:45,840
-patient also as an EMT and 2014.
+00:32:07,020 --> 00:32:12,500
+awesome to be able to come back around and continue on with helping out with haiti or
 
 366
-00:24:45,840 --> 00:24:56,380
-So there was, let's say, Haiti ambulance showed up and they want to hire EMTs and translator.
+00:32:12,500 --> 00:32:14,420
+Claudel and the gang down there.
 
 367
-00:24:56,380 --> 00:25:02,280
-So I applied for that job and I was one of the four EMTs.
+00:32:16,640 --> 00:32:18,700
+Well, it looks like we lost Claudel.
 
 368
-00:25:02,280 --> 00:25:03,280
+00:32:19,140 --> 00:32:19,480
 Okay.
 
 369
-00:25:03,280 --> 00:25:06,600
-They choose to ride along with them.
-
-370
-00:25:06,600 --> 00:25:07,600
-Okay.
-
-371
-00:25:07,600 --> 00:25:08,600
-And yeah.
-
-372
-00:25:09,200 --> 00:25:13,400
-So I started as the beginner, okay.
-
-373
-00:25:13,400 --> 00:25:16,200
-At Haiti ambulance.
-
-374
-00:25:16,200 --> 00:25:17,200
-Okay.
-
-375
-00:25:17,200 --> 00:25:19,960
-And until now still flying with them.
-
-376
-00:25:19,960 --> 00:25:21,840
-It was a dream.
-
-377
-00:25:21,840 --> 00:25:29,600
-And finally that dream becomes true and feel proud to work with Haiti air ambulance and
-
-378
-00:25:29,600 --> 00:25:35,360
-then helping them, you know, basic stuff and critical stuff also.
-
-379
-00:25:35,960 --> 00:25:36,960
-Yeah.
-
-380
-00:25:36,960 --> 00:25:40,720
-Like, and to beating patient and starting IV.
-
-381
-00:25:40,720 --> 00:25:48,240
-And I remember Ryan care you helped me putting my first you help me.
-
-382
-00:25:48,240 --> 00:25:49,240
-Yeah.
-
-383
-00:25:49,240 --> 00:25:50,240
-My first EJ.
-
-384
-00:25:50,240 --> 00:25:51,240
-Okay.
-
-385
-00:25:51,240 --> 00:25:52,240
-That was phenomenal.
-
-386
-00:25:52,240 --> 00:25:53,240
-Okay.
-
-387
-00:25:53,240 --> 00:25:57,360
-And it's still doing the same thing.
-
-388
-00:25:57,360 --> 00:25:58,360
-Okay.
-
-389
-00:25:58,360 --> 00:26:00,280
-And sometimes they change us role.
-
-390
-00:26:00,280 --> 00:26:05,000
-You know, we are allowed to start IVs, you know, to yeah.
-
-391
-00:26:05,000 --> 00:26:06,000
-To do a lot.
-
-392
-00:26:06,000 --> 00:26:07,000
-Okay.
-
-393
-00:26:07,000 --> 00:26:14,040
-So I want to move forward, become a paramedic helping more people and then teaching more
-
-394
-00:26:14,040 --> 00:26:15,040
-people also.
-
-395
-00:26:15,040 --> 00:26:16,040
-Okay.
-
-396
-00:26:16,040 --> 00:26:21,960
-And then having the first paramedic class in Haiti for Haiti.
-
-397
-00:26:21,960 --> 00:26:22,960
-Okay.
-
-398
-00:26:22,960 --> 00:26:26,760
-So that's, that's a dream.
-
-399
-00:26:26,760 --> 00:26:31,840
-And do you have any idea what that process will look like once you finish school?
-
-400
-00:26:31,840 --> 00:26:38,280
-Because I remember from when I was down there, there was talk about the complications related
-
-401
-00:26:38,280 --> 00:26:43,760
-to working a paramedic program into the public health system and to getting the Ministry
-
-402
-00:26:43,760 --> 00:26:45,160
-of Health involved in that.
-
-403
-00:26:45,160 --> 00:26:46,160
-Yeah.
-
-404
-00:26:46,160 --> 00:26:47,160
-Yeah.
-
-405
-00:26:47,160 --> 00:26:48,160
-It was complicated.
-
-406
-00:26:48,160 --> 00:26:54,320
-You know, government changed from time to times, you know, and you never know when you
-
-407
-00:26:54,320 --> 00:26:56,560
-will find a good.
-
-408
-00:26:56,560 --> 00:26:57,560
-Yeah.
-
-409
-00:26:57,560 --> 00:27:00,000
-Directors, you know, minister.
-
-410
-00:27:00,000 --> 00:27:01,000
-Yeah.
-
-411
-00:27:01,000 --> 00:27:02,000
-That's a lot of hard.
-
-412
-00:27:02,000 --> 00:27:08,160
-But for now, we are working closely with Khan Ambulance and MSPP.
-
-413
-00:27:08,160 --> 00:27:11,720
-So they want to work with AD ambulance.
-
-414
-00:27:11,720 --> 00:27:12,720
-Okay.
-
-415
-00:27:12,720 --> 00:27:19,760
-And AD ambulance also is working in a process to help, I mean, to become paramedic.
-
-416
-00:27:19,760 --> 00:27:20,760
-Okay.
-
-417
-00:27:20,760 --> 00:27:29,480
-And yeah, I mean, that's the day that the ambulance and we are working closely and imagine
-
-418
-00:27:29,480 --> 00:27:34,920
-Claudel leaving AD and go to United States becoming paramedic.
-
-419
-00:27:34,920 --> 00:27:39,840
-It's not like individual, the perspective.
-
-420
-00:27:39,840 --> 00:27:41,560
-It's just for the nation.
-
-421
-00:27:41,560 --> 00:27:43,120
-It's for Haiti.
-
-422
-00:27:43,120 --> 00:27:50,640
-And then I will still, I want to work for AD ambulance and I will still be at AD ambulance
-
-423
-00:27:50,640 --> 00:27:52,680
-and then helping, teaching.
-
-424
-00:27:52,680 --> 00:27:53,680
-Okay.
-
-425
-00:27:53,680 --> 00:27:57,160
-Coordinate the first class at AD ambulance.
-
-426
-00:27:57,160 --> 00:27:58,160
-Okay.
-
-427
-00:27:58,160 --> 00:27:59,440
-I mean paramedic class.
-
-428
-00:27:59,440 --> 00:28:00,440
-Okay.
-
-429
-00:28:00,440 --> 00:28:03,640
-So it's, and I hope in the future.
-
-430
-00:28:03,640 --> 00:28:08,920
-So we will still cooperate with Khan Ambulance and the government.
-
-431
-00:28:08,920 --> 00:28:09,920
-Okay.
-
-432
-00:28:09,920 --> 00:28:11,600
-To teach the first paramedic class.
-
-433
-00:28:11,600 --> 00:28:16,840
-And yeah, and still going on still teaching the EMT class.
-
-434
-00:28:16,840 --> 00:28:18,480
-Yeah.
-
-435
-00:28:18,480 --> 00:28:21,560
-And how many of you guys are involved in the impact Haiti now?
-
-436
-00:28:21,560 --> 00:28:24,040
-How many of you instructors are there?
-
-437
-00:28:24,040 --> 00:28:37,800
-So for now we got, let's see, Claudel, Beninan, Kreme, and we are about five to seven instructors.
-
-438
-00:28:37,800 --> 00:28:46,640
-And every Thursday we meet together and working on the psychomotor exams.
-
-439
-00:28:46,640 --> 00:28:49,680
-I mean the EMT psychomotor exam.
-
-440
-00:28:49,680 --> 00:28:53,520
-So every Thursday we meet together to work on that.
-
-441
-00:28:54,520 --> 00:29:03,280
-And then I guess the last question I had is what can folks do to help out with this process,
-
-442
-00:29:03,280 --> 00:29:10,080
-both to get Claudel secured to a C in a paramedic program in the States, but also to help with
-
-443
-00:29:10,080 --> 00:29:14,720
-like the greater project of training EMS providers there in Haiti?
-
-444
-00:29:14,720 --> 00:29:27,240
-Well, for Claudel, we have a GoFundMe and we figured between tuition and walk around
-
-445
-00:29:27,240 --> 00:29:34,240
-money and housing and that kind of stuff, we can get it done for about $20,000 and we're
-
-446
-00:29:34,240 --> 00:29:35,640
-at about 16,000.
-
-447
-00:29:35,640 --> 00:29:38,840
-So more than three quarters of the way to our goal.
-
-448
-00:29:38,840 --> 00:29:46,080
-And so you can visit our GoFundMe page and that's basically just type in Google and
-
-449
-00:29:46,080 --> 00:29:54,000
-type in GoFundMe and you can say help Claudel go to paramedic school and that'll pop up.
-
-450
-00:29:54,000 --> 00:29:59,280
-Or the other way is you can just go right to impacthaiti.org.
-
-451
-00:29:59,280 --> 00:30:06,040
-So E-M-P-A-C-T, Haiti.org and that'll take you to the impact Haiti webpage and it'll
-
-452
-00:30:06,040 --> 00:30:11,400
-have Claudel's story and a donate button that goes right to the GoFundMe site there as well.
-
-453
-00:30:11,400 --> 00:30:17,960
-So yeah, so at this point, we're just trying to, well, we've gotten Claudel admitted and
-
-454
-00:30:17,960 --> 00:30:21,160
-we're going through the process of visa.
-
-455
-00:30:21,160 --> 00:30:26,640
-And so as soon as we get all that sorted out, hopefully he starts in January and then hopefully
-
-456
-00:30:26,640 --> 00:30:28,600
-he's graduated.
-
-457
-00:30:28,600 --> 00:30:36,760
-It'll be around summer, fall of 23 actually, right?
-
-458
-00:30:36,760 --> 00:30:39,280
-Or 22.
-
-459
-00:30:39,280 --> 00:30:40,280
-I can't think straight.
-
-460
-00:30:40,280 --> 00:30:44,200
-Anyway, it's going to be a year once he gets accepted.
-
-461
-00:30:44,200 --> 00:30:49,560
-So yeah, so if we get him through that program and get him certified and get him back to
-
-462
-00:30:49,560 --> 00:30:56,400
-Haiti and working, I think at that point we can start entertaining who may be the second
-
-463
-00:30:56,400 --> 00:30:58,560
-candidate will be.
-
-464
-00:30:58,560 --> 00:31:03,880
-And we'll just keep working that through impacthaiti.
-
-465
-00:31:03,880 --> 00:31:07,140
-And so you can go to the website for updates.
-
-466
-00:31:07,140 --> 00:31:14,600
-And also, we'll throw some stuff out on Instagram, impacthaiti or my Instagram is medicarmadeus.
-
-467
-00:31:14,600 --> 00:31:18,320
-And I do regular updates on there too.
-
-468
-00:31:18,320 --> 00:31:21,640
-And is your organization impact Northwest?
-
-469
-00:31:21,640 --> 00:31:23,640
-That's what it's called, right?
-
-470
-00:31:23,640 --> 00:31:24,640
-Yeah.
-
-471
-00:31:24,640 --> 00:31:26,160
-Is that still active?
-
-472
-00:31:26,240 --> 00:31:30,240
-I'm no longer actually with the organization, but it is active.
-
-473
-00:31:30,240 --> 00:31:31,600
-They're out of the Seattle area.
-
-474
-00:31:31,600 --> 00:31:34,440
-I live down in the Southwest now.
-
-475
-00:31:34,440 --> 00:31:40,240
-And so yeah, that's an organization that I helped start and it's going strong.
-
-476
-00:31:40,240 --> 00:31:43,520
-We have an incredible USAR team that's active.
-
-477
-00:31:43,520 --> 00:31:47,440
-It's actually, I believe the only volunteer urban search and rescue team in the country
-
-478
-00:31:47,440 --> 00:31:49,560
-that's FEMA certified.
-
-479
-00:31:49,560 --> 00:31:56,120
-And they're still, since Haiti, impact Northwest has been all over the world.
-
-480
-00:31:56,120 --> 00:31:58,520
-It's all the major events that's happened over the last decade.
-
-481
-00:31:58,520 --> 00:32:02,080
-So it's yeah, they're doing very well.
-
-482
-00:32:02,080 --> 00:32:05,940
-My heart has always been with medicine and I just kind of left it in Haiti.
-
-483
-00:32:05,940 --> 00:32:11,840
-So it's been awesome to be able to come back around and continue on with helping out with
-
-484
-00:32:11,840 --> 00:32:14,600
-Haiti or Claudel and the gang down there.
-
-485
-00:32:14,600 --> 00:32:19,120
-So well, it looks like we lost Claudel.
-
-486
-00:32:19,120 --> 00:32:20,120
-Okay.
-
-487
-00:32:20,120 --> 00:32:22,680
+00:32:20,000 --> 00:32:21,920
 But I definitely appreciate it.
 
-488
-00:32:22,680 --> 00:32:27,920
-Yeah, we'll definitely try and spread the word, see if we can raise the last bit of
+370
+00:32:24,200 --> 00:32:26,160
+Yeah, we'll definitely try and spread the word,
 
-489
-00:32:27,920 --> 00:32:31,960
-these funds and hopefully we can get some people who are interested in helping out whenever
+371
+00:32:26,520 --> 00:32:28,400
+see if we can raise the last bit of these funds,
 
-490
-00:32:31,960 --> 00:32:36,120
-the things return back to Haiti to start training some other folks.
+372
+00:32:28,620 --> 00:32:31,700
+and hopefully we can get some people who are interested in helping out
 
-491
-00:32:36,120 --> 00:32:41,840
-Hey Claudel, you got anything you want to say to the folks that are listening before
+373
+00:32:31,700 --> 00:32:35,380
+whenever things return back to Haiti to start training some other folks.
 
-492
-00:32:41,840 --> 00:32:45,000
-we go?
+374
+00:32:37,440 --> 00:32:40,480
+Hey, Claudel, you got anything you want to say to the folks
 
-493
-00:32:45,000 --> 00:32:46,960
+375
+00:32:40,480 --> 00:32:42,240
+that are listening before we go?
+
+376
+00:32:42,500 --> 00:32:46,620
 I was disconnected again.
 
-494
-00:32:46,960 --> 00:32:50,560
-Yeah, but I would say.
+377
+00:32:47,760 --> 00:32:50,260
+Yeah, but I will say...
 
-495
-00:32:50,560 --> 00:32:52,920
+378
+00:32:52,260 --> 00:32:52,980
 Okay.
 
-496
-00:32:52,920 --> 00:33:05,000
-And then I want to be the one of the first from medic in Haiti.
+379
+00:32:56,940 --> 00:33:04,100
+And then I want to be one of the first traumatic in Haiti.
 
-497
-00:33:05,000 --> 00:33:06,000
-Hello.
+380
+00:33:05,320 --> 00:33:05,720
+Hello?
 
-498
-00:33:06,000 --> 00:33:07,000
+381
+00:33:06,560 --> 00:33:06,900
 Yeah.
 
-499
-00:33:07,000 --> 00:33:10,320
+382
+00:33:08,520 --> 00:33:09,260
 We still got you.
 
-500
-00:33:10,320 --> 00:33:11,320
-Yeah.
+383
+00:33:09,260 --> 00:33:09,320
+Hello?
 
-501
-00:33:11,320 --> 00:33:12,320
-Yeah.
+384
+00:33:09,320 --> 00:33:13,340
+yeah Haiti everybody
 
-502
-00:33:12,320 --> 00:33:13,320
-Haiti, everybody.
+385
+00:33:13,340 --> 00:33:15,280
+that's just how it goes
 
-503
-00:33:13,320 --> 00:33:16,280
-That's just how it goes.
+386
+00:33:15,280 --> 00:33:15,920
+yep
 
-504
-00:33:16,280 --> 00:33:17,280
-Yep.
+387
+00:33:15,920 --> 00:33:18,160
+and that's pretty much it
 
-505
-00:33:17,280 --> 00:33:18,880
-And that's pretty much it.
+388
+00:33:18,160 --> 00:33:19,640
+thanks for tuning in
 
-506
-00:33:18,880 --> 00:33:20,280
-Thanks for tuning in.
+389
+00:33:19,640 --> 00:33:21,700
+but real quick before we go
 
-507
-00:33:20,280 --> 00:33:24,120
-But real quick before we go, just a few shout outs.
+390
+00:33:21,700 --> 00:33:23,040
+just a few shout outs
 
-508
-00:33:24,120 --> 00:33:29,200
-First is to pragmatic paramedics, another awesome podcast that we highly recommend.
+391
+00:33:23,040 --> 00:33:25,460
+first is to Pragmatic Paramedics
 
-509
-00:33:29,200 --> 00:33:32,520
-Next is to the St. Fisher church of evidence-based medicine.
+392
+00:33:25,460 --> 00:33:27,840
+another awesome podcast that we highly recommend
 
-510
-00:33:32,520 --> 00:33:35,760
-If you don't follow them already, definitely check them out.
+393
+00:33:27,840 --> 00:33:30,500
+next is to the St. Fisher Church
 
-511
-00:33:35,760 --> 00:33:40,560
-These guys, both pragmatic paramedics and the St. Fisher folks have been instrumental
+394
+00:33:30,500 --> 00:33:31,740
+of Evidence-Based Medicine
 
-512
-00:33:40,560 --> 00:33:44,400
-in getting our stuff out there into the world and we truly appreciate that.
+395
+00:33:31,740 --> 00:33:33,520
+if you don't follow them already
 
-513
-00:33:44,400 --> 00:33:48,440
-And then we'll end things with a shout out to my good friend, Josh Pittman and his buddy,
+396
+00:33:33,520 --> 00:33:34,740
+definitely check them out
 
-514
-00:33:48,440 --> 00:33:49,440
-Kevin Pons.
+397
+00:33:34,740 --> 00:33:37,640
+these guys both Pragmatic Paramedics
 
-515
-00:33:49,800 --> 00:33:51,960
+398
+00:33:37,640 --> 00:33:38,980
+and the St. Fisher folks
+
+399
+00:33:38,980 --> 00:33:43,440
+have been instrumental in getting our stuff out there into the world, and we truly appreciate that.
+
+400
+00:33:44,220 --> 00:33:49,020
+And then we'll end things with a shout-out to my good friend Josh Pittman and his buddy Kevin Pons.
+
+401
+00:33:49,420 --> 00:33:51,160
 They put the music together for the show.
 
-516
-00:33:51,960 --> 00:33:52,960
+402
+00:33:51,680 --> 00:33:52,440
 Until next time.
+
+403
+00:34:08,980 --> 00:34:38,960
+Thank you.

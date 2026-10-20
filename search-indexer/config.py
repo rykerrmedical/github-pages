@@ -256,7 +256,7 @@ WHISPER_MODEL_NAME = "small.en"
 # thoracostomy -> "tort cost to me"). Chosen with whisper_compare.py.
 # Runs of this model on a GitHub runner are far too slow: new episodes
 # should be transcribed locally (CI would hang), see retranscribe_podcasts.py.
-PODCAST_WHISPER_MODEL_NAME = "small.en"
+PODCAST_WHISPER_MODEL_NAME = "turbo"
 
 # Passed to Whisper as initial_prompt. Whisper only applies this to the
 # FIRST 30-second window of an episode (with condition_on_previous_text
@@ -277,6 +277,19 @@ WHISPER_INITIAL_PROMPT = (
 # 45 seconds in the Doc Fisher episode). A segment with at least this many
 # words whose distinct-word ratio is at or below WHISPER_LOOP_MAX_UNIQUE_RATIO
 # is dropped, as are runs of 3+ identical consecutive segments (first two kept).
+# Mishearings Whisper makes consistently on this show's audio, fixed as the
+# transcript is produced: (case-insensitive regex, replacement). Added
+# 2026-10-18 after the first turbo pass still wrote "intubation" as
+# "innovation" (11 times across 3 episodes) and the show name as "Riker".
+# Keep each rule narrow -- "innovation" is a real word -- and add to it
+# only on evidence from an actual transcript.
+WHISPER_TERM_FIXES = [
+    (r"\b(pre|post)-innovation\b", r"\1-intubation"),
+    (r"\b(doing|nasal|prior to|before|after|during)( (?:an|a|the))? innovation\b", r"\1\2 intubation"),
+    (r"\bgoing there to innovate\b", "going there to intubate"),
+    (r"\bRiker(?=\s?Medical\b)", "Rykerr"),
+]
+
 WHISPER_LOOP_MIN_WORDS = 8
 WHISPER_LOOP_MAX_UNIQUE_RATIO = 0.25
 
@@ -289,7 +302,7 @@ WHISPER_LOOP_MAX_UNIQUE_RATIO = 0.25
 # transcript_chunking.group_segments now leads every chunk with the
 # episode's own title, which changes the actual embedded text for every
 # chunk, so every episode needs one clean re-transcribe to pick it up.
-WHISPER_PIPELINE_VERSION = 3
+WHISPER_PIPELINE_VERSION = 4
 
 # Safety cap on how large an episode's audio file will be downloaded --
 # mirrors PDF_MAX_BYTES above. Generous headroom over any real episode

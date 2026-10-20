@@ -24,6 +24,7 @@ one single winning page's real content, at real answer time.
 import sys
 
 import embedder
+import hard_exit
 import query_expansion
 import store
 import tier3_sources
@@ -105,4 +106,6 @@ def main():
 
 
 if __name__ == "__main__":
+    hard_exit.install()
     main()
+    hard_exit.finish(0)

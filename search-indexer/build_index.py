@@ -57,6 +57,7 @@ import crawl
 import curation
 import embedder
 import extract
+import hard_exit
 import frontmatter_tags
 import link_show_notes
 import pdf_ingest
@@ -151,6 +152,7 @@ def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None, 
     known_video_urls = known_video_urls or set()
     auto_detected_videos = {}
     auto_detected_audio_mentions = {}
+    page_descriptions = {}
 
     post_index = frontmatter_tags.build_post_index(config.POSTS_REPO_ROOT)
     if post_index:
@@ -196,7 +198,10 @@ def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None, 
             for audio_url in link_show_notes.find_mentioned_audio_urls(html, url, audio_urls):
                 auto_detected_audio_mentions[audio_url] = url
 
-            discovered_pdfs.update(pdf_ingest.find_pdf_links(html, url))
+            pdf_links = pdf_ingest.find_pdf_links(html, url)
+            discovered_pdfs.update(pdf_links)
+            if "/show-notes-" in url:
+                link_show_notes.record_attachments(url, pdf_links)
 
             page = extract.extract_page(html, url)
             if page is None:
@@ -225,6 +230,16 @@ def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None, 
                 page_tags = tags_module.extract_tags(html)
             if page_tags:
                 stats["with_tags"] += 1
+
+            # The page's own hand-written description (front matter
+            # `blurb:`/`description:`) wins over any <meta> description,
+            # which this site doesn't emit anyway. It is embedded as the
+            # page's blurb (chunker.py) and recorded as the source's
+            # declared description for the search server's profiles.
+            fm_blurb = frontmatter_tags.match_blurb_for_page(post_index, url, page["title"])
+            if fm_blurb:
+                page["blurb"] = fm_blurb
+            page_descriptions[url] = page["blurb"] or ""
 
             # Signal has to cover everything that can change what gets
             # embedded now that a page is title + tags + blurb +
@@ -281,6 +296,7 @@ def index_webpages(conn, excluded_patterns, defer_overrides, force_substr=None, 
             stats["changed"] += 1
             stats["chunks_written"] += len(chunk_rows)
 
+    store.set_source_descriptions(conn, page_descriptions)
     return discovered_pdfs, current_source_ids, stats, auto_detected_videos, auto_detected_audio_mentions
 
 
@@ -823,6 +839,9 @@ def build(force_full=False, force_substr=None):
     )
     if show_notes_linked:
         print(f"Linked {show_notes_linked} show-notes chunk(s) to their real podcast episode/video")
+    attached = link_show_notes.save_attachments(conn)
+    if attached:
+        print(f"Recorded {attached} file(s) attached to show-notes pages (they ride on the page's video/episode card)")
 
     current_source_ids = (
         page_source_ids | set(discovered_pdfs) | citation_source_ids
@@ -912,8 +931,10 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
+    hard_exit.install()
     try:
         build(force_full=args.full, force_substr=(args.force.lower() if args.force else None))
     except KeyboardInterrupt:
         print("\nInterrupted — partial progress from the last commit is preserved (safe to re-run).")
-        sys.exit(1)
+        hard_exit.finish(1)
+    hard_exit.finish(0)

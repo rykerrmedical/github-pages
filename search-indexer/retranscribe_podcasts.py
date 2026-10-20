@@ -27,6 +27,7 @@ import sys
 import time
 
 import config
+import hard_exit
 import podcast_ingest
 import podcast_transcribe as pt
 import store
@@ -100,4 +101,11 @@ def main():
               "it finds everything up to date and only edits config.py.")
 
 if __name__ == "__main__":
-    main()
+    hard_exit.install()
+    try:
+        main()
+    except SystemExit as e:
+        if isinstance(e.code, str):
+            print(e.code, file=sys.stderr)
+        hard_exit.finish(e.code if isinstance(e.code, int) else (0 if e.code is None else 1))
+    hard_exit.finish(0)

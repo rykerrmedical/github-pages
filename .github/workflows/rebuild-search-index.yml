@@ -82,9 +82,14 @@ jobs:
         if: github.event_name == 'push'
         run: sleep 90
 
+      # Whisper transcription is skipped on the runner (existing transcripts
+      # are kept): the podcast model is large and runs on Ryan's Mac instead
+      # -- see search-indexer/local_nightly/ and retranscribe_podcasts.py.
       - name: Build index
         working-directory: search-indexer
         timeout-minutes: 180
+        env:
+          RYKERR_SKIP_TRANSCRIPTION: "1"
         run: |
           export TESSDATA_PREFIX="$(dirname "$(find /usr/share -name eng.traineddata | head -1)")"
           echo "TESSDATA_PREFIX=$TESSDATA_PREFIX"

@@ -48,6 +48,7 @@ podcast_transcribe.py already needs, so nothing new there if podcasts
 are already transcribing locally.
 """
 import os
+import re
 import shutil
 import tempfile
 
@@ -193,6 +194,28 @@ def _process_video(conn, video, force_substr, stats):
         print(f"  - {title!r}: no real speech content (looked like Whisper noise on silence), 0 chunks")
 
 
+_URL_RE = re.compile(r"https?://\S+")
+
+
+def _fetch_description(video_id):
+    """The video's own YouTube description (what Ryan wrote on YouTube),
+    cleaned for use as its declared-subject text: links dropped,
+    whitespace collapsed, capped. One metadata call per video, no
+    download. Returns None when the fetch fails (leave what we had),
+    '' when the video has no description."""
+    import yt_dlp
+
+    opts = {"quiet": True, "no_warnings": True, "skip_download": True}
+    try:
+        with yt_dlp.YoutubeDL(opts) as ydl:
+            info = ydl.extract_info(_video_url(video_id), download=False)
+    except Exception as e:
+        print(f"  ! could not fetch description for {video_id}: {e}")
+        return None
+    text = _URL_RE.sub("", (info or {}).get("description") or "")
+    return " ".join(text.split())[:800]
+
+
 def index_youtube_transcripts(conn, force_substr=None):
     """Mirrors podcast_transcribe.index_podcast_transcripts' shape.
     Returns (current_source_ids, stats) for build()'s prune step."""
@@ -201,6 +224,17 @@ def index_youtube_transcripts(conn, force_substr=None):
 
     if not config.YOUTUBE_TRANSCRIBE_ENABLED:
         print("  YouTube transcription disabled (config.YOUTUBE_TRANSCRIBE_ENABLED = False)")
+        return current_ids, stats
+
+    if os.environ.get("RYKERR_SKIP_TRANSCRIPTION"):
+        # See podcast_transcribe.index_podcast_transcripts: skip the slow
+        # work but keep existing rows from being pruned.
+        current_ids = {
+            r[0] for r in conn.execute(
+                "SELECT DISTINCT source_id FROM chunks WHERE source_type = 'youtube_transcript'"
+            )
+        }
+        print(f"  RYKERR_SKIP_TRANSCRIPTION set -- keeping {len(current_ids)} existing YouTube transcript(s) as-is")
         return current_ids, stats
 
     videos = _list_channel_videos()
@@ -216,5 +250,14 @@ def index_youtube_transcripts(conn, force_substr=None):
         except Exception as e:
             stats["failed"] += 1
             print(f"  ! unexpected error transcribing {video['title']!r}, skipping: {e}")
+
+    # Each video's own description -> the source's declared subject for the
+    # search server (store.set_source_descriptions). Best-effort.
+    descriptions = {}
+    for video in videos:
+        d = _fetch_description(video["id"])
+        if d is not None:
+            descriptions[_video_url(video["id"])] = d
+    store.set_source_descriptions(conn, descriptions)
 
     return current_ids, stats

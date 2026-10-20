@@ -280,3 +280,28 @@ def link_show_notes_to_videos(conn, auto_detected=None):
     chunks updated."""
     mapping = {**(auto_detected or {}), **_load_manual_video_map()}
     return _link_media_to_transcripts(conn, mapping, "youtube_transcript")
+
+
+# --- Files attached to show-notes pages ---------------------------------
+# A show-notes page links the handouts/papers that go with its recording
+# (hosted on archive.org). Recording which page linked which file lets
+# the search server fold a handout into that page's video/episode card
+# instead of showing it as a separate result (retrieval._is_notes_handout):
+# YouTube/episode -> show notes -> attached files. Collected during the
+# crawl, written once to the meta table as {file_url: show_notes_page_url}.
+_ATTACHMENTS = {}
+
+
+def record_attachments(page_url, pdf_links):
+    for pdf in pdf_links:
+        _ATTACHMENTS.setdefault(pdf, page_url)
+
+
+def save_attachments(conn):
+    """Persists what the crawl recorded. A run that crawled nothing leaves
+    the previous value alone. Returns the number of files recorded."""
+    if not _ATTACHMENTS:
+        return 0
+    import store
+    store.set_meta(conn, show_notes_attachments=dict(_ATTACHMENTS))
+    return len(_ATTACHMENTS)

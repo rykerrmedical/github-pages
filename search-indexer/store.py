@@ -369,6 +369,23 @@ def get_meta(conn, key, default=None):
     return json.loads(row[0]) if row else default
 
 
+def set_source_descriptions(conn, updates):
+    """Merges {source_id: description} into the one JSON dict kept under
+    meta['source_descriptions'] (a page's front-matter blurb, a YouTube
+    video's own description). The search server reads it to build each
+    source's declared-subject profile. Empty/None values drop the entry."""
+    if not updates:
+        return
+    current = get_meta(conn, "source_descriptions", {}) or {}
+    for sid, text in updates.items():
+        text = " ".join((text or "").split())
+        if text:
+            current[sid] = text
+        else:
+            current.pop(sid, None)
+    set_meta(conn, source_descriptions=current)
+
+
 def record_build_stats(conn, num_pages, num_chunks, num_pdfs=0):
     set_meta(
         conn,

@@ -188,6 +188,27 @@ def drop_repetition_loops(segments):
     return out, dropped
 
 
+_FIX_RES = None
+
+
+def apply_term_fixes(segments):
+    """Applies config.WHISPER_TERM_FIXES -- a short, hand-reviewed list of
+    (regex, replacement) pairs for mishearings Whisper makes consistently
+    on this show's audio (e.g. 'pre-innovation' for 'pre-intubation', the
+    show name written 'Riker'). Applied to each segment's text."""
+    global _FIX_RES
+    if _FIX_RES is None:
+        _FIX_RES = [(re.compile(rx, re.IGNORECASE), rep) for rx, rep in getattr(config, "WHISPER_TERM_FIXES", [])]
+    if not _FIX_RES:
+        return segments
+    out = []
+    for st, en, text in segments:
+        for rx, rep in _FIX_RES:
+            text = rx.sub(rep, text)
+        out.append((st, en, text))
+    return out
+
+
 def _transcribe(audio_path, model_name=None, legacy=False):
     """Returns [(start_seconds, end_seconds, text), ...] in order, text
     already stripped, empty segments dropped, repetition loops removed.
@@ -215,6 +236,7 @@ def _transcribe(audio_path, model_name=None, legacy=False):
     ]
     if legacy:
         return segments
+    segments = apply_term_fixes(segments)
     segments, dropped = drop_repetition_loops(segments)
     if dropped:
         print(f"  - dropped {dropped} repetition-loop segment(s)")
@@ -234,6 +256,18 @@ def _process_episode(conn, ep, force_substr, stats):
         stats["unchanged"] += 1
         return
 
+    # The HEAD check failed (archive.org returns transient 500s) but the
+    # stored signal is already for the current model/pipeline version:
+    # skip this run rather than downloading, hashing and -- because a
+    # hash is a different kind of signal than the stored ETag -- needlessly
+    # re-transcribing a 20-minute-plus episode. A genuinely changed file
+    # is picked up the next time the HEAD check works.
+    if (not forced and remote_signal is None and previous_signal
+            and previous_signal.endswith(_versioned(""))):
+        print(f"  - could not check {ep['title']!r} right now (HEAD failed); keeping existing transcript")
+        stats["unchanged"] += 1
+        return
+
     audio_path = _download_audio(audio_url)
     if audio_path is None:
         return  # already logged
@@ -244,8 +278,11 @@ def _process_episode(conn, ep, force_substr, stats):
         # transcription step when nothing actually changed; it just
         # can't skip the download itself in that case, same tradeoff as
         # pdf_ingest.py's PDF handling.
-        content_signal = remote_signal or _hash_file(audio_path)
-        if not forced and _versioned(content_signal) == previous_signal:
+        file_hash = _hash_file(audio_path)
+        content_signal = remote_signal or file_hash
+        # also accept a stored hash-form signal (written when an earlier
+        # run had no usable HEAD response) so it is not redone
+        if not forced and previous_signal in (_versioned(content_signal), _versioned(file_hash)):
             stats["unchanged"] += 1
             return
 
@@ -332,6 +369,20 @@ def index_podcast_transcripts(conn, force_substr=None):
 
     if not config.PODCAST_TRANSCRIBE_ENABLED:
         print("  podcast transcription disabled (config.PODCAST_TRANSCRIBE_ENABLED = False)")
+        return current_ids, stats
+
+    if os.environ.get("RYKERR_SKIP_TRANSCRIPTION"):
+        # Set by the GitHub workflow: a big Whisper model is far too slow
+        # on a runner, so transcription happens on Ryan's Mac
+        # (local_nightly/ or retranscribe_podcasts.py). Report the
+        # EXISTING transcript sources as "current" -- returning an empty
+        # set here would make build()'s prune step delete every transcript.
+        current_ids = {
+            r[0] for r in conn.execute(
+                "SELECT DISTINCT source_id FROM chunks WHERE source_type = 'podcast_transcript'"
+            )
+        }
+        print(f"  RYKERR_SKIP_TRANSCRIPTION set -- keeping {len(current_ids)} existing podcast transcript(s) as-is")
         return current_ids, stats
 
     episodes = podcast_ingest.fetch_episodes()

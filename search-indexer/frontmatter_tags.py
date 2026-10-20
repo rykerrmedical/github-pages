@@ -125,21 +125,26 @@ def build_post_index(repo_root="."):
         if fm is None:
             continue
         tags = _normalize_tags(fm.get("tags"))
-        if not tags:
+        # The page's own one-line description, written by hand in front
+        # matter as `blurb:` (posts) or `description:`. It is the page's
+        # declared subject -- see search-server retrieval._build_profiles.
+        blurb = " ".join(str(fm.get("blurb") or fm.get("description") or "").split())
+        if not tags and not blurb:
             continue
         entries.append({
             "slug": _slugify(filename_slug),
             "title_slug": _slugify(str(fm.get("title", ""))) if fm.get("title") else "",
             "tags": tags,
+            "blurb": blurb,
             "path": str(path),
         })
     return entries
 
 
-def match_tags_for_page(post_index, url, page_title=None):
-    """Looks up front-matter tags for a crawled page, by URL path
-    segment first, then by normalized title. Returns [] if no post
-    entry matches — never guesses."""
+def match_entry_for_page(post_index, url, page_title=None):
+    """Looks up a crawled page's front-matter entry, by URL path segment
+    first, then by normalized title. Returns None if no post entry
+    matches -- never guesses."""
     raw_segments = [seg for seg in urlparse(url).path.split("/") if seg]
     # Strip a trailing .html/.htm from the last segment before slugifying,
     # so a permalink like /blog/some-post.html still matches the bare
@@ -151,11 +156,23 @@ def match_tags_for_page(post_index, url, page_title=None):
 
     for entry in post_index:
         if entry["slug"] and entry["slug"] in path_segments:
-            return entry["tags"]
+            return entry
 
     if page_title_slug:
         for entry in post_index:
             if entry["title_slug"] and entry["title_slug"] == page_title_slug:
-                return entry["tags"]
+                return entry
 
-    return []
+    return None
+
+
+def match_tags_for_page(post_index, url, page_title=None):
+    """Front-matter tags for a crawled page, or [] if no entry matches."""
+    entry = match_entry_for_page(post_index, url, page_title)
+    return entry["tags"] if entry else []
+
+
+def match_blurb_for_page(post_index, url, page_title=None):
+    """Front-matter blurb/description for a crawled page, or '' if none."""
+    entry = match_entry_for_page(post_index, url, page_title)
+    return entry["blurb"] if entry else ""
