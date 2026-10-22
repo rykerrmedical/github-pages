@@ -64,6 +64,7 @@ import pdf_ingest
 import podcast_ingest
 import podcast_transcribe
 import reference_citations
+import reference_titles
 import youtube_transcribe
 import store
 import tags as tags_module
@@ -417,6 +418,15 @@ def _index_one_pdf(conn, pdf_url, force_substr, stats, by_permalink, by_author_y
         curation.resolve_title_override(pdf_url)
         or pdf_ingest.pdf_title(pdf_bytes, pdf_url)
     )
+    if not curation.resolve_title_override(pdf_url) and not pdf_ingest.content_type_tag(pdf_url):
+        # A third-party paper: when the stored title would be junk (empty
+        # metadata, an Author-Year file name, a code), use the title printed
+        # on page 1 instead. Never touches Ryan's own books/documents.
+        _meta, _head = reference_titles.pdf_title_candidates(pdf_bytes)
+        if not _meta or reference_titles.is_junk_title(_meta):
+            _better, _src = reference_titles.best_title(pdf_bytes, pdf_url)
+            if _better and _src in ("heading", "metadata"):
+                title = _better
 
     # No usable HEAD signal from this server — fall back to hashing
     # the bytes we just downloaded. Still avoids re-embedding when
@@ -614,7 +624,11 @@ def _write_citation_sources(conn):
     current_ids = set()
     for target_id, group in by_target.items():
         current_ids.add(target_id)
-        title = next((m["target_title"] for m in group if m["target_title"]), group[0]["label"])
+        # A real title read from the cited PDF itself (reference_titles.py), when
+        # one has been looked up; else the title resolved at extraction time.
+        title = reference_titles.title_for(target_id) or next(
+            (m["target_title"] for m in group if m["target_title"]), group[0]["label"]
+        )
         category = next((m["target_category"] for m in group if m["target_category"]), "")
 
         texts = [f"{m['label']} — {m['blurb']}" for m in group]
@@ -785,6 +799,10 @@ def build(force_full=False, force_substr=None):
     mentions_removed = store.prune_citation_mentions(conn, set(discovered_pdfs))
     if mentions_removed:
         print(f"Removed citation mentions from {mentions_removed} PDF(s) no longer present")
+
+    retitled = reference_titles.retitle_junk_pdfs(conn)
+    if retitled:
+        print(f"Repaired {retitled} PDF title(s) from curation/reference_titles.json")
 
     citation_stats, citation_source_ids = _write_citation_sources(conn)
     if citation_stats["sources"]:
