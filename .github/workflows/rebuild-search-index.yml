@@ -18,10 +18,8 @@ on:
     branches: [main]
     paths-ignore:
       - '.github/workflows/rebuild-search-index.yml'
-  schedule:
-    # Daily backstop (9am UTC) in case a push-triggered run missed
-    # something — e.g. content added outside this repo's own commits.
-    - cron: '0 9 * * *'
+  # The daily backstop (9am UTC cron) was removed 2026-10-22: the nightly rebuild
+  # now runs on Ryan's Mac (search-indexer/local_nightly, launchd, 1 am local).
   workflow_dispatch: {}
 
 jobs:
