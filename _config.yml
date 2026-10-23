@@ -18,3 +18,16 @@ plugins:
 
 feed:
   path: blog-feed.xml
+
+# Developer notes that are not site content. GitHub Pages publishes any tracked
+# .md file, even without front matter (README.md becomes /search-indexer/ and
+# TODO.md becomes /search-indexer/TODO.html), and jekyll-sitemap then lists them.
+# The first group repeats Jekyll's usual built-in excludes so adding this key
+# doesn't change them.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - search-indexer/README.md
+  - search-indexer/TODO.md

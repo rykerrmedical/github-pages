@@ -55,6 +55,8 @@ SKIP_PATH_CONTAINS = [
     "/categories/",
     "/page/",  # paginator pages, e.g. /page/2/
     "/search/",
+    "/search-beta/",     # the search page itself
+    "/search-indexer/",  # the indexer README (published by GitHub Pages) -- developer docs, not site content
 ]
 
 # File extensions to skip outright (non-HTML content the crawler can't read
