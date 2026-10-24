@@ -5,324 +5,51 @@ permalink: /search-beta/
 ---
 
 <div class="search-beta">
-  <h1>Search <span class="search-beta-tag">beta</span></h1>
-  <p class="search-beta-note">
-    Beta testing for our new search feature! Give 'er a whirl and let us know what
-    you think. She peruses an index of all the content we've made to find answers
-    to questions or to pull content related to keywords. The system falls back to
-    things we've referenced and a few trusted sources when we don't have anything
-    specific in our content library. That said, she won't spit out a concise answer
-    (i.e., she isn't an AI chat bot), rather she points you to the right place to
-    look. Still a work in progress, but we're getting there!
-  </p>
 
-  <form id="search-form">
-    <div class="search-input-wrap">
-      <input
-        type="text"
-        id="search-input"
-        name="q"
-        placeholder="ask your question here!"
-        autocomplete="off"
-        role="combobox"
-        aria-autocomplete="list"
-        aria-expanded="false"
-        aria-controls="search-suggest"
-      />
-      <ul id="search-suggest" role="listbox" aria-label="Suggested searches" hidden></ul>
-    </div>
-    <button type="submit">Search</button>
-  </form>
+# Search <span class="search-beta-tag">beta</span>
 
-  <label class="search-private">
-    <input type="checkbox" id="search-private" />
-    don't save my searches
-    <span class="search-private-note">
-      (we keep a tally of well-answered, common questions to suggest
-      to other visitors; turn this on and your searches aren't counted and we won't
-      use you type to get suggestions for future searchers)
-    </span>
-  </label>
+<div class="search-beta-note" markdown="1">
+Beta testing for our new search feature! Give 'er a whirl and let us know what you think. She peruses an index of all the content we've made to pull content related to keywords. The system falls back to things we've referenced and a few trusted sources when we don't have anything specific in our content library. That said, she won't spit out a concise answer (i.e., she isn't an AI chat bot), rather she points you to the right place to look.
 
-  <div id="search-status" role="status"></div>
-  <div id="search-results"></div>
+Pro tip: avoid terms like "site" or "guide" or "management" - they can obscure the search.
+
+Still a work in progress, but we're getting there!
 </div>
 
-<style>
-  .search-beta {
-    max-width: 720px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-  }
+<div markdown="0">
+<form id="search-form">
+  <div class="search-input-wrap">
+    <input
+      type="text"
+      id="search-input"
+      name="q"
+      placeholder="ask your question here!"
+      autocomplete="off"
+      role="combobox"
+      aria-autocomplete="list"
+      aria-expanded="false"
+      aria-controls="search-suggest"
+    />
+    <ul id="search-suggest" role="listbox" aria-label="Suggested searches" hidden></ul>
+  </div>
+  <button type="submit">Search</button>
+</form>
 
-  .search-beta h1 {
-    display: flex;
-    align-items: center;
-    gap: 0.6rem;
-  }
+<label class="search-private">
+  <input type="checkbox" id="search-private" />
+  don't save my searches
+  <span class="search-private-note">
+    (we keep a tally of well-answered, common questions to suggest
+    to other visitors; turn this on and your searches aren't counted and we won't
+    use you type to get suggestions for future searchers)
+  </span>
+</label>
 
-  .search-beta-tag {
-    font-size: 0.55em;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    background-color: #a31232;
-    color: #f2f2f2;
-    padding: 0.15em 0.6em;
-    border-radius: 999px;
-    vertical-align: middle;
-  }
+<div id="search-status" role="status"></div>
+<div id="search-results"></div>
+</div>
 
-  .search-beta-note {
-    color: #b8b8b8;
-    margin-bottom: 1.5rem;
-  }
-
-  #search-form {
-    display: flex;
-    gap: 0.6rem;
-    margin-bottom: 1rem;
-  }
-
-  .search-input-wrap {
-    position: relative;
-    flex: 1;
-    display: flex;
-  }
-
-  #search-suggest {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    z-index: 20;
-    margin: 4px 0 0;
-    padding: 0.25rem 0;
-    list-style: none;
-    background-color: #1a1a1a;
-    border: 1px solid #3a3a3a;
-    border-radius: 6px;
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
-  }
-
-  #search-suggest[hidden] {
-    display: none;
-  }
-
-  #search-suggest li {
-    padding: 0.55rem 1rem;
-    cursor: pointer;
-    color: #f2f2f2;
-    border-left: 3px solid transparent;
-  }
-
-  #search-suggest li:hover,
-  #search-suggest li[aria-selected="true"] {
-    background-color: #262626;
-    border-left-color: #a31232;
-  }
-
-  .search-private {
-    display: block;
-    margin: -0.4rem 0 1rem;
-    color: #b8b8b8;
-    font-size: 0.9rem;
-    cursor: pointer;
-  }
-
-  .search-private input {
-    margin-right: 0.4rem;
-  }
-
-  .search-private-note {
-    display: block;
-    margin: 0.2rem 0 0 1.4rem;
-    font-size: 0.8rem;
-    color: #8f8f8f;
-  }
-
-  #search-input {
-    flex: 1;
-    padding: 0.75rem 1rem;
-    font-size: 1rem;
-    border: 1px solid #3a3a3a;
-    border-radius: 6px;
-    background-color: #1a1a1a;
-    color: #f2f2f2;
-  }
-
-  #search-input:focus {
-    outline: none;
-    border-color: #a31232;
-  }
-
-  #search-form button {
-    padding: 0.75rem 1.5rem;
-    font-size: 1rem;
-    border: none;
-    border-radius: 6px;
-    background-color: #a31232;
-    color: #f2f2f2;
-    cursor: pointer;
-  }
-
-  #search-form button:hover {
-    background-color: #741021;
-  }
-
-  #search-status {
-    min-height: 1.5rem;
-    color: #b8b8b8;
-    margin-bottom: 1rem;
-  }
-
-  #search-status.search-status-error {
-    color: #e0a0a0;
-  }
-
-  .search-answer {
-    background-color: #1a1a1a;
-    border-left: 3px solid #a31232;
-    padding: 1rem 1.2rem;
-    border-radius: 4px;
-    margin-bottom: 1.2rem;
-    line-height: 1.6;
-  }
-
-  /* A plain container, not a link — the clickable primary content
-     lives in .search-result-main below it. Nesting an <a> for each
-     "see also" item inside the whole-card link used to be invalid
-     HTML (a link inside a link), which browsers handle inconsistently
-     — this keeps every link a sibling instead. */
-  .search-result-card {
-    background-color: #1a1a1a;
-    border: 1px solid #2a2a2a;
-    border-radius: 8px;
-    padding: 1rem 1.2rem;
-    margin-bottom: 0.9rem;
-    transition: border-color 0.15s ease;
-  }
-
-  .search-result-card:hover {
-    border-color: #a31232;
-  }
-
-  .search-result-main {
-    display: block;
-    text-decoration: none;
-    color: inherit;
-  }
-
-  /* Title leads every card — the thing you'd actually scan for —
-     followed by its section/chapter when the chunk has one distinct
-     from its locator (see server's SourceOut.section). */
-  .search-result-title {
-    font-size: 1.05rem;
-    font-weight: bold;
-    color: #f2f2f2;
-    margin-bottom: 0.1rem;
-  }
-
-  /* On its own line below the title now, not glued on with a dash --
-     a heading that already has its own internal "chapter — section"
-     dash was doubling up into a visually noisy run of dashes. */
-  .search-result-section {
-    display: block;
-    font-size: 0.85rem;
-    font-weight: normal;
-    color: #d8d8d8;
-    margin-bottom: 0.3rem;
-  }
-
-  /* Type + locator are secondary metadata, below the title — small caps
-     like the old top-of-card label used to be, just repositioned. */
-  .search-result-type {
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: #a31232;
-  }
-
-  .search-result-locator {
-    font-size: 0.8rem;
-    color: #8a8a8a;
-    margin-bottom: 0.5rem;
-  }
-
-  .search-result-snippet {
-    font-size: 0.9rem;
-    color: #c4c4c4;
-    line-height: 1.5;
-  }
-
-  /* "See also" — other good-matching sections of the SAME source,
-     folded into this card instead of eating their own result slots
-     (see server's retrieval._group_by_source). Deliberately plain
-     links, no snippet text — this is a pointer list, not more cards. */
-  .search-result-related {
-    margin-top: 0.75rem;
-    padding-top: 0.6rem;
-    border-top: 1px solid #2a2a2a;
-  }
-
-  .search-result-related-label {
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: #8a8a8a;
-    margin-bottom: 0.3rem;
-  }
-
-  .search-result-related ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  .search-result-related li {
-    margin: 0.2rem 0;
-  }
-
-  .search-result-related a {
-    font-size: 0.85rem;
-    color: #c4c4c4;
-    text-decoration: none;
-  }
-
-  .search-result-related a:hover {
-    color: #f2f2f2;
-    text-decoration: underline;
-  }
-
-  /* A direct link to the raw media file (archive.org mp3, etc.) when
-     the card's main link now points somewhere else instead -- the
-     real page the recording lives on/is embedded in (server's
-     alt_link, see retrieval.py's _redirect_podcast_to_site_page and
-     the audio-script links_to case). Sibling of .search-result-main,
-     same reasoning as .search-result-related: no nested <a> inside
-     the whole-card link. */
-  .search-result-altlink {
-    display: inline-block;
-    margin-top: 0.5rem;
-    font-size: 0.8rem;
-    color: #8a8a8a;
-    text-decoration: none;
-  }
-
-  .search-result-altlink:hover {
-    color: #f2f2f2;
-    text-decoration: underline;
-  }
-
-  body.high-contrast .search-result-card {
-    background-color: #000;
-    border-color: #fff;
-  }
-
-  body.high-contrast #search-input {
-    background-color: #000;
-    border-color: #fff;
-  }
-</style>
+</div>
 
 <script>
 (function () {
