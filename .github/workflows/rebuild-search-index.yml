@@ -14,10 +14,9 @@
 name: Rebuild search index
 
 on:
-  push:
-    branches: [main]
-    paths-ignore:
-      - '.github/workflows/rebuild-search-index.yml'
+  # The push trigger was removed 2026-10-23: Ryan's Mac (search-indexer/local_nightly,
+  # launchd, 1 am local) is now the only thing that uploads the index. Run this
+  # workflow by hand (Actions tab -> Run workflow) only if you really want a CI build.
   # The daily backstop (9am UTC cron) was removed 2026-10-22: the nightly rebuild
   # now runs on Ryan's Mac (search-indexer/local_nightly, launchd, 1 am local).
   workflow_dispatch: {}
