@@ -44,8 +44,6 @@ Still a work in progress, but we're getting there!
 <div id="search-results"></div>
 </div>
 
-</div>
-
 <script>
 (function () {
   var API_URL = "https://search.rykerrmedical.com/api/search";
