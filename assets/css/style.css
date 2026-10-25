@@ -761,277 +761,266 @@ body.high-contrast .nav-links .submenu a:hover {
   border: none;
 }
 
-/* ---- Search page (/search-beta/) -- moved here from the page itself, 2026-10-23 ---- */
-  .search-beta {
-    max-width: 720px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-  }
+/* ---- Search page (/search/) ----
+   Only names this page uses (#search-*, .search-*). Nothing here restyles a site element
+   (h1, p, a, label, form button): the page's headings, text and Search button come from the rules
+   above, so they follow the site in both themes. Dark is the default; the "toggle contrast" button
+   puts body.high-contrast on <body> (light page, black text), which swaps the tokens below.
 
-  .search-beta h1 {
-    display: flex;
-    align-items: center;
-    gap: 0.6rem;
-  }
+   Boxes (cards, input, answer, suggestions) are dark in both themes; high contrast makes them pure
+   black with a white edge. Anything that sits directly on the page (label, status line) takes the
+   page's own text colour instead of a fixed grey, so it stays readable on the light page. */
+body {
+  --search-surface: #1a1a1a;
+  --search-edge: #3a3a3a;
+  --search-card-edge: #2a2a2a;
+  --search-text: #f2f2f2;
+  --search-text-2: #d8d8d8;
+  --search-text-3: #c4c4c4;
+  --search-text-4: #8a8a8a;
+  --search-accent: #a31232;
+  --search-type: #a31232;
+  --search-hover-surface: #262626;
+  --search-error: #e0a0a0;
+}
 
-  .search-beta-tag {
-    font-size: 0.55em;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    background-color: #a31232;
-    color: #f2f2f2;
-    padding: 0.15em 0.6em;
-    border-radius: 999px;
-    vertical-align: middle;
-  }
+body.high-contrast {
+  --search-surface: #000;
+  --search-edge: #fff;
+  --search-card-edge: #fff;
+  --search-text-4: #a8a8a8;
+  --search-type: #d8d8d8;      /* the maroon label is too dim on black */
+  --search-hover-surface: #262626;
+  --search-error: #9b0020;     /* sits on the light page, not on a box */
+}
 
-  .search-beta-note {
-    color: #b8b8b8;
-    margin-bottom: 1.5rem;
-  }
+#search-form {
+  display: flex;
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+}
 
-  #search-form {
-    display: flex;
-    gap: 0.6rem;
-    margin-bottom: 1rem;
-  }
+.search-input-wrap {
+  position: relative;
+  flex: 1;
+  display: flex;
+}
 
-  .search-input-wrap {
-    position: relative;
-    flex: 1;
-    display: flex;
-  }
+#search-input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 1px solid var(--search-edge);
+  border-radius: 6px;
+  background-color: var(--search-surface);
+  color: var(--search-text);
+}
 
-  #search-suggest {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    z-index: 20;
-    margin: 4px 0 0;
-    padding: 0.25rem 0;
-    list-style: none;
-    background-color: #1a1a1a;
-    border: 1px solid #3a3a3a;
-    border-radius: 6px;
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
-  }
+#search-input:focus {
+  outline: none;
+  border-color: var(--search-accent);
+}
 
-  #search-suggest[hidden] {
-    display: none;
-  }
+body.high-contrast #search-input:focus {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
 
-  #search-suggest li {
-    padding: 0.55rem 1rem;
-    cursor: pointer;
-    color: #f2f2f2;
-    border-left: 3px solid transparent;
-  }
+#search-suggest {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  margin: 4px 0 0;
+  padding: 0.25rem 0;
+  list-style: none;
+  background-color: var(--search-surface);
+  border: 1px solid var(--search-edge);
+  border-radius: 6px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
+}
 
-  #search-suggest li:hover,
-  #search-suggest li[aria-selected="true"] {
-    background-color: #262626;
-    border-left-color: #a31232;
-  }
+#search-suggest[hidden] {
+  display: none;
+}
 
-  .search-private {
-    display: block;
-    margin: -0.4rem 0 1rem;
-    color: #b8b8b8;
-    font-size: 0.9rem;
-    cursor: pointer;
-  }
+#search-suggest li {
+  padding: 0.55rem 1rem;
+  cursor: pointer;
+  color: var(--search-text);
+  border-left: 3px solid transparent;
+}
 
-  .search-private input {
-    margin-right: 0.4rem;
-  }
+#search-suggest li:hover,
+#search-suggest li[aria-selected="true"] {
+  background-color: var(--search-hover-surface);
+  border-left-color: var(--search-accent);
+}
 
-  .search-private-note {
-    display: block;
-    margin: 0.2rem 0 0 1.4rem;
-    font-size: 0.8rem;
-    color: #8f8f8f;
-  }
+/* The "don't save my searches" checkbox. Colour is inherited from the page, so it is light text on
+   the dark page and black text on the light page. */
+.search-private {
+  display: block;
+  margin: -0.4rem 0 1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
 
-  #search-input {
-    flex: 1;
-    padding: 0.75rem 1rem;
-    font-size: 1rem;
-    border: 1px solid #3a3a3a;
-    border-radius: 6px;
-    background-color: #1a1a1a;
-    color: #f2f2f2;
-  }
+.search-private input {
+  margin-right: 0.4rem;
+}
 
-  #search-input:focus {
-    outline: none;
-    border-color: #a31232;
-  }
+.search-private-note {
+  display: block;
+  margin: 0.2rem 0 0 1.4rem;
+  font-size: 0.8rem;
+  font-weight: normal;
+  opacity: 0.8;
+}
 
-  #search-form button {
-    padding: 0.75rem 1.5rem;
-    font-size: 1rem;
-    border: none;
-    border-radius: 6px;
-    background-color: #a31232;
-    color: #f2f2f2;
-    cursor: pointer;
-  }
+#search-status {
+  min-height: 1.5rem;
+  margin-bottom: 1rem;
+}
 
-  #search-form button:hover {
-    background-color: #741021;
-  }
+#search-status.search-status-error {
+  color: var(--search-error);
+}
 
-  #search-status {
-    min-height: 1.5rem;
-    color: #b8b8b8;
-    margin-bottom: 1rem;
-  }
+.search-answer {
+  background-color: var(--search-surface);
+  color: var(--search-text);
+  border-left: 3px solid var(--search-accent);
+  padding: 1rem 1.2rem;
+  border-radius: 4px;
+  margin-bottom: 1.2rem;
+  line-height: 1.6;
+}
 
-  #search-status.search-status-error {
-    color: #e0a0a0;
-  }
+/* A plain container, not a link: the clickable primary content lives in .search-result-main below
+   it. Nesting an <a> for each "see also" item inside the whole-card link would be invalid HTML
+   (a link inside a link), so every link is a sibling instead. */
+.search-result-card {
+  background-color: var(--search-surface);
+  border: 1px solid var(--search-card-edge);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 0.9rem;
+  transition: border-color 0.15s ease;
+}
 
-  .search-answer {
-    background-color: #1a1a1a;
-    border-left: 3px solid #a31232;
-    padding: 1rem 1.2rem;
-    border-radius: 4px;
-    margin-bottom: 1.2rem;
-    line-height: 1.6;
-  }
+.search-result-card:hover {
+  border-color: var(--search-accent);
+}
 
-  /* A plain container, not a link — the clickable primary content
-     lives in .search-result-main below it. Nesting an <a> for each
-     "see also" item inside the whole-card link used to be invalid
-     HTML (a link inside a link), which browsers handle inconsistently
-     — this keeps every link a sibling instead. */
-  .search-result-card {
-    background-color: #1a1a1a;
-    border: 1px solid #2a2a2a;
-    border-radius: 8px;
-    padding: 1rem 1.2rem;
-    margin-bottom: 0.9rem;
-    transition: border-color 0.15s ease;
-  }
+.search-result-main {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
 
-  .search-result-card:hover {
-    border-color: #a31232;
-  }
+/* Title leads every card, followed by its section/chapter on its own line. */
+.search-result-title {
+  font-size: 1.05rem;
+  font-weight: bold;
+  color: var(--search-text);
+  margin-bottom: 0.1rem;
+}
 
-  .search-result-main {
-    display: block;
-    text-decoration: none;
-    color: inherit;
-  }
+.search-result-section {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: normal;
+  color: var(--search-text-2);
+  margin-bottom: 0.3rem;
+}
 
-  /* Title leads every card — the thing you'd actually scan for —
-     followed by its section/chapter when the chunk has one distinct
-     from its locator (see server's SourceOut.section). */
-  .search-result-title {
-    font-size: 1.05rem;
-    font-weight: bold;
-    color: #f2f2f2;
-    margin-bottom: 0.1rem;
-  }
+/* Type + locator are secondary metadata below the title. */
+.search-result-type {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--search-type);
+}
 
-  /* On its own line below the title now, not glued on with a dash --
-     a heading that already has its own internal "chapter — section"
-     dash was doubling up into a visually noisy run of dashes. */
-  .search-result-section {
-    display: block;
-    font-size: 0.85rem;
-    font-weight: normal;
-    color: #d8d8d8;
-    margin-bottom: 0.3rem;
-  }
+.search-result-locator {
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: var(--search-text-4);
+  margin-bottom: 0.5rem;
+}
 
-  /* Type + locator are secondary metadata, below the title — small caps
-     like the old top-of-card label used to be, just repositioned. */
-  .search-result-type {
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: #a31232;
-  }
+.search-result-snippet {
+  font-size: 0.9rem;
+  font-weight: normal;
+  color: var(--search-text-3);
+  line-height: 1.5;
+}
 
-  .search-result-locator {
-    font-size: 0.8rem;
-    color: #8a8a8a;
-    margin-bottom: 0.5rem;
-  }
+/* "See also": other good-matching sections of the SAME source, folded into this card instead of
+   taking their own result slots. Plain links, no snippet text. */
+.search-result-related {
+  margin-top: 0.75rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--search-card-edge);
+}
 
-  .search-result-snippet {
-    font-size: 0.9rem;
-    color: #c4c4c4;
-    line-height: 1.5;
-  }
+.search-result-related-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--search-text-4);
+  margin-bottom: 0.3rem;
+}
 
-  /* "See also" — other good-matching sections of the SAME source,
-     folded into this card instead of eating their own result slots
-     (see server's retrieval._group_by_source). Deliberately plain
-     links, no snippet text — this is a pointer list, not more cards. */
-  .search-result-related {
-    margin-top: 0.75rem;
-    padding-top: 0.6rem;
-    border-top: 1px solid #2a2a2a;
-  }
+.search-result-related ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 
-  .search-result-related-label {
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    color: #8a8a8a;
-    margin-bottom: 0.3rem;
-  }
+.search-result-related li {
+  margin: 0.2rem 0;
+}
 
-  .search-result-related ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
+.search-result-related a {
+  font-size: 0.85rem;
+  color: var(--search-text-3);
+  text-decoration: none;
+}
 
-  .search-result-related li {
-    margin: 0.2rem 0;
-  }
+.search-result-related a:hover {
+  color: var(--search-text);
+  text-decoration: underline;
+}
 
-  .search-result-related a {
-    font-size: 0.85rem;
-    color: #c4c4c4;
-    text-decoration: none;
-  }
+/* Direct link to the raw media file (archive.org mp3, etc.) when the card's main link points to the
+   page the recording lives on. A sibling of .search-result-main for the same reason as above. */
+.search-result-altlink {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--search-text-4);
+  text-decoration: none;
+}
 
-  .search-result-related a:hover {
-    color: #f2f2f2;
-    text-decoration: underline;
-  }
+.search-result-altlink:hover {
+  color: var(--search-text);
+  text-decoration: underline;
+}
 
-  /* A direct link to the raw media file (archive.org mp3, etc.) when
-     the card's main link now points somewhere else instead -- the
-     real page the recording lives on/is embedded in (server's
-     alt_link, see retrieval.py's _redirect_podcast_to_site_page and
-     the audio-script links_to case). Sibling of .search-result-main,
-     same reasoning as .search-result-related: no nested <a> inside
-     the whole-card link. */
-  .search-result-altlink {
-    display: inline-block;
-    margin-top: 0.5rem;
-    font-size: 0.8rem;
-    color: #8a8a8a;
-    text-decoration: none;
-  }
+/* The site's high-contrast rule "body.high-contrast a" forces black, bold, underlined links with
+   !important, which would turn the card links black on a black card. Inside a card the links go
+   back to the card's own light text, and the card itself is not underlined. */
+body.high-contrast .search-result-card a {
+  color: var(--search-text-3) !important;
+}
 
-  .search-result-altlink:hover {
-    color: #f2f2f2;
-    text-decoration: underline;
-  }
+body.high-contrast .search-result-card a:hover {
+  color: var(--search-text) !important;
+}
 
-  body.high-contrast .search-result-card {
-    background-color: #000;
-    border-color: #fff;
-  }
-
-  body.high-contrast #search-input {
-    background-color: #000;
-    border-color: #fff;
-  }
+body.high-contrast .search-result-main {
+  text-decoration: none;
+}
