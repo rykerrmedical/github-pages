@@ -767,9 +767,10 @@ body.high-contrast .nav-links .submenu a:hover {
    above, so they follow the site in both themes. Dark is the default; the "toggle contrast" button
    puts body.high-contrast on <body> (light page, black text), which swaps the tokens below.
 
-   Boxes (cards, input, answer, suggestions) are dark in both themes; high contrast makes them pure
-   black with a white edge. Anything that sits directly on the page (label, status line) takes the
-   page's own text colour instead of a fixed grey, so it stays readable on the light page. */
+   Normal theme: dark boxes (cards, input, answer, suggestions). High contrast: the boxes become
+   light, like the podcast episode cards (#f9f9f9, soft black shadow, dark text), so nothing on this
+   page is a black slab on the light page. Anything that sits directly on the page (label, status
+   line) takes the page's own text colour instead of a fixed grey. */
 body {
   --search-surface: #1a1a1a;
   --search-edge: #3a3a3a;
@@ -785,13 +786,17 @@ body {
 }
 
 body.high-contrast {
-  --search-surface: #000;
-  --search-edge: #fff;
-  --search-card-edge: #fff;
-  --search-text-4: #a8a8a8;
-  --search-type: #d8d8d8;      /* the maroon label is too dim on black */
-  --search-hover-surface: #262626;
-  --search-error: #9b0020;     /* sits on the light page, not on a box */
+  --search-surface: #f9f9f9;   /* same as the podcast cards in high contrast */
+  --search-edge: #060608;
+  --search-card-edge: #ccc;    /* the podcast cards' border */
+  --search-text: #060608;
+  --search-text-2: #333;
+  --search-text-3: #222;
+  --search-text-4: #555;
+  --search-accent: #060608;
+  --search-type: #333;
+  --search-hover-surface: #e6e6e6;
+  --search-error: #9b0020;
 }
 
 #search-form {
@@ -822,8 +827,12 @@ body.high-contrast {
 }
 
 body.high-contrast #search-input:focus {
-  outline: 2px solid #fff;
+  outline: 2px solid #060608;
   outline-offset: 2px;
+}
+
+body.high-contrast #search-suggest {
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
 }
 
 #search-suggest {
@@ -1010,15 +1019,16 @@ body.high-contrast #search-input:focus {
   text-decoration: underline;
 }
 
-/* The site's high-contrast rule "body.high-contrast a" forces black, bold, underlined links with
-   !important, which would turn the card links black on a black card. Inside a card the links go
-   back to the card's own light text, and the card itself is not underlined. */
-body.high-contrast .search-result-card a {
-  color: var(--search-text-3) !important;
+/* High contrast: the same look as the podcast episode cards (light card, soft black shadow, title in
+   the site's heading font). Links inside the card follow the site's own high-contrast link rule
+   (black, bold, underlined); the card's main link wraps the whole card, so it is not underlined. */
+body.high-contrast .search-result-card {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-body.high-contrast .search-result-card a:hover {
-  color: var(--search-text) !important;
+body.high-contrast .search-result-title {
+  font-family: 'Black Ground', sans-serif;
+  font-size: 1.2rem;
 }
 
 body.high-contrast .search-result-main {
