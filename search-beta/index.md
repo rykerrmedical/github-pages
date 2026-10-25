@@ -1,7 +1,7 @@
 ---
-title: Search (Beta)
+title: Search
 layout: default
-permalink: /search-beta/
+permalink: /search/
 ---
 
 <div class="search-beta">
@@ -39,9 +39,8 @@ Still a work in progress, but we're getting there!
   <input type="checkbox" id="search-private" />
   don't save my searches
   <span class="search-private-note">
-    (we keep a tally of well-answered, common questions to suggest
-    to other visitors; turn this on and your searches aren't counted and we won't
-    use you type to get suggestions for future searchers)
+  (we keep a tally of well-answered, common questions to suggest
+  to other visitors; toggle this on and your searches will be omitted)
   </span>
 </label>
 
