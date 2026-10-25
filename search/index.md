@@ -4,17 +4,13 @@ layout: default
 permalink: /search/
 ---
 
-<div class="search-beta">
+<h1>Search</h1>
 
-# Search <span class="search-beta-tag">beta</span>
-
-<div class="search-beta-note" markdown="1">
 Beta testing for our new search feature! Give 'er a whirl and let us know what you think. She peruses an index of all the content we've made to pull content related to keywords. The system falls back to things we've referenced and a few trusted sources when we don't have anything specific in our content library. That said, she won't spit out a concise answer (i.e., she isn't an AI chat bot), rather she points you to the right place to look.
 
 Pro tip: avoid terms like "site" or "guide" or "management" - they can obscure the search.
 
 Still a work in progress, but we're getting there!
-</div>
 
 <div markdown="0">
 <form id="search-form">
