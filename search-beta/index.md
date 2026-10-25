@@ -206,6 +206,12 @@ Still a work in progress, but we're getting there!
     if (source.source_type === 'youtube_transcript') {
       return 'YouTube video';
     }
+    // Blog posts live at /YYYY/MM/DD/slug.html on the site.
+    if (source.source_type === 'webpage' && source.locator_url) {
+      try {
+        if (/^\/\d{4}\/\d{2}\/\d{2}\//.test(new URL(source.locator_url).pathname)) return 'Blog post';
+      } catch (e) {}
+    }
     return 'Website page';
   }
 
