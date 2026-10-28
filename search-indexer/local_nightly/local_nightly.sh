@@ -17,7 +17,7 @@
 # Real run now:  bash local_nightly/local_nightly.sh --now
 # Log:           ~/Library/Logs/rykerr-search-nightly.log
 
-START_HOUR=1          # scheduled hour (must match the plist), 24 h clock
+START_HOUR=0          # scheduled hour (must match the plist), 24 h clock. 2026-10-26: set to 0 because the loaded launchd job fires at 00:00 (the repo plist says 1); see decision log
 WINDOW_MIN=30         # how late a start may be and still count as "on time"
 VPS="root@96.30.197.162"
 REMOTE_DB="/opt/rykerr-search/rykerr_index.db"

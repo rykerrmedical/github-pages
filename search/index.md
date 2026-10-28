@@ -35,8 +35,7 @@ Still a work in progress, but we're getting there!
   <input type="checkbox" id="search-private" />
   don't save my searches
   <span class="search-private-note">
-  (we keep a tally of well-answered, common questions to suggest
-  to other visitors; toggle this on and your searches will be omitted)
+  (we keep a tally of phrases searched, but no IP info or detailed time stamps; this allows us to suggest well-performing searches to other visitors & see what the community is interested in; also lets us know where gaps exist in our content; toggle this on and your searches will be omitted)
   </span>
 </label>
 
