@@ -15,6 +15,8 @@ We’ll frame it all like this:
 - potential solutions based on setting
 - unanswered questions on the idea
 
+<br>
+
 ### Issues with Medication Delivery in the Cold
 
 Medication delivery in cold environments can be broadly broken down into two distinct categories/ challenges: stability of the medications & pharmacokinetics in the cold patient.
@@ -35,6 +37,8 @@ Specific to the outdoor setting and cold-weather utilization of parenteral (i.e.
 
 And fleshed out a bit more in [this paper on analgesia specifically](https://references.rykerrmedical.com/Ellerton2013_Analgesics_Mtn_Med.html), also in reference to mountain rescue.
 
+<br>
+
 ### Potential Solutions Based on Setting
 
 Given these two broad issues or challenges, mitigation would look like this:
@@ -42,7 +46,9 @@ Given these two broad issues or challenges, mitigation would look like this:
 - keep the meds warm
 - keep the patient warm
 
-##### Keep the Meds Warm
+<br>
+
+#### Keep the Meds Warm
 
 This basic idea varies a lot based on what sort of setting we are working in.  We’ll just outline a few considerations for keeping meds warm in each of the following settings:
 
@@ -80,7 +86,9 @@ And then a few tangential points on all of this:
     - [Something like this](https://references.rykerrmedical.com/DATAQ_UTRED30-WIFI_Kit.html)
     - [Maybe something like this also](https://references.rykerrmedical.com/DuraPro_DLSA11_Data_Logger.html), but unclear how these devices would hold up
 
-##### Keep the Patient Warm
+<br>
+
+#### Keep the Patient Warm
 
 There is tons of content out there on how to keep patients warm, so rather than review them all here, we’ll just share some links for further reading:
 
@@ -102,15 +110,21 @@ Photo of both ReadyHeat Vest and AirBase to see how they pack down:
 
 <img src="https://raw.githubusercontent.com/rykerrmedical/website-files/main/images/blog/2026-11-01-med-management-in-the-cold/Heated_Vest_and_AirBase.jpg" alt="Heated_Vest_and_AirBase"/>
 
+<br>
+
 ### Unanswered Questions on the Idea
 
 We’ll wrap this up with a simple list of things we’ve been thinking on in terms of medication utilization and administration in the cold:
 
-***Does it make sense to preferentially choose enteral/ PO/ oral/ meds to simply dodge the hassle of keeping meds warm?***
+<br>
+
+####Does it make sense to preferentially choose enteral/ PO/ oral/ meds to simply dodge the hassle of keeping meds warm?
 
 Probably depends mostly on one’s setting/ mission profile.  For recreational stuff, sure.  For high risk things where trauma is a possibility, probably makes sense to have a keep-the-meds-warm plan.  In the middle area between those extremes it probably depends a lot on timeline.  Giving IV/ IM analgesia or dexamethasone (for altitude stuff) maybe makes sense when a patient will be evacuated quickly; PO options are probably fine if the operation is a multi-day affair.  But also some meds need to be given parenterally - IM epi in anaphylaxis, for example.  Although, to be fair, this is less likely to occur in cold settings unless in response to antibiotics/ things that we are doing as providers.  That said, cold-induced anaphylaxis is a thing to be aware of: [Bizjak & friends, 2025 discuss this idea](https://references.rykerrmedical.com/Bizjak2025_Cold-Induced_Anaphylaxis.html).  This sort of thing is for sure up for discussion, as there are lots of considerations to be had.
 
-***Is there any utility in using reconstituted parenteral med preparation?***  
+<br>
+
+####Is there any utility in using reconstituted parenteral med preparation? 
 
 Once upon a time we stumbled across a reconstituted preparation of TXA available from some med supply company overseas.  Turns out a lot of the meds that are typically only available as liquid can be purchased in powdered form for reconstitution with sterile water or saline before use.  The thought process at the time was like so: maybe these powders are more stable (i.e., they won’t freeze), so how about a med kit of just reconstituted meds - all we’d have to do is keep a handful of sterile water/ saline vials warm, would be easy with a small pouch against the body for warmth.  
 
@@ -118,7 +132,9 @@ This idea holds relevance [now that freeze-dried plasma is FDA approved here in 
 
 Downsides: not routinely available for many meds, takes time to reconstitute, likely more difficult to reconstitute a cold powder (ever tried shaking a protein drink with mega cold water?), etc.  Probably not realistic, but a potential solution for some things - maybe just those meds that don’t fare so well in the cold?  Interested to hear what folks have to say on that one.
 
-***How best to utilize meds that have been exposed to extreme cold for prolonged periods of time?***
+<br>
+
+####How best to utilize meds that have been exposed to extreme cold for prolonged periods of time?
 
 Let’s say we had a plan in place to keep meds warm, but there was a glitch in the process.  Maybe high winds took out the solar panels or a pack was left out overnight.  Ideally these things wouldn’t happen, but they will eventually….  Assuming the meds are simply less effective if they are still in usable shape, can we simply titrate to effect?  Probably OK to do for warm patients.  In the cold or hypothermic patient, however, it could be the absorption or distribution of the med that is the problem, so giving more could be problematic.  Not really sure on this one, but the best plan would be to try and avoid this sort of thing in the first place with proper planning and contingencies.
 
