@@ -138,4 +138,6 @@ Downsides: not routinely available for many meds, takes time to reconstitute, li
 
 Let’s say we had a plan in place to keep meds warm, but there was a glitch in the process.  Maybe high winds took out the solar panels or a pack was left out overnight.  Ideally these things wouldn’t happen, but they will eventually….  Assuming the meds are simply less effective if they are still in usable shape, can we simply titrate to effect?  Probably OK to do for warm patients.  In the cold or hypothermic patient, however, it could be the absorption or distribution of the med that is the problem, so giving more could be problematic.  Not really sure on this one, but the best plan would be to try and avoid this sort of thing in the first place with proper planning and contingencies.
 
+<br>
+
 That’s all we’ve got on the idea.  As always, let us know what you think!
