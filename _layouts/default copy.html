@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <!-- Link to your stylesheet -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  {% include head-custom.html %}
+</head>
+
+<body>
+  <button id="contrast-toggle" aria-label="Toggle High Contrast Mode">
+    toggle contrast
+  </button>
+  
+  <button id="scroll-top" aria-label="Go to Top">
+    back to top
+  </button>
+  
+  <nav id="site-nav">
+    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">☰</button>
+    <div class="nav-links" id="nav-links">
+      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/clinical-resources/" class="submenu-toggle">Clinical</a>
+      <div class="submenu">
+          <a href="{{ site.baseurl }}/clinical-resources/">Overview</a>
+          <a href="{{ site.baseurl }}/clinical-resources/airway-stuff">Airway</a>
+          <a href="{{ site.baseurl }}/vent-management/">Vents</a>
+          <a href="{{ site.baseurl }}/clinical-resources/protocols-and-cheat-sheets/">Cheat Sheets</a>
+          <a href="{{ site.baseurl }}/clinical-resources/medication-guidelines/">Med Guides</a>
+          <a href="{{ site.baseurl }}/austere-medicine/">Austere Med</a>
+          <a href="{{ site.baseurl }}/coned-ceus/">ConEd/ CEUs</a>
+      </div>
+      <a href="{{ site.baseurl }}/blog/">Blog</a>
+      <a href="{{ site.baseurl }}/podcast/">Podcast</a>
+      <a href="#" class="submenu-toggle">Other Stuff</a>
+      <div class="submenu">
+          <a href="{{ site.baseurl }}/the-tech-side/">Tech Side</a>
+          <a href="{{ site.baseurl }}/support/">Support Us</a>
+          <a href="{{ site.baseurl }}/talk-to-us/">Talk to Us</a>
+      </div>
+      <a href="{{ site.baseurl }}/search/">Search</a>
+      <a href="#" id="close-menu">(Close Menu)</a>
+    </div>
+  </nav>
+
+  
+  <main class="homepage">
+    {{ content }}
+  </main>
+
+  <script>
+    const nav = document.getElementById('site-nav');
+    const toggle = document.getElementById('nav-toggle');
+    const closeMenu = document.getElementById('close-menu');
+
+    toggle.addEventListener('click', () => {
+      nav.classList.add('open');
+    });
+
+    closeMenu.addEventListener('click', (e) => {
+      e.preventDefault();
+      nav.classList.remove('open');
+    });
+  </script>
+
+  <script>
+    document.querySelectorAll('a[href^="http"]').forEach(link => {
+      if (!link.href.includes(location.hostname)) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  </script>
+
+  {% include footer.html %}
+  
+  <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const contrastBtn = document.getElementById("contrast-toggle");
+        const scrollTopBtn = document.getElementById("scroll-top");
+
+        if (!contrastBtn || !scrollTopBtn) return;
+
+        // Show/hide buttons on scroll
+        window.addEventListener("scroll", () => {
+          if (window.scrollY > 200) { // fade in after 200px
+            contrastBtn.classList.add("show");
+            scrollTopBtn.classList.add("show");
+          } else {
+            contrastBtn.classList.remove("show");
+            scrollTopBtn.classList.remove("show");
+          }
+        });
+
+        // Contrast toggle functionality
+        if (localStorage.getItem("highContrast") === "true") {
+          document.body.classList.add("high-contrast");
+        }
+        contrastBtn.addEventListener("click", function () {
+          document.body.classList.toggle("high-contrast");
+          const isHighContrast = document.body.classList.contains("high-contrast");
+          localStorage.setItem("highContrast", isHighContrast);
+        });
+
+        // Scroll to top
+        scrollTopBtn.addEventListener("click", function () {
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+      });
+  </script>
+  
+  <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        if (typeof SimpleLightbox !== 'undefined') {
+          const lightbox = new SimpleLightbox('.gallery a', {
+            captions: true,
+            captionSelector: 'img',
+            captionsData: 'alt',
+            captionDelay: 250
+          });
+        }
+      });
+  </script>
+
+  <script>
+  document.querySelectorAll('.submenu-toggle').forEach(toggle => {
+    toggle.addEventListener('click', e => {
+      e.preventDefault();
+      const submenu = toggle.nextElementSibling;
+      
+      // Close other submenus
+      document.querySelectorAll('.nav-links .submenu').forEach(sm => {
+        if (sm !== submenu) sm.classList.remove('open');
+      });
+
+      // Toggle clicked submenu
+      submenu.classList.toggle('open');
+    });
+  });
+  </script>
+  
+</body>
+</html>
